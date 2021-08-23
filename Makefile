@@ -1,8 +1,21 @@
 # ----------------------------------
 #          INSTALL & TEST
 # ----------------------------------
+create_env:
+### Virtualenv creation
+# Switch from 'lewagon' model to the original one (i.e fork the original 3.8.6 env)
+	@pyenv local 3.8.6
+# Create a virtual env called 'slcities_env' with the local default python (3.8.6 here)
+	@pyenv virtualenv slcities_env
+# Set (and activate) slcities_env as the default env when a new terminal is opened
+	@pyenv local slcities_env
+
+
+
 install_requirements:
-	@pip install -r requirements.txt
+# Update pip (21.2.4)
+	@pip install pip==21.2.4
+	@pip install -r requierements_slcities.txt
 
 check_code:
 	@flake8 scripts/* slcities/*.py
