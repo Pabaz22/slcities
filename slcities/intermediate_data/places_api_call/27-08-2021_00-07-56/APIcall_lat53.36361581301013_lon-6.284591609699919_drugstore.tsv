@@ -1,4 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	Polonia Pharmacy	ChIJSRAPWCkMZ0gR1R77BPP8fxM	pharmacy|drugstore|health|point_of_interest|store|establishment	53.350077	-6.275485499999999	False	drugstore
-1	Park's Late Night Pharmacy	ChIJ3wn4Dt4PZ0gRo4jVrqxIXL0	pharmacy|drugstore|health|point_of_interest|store|establishment	53.3612648	-6.260221099999999	False	drugstore
-2	Pharmacy Department	ChIJu8Z1Z3MOZ0gR3MLjjf18YPw	drugstore|health|point_of_interest|store|establishment	53.376183	-6.2676939		drugstore

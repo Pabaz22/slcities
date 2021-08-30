@@ -1,9 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	George's Quay j.j kavanagh bus stop	ChIJmU2Ll4MPZ0gRRSQdrNggr48	gas_station|transit_station|point_of_interest|establishment	53.3473868	-6.2535973		gas_station
-1	Circle K Express Usher's Quay	ChIJfWFaZS8MZ0gRi-i4TadkgQs	gas_station|point_of_interest|establishment	53.3454437	-6.277834100000001	True	gas_station
-2	Maxol	ChIJO4Bhv70OZ0gRPgqJJwFZszM	gas_station|point_of_interest|establishment	53.3338748	-6.246179	True	gas_station
-3	Applegreen	ChIJF6dBaRcMZ0gRhCc3SToIdQE	gas_station|point_of_interest|establishment	53.3298958	-6.2800786	True	gas_station
-4	Pitstop R111	ChIJh4TzaxcMZ0gRMN_It65edvY	gas_station|point_of_interest|establishment	53.3298613	-6.280215800000001		gas_station
-5	Shop N Drive	ChIJEV2WfdQPZ0gRSLcoGctVjZc	gas_station|point_of_interest|establishment	53.3535043	-6.2477345	True	gas_station
-6	Amiens St. Service Station	ChIJi4z5HkoPZ0gRGUcIzZIYB10	gas_station|point_of_interest|establishment	53.3536143	-6.2474136	True	gas_station
-7	Maxol	ChIJp6BycewOZ0gRFUOt66nDnMw	gas_station|point_of_interest|store|establishment	53.3417257	-6.234847500000001	True	gas_station

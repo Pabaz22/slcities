@@ -1,8 +1,0 @@
-	name	place_id	price_level	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	Circle K Glasnevin	ChIJeT84_dsNZ0gR9dtIKoNGMqY	1.0	gas_station|convenience_store|food|point_of_interest|store|establishment	53.3710917	-6.2810312	True	gas_station
-1	Circle K Cabra	ChIJG3EKvM4NZ0gRw_aRQzmp4NY	1.0	gas_station|convenience_store|food|point_of_interest|store|establishment	53.3612057	-6.291479	True	gas_station
-2	Maxol Richmond Road	ChIJj1wkS2YOZ0gRZJvWDHyE36U		gas_station|point_of_interest|store|establishment	53.3664263	-6.2494836	False	gas_station
-3	Go Station	ChIJcaN6A-kNZ0gR-ck55h9l6nM		gas_station|point_of_interest|establishment	53.3603478	-6.2953021		gas_station
-4	Circle K Richmond Road	ChIJ85yYC14OZ0gRvnTvJmQS9r4	1.0	gas_station|convenience_store|food|point_of_interest|store|establishment	53.3625496	-6.242830100000001	True	gas_station
-5	Shop N Drive	ChIJEV2WfdQPZ0gRSLcoGctVjZc		gas_station|point_of_interest|establishment	53.3535043	-6.2477345	True	gas_station
-6	Amiens St. Service Station	ChIJi4z5HkoPZ0gRGUcIzZIYB10		gas_station|point_of_interest|establishment	53.3536143	-6.2474136	True	gas_station

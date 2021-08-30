@@ -1,9 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	Cineworld Cinema Dublin	ChIJrRGxGIIOZ0gRhuM6V5yGYIQ	movie_theater|point_of_interest|establishment	53.35025269999999	-6.2677043		movie_theater
-1	Savoy Cinema	ChIJA2OdnIYOZ0gRyu_gLbUe5w4	movie_theater|point_of_interest|establishment	53.3512554	-6.260463599999999	False	movie_theater
-2	Broocks Agency	ChIJURbNtC4MZ0gRf_uj9JAGC6k	movie_theater|point_of_interest|establishment	53.34876500000001	-6.276265299999999		movie_theater
-3	Light House Cinema	ChIJi15MliMMZ0gRF0OPS9-7BCg	movie_theater|cafe|bar|food|point_of_interest|establishment	53.3487938	-6.279049100000001	False	movie_theater
-4	Irish Film Classification Office	ChIJkdNM9S4MZ0gR4Idt47j8K2o	movie_theater|point_of_interest|establishment	53.3484677	-6.2785702		movie_theater
-5	Dubraq , Ireland	ChIJBaNiM94PZ0gRjdO3o6Hb5G0	movie_theater|point_of_interest|establishment	53.3487819	-6.264302199999999		movie_theater
-7	Basic Instincts	ChIJSTAAKZ0OZ0gRBoxVlb1I0is	movie_theater|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3447418	-6.264929999999999	False	movie_theater
-8	Irish Film Institute	ChIJ2wqAKJ0OZ0gR4vWWWOJdWfU	movie_theater|movie_rental|library|cafe|restaurant|food|point_of_interest|store|establishment	53.34464599999999	-6.264867999999999	False	movie_theater

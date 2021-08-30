@@ -1,7 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	Bridewell Garda Station	ChIJ50sQ3CgMZ0gRdwDCaMXjU8E	police|point_of_interest|establishment	53.3470911	-6.2741155	True	police
-1	An Garda Síochána Headquarters	ChIJU5__1koMZ0gRXUcnK3PKof0	police|point_of_interest|establishment	53.354576	-6.301492700000001	False	police
-2	Kilmainham Garda Station	ChIJf1MblUUMZ0gR2YICFeQ-PGk	police|point_of_interest|establishment	53.3419477	-6.304567499999999	True	police
-3	Kevin Street District Garda Station	ChIJjU7DOyEMZ0gR9Erx_n6dSNw	police|point_of_interest|establishment	53.3383279	-6.2694449		police
-4	Garda	ChIJv9wRu4YOZ0gRzSQ4jIU2mNA	police|point_of_interest|establishment	53.35163679999999	-6.261542299999999		police
-5	Mountjoy Garda Station	ChIJ9SKPw34OZ0gRBrNMDL5iTmo	police|point_of_interest|establishment	53.36052890000001	-6.266825099999999	True	police

@@ -1,7 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	Hertz Car Hire	ChIJYdDsEtQNZ0gRbO-QmxQRPow	car_rental|point_of_interest|establishment	53.3596926	-6.2778363	False	car_rental
-1	Dollar Rent A Car	ChIJ-RCq3VINZ0gRrPRFxXFkI5E	car_rental|point_of_interest|establishment	53.359716	-6.277708	False	car_rental
-2	Thrifty Car Rental	ChIJ2Uok6PENZ0gRGR-Ju-dy0kU	car_rental|point_of_interest|establishment	53.359709	-6.277702	False	car_rental
-3	Fleet Plan	ChIJF1fyF8INZ0gRAYTiyzpv0F8	car_rental|point_of_interest|establishment	53.3744418	-6.295044900000001		car_rental
-4	Sixt Car Hire - Dublin City Centre	ChIJcdFdZIYOZ0gRxWTefgk5CN8	car_rental|point_of_interest|establishment	53.35186299999999	-6.258666999999999	False	car_rental
-5	Van Hire Dublin	ChIJo9ydZGMOZ0gR1RrPiVxETBU	car_rental|point_of_interest|establishment	53.36181329999999	-6.2553314	False	car_rental

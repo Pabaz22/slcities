@@ -1,8 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	Circle K Express Usher's Quay	ChIJfWFaZS8MZ0gRi-i4TadkgQs	gas_station|point_of_interest|establishment	53.3454437	-6.277834100000001	True	gas_station
-1	Emo Dublin	ChIJ6bBDlkcMZ0gRxhRHipb4xDw	gas_station|point_of_interest|establishment	53.3418859	-6.297070600000001	True	gas_station
-2	MB Service Station	ChIJb04LW0YMZ0gR9QBwQ0u8ovU	gas_station|point_of_interest|establishment	53.34186099999999	-6.297073099999999	True	gas_station
-3	George's Quay j.j kavanagh bus stop	ChIJmU2Ll4MPZ0gRRSQdrNggr48	gas_station|transit_station|point_of_interest|establishment	53.3473868	-6.2535973		gas_station
-4	Applegreen	ChIJF6dBaRcMZ0gRhCc3SToIdQE	gas_station|point_of_interest|establishment	53.3298958	-6.2800786	True	gas_station
-5	Pitstop R111	ChIJh4TzaxcMZ0gRMN_It65edvY	gas_station|point_of_interest|establishment	53.3298613	-6.280215800000001		gas_station
-6	Maxol Service Station Dolphins Barn	ChIJjTcQpWoMZ0gR5Yt78kwcCZo	gas_station|point_of_interest|store|establishment	53.3320416	-6.294029699999999	True	gas_station

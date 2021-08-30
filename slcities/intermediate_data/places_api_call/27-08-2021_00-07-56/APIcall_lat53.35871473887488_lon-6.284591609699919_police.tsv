@@ -1,7 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	Mountjoy Garda Station	ChIJ9SKPw34OZ0gRBrNMDL5iTmo	police|point_of_interest|establishment	53.36052890000001	-6.266825099999999	True	police
-1	An Garda Síochána Headquarters	ChIJU5__1koMZ0gRXUcnK3PKof0	police|point_of_interest|establishment	53.354576	-6.301492700000001	False	police
-2	Bridewell Garda Station	ChIJ50sQ3CgMZ0gRdwDCaMXjU8E	police|point_of_interest|establishment	53.3470911	-6.2741155	True	police
-3	International Police Association	ChIJXXGICXoOZ0gRlAvWX28FV0o	police|point_of_interest|establishment	53.3667908	-6.264880199999999		police
-4	Cabra Garda Station	ChIJCxDo-bkNZ0gRam59LSejVdI	police|point_of_interest|establishment	53.36501209999999	-6.307701499999999	True	police
-5	Garda	ChIJv9wRu4YOZ0gRzSQ4jIU2mNA	police|point_of_interest|establishment	53.35163679999999	-6.261542299999999		police
