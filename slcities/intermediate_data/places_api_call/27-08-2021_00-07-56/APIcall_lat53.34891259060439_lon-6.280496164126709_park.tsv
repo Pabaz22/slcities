@@ -1,0 +1,18 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Prebook Car Park	ChIJQ9ca0C0MZ0gRULU9CpOLJiY	park|point_of_interest|establishment	53.3504671	-6.280848300000001		park
+1	The Croppies Acre	ChIJE2-EyS8MZ0gRRlv37fVF1JU	tourist_attraction|park|point_of_interest|establishment	53.34754780000001	-6.286530000000001	True	park
+2	Bridgefoot Street Park	ChIJa1__ht0NZ0gRosGSAaLs35E	park|point_of_interest|establishment	53.3449581	-6.2818408		park
+4	Bridgefoot Street Community Garden	ChIJoYjw-S8MZ0gRwlfNBWi7bME	park|point_of_interest|establishment	53.344685	-6.281394		park
+5	IUNVA MEMORIAL	ChIJXyuVRTIMZ0gRjk2u5Wa3anw	park|point_of_interest|establishment	53.3510708	-6.286742200000001		park
+6	Billy Edwards Park	ChIJZWnQH9kNZ0gRG7vtVAYqsEM	park|point_of_interest|establishment	53.3512314	-6.287118999999999		park
+7	Chancery Park	ChIJl8wN9igMZ0gRRSiD9ZgTIzY	park|tourist_attraction|point_of_interest|establishment	53.3465867	-6.272191900000001	False	park
+8	St Michan’s Park, Dublin	ChIJc2tQlCkMZ0gRUzCe796EepA	park|tourist_attraction|point_of_interest|establishment	53.3491835	-6.271209799999999		park
+9	Campsited	ChIJOem-Z28NZ0gRYlaZ8V7IhdA	campground|lodging|park|point_of_interest|establishment	53.34318949999999	-6.2832873	False	park
+10	St. Audoen's Park	ChIJ7xiH4iUMZ0gRomZlPCGXZLY	park|tourist_attraction|point_of_interest|establishment	53.34387479999999	-6.275032299999999	False	park
+12	King's Inns Park	ChIJLy4MUSoMZ0gR0Jjy_l6qt-M	park|tourist_attraction|point_of_interest|establishment	53.3527746	-6.272498400000001	False	park
+13	Croppies Memorial Park	ChIJjc7Bf6INZ0gR2NSbCrwXv5c	park|point_of_interest|establishment	53.3477604	-6.290708199999999	True	park
+14	Garden of Eden	ChIJ9brPNSgMZ0gR9n5_8tdrhM0	park|point_of_interest|establishment	53.34737809999999	-6.270353899999999		park
+16	St Catherines Park	ChIJf8OhEa0NZ0gR5DNMjoizBvs	park|point_of_interest|establishment	53.3424134	-6.281367400000001	False	park
+17	My Bike Or Hike	ChIJMz_je4IOZ0gRqV4u7NL5a88	park|point_of_interest|establishment	53.3481506	-6.268489400000001		park
+18	Armenian Genocide Memorial	ChIJGfGLSyYMZ0gRITtCZLVXw-I	park|point_of_interest|establishment	53.3432178	-6.271638	True	park
+19	Peace Park	ChIJWY1zCRINZ0gRMWcEFYSGaNQ	park|point_of_interest|establishment	53.3427504	-6.2712542	False	park

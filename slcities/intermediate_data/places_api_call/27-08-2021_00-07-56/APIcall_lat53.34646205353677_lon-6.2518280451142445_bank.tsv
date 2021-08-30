@@ -1,0 +1,57 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Ulster Bank Capital Markets	ChIJh4Ysx48OZ0gROrSyFvqeaAg	bank|finance|point_of_interest|establishment	53.3472963	-6.2536856	False		bank
+1	Ulster Bank ATM (Georges Quay)	ChIJG4Tzc5sOZ0gRse2cTVhXo8Y	atm|bank|finance|point_of_interest|establishment	53.34738100000001	-6.254185	True		bank
+2	Scotiabank Ireland	ChIJgzQb240OZ0gRyoTbP_f9Ls4	bank|finance|point_of_interest|establishment	53.34834000000001	-6.250532000000001			bank
+3	Societe Generale Securities Services	ChIJE42FqWAMZ0gR7IwqJMja20o	bank|finance|point_of_interest|establishment	53.3483471	-6.2505371	False		bank
+4	Finnan Financial Limited	ChIJe27pl5EOZ0gRpAf3vdfgREI	bank|finance|point_of_interest|establishment	53.34413989999999	-6.2486225			bank
+5	UniCredit Bank Ireland plc	ChIJ9Rdm6Y4OZ0gRmxJI74dMPWo	bank|finance|point_of_interest|establishment	53.34977869999999	-6.2502399			bank
+6	DB Service Centre Limited	ChIJs-y1loUOZ0gRR7u9vTMIvI8	bank|finance|point_of_interest|establishment	53.3487599	-6.256723500000001			bank
+7	Bank of Montreal Europe plc	ChIJo_NTsI4OZ0gR-L205JAp4xg	bank|finance|point_of_interest|establishment	53.35003680000001	-6.2499673	False		bank
+8	AIB ATM Westland Row	ChIJR8WCA5EOZ0gRRv690PQJ6nk	atm|bank|finance|point_of_interest|establishment	53.34283180000001	-6.249769499999999	True		bank
+9	Wells Fargo Bank International Unlimited Company	ChIJo_NTsI4OZ0gR1-jnkS-aRyo	bank|finance|point_of_interest|establishment	53.350146	-6.249886999999999	False		bank
+10	Dexia Credit Local	ChIJVYPNM4wOZ0gRSGKt3oRsmOA	bank|finance|point_of_interest|establishment	53.34918810000001	-6.246983500000002			bank
+11	Rabobank Dublin	ChIJxdSQzJkOZ0gRPVPiofCekRI	bank|finance|point_of_interest|establishment	53.3497067	-6.2478701			bank
+12	Depfa Bank Plc	ChIJqyHkZZ4CRUgR00DyiqbTwds	bank|finance|point_of_interest|establishment	53.3496183	-6.2560065			bank
+13	Rabobank Ireland	ChIJAQAAAKEOZ0gRsiJu_udOHls	bank|finance|point_of_interest|establishment	53.34974990000001	-6.247677800000001	False		bank
+14	Citi Labs Dublin	ChIJ82BGJC8MZ0gRpU1Sd_o6H5E	bank|finance|point_of_interest|establishment	53.3486406	-6.2458154			bank
+15	Belfius Bank	ChIJo43WN4wOZ0gRpFR0va_wAew	bank|finance|point_of_interest|establishment	53.3492423	-6.246285699999999			bank
+16	Citibank Europe Public Limited Company	ChIJnwAsjzAFZ0gRqTo-NuX6d6I	bank|finance|point_of_interest|establishment	53.3482582	-6.2452136	True		bank
+17	Man Corporate Services (Ireland) Limited	ChIJ2RPjpI0OZ0gRSZevGWxJsAk	bank|finance|point_of_interest|establishment	53.348136	-6.245065500000002			bank
+18	KBC Finance Ireland	ChIJZxaxPIwOZ0gR3_wP_AbcOO0	bank|finance|point_of_interest|establishment	53.3499482	-6.2473455			bank
+19	Landesbank Hessen Thuringen International	ChIJJbTTOYwOZ0gRGRdIY5flu6Q	bank|finance|point_of_interest|establishment	53.34961819999999	-6.246697699999999			bank
+20	BNP Paribas Dublin Branch	ChIJR9K2N4wOZ0gRHESw0FF7x3s	bank|finance|point_of_interest|establishment	53.34961699999999	-6.246677500000001	False	5 George's Dock, International Financial Services Centre, Dublin, D01 X8N7	bank
+21	Ulster Bank (O'Connell Street)	ChIJC44dO4QOZ0gR402YfqBMNps	bank|finance|point_of_interest|establishment	53.3479071	-6.2590352	False	2-4 O'Connell Street Lower, North City, Dublin 1, D01 XH68	bank
+22	Bank of Ireland	ChIJkThd94QOZ0gRAOmDtf0JX7U	bank|finance|point_of_interest|establishment	53.3480965	-6.259042399999999	False	6, 7 Lower O'Connell Street Lower, North City, Dublin, D01 X324	bank
+23	permanent tsb	ChIJs3GYWYQOZ0gRGjI_aq-bEHs	bank|atm|finance|point_of_interest|establishment	53.3485635	-6.259312100000001	False	13 O'Connell Street Lower, North City, Dublin 1	bank
+24	Danske Bank	ChIJo_NTsI4OZ0gRrnGZyGRFaGg	bank|finance|point_of_interest|establishment	53.3513546	-6.2482147	False	International House, 3 Harbourmaster Pl, International Financial Services Centre, Dublin 1, D01 K8F1	bank
+25	Ulster Bank (Grafton St Mortgage Centre)	ChIJfbglcZsOZ0gR0TdwExS3pSM	bank|finance|point_of_interest|establishment	53.3432021	-6.2596466	False	105, 106 Grafton Street, Dublin, D02 HN59	bank
+26	Ulster Bank (College Green)	ChIJF2EDXpsOZ0gR_BeqXsuLo8U	bank|atm|finance|point_of_interest|establishment	53.3441373	-6.260606000000001	False	33 College Green, Dublin, D02 DD76	bank
+27	AIB Bank	ChIJg2erd5sOZ0gRFI4ojFUls48	bank|finance|point_of_interest|establishment	53.3429647	-6.2596338	True	101 Grafton Street, Dublin 2	bank
+28	Banking & Payments Federation Ireland	ChIJR1PMCZsOZ0gRV3MQgZB9F9E	bank|finance|point_of_interest|establishment	53.34137459999999	-6.2577438	False	Floor Three One, Molesworth Pl, Dublin, D02 RF29	bank
+29	KBC Bank College Green	ChIJZZWAopwOZ0gRk4mOp2O-8nQ	bank|finance|point_of_interest|establishment	53.3441367	-6.261836499999999	False	16-17 College Green, Dublin 2, D02 V078	bank
+30	Permanent TSB	ChIJO9GP7ZgOZ0gReINDrzQiIxA	bank|atm|finance|point_of_interest|establishment	53.3411515	-6.2606356	False	70 Grafton Street, Dublin 2	bank
+31	Bank Of Ireland	ChIJFyHFVZMOZ0gRO5Ld01Zz1XM	bank|atm|finance|point_of_interest|establishment	53.3436754	-6.239383399999999	False	1 Grand Canal Square, Dublin 2, D02 FF61	bank
+32	KBC	ChIJ_58iPu0OZ0gRCt-ZrVjjHA0	bank|finance|point_of_interest|establishment	53.3449563	-6.238471499999999	False	3 Forbes St, Grand Canal Dock, Dublin 2	bank
+33	HSBC Bank Plc	ChIJvUK1JDoMZ0gRDHeZSxIHa5M	bank|finance|insurance_agency|point_of_interest|establishment	53.34348809999999	-6.2390937	False	1 Grand Canal Square, Grand Canal Harbour, Dublin Docklands, Dublin 2	bank
+34	Bank of Ireland	ChIJZcOmpJkOZ0gR8D1XBkdqu3Q	bank|finance|point_of_interest|establishment	53.338441	-6.2551662	False	39 St Stephen's Green, Dublin 2	bank
+35	AIB (Bank)	ChIJGfc9x4YOZ0gRpvJ_2rufGy4	bank|finance|point_of_interest|establishment	53.352199	-6.261813099999999	False	37/38 O'Connell Street Upper, North City, Dublin 1, D01 XR67	bank
+36	AIB Bank	ChIJH7dZ0ZkOZ0gRG8XIwZSWFYQ	bank|finance|point_of_interest|establishment	53.3380926	-6.2530892	False	1-4 Baggot Street Lower, Dublin 2, D02 X342	bank
+37	KBC Bank	ChIJUboigJcOZ0gRLW13RjT-eZc	bank|finance|point_of_interest|establishment	53.3378761	-6.2528884	False	142-143 Baggot Street Lower, Dublin, D02 PH39	bank
+38	AIB	ChIJ5fWBHO0OZ0gRKX7jeja8VaA	bank|finance|point_of_interest|establishment	53.3443336	-6.2375569	False	2 Hanover Quay, Grand Canal Dock, Dublin	bank
+39	AIB Bank	ChIJs43ePp0OZ0gRicfaUJJbcMs	bank|finance|point_of_interest|establishment	53.34401099999999	-6.2659636	False	7/12 Dame St, Dublin 2, D02 KX20	bank
+40	AIB ATM Gardiner Street Lower	ChIJf-ceUI8OZ0gRcrEv2s6CYMo	atm|bank|finance|point_of_interest|establishment	53.35059889999999	-6.254590599999999	True	External Wall, World Link House, Gardiner Street Lower, North City, Dublin	bank
+41	Ulster Bank Custom House Plaza	ChIJo62S4KwPZ0gR-VUArfodm_w	bank|finance|point_of_interest|establishment	53.3514482	-6.248707		Harbourmaster Pl, North Dock, Dublin	bank
+42	Bank Of Ireland Life Holdings Plc	ChIJ0WMft5sOZ0gRH3pmLFK5MmU	bank|finance|point_of_interest|establishment	53.3418183	-6.2576307		12 Dawson St, Dublin, D02 YX99	bank
+43	AIB ATM O'Connell Street Upper	ChIJJ0pmF4QOZ0gRvHFGaJLRAKE	atm|bank|finance|point_of_interest|establishment	53.3501573	-6.2609292	True	Spar External Wall, 63-64 O'Connell Street Upper, Dublin, D01 X8C3	bank
+44	AIB ATM Jervis Street S.C	ChIJtaidVIIOZ0gRLHba7kex8QE	atm|bank|finance|point_of_interest|establishment	53.3482472	-6.2656043	True	Jervis Street Shopping Centre, 125 Abbey Street Upper, North City, Entrance, Co. Dublin, D01 W3X5	bank
+45	Bank Julius Baer Europe S.A. Ireland branch	ChIJVYQ-suEPZ0gR0npj0DLLlZo	bank|finance|point_of_interest|establishment	53.3376978	-6.255029899999999		2 Hume St, South-East Inner City, Dublin, D02 FT82	bank
+46	European Investment Bank	ChIJ-5rvYpYOZ0gRPOn0DbJlOh4	bank|finance|point_of_interest|establishment	53.3379601	-6.2465627		8 Mount Street Upper, Dublin, D02 FT59	bank
+47	Ulster Bank (Baggot Street)	ChIJG4Tzc5sOZ0gRL-tWOjqrWMo	bank|atm|finance|point_of_interest|establishment	53.3374	-6.2512922	False	130 Baggot Street Lower, Dublin, D02 XN61	bank
+48	Banche	ChIJyW5sQ50OZ0gRVDNzkFELgf4	bank|finance|point_of_interest|establishment	53.3440497	-6.2669865		2 Dame St, Dublin	bank
+51	permanent tsb	ChIJ-5_f3b0OZ0gReFacqDKj42U	bank|atm|finance|point_of_interest|establishment	53.3340055	-6.2448396	False	2-4 Baggot Street Upper, Dublin 4, D04 N8Y9	bank
+52	Bank of America Leasing Ireland Company Limited	ChIJo5Nxz6EOZ0gRA7YSp56lQuo	bank|finance|point_of_interest|establishment	53.3337192	-6.26132		Two Park Place, Hatch Street Upper, Saint Kevin's, Dublin 2	bank
+53	AIB Bank	ChIJTRXGeaAOZ0gRtQXHh0oxlTU	bank|finance|point_of_interest|establishment	53.3323066	-6.2650339	False	61 Richmond St S, Saint Kevin's, Dublin 2, D02 H282	bank
+54	Bank of Ireland	ChIJQT2L-TkMZ0gRBtS_MZL9cvM	bank|finance|point_of_interest|establishment	53.3436523	-6.284595899999999	False	85 James St, The Liberties, Dublin 8, D08 C2PR	bank
+55	AIB Bank	ChIJI67ivqUOZ0gRLmIZ2mz8OBI	bank|finance|point_of_interest|establishment	53.3256698	-6.2547573	False	Ranelagh, Dublin 6	bank
+56	Bank of Ireland	ChIJeZXFnV4OZ0gRrcXp4TtNrqU	bank|atm|finance|point_of_interest|establishment	53.3645215	-6.2303913	False	26 Marino Mart, Dublin 3, D03 R928	bank
+57	Bank of Ireland	ChIJL4sviq8OZ0gRxskQwKwRzB8	bank|atm|finance|point_of_interest|establishment	53.3241595	-6.251546200000001	False	104 Ranelagh, Dublin 6, D06 P3F1	bank

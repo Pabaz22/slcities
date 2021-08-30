@@ -4,7 +4,6 @@ import haversine as hs
 from haversine import Unit
 
 
-
 def generate_region_around_center(center_coords, width, height):
     """
     Generate the coordinates of the NO (North-Ouest) and SE (South-East) points

@@ -1,0 +1,15 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
+0	BRD motors	ChIJtx4UPM0NZ0gREBeySggsRbs	car_dealer|point_of_interest|store|establishment	53.355994	-6.287097000000001	False		car_dealer
+1	Montpellier Motors Ltd	ChIJRfw1iRoNZ0gRCw_00WmVwrM	finance|car_dealer|point_of_interest|store|establishment	53.3580158	-6.2813011	False		car_dealer
+2	Bright Ford Phibsborough	ChIJPdYz9tMNZ0gRVTE5-bISPFU	car_dealer|point_of_interest|store|establishment	53.3600135	-6.278857700000001	False		car_dealer
+3	Hertz Car Sales	ChIJL9DsEtQNZ0gRm70IDC7HBUs	car_dealer|point_of_interest|store|establishment	53.35978110000001	-6.277706700000001	False	2.0	car_dealer
+4	Westbrook Motors - Mitsubishi Car Sales & Service Centre	ChIJ7-n6-YYOZ0gR_rwIeemXOQM	car_dealer|car_repair|point_of_interest|store|establishment	53.34824199999999	-6.292965	False		car_dealer
+5	MSL Park Motors Skoda	ChIJAyDDKrYNZ0gR8bIocg9ct84	car_dealer|point_of_interest|store|establishment	53.3619254	-6.3005854	False		car_dealer
+6	MSL Park Motors Mazda	ChIJwVviMrYNZ0gRQm6bXHKIGCA	car_dealer|point_of_interest|store|establishment	53.36209599999999	-6.301018999999999	False		car_dealer
+7	MSL Park Motors Mercedes-Benz	ChIJ3aIXy7cNZ0gRdTIb6jHLBVk	car_dealer|point_of_interest|store|establishment	53.3620872	-6.3016223	False		car_dealer
+8	McKenna O'neill	ChIJCYMBvyoMZ0gR0jZY9ZbQ49A	car_dealer|point_of_interest|store|establishment	53.3545482	-6.271946	False		car_dealer
+9	Wellington Cars	ChIJn6iFDCEGZ0gR33o-wf0GSZ0	car_dealer|point_of_interest|store|establishment	53.355965	-6.2670345	False		car_dealer
+10	WesternLHD	ChIJGSM2KYcOZ0gRPeozeSoB6GM	car_dealer|point_of_interest|store|establishment	53.3470357	-6.268857599999999	False		car_dealer
+11	Cameron Cars	ChIJO8MASsMNZ0gRazwTcDl-ITs	car_dealer|point_of_interest|store|establishment	53.37254249999999	-6.2886288	False		car_dealer
+12	Hutton & Meade Glasnevin	ChIJ4UYaZKANZ0gRfcpPz9Uc_no	car_dealer|point_of_interest|store|establishment	53.37375159999999	-6.290958799999999	False		car_dealer
+13	Irish Rides Ltd	ChIJhX6uGyQMZ0gRtGAoAGPCmIE	car_dealer|point_of_interest|store|establishment	53.3402517	-6.274962	False		car_dealer

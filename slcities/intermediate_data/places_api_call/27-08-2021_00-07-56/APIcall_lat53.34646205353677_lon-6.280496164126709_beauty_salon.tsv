@@ -1,0 +1,58 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+1	Mudita Beauty Lounge	ChIJ9YG_ICENZ0gRKytMkqyLJLA	beauty_salon|point_of_interest|establishment	53.34862	-6.279978700000001	False		beauty_salon
+2	Oasis Beauty	ChIJK45rhi4MZ0gR8XY1bWd5btc	beauty_salon|spa|health|point_of_interest|establishment	53.3493095	-6.279367800000001	True		beauty_salon
+3	Polish & Nails In Dublin	ChIJ-1Mp8XcOZ0gR0usHZ_1X1G0	beauty_salon|point_of_interest|establishment	53.350519	-6.278205799999999	True		beauty_salon
+4	Beauty Bee Salon	ChIJC4YnxZ0NZ0gRWFdPYUaPQJA	beauty_salon|point_of_interest|establishment	53.3507972	-6.2824854			beauty_salon
+5	V Nails & Spa	ChIJ5eiKJe0NZ0gRW-jqpzsKglI	beauty_salon|point_of_interest|establishment	53.34194290000001	-6.279168299999998	False		beauty_salon
+6	M&L Nails, Beauty and Spa	ChIJ5c4AXikMZ0gRKqnUTKj-hBc	beauty_salon|point_of_interest|establishment	53.3496996	-6.274919800000001	True		beauty_salon
+7	Angels Hair & Beauty Salon	ChIJEY8kHSUMZ0gRFOsTUo8yPqc	beauty_salon|point_of_interest|establishment	53.3418956	-6.279065200000001			beauty_salon
+8	The Glamour Pit	ChIJq379-iQMZ0gR3KSkeeg9F-Y	beauty_salon|point_of_interest|establishment	53.3413333	-6.2787491			beauty_salon
+9	Angel Hair and Beauty - Second Salon	ChIJT7Ku3cMNZ0gRQAAoDQsdPGc	beauty_salon|point_of_interest|establishment	53.3410089	-6.279930999999999	True		beauty_salon
+10	Style 4 Hair Beauty	ChIJBz2j9iQMZ0gRsLh8DrTqgdI	hair_care|beauty_salon|point_of_interest|establishment	53.3408609	-6.278167900000001			beauty_salon
+11	Mov&More - Unit 2	ChIJse73EFINZ0gR88EMTM5Ju2o	beauty_salon|spa|point_of_interest|establishment	53.3503268	-6.273047299999999	False		beauty_salon
+12	Angel Beaut	ChIJkS4o-DkMZ0gRfdFOpFiuxhU	beauty_salon|point_of_interest|establishment	53.34329520000001	-6.2891032			beauty_salon
+13	Pep Therapies	ChIJf3FzkCQMZ0gR3jQE6CNpgA4	beauty_salon|point_of_interest|establishment	53.3397336	-6.278580300000001	True		beauty_salon
+14	SAPPHIRE Nail & Beauty Salon	ChIJvagHxTkMZ0gRFmIfRTm3gCI	beauty_salon|health|point_of_interest|establishment	53.3430215	-6.2905335	True		beauty_salon
+15	Effies	ChIJ1ULiUiEMZ0gR3VPx6aGhpRY	beauty_salon|point_of_interest|establishment	53.341034	-6.272541999999999	False		beauty_salon
+17	Pure Beauty & Ayurvedic Treatments	ChIJ1ejntfoPZ0gRnzhs26M6O74	beauty_salon|point_of_interest|establishment	53.3484666	-6.2687447			beauty_salon
+18	Q&M Hair & Beauty Salon IFSC	ChIJodR4VYwOZ0gRSW33SsIlxqE	beauty_salon|point_of_interest|establishment	53.3484666	-6.2687447	True		beauty_salon
+19	K-Nails Luxury	ChIJUftrooIOZ0gRkbs-SsUJsBI	beauty_salon|point_of_interest|establishment	53.3478998	-6.2684083	True		beauty_salon
+20	Beautique	ChIJvwrGC4IOZ0gRGNtck1ijcgA	beauty_salon|point_of_interest|establishment	53.3493685	-6.268944599999999		57 Capel St, North City, Dublin 1, D01 R598	beauty_salon
+21	Violet Hair & Beauty Salon	ChIJqaLvcIIOZ0gRFv0g3kFH8UU	beauty_salon|point_of_interest|establishment	53.3485872	-6.2684558	True	63 Mary St, North City, Dublin, D01 N2N3	beauty_salon
+22	World of Elegance	ChIJu5mKyLIHZ0gRFIgvRZ3vPEw	beauty_salon|hair_care|point_of_interest|establishment	53.34346050000001	-6.268939	False	30 Castle St, Dublin 2, D02 YV24	beauty_salon
+23	Q&M Hair Beauty Salon Capel	ChIJgS4do4IOZ0gRVxnARQAyHVg	beauty_salon|point_of_interest|establishment	53.3462724	-6.267800299999999	True	3 Capel St, North City, Dublin 1, D01 Y650	beauty_salon
+24	Blend Beauty Artisans	ChIJJ2ttwBoNZ0gRzMoV9fIHt6I	beauty_salon|point_of_interest|establishment	53.3505257	-6.269496699999999	True	73 Capel St, Rotunda, Dublin 1, D01 C9X0	beauty_salon
+25	Top to Toe	ChIJkfTb3zIMZ0gR896d4x3JxyA	beauty_salon|hair_care|spa|point_of_interest|establishment	53.35343049999999	-6.2860857	False	4 Aughrim St, Stoneybatter, Dublin, D07 WK66	beauty_salon
+26	Shei Hair & Beauty Salon	ChIJ1yb-GYIOZ0gRKxgKQNZFEjg	beauty_salon|point_of_interest|establishment	53.3486409	-6.268040399999999		57 Mary St, North City, Dublin, D01 C6X5	beauty_salon
+28	Hair & Beauty ZONE	ChIJM6bdQ4IOZ0gRleLzO5EyCHQ	beauty_salon|point_of_interest|establishment	53.34882589999999	-6.267025599999999	True	49 Mary St, North City, Dublin 1, D01 X860	beauty_salon
+29	Kate Beauty	ChIJhUzhKiQMZ0gRfPNOfPRxQBo	beauty_salon|point_of_interest|establishment	53.3447187	-6.2641826	False	The Design house basement, 23/24 Temple Ln S, Temple Bar, Dublin 2, D02 X611	beauty_salon
+30	Kimbery Beauty	ChIJ_a2IcaIPZ0gRi-lGrTtJRHc	beauty_salon|point_of_interest|establishment	53.3440526	-6.2643436	False	South Great George's Street, Dublin 2	beauty_salon
+31	Indigo Beauty Studio	ChIJgeggD9INZ0gR4NLwXwzV0-Q	beauty_salon|point_of_interest|establishment	53.3555292	-6.2876387	False	Prussia St, Arran Quay, Dublin	beauty_salon
+32	Late Night Beauty Salon (Temple Bar Branch)	ChIJD3Jpz5wOZ0gRxgXsZhQ0mig	beauty_salon|spa|point_of_interest|establishment	53.3447039	-6.2634516	False	4 Fownes Street Upper, Temple Bar, Dublin, D02 Y798	beauty_salon
+33	Blow Salons	ChIJQVQYOc8OZ0gR-7RGaFCYlIU	beauty_salon|hair_care|point_of_interest|establishment	53.349689	-6.263184000000001	True	In store at Dunnes, 48-50 Henry St, North City, Dublin, D01 PT93	beauty_salon
+34	Glam Nail and Beauty Salon	ChIJV-6KlZwOZ0gRQLbZOfpbqFc	beauty_salon|point_of_interest|establishment	53.3439918	-6.262471199999999	True	17 Trinity St, Dublin 2, D02 W281	beauty_salon
+35	Genevieve Nail & Beauty	ChIJc9FSWJwOZ0gRsuZ2QATrj68	beauty_salon|hair_care|spa|point_of_interest|establishment	53.3424656	-6.2630751	True	6 Castle Market, Dublin 2, D02 PF51	beauty_salon
+36	Ultimate Hair & Beauty	ChIJWaRkcYQOZ0gRO2LDtIAPyic	beauty_salon|hair_care|point_of_interest|establishment	53.348999	-6.261527999999999	True	Unit 8, GPO Arcade, Henry St, North City, Dublin 1, D01 F6Y9	beauty_salon
+37	Be Gorgeous - Dublin	ChIJ3ep2YLQPZ0gRtVFk7SW5pRY	beauty_salon|point_of_interest|establishment	53.3432244	-6.2618197		6 St Andrew's St, Dublin 2, D02 VW40	beauty_salon
+38	5th Avenue Boutique Dublin	ChIJhwbSiJwOZ0gRum4S3Gq51nA	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.3429661	-6.2618129	True	24A Wicklow St, Dublin, D02 YV18	beauty_salon
+39	5th Avenue Beauty Emporium Dublin	ChIJaXWvb5wOZ0gRT9j0YEMPb0U	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.3419047	-6.261544199999999	True	45 Clarendon St, Dublin, D02 PY19	beauty_salon
+40	Le Fringe Beauty	ChIJmQlzWbYPZ0gRqtHSNNvcLkA	beauty_salon|hair_care|point_of_interest|establishment	53.344891	-6.2638908	True	8 Crow St, Temple Bar, Dublin, D02 HX78	beauty_salon
+41	Studio Beauty by Fran Giacomozzi	ChIJv1Us2oQOZ0gRPhdKmCo_yT8	beauty_salon|point_of_interest|establishment	53.3440743	-6.263609199999999	True	2 floor, 29/30 Dame St, Dublin 02, D02 A025	beauty_salon
+42	No13 Beauty House	ChIJY02j3LUPZ0gRH1srwlciBWE	beauty_salon|point_of_interest|establishment	53.3453254	-6.2621216		First floor, 13 Anglesea St, Temple Bar, Dublin, D02 PA46	beauty_salon
+43	Eve at The Grooming Rooms	ChIJr6t8XJwOZ0gRZ2Y7e5JqWKQ	beauty_salon|point_of_interest|establishment	53.3421645	-6.262685299999999	True	16 William St S, Dublin 2, D02 NY90	beauty_salon
+44	The Beauty Suite	ChIJp-66YZwOZ0gRLK28OUfxaqQ	beauty_salon|point_of_interest|establishment	53.3431007	-6.2616729		60 William St S, Dublin Southside, Co. Dublin, D02 CH28	beauty_salon
+45	Dublin Beauty Lounge	ChIJ5d7yQOAPZ0gRbQf1VOZzYiw	beauty_salon|point_of_interest|establishment	53.3429461	-6.2616917	True	25 Wicklow St, Dublin 2, D02 PY82	beauty_salon
+46	ZERO ONE SALON	ChIJ0Z2XiJwOZ0gREoNAv1qiskw	beauty_salon|hair_care|point_of_interest|establishment	53.34295119999999	-6.2616651	True	25 Wicklow St, St Stephen's Green, Dublin 2, D02 PY82	beauty_salon
+47	Shine Beauty & Brow Bar	ChIJu6KJGJ4OZ0gRyokbSD9aBjM	beauty_salon|point_of_interest|establishment	53.3384662	-6.2659745	True	Opposite DIT College, 42 Aungier St, Dublin, D02 KP08	beauty_salon
+48	Fundi's beauty	ChIJf5amMaAPZ0gRokiM4YPjnHQ	beauty_salon|point_of_interest|establishment	53.349809	-6.260273799999999		North City, Dublin	beauty_salon
+49	Galligan's Beauty Salon	ChIJp6j-bZsOZ0gRylW3HjdqJHY	beauty_salon|point_of_interest|establishment	53.3435174	-6.2595144	False	109 Grafton Street, Dublin 2, D02 YK64	beauty_salon
+50	TN beauty salon	ChIJlfW4058OZ0gRKrDhEmdnZY0	beauty_salon|point_of_interest|establishment	53.3368281	-6.265761800000001	True	29 Wexford St, Portobello, Dublin 2, D02 TN90	beauty_salon
+51	Mont Ciara Hair and Beauty Salon	ChIJV75u6YYOZ0gRvI3Y0f4HiBM	beauty_salon|point_of_interest|establishment	53.3526609	-6.2609343	True	76 Parnell St, Rotunda, Dublin 1, D01 W710	beauty_salon
+52	Skin Essence Beauty Salon	ChIJuZ5x7psOZ0gRskU0gIFhTqY	beauty_salon|hair_care|spa|doctor|health|point_of_interest|establishment	53.34102	-6.25963	False	27 Anne St S, Dublin 2, D02 XY89	beauty_salon
+53	Salon 14	ChIJwzIIwEAPZ0gRwqBAymKsXTw	beauty_salon|hair_care|point_of_interest|establishment	53.350013	-6.2583428	True	14 N Earl St, Northside, Dublin, D01 NN70	beauty_salon
+54	La Bellissima Beauty Salon	ChIJV6b1xYUOZ0gRy18Gur4Kd00	beauty_salon|point_of_interest|establishment	53.3500847	-6.2579577		107 Talbot St, North City, Dublin 1, D01 F9V4	beauty_salon
+55	HAIR SHOW - Hair and Beauty Studio	ChIJSYcJz4UOZ0gRhlkqMhDXWfo	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.3500847	-6.2579577	True	107 Talbot St, North City, Dublin 1, D01 F9V4	beauty_salon
+56	Arshia beauty and nail salon	ChIJGbQe7dUNZ0gRH2qJwLMqHX0	beauty_salon|point_of_interest|establishment	53.3598583	-6.2728534		52a Phibsborough Rd, Dublin, 7	beauty_salon
+57	The Beauty Salon.ie	ChIJr-HC9p8OZ0gR206d97tb3V0	beauty_salon|point_of_interest|establishment	53.3353754	-6.265457	True	77 Camden Street Lower, Saint Kevin's, Dublin, D02 XE80	beauty_salon
+58	Indigo Beauty Studio	ChIJ_____8wNZ0gRz48Yxk-Bxno	beauty_salon|point_of_interest|establishment	53.360011	-6.2724402	False	174 Phibsborough Rd, Phibsborough, Dublin 7, D07 AW63	beauty_salon
+59	Beauty Studio Thea	ChIJ9SGEhB0MZ0gRAFqB7Ew0WMw	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.33245650000001	-6.2749669	True	house 8, First Floor, Leonard's Corner, 54 Clanbrassil Street Lower, Dublin	beauty_salon

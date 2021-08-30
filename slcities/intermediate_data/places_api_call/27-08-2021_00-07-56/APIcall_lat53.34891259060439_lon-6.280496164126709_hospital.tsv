@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Charter Medical	ChIJz8z1W50OZ0gRCby7CXqPCnQ	hospital|doctor|health|point_of_interest|establishment	53.3496355	-6.278259799999999	False		hospital
+1	Orby Chambers Medical Centre	ChIJK9_fqy8MZ0gRW219SuM6B_I	hospital|health|point_of_interest|establishment	53.346852	-6.2795255			hospital
+2	Medel Healthcare	ChIJLfojdjANZ0gRFzdPdzJOMTQ	hospital|health|point_of_interest|establishment	53.3459944	-6.2763933	False		hospital
+3	Liffey Medical GP Surgery, Clinic In Dublin City Centre, Smithfield	ChIJTd0sn3YNZ0gROv0Vh5U34-0	doctor|hospital|health|point_of_interest|establishment	53.3493399	-6.270194	False		hospital
+4	Pharmacy	ChIJ7xSYdAINZ0gRTkqBNmVHaMM	hospital|health|point_of_interest|establishment	53.3426966	-6.2788062			hospital
+5	St Bricin's Military Hospital	ChIJoQT_dTQMZ0gRBh9FOXhIDmo	hospital|health|point_of_interest|establishment	53.35106829999999	-6.290576799999999	True		hospital
+6	Thomas Court Medical Centre	ChIJLW-yLyUMZ0gRgLq2RAZgrV8	hospital|health|point_of_interest|establishment	53.342253	-6.2809064	False		hospital
+7	North Doc Medical Services Ltd	ChIJkVmzwJAOZ0gRZJRGfpmcSIg	hospital|health|point_of_interest|establishment	53.34791060000001	-6.268688600000001	False		hospital
+8	St Bricin's Military Hospital - main gate	ChIJQx80_J4NZ0gR9tQbrKkbkpk	hospital|health|point_of_interest|establishment	53.3509699	-6.292203000000001			hospital
+9	Saint Bricin's Military Hospital	ChIJl1G2fjQMZ0gRhruew8I9H5w	hospital|health|point_of_interest|establishment	53.35098850000001	-6.292194100000001			hospital
+10	Saint Bricin's Military Hospital - Nurses Home	ChIJJ36xiTQMZ0gRETlb8IJxMfo	hospital|health|point_of_interest|establishment	53.35204530000001	-6.292067100000001			hospital
+11	Jervis Medical Centre	ChIJcfNeI4IOZ0gR368q2nO3PtE	hospital|doctor|health|point_of_interest|establishment	53.34997019999999	-6.267199700000001	False		hospital
+12	HSE National Hearing Aid Repair Centre	ChIJsSmceocNZ0gRNvJ3N1I7WCo	hospital|health|point_of_interest|establishment	53.3572688	-6.2815484	False		hospital
+13	HSE Grangegorman Primary Care Centre	ChIJNxgSAtMNZ0gRc1UhiMngv0s	hospital|health|point_of_interest|establishment	53.357345	-6.2816814			hospital
+14	Patrick Street Dental	ChIJ4dJY8iYMZ0gRCZaj7ZFbbKM	hospital|dentist|health|point_of_interest|establishment	53.34169	-6.2726618	False		hospital
+15	Willow Grove Mental Health Adolescent Unit	ChIJ4zgABtENZ0gRQkO0Veo0u0U	hospital|health|point_of_interest|establishment	53.34382189999999	-6.2922961	False		hospital
+16	St Patrick's University Hospital, Dublin	ChIJ6zHtjzoMZ0gRjz4UVe12XEY	hospital|health|point_of_interest|establishment	53.3441292	-6.293131099999999			hospital
+17	The Carnegie Trust Child Welfare Clinic	ChIJpUes9CcMZ0gR_JutiVkYdog	hospital|health|point_of_interest|establishment	53.34361060000001	-6.268236099999999			hospital
+18	Conolly Norman House	ChIJjyl-gc0NZ0gR21umRad6rPU	hospital|health|point_of_interest|establishment	53.3573793	-6.2863955	False		hospital
+19	Mater misericordiae university hospital eccles street	ChIJz4Q-ycINZ0gR3ZA4vCSOBoQ	hospital|health|point_of_interest|establishment	53.3518862	-6.295099			hospital
+20	Fatma hospital	ChIJ41N2GIEOZ0gRNef7aU23mp4	hospital|health|point_of_interest|establishment	53.35281610000001	-6.2647498		Rotunda, Irishtown, Co. Dublin	hospital
+21	Rotunda Hospital	ChIJ0VEBzIYOZ0gRSW5TtAcfXHI	hospital|health|point_of_interest|establishment	53.3530919	-6.2631779		Parnell Square E, Rotunda, Dublin 1, D01 P5W9	hospital
+22	Hospital 5 Unit 2	ChIJcWHCEogNZ0gRPZsKm6UHq6E	hospital|health|point_of_interest|establishment	53.3391469	-6.2922384		Ushers, Dublin	hospital
+23	Centre for Nurse Education - Our Lady of Mercy House	ChIJMYqoUX4OZ0gR0_6_iG5DhE0	hospital|health|point_of_interest|establishment	53.3581527	-6.267116499999999	True	14 Nelson St, Phibsborough, Dublin 7, D07 X4P6	hospital
+24	Mater Hospital	ChIJjwNh0WwNZ0gRyqKqTaG_bqk	hospital|health|point_of_interest|establishment	53.358951	-6.268267		N Circular Rd, Dublin	hospital
+25	Misa Building St James Hospital	ChIJVa37xzgMZ0gRSoZMkjeAnac	hospital|health|point_of_interest|establishment	53.3390472	-6.2931849		31 James's Walk, Rialto, Dublin 8, D08 E191	hospital
+26	Mater Misericordiae University Hospital Outpatients Department	ChIJc3b13H4OZ0gRXruGLJda4Gc	hospital|health|point_of_interest|establishment	53.3593951	-6.2682303	False	Dublin, D07 R2WY	hospital
+27	Children's Hospital Group	ChIJBwFJbrYNZ0gRlQmewFb84O0	hospital|health|point_of_interest|establishment	53.3381874	-6.293195499999999		St Anthony's Rd, Saint James' (part of Phoenix Park), Dublin 8	hospital
+28	Mater Private Network	ChIJY-Ptc34OZ0gRI1OPvEO1CDY	hospital|health|point_of_interest|establishment	53.3579182	-6.264458899999999	True	Eccles St, Dublin 7, D07 WKW8	hospital
+29	New Children's Hospital (Main Office)	ChIJNceMSj8MZ0gRgDJEp70l1c0	hospital|health|point_of_interest|establishment	53.3381678	-6.293446100000001	False	31 James's Walk, Rialto, Dublin 8, D08 E191	hospital
+30	The Mater Misericordiae University Hospital	ChIJ22_b6X4OZ0gRQm9hCo0wSog	hospital|health|point_of_interest|establishment	53.3597398	-6.267096899999999	True	Eccles St, Dublin 7, D07 R2WY	hospital
+31	St James's Hospital	ChIJe9ijRjgMZ0gRxm3aoBkMbTY	hospital|health|point_of_interest|establishment	53.339302	-6.296513099999999	True	James St, Saint James' (part of Phoenix Park), Dublin 8, D08 NHY1	hospital
+32	a+e/e.r. Mater Hospitall	ChIJ407s40gPZ0gRFOz6-pl90HY	hospital|health|point_of_interest|establishment	53.35891179999999	-6.2650197	True	Eccles St, Dublin	hospital
+33	Eccless street-private hospital	ChIJRxI4JgAPZ0gRDpCYC9LvjZ0	hospital|health|point_of_interest|establishment	53.3586198	-6.264321100000001		13 Leo Ave, Phibsborough, Dublin, D07 C6Y1	hospital
+34	OPD - Out Patients Department, Temple Street Children's Hospital	ChIJgZunmn0OZ0gR5HuR5DOARlc	hospital|health|point_of_interest|establishment	53.3569973	-6.261303799999999	False	Temple St, Rotunda, Dublin	hospital
+35	A&E - Accident & Emergency Department, Temple Street Children's Hospital	ChIJp7VwkH0OZ0gRIrYZ5eWnDV0	hospital|health|point_of_interest|establishment	53.3570683	-6.2613566	True	Temple St, Rotunda, Dublin	hospital
+36	Saint James's Hospital Accident and Emergency	ChIJazm_ZUcMZ0gRFvbpl0J-sJA	hospital|health|point_of_interest|establishment	53.33903369999999	-6.2974596	True	South-West Inner City, Dublin	hospital
+37	Ofarrell House	ChIJzwT3zWAPZ0gRYD7AflMBNgU	hospital|health|point_of_interest|establishment	53.35309780000001	-6.257749899999999		19 .28 Cumberland St N, Rotunda, Dublin, 1	hospital
+38	(Old) Meath Hospital	ChIJPb9x1SANZ0gRxNIdD5gAWqU	hospital|health|point_of_interest|establishment	53.3356461	-6.2692559		Old meath hospital, Heytesbury St, Dublin	hospital
+39	Mater Private Healthcare Group Admin Office	ChIJ20bsTHwOZ0gR_z1X5VjCa8I	hospital|health|point_of_interest|establishment	53.359188	-6.2621248		1 Synnott Pl, Dublin, D07 YV09	hospital
+40	Foundling Hospital	ChIJx4hCikcMZ0gRf66HznXMEn4	hospital|health|point_of_interest|establishment	53.3420424	-6.295784299999999		1 Mount Brown, Saint James' (part of Phoenix Park), Dublin 8, D08 X8Y2	hospital
+41	Renal Day Care	ChIJ9c96AX8OZ0gRjhZcerKN_L8	hospital|health|point_of_interest|establishment	53.3589201	-6.2681736	False	38 Eccles St, Phibsborough, Dublin 7, D07 V294	hospital
+42	St. Gabriel's Ward, Mater Misericordiae University Hospital	ChIJna788lIPZ0gR6smm7Vgheqg	hospital|health|point_of_interest|establishment	53.3594379	-6.2672181		Inns Quay, Dublin	hospital
+43	New Childrens Hospital Site	ChIJK75QelMNZ0gRPUbzd-vVtBM	hospital|health|point_of_interest|establishment	53.3394258	-6.2988037		Saint James' (part of Phoenix Park), Dublin	hospital
+44	Coombe Womens Hospital	ChIJvw74OkEMZ0gRjnITwLSsALY	hospital|health|point_of_interest|establishment	53.3346666	-6.288554899999999	True	Cork St, Saint James' (part of Phoenix Park), Dublin, D08 XW7X	hospital
+45	Rcsi Hospitals Group	ChIJwWK2-Z4OZ0gR-lli3pkDjyE	hospital|health|point_of_interest|establishment	53.337813	-6.2628127		111 St Stephen's Green, Dublin, D02 VN51	hospital
+46	Beacon Hospital	ChIJfd9PQEQMZ0gRz4p7pGvpLLw	hospital|health|point_of_interest|establishment	53.339324	-6.3038932		656 S Circular Rd, Ushers, Dublin 8, D08 RT4A	hospital
+47	Royal Victoria Eye and Ear Hospital	ChIJBajgkaEOZ0gRxptQgo5KaLY	hospital|health|point_of_interest|establishment	53.3327052	-6.2558259	False	Royal Victoria Eye and Ear Hospital, Adelaide Rd, Dublin 2, D02 XK51	hospital
+48	NM Hospital	ChIJtR5I6sMPZ0gRm1xLZfRLxpk	hospital|health|point_of_interest|establishment	53.3403235	-6.2459669		Holles St, Dublin	hospital
+49	The National Maternity Hospital	ChIJOXUMIZQOZ0gRAYSeV0PwjJI	hospital|health|point_of_interest|establishment	53.3398749	-6.245535599999999	True	Holles St, Dublin, D02 YH21	hospital
+50	Inchicore Primary Care Centre, HSE	ChIJDyneOcENZ0gRfRxSIg6CmUg	hospital|health|point_of_interest|establishment	53.3387311	-6.316246599999999	False	St Michael's Estate, Inchicore, Dublin	hospital
+51	St Vincent's Hospital, Fairview	ChIJEbpKsmcOZ0gR1j2eBUAxzek	hospital|health|point_of_interest|establishment	53.3653513	-6.2436428		Convent Ave, Ballybough, Dublin 3	hospital
+52	Bon Secours Hospital Dublin	ChIJmbtfb3MOZ0gRDY5q62RjI_E	hospital|health|point_of_interest|establishment	53.3759726	-6.267276	True	Glasnevin Hill, Glasnevin, Dublin 9, D09 YN97	hospital
+53	Day Hospital	ChIJ7eezGJ8PZ0gRepdNr8lLJ94	hospital|health|point_of_interest|establishment	53.3253792	-6.248780099999999		The Royal Hospital Donnybrook, Morehampton Rd, Dublin, 4	hospital
+54	The Royal Hospital Donnybrook	ChIJe7UQoboOZ0gR8f3NLxa3DVw	hospital|health|point_of_interest|establishment	53.3250523	-6.248124499999999	True	Morehampton Rd, Ranelagh, Donnybrook, Co. Dublin, D04 HX40	hospital
+55	Children's Health Ireland (CHI) at Crumlin	ChIJe2PK8ooMZ0gRLaI6SijhVyA	hospital|health|point_of_interest|establishment	53.3265089	-6.3175373	True	Cooley Rd, Crumlin, Dublin, D12 N512	hospital
+56	a+e/e.r. Our Lady's Hospital for Sick Children	ChIJ-TNwdlgNZ0gRmB4r5TXBimA	hospital|health|point_of_interest|establishment	53.3264228	-6.3176557	True	Cooley Rd, Crumlin, Dublin	hospital
+57	Hospital Genie	ChIJGyW0wrkOZ0gR4ImyvrqwnNE	hospital|health|point_of_interest|establishment	53.32547770000001	-6.2415633		Morehampton Rd, Ranelagh, Dublin, D04 K2W8	hospital
+58	St Mary Hospital entrance - Nursing Home	ChIJf0gzDD4NZ0gREejJbqxbTUc	hospital|health|point_of_interest|establishment	53.3467578	-6.336955199999999		Chapelizod, Dublin	hospital
+59	Elmhurst Day Hospital & Nursing Home	ChIJG_BW0cUPZ0gR1j-OF1sMxfo	hospital|health|point_of_interest|establishment	53.3812906	-6.2622142		Hampstead Ave, Ballymun Rd, Glasnevin, Dublin 9, D09 XNV2	hospital

@@ -1,0 +1,9 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
+0	Maxol	ChIJO4Bhv70OZ0gRPgqJJwFZszM	gas_station|point_of_interest|establishment	53.3338748	-6.246179	True		gas_station
+1	George's Quay j.j kavanagh bus stop	ChIJmU2Ll4MPZ0gRRSQdrNggr48	gas_station|transit_station|point_of_interest|establishment	53.3473868	-6.2535973			gas_station
+2	Applegreen	ChIJF6dBaRcMZ0gRhCc3SToIdQE	gas_station|point_of_interest|establishment	53.3298958	-6.2800786	True		gas_station
+3	Circle K Express Usher's Quay	ChIJfWFaZS8MZ0gRi-i4TadkgQs	gas_station|point_of_interest|establishment	53.3454437	-6.277834100000001	True		gas_station
+4	Pitstop R111	ChIJh4TzaxcMZ0gRMN_It65edvY	gas_station|point_of_interest|establishment	53.3298613	-6.280215800000001			gas_station
+5	D4 Fuels	ChIJf1aneVEPZ0gRPz_RM0tWfMY	gas_station|point_of_interest|establishment	53.3327192	-6.235893000000001	True		gas_station
+6	Maxol	ChIJp6BycewOZ0gRFUOt66nDnMw	gas_station|point_of_interest|store|establishment	53.3417257	-6.234847500000001	True		gas_station
+7	Circle K Grosvenor (Rathmines)	ChIJNSW8dAMMZ0gR__JpOo8etrw	gas_station|convenience_store|food|point_of_interest|store|establishment	53.32092950000001	-6.268083499999999	True	1.0	gas_station

@@ -1,0 +1,12 @@
+	name	place_id	price_level	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Marks and Spencer	ChIJ-3Zy_zYMZ0gRYsVNNGtOzr0	2.0	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.34642720000001	-6.294218600000001	True	department_store
+1	Dunnes Stores	ChIJLU3lgGkMZ0gRdGmmTE1SUs4		supermarket|department_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3303345	-6.3019001	True	department_store
+2	manor	ChIJfR6Fji0MZ0gRaTCzW3zz4rA		department_store|point_of_interest|store|establishment	53.3513988	-6.2831713		department_store
+3	Dunnes Stores	ChIJ6zHtjzoMZ0gRa02otqbUo6Q		department_store|supermarket|grocery_or_supermarket|cafe|food|point_of_interest|clothing_store|store|establishment	53.3400719	-6.263209799999998	False	department_store
+4	Argos St Stephens Green (Dublin)	ChIJsyB-8ZkOZ0gRpS-7x0QDZY8	2.0	department_store|jewelry_store|electronics_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3401991	-6.262872499999999	False	department_store
+5	TK Maxx	ChIJcwSBJ5wOZ0gRR4V2TmRLun0	1.0	department_store|point_of_interest|store|establishment	53.3397379	-6.261773499999999	False	department_store
+6	Argos Dublin Jervis Street	ChIJp5v9-YIOZ0gRmnQDxNDR7nc	2.0	department_store|jewelry_store|electronics_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.34823779999999	-6.2661793	False	department_store
+7	Carraig Donn Jervis	ChIJnShz_4IOZ0gRjUklgFnsl3A		department_store|point_of_interest|store|establishment	53.3487209	-6.265780700000001	False	department_store
+8	Marks and Spencer	ChIJ19axsIMOZ0gRsz4tFcp1RAs	2.0	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.3488949	-6.264739799999999	False	department_store
+9	Brown Thomas Dublin	ChIJo8CUnJsOZ0gRsRsxHKkaTKU		department_store|point_of_interest|store|establishment	53.3424295	-6.259930999999999	True	department_store
+10	Marks and Spencer	ChIJERvGmpsOZ0gR2DQz5W_YgYw	2.0	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.3422196	-6.2594935	True	department_store

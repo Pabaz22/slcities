@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Imaal Auto Services	ChIJrZWy2NENZ0gRBTCKPdX2eeU	car_repair|point_of_interest|establishment	53.3615701	-6.2862486	False		car_repair
+1	Motorways Car Body Repairs	ChIJtxPdM8kNZ0gR-tvtzZlxKQE	car_repair|point_of_interest|establishment	53.3619353	-6.293648799999999			car_repair
+2	MSL Service Centre	ChIJa2tfC80NZ0gR6lpk5EPzo4Y	car_repair|point_of_interest|store|establishment	53.3572947	-6.2869571	False		car_repair
+3	Dalymount Tyres	ChIJazTU_tANZ0gRmKDlY9au8VU	car_repair|point_of_interest|store|establishment	53.3636485	-6.282815599999999	False		car_repair
+4	firststop	ChIJ48VE-dANZ0gRD6wBHLJpQPk	car_repair|point_of_interest|store|establishment	53.36366549999999	-6.2826799	False		car_repair
+5	Auto Radiator Repairs	ChIJk6BiqNMNZ0gRg5yuOdOcMEM	car_repair|point_of_interest|store|establishment	53.358414	-6.2816525	False		car_repair
+6	Dnm Dpf Solutions And Cleaning	ChIJH9cZq9MNZ0gRqEWnjFiBGZA	car_repair|point_of_interest|establishment	53.3583098	-6.2811632	False		car_repair
+7	Dnm Tyres Ltd	ChIJH9cZq9MNZ0gROSxPDk75jrc	car_repair|point_of_interest|establishment	53.3583098	-6.2811632	False		car_repair
+8	Forrester Motors	ChIJOcrQrtMNZ0gRfUmD8OdUtwU	car_repair|point_of_interest|establishment	53.3582048	-6.2811787	False		car_repair
+9	The Park Motor Centre Ltd	ChIJoe10Lc0NZ0gR8fo5ctV2kN8	car_repair|point_of_interest|establishment	53.3554148	-6.2871699	False		car_repair
+10	Blackhorse Tyres	ChIJEWdlG8sNZ0gRLgJ1hya9-SM	car_repair|point_of_interest|store|establishment	53.35640759999999	-6.2949801	False		car_repair
+11	DMD Pro Tint	ChIJTa35GAcNZ0gRREP6unPi9iU	car_repair|point_of_interest|establishment	53.35507989999999	-6.2874732	False		car_repair
+12	Polycar Ireland	ChIJLVsLdg4MZ0gRls68OuvLaC0	car_wash|car_repair|point_of_interest|establishment	53.3550821	-6.286261000000001	False		car_repair
+13	Mobile tyre and punctures call out 24hour	ChIJe8-_mNwNZ0gR3xi2_xdr3cU	car_repair|point_of_interest|store|establishment	53.35474139999999	-6.2881104	True		car_repair
+14	B&M Autoparts	ChIJdcWyzTIMZ0gRuOG9yyX67LA	car_repair|point_of_interest|establishment	53.35464439999999	-6.286769199999999			car_repair
+15	Parkview Diesel Electrical Ltd	ChIJJcLVvXQOZ0gRKt1MS_UCbCI	car_repair|point_of_interest|establishment	53.3551934	-6.293726299999999	False		car_repair
+16	MOTORPARTS LTD	ChIJUwl1pdINZ0gRZ0Nxj7hKdzg	car_repair|point_of_interest|store|establishment	53.3533999	-6.286273099999999	False		car_repair
+18	Manor Autoservice Ltd	ChIJR5EZxTYNZ0gRPg5Nl75hlyg	car_repair|point_of_interest|establishment	53.3532685	-6.284945799999999	False		car_repair
+19	Abbie Windows and Glazing Ltd	ChIJJ95vvT4MZ0gRXxzYHF67rls	car_repair|point_of_interest|establishment	53.36566969999999	-6.3007469	False		car_repair
+20	TC Motors	ChIJ-xAJb8MNZ0gR2ygHYx-TAgc	car_repair|point_of_interest|establishment	53.3718258	-6.2907044	False	Unit 23b, Moyle Rd, Dublin Industrial Estate, Dublin, 11	car_repair
+22	DG autos	ChIJxwzBBy4MZ0gRBA4eBNgDd5Y	car_repair|point_of_interest|establishment	53.3496355	-6.282563	False	55b Arbour Hill, Stoneybatter, Dublin 7, D07 YN32	car_repair
+23	Gabor Blanchardstown Auto	ChIJB0Wn95ESZ0gRCQBaNtSX61A	car_repair|point_of_interest|establishment	53.374679	-6.291496	False	100 Slaney Rd, Cabra East, Dublin	car_repair
+24	John McCormack Motors	ChIJ1WHS0IEOZ0gRDOEAoCE81Jg	car_repair|point_of_interest|establishment	53.35248559999999	-6.2694619	False	1 Henrietta Ln, Dublin, D01 Y138	car_repair
+25	Fast Car Service	ChIJW2_VC8ANZ0gRVKOVEVCISB8	car_repair|point_of_interest|establishment	53.374598	-6.302824999999999	False	Unit 2, Tolka Valley Business Park, Ballyboggan Rd, Cabra West, Dublin 11	car_repair
+26	Dublin 9 Auto Repairs	ChIJXSg6cj4PZ0gR4KK0WgE7-FM	car_repair|point_of_interest|establishment	53.3682148	-6.2633861	False	55b Iona Cres, Botanic, Dublin, D09 X5X9	car_repair
+27	Mechanic 24hr - Car Service & Repairs	ChIJQdpp2-cNZ0gRD-AFli2xkE0	car_repair|point_of_interest|store|establishment	53.37804269999999	-6.2886953	False	Bellevue Industrial Estate, Unit 9, Tolka Valley Rd, Dublin 11, D11 H983	car_repair
+28	Expert Automotive	ChIJLYQymXwOZ0gRMw-U6c6xzdg	car_repair|point_of_interest|establishment	53.3614368	-6.2601178	False	59B Dorset Street Lower, Dublin 1, D01 C5R3	car_repair
+29	Allens Garage	ChIJRc0c-DkMZ0gRpq4TRyGrEJM	car_repair|point_of_interest|establishment	53.34325759999999	-6.2892135	False	42a James St, The Liberties, Dublin, D08 P7DT	car_repair
+30	Value Motors	ChIJJwKjfugNZ0gRnIu0l65693Y	car_repair|point_of_interest|establishment	53.37906950000001	-6.2903801	False	Finglas Business Park, Unit 1, Tolka Valley Rd, Dublin 11	car_repair
+31	R&R Motors	ChIJxxTdd2QOZ0gRPjT0Lf9ICoU	car_repair|point_of_interest|establishment	53.3621199	-6.2535108	False	14 Robert St, Drumcondra, Dublin 3, D03 YH60	car_repair
+32	H&M Motors	ChIJT-kAc5wPZ0gRZDZIqBlDji0	car_repair|point_of_interest|establishment	53.3617974	-6.252943999999999	False	Ballybough, Dublin	car_repair
+33	DC Motors	ChIJP_VGQW8OZ0gR-nDiLYLW9RY	car_repair|point_of_interest|establishment	53.368921	-6.2535416	True	15 Richmond Rd, Ballybough, Dublin 1, D03 WF57	car_repair
+34	South Dublin Autos	ChIJKYnaiD8MZ0gRPpL4-SnznCM	car_repair|point_of_interest|establishment	53.3349489	-6.2948838	False	371-385, 371-385 S Circular Rd, Rialto, Dublin, D08 T6P9	car_repair
+35	Foley Motors	ChIJVYqNyV8OZ0gRtGrSrf7ztsw	car_repair|point_of_interest|store|establishment	53.359612	-6.241806899999999	False	Spring Garden Street Railway Arch, North Strand, Dublin 3	car_repair
+36	Dublin Auto Repairs	ChIJk1V4zxcMZ0gRO3lBSywiMuA	car_repair|point_of_interest|establishment	53.33265129999999	-6.2821257	False	69 Donore Ave, Saint Catherine's, Dublin, D08 E2K3	car_repair
+37	CarDock	ChIJVeJP6ZEOZ0gRIleYlPn3x_Q	car_repair|health|point_of_interest|establishment	53.3451335	-6.2484177	False	16 Lombard St E, Dublin, D02 YY19	car_repair
+38	C & G Motors	ChIJ3Ttr8VgMZ0gRC1TJjGFlt6A	car_repair|point_of_interest|establishment	53.3390765	-6.3206717	False	136 Emmet Rd, Inchicore, Dublin 8	car_repair
+39	Larkin Automotive	ChIJdYD6e_oNZ0gRS5xVm1KW7xE	car_dealer|car_repair|point_of_interest|store|establishment	53.3908163	-6.3008422	False	10 North Rd, Finglas, Dublin, D11 HK73	car_repair
+40	Autorays Garage & Mobile Mechanics	ChIJzbWQu9UNZ0gRuG1BbN6eOuQ	car_repair|point_of_interest|establishment	53.3592178	-6.273765699999999	True	9 Norton's Ave, Phibsborough, Dublin 7, D07 XW88	car_repair
+41	@ Home Auto Body Shop	ChIJPZzxjdwNZ0gRjSbzXfcVwh4	car_repair|point_of_interest|establishment	53.371878	-6.285657	False	Unit 131, Slaney Rd, Dublin 11	car_repair
+42	D7crashrepairs	ChIJm3d5738OZ0gR9x209_tZZgo	car_repair|point_of_interest|establishment	53.356533	-6.269749	False	16 Blessington Ln, Dublin 7, D07 PX97	car_repair
+43	John Keaney Motors	ChIJhUcE83AOZ0gRdRG5H2k-RHg	car_repair|point_of_interest|establishment	53.368478	-6.2636698		52B Iona Crescent, Glasnevin, Dublin	car_repair
+44	Paul Walsh Garage.	ChIJZX41wqINZ0gRMAqRWvF7zL0	car_repair|point_of_interest|establishment	53.373092	-6.318206	False	80 Ashington Rise, Ashtown, Dublin 7, D07 YC63	car_repair
+45	Fairview Motors (Service Dept)	ChIJC-dQBVwOZ0gReUTJa0r8TiE	car_repair|point_of_interest|establishment	53.3636507	-6.2382772		43a Windsor Ave, Ballybough, Dublin 3, D03 P2F9	car_repair
+46	Fran Scully Motor Repairs	ChIJI4wslkMOZ0gR-0Y9FIRvGzo	car_repair|point_of_interest|establishment	53.3717382	-6.2409136		72 Annadale Cres, Ballybough, Dublin 9, D09 Y0C2	car_repair
+47	L&D Crash Repairs	ChIJ9c0qHtkNZ0gRAuAC7iUtu_U	car_repair|point_of_interest|establishment	53.3306762	-6.296166599999999	False	Unit B, 65 Crumlin Rd, Drimnagh, Dublin, D12 CPR2	car_repair
+48	FT Autos	ChIJ45os92oMZ0gRMrrnqzWn1Ek	car_repair|point_of_interest|establishment	53.3305857	-6.2960226		65B Crumlin Rd, Crumlin, Dublin 12, D12 CPR2	car_repair
+49	Bloomfield Garage ( Service Department)	ChIJ22xQLB8MZ0gRbAx8jg2nQ0k	car_repair|car_dealer|point_of_interest|store|establishment	53.33182559999999	-6.2719697	False	57 Bloomfield Ave, Portobello, Dublin, D08 V6K3	car_repair
+50	CARS OF FAIRVIEW A.Keyes & K.Whelan T/A	ChIJ56Vp81sOZ0gRyzPT192RyVI	car_repair|point_of_interest|establishment	53.3642257	-6.236974099999999	False	Windsor Mews, Fairview Ave Lower, Fairview, Dublin	car_repair
+51	Falconer Auto	ChIJ9y6P_VEPZ0gRQ9LjBrKGHUs	car_repair|point_of_interest|establishment	53.3527701	-6.238254	False	3 Malachi Pl, East Wall, Dublin, D03 XP86	car_repair
+52	Inchicore Motors	ChIJuxr_PPQMZ0gRsK5DOA3EFGY	car_repair|point_of_interest|establishment	53.3354714	-6.3277679	False	94 Tyrconnell Rd, Inchicore, Dublin, D08 CHV1	car_repair
+53	Express Car Care	ChIJ8wFudvIMZ0gRG1x3_I-QckU	car_repair|point_of_interest|store|establishment	53.395946	-6.297542	False	Jamestown Business Park, Jamestown Rd, Finglas North, Dublin	car_repair
+54	Hopkins & Lockhart Motors Limited	ChIJK2H4sFEOZ0gRtTPc2YGv0NI	car_repair|point_of_interest|establishment	53.32952419999999	-6.260362400000001	False	30 Athlumney Villas, Ranelagh, Dublin 6, DO6YW82	car_repair
+55	Kelly's Garage	ChIJp7H5LacOZ0gRQX1dEbYbjKg	car_repair|point_of_interest|establishment	53.3288503	-6.261859299999999	False	13A Mountpleasant Ave Lower, Ranelagh, Dublin, D06 YP71	car_repair
+56	Pat Conlon Motors	ChIJj-DdwRoMZ0gRGdLXSeaC0js	car_repair|point_of_interest|store|establishment	53.3242162	-6.2758894	False	59 Grosvenor Ln, Harold's Cross, Dublin, D06 T9P3	car_repair
+57	Cobra Garage	ChIJ68q4zY4MZ0gR4-p3VeAkHxk	car_repair|point_of_interest|establishment	53.3237087	-6.326226999999999	False	Hughes Rd E, Crumlin, Dublin 12, D12 T257	car_repair
+58	Paul Landers Auto Body Repair	ChIJr8nWHokMZ0gRWmoNQ0F93RY	car_repair|point_of_interest|establishment	53.32369449999999	-6.3270219	False	Balfe Ave, Walkinstown, Dublin	car_repair
+59	Car Repair Centre	ChIJzxnSZE4NZ0gRhZ8cQK2IeyE	car_repair|point_of_interest|establishment	53.3273226	-6.3372844	False	Concorde Industrial Estate, Unit 4, Naas Rd, Dublin 12	car_repair

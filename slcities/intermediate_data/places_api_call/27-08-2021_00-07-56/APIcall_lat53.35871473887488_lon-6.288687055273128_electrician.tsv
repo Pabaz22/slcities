@@ -1,0 +1,12 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Electrician (essential / house calls)	ChIJqfZPgloNZ0gRzNJ6FIoNDLM	electrician|general_contractor|point_of_interest|establishment	53.3607811	-6.281204600000001	True	electrician
+1	Rostek	ChIJr8spIjYNZ0gRDtHbt5i8D18	electrician|point_of_interest|establishment	53.3532589	-6.286939900000001		electrician
+2	Netcomm | Electrical Services Dublin	ChIJP4pXBIMMZ0gR3Mx1x645QIg	electrician|point_of_interest|establishment	53.3612011	-6.2771929	False	electrician
+3	TGS Electrical	ChIJ49m-CpgNZ0gRLFnI9bhBvCo	electrician|point_of_interest|establishment	53.3514391	-6.2968892		electrician
+4	Dublin Electrical Services | Emergency Electrician Dublin	ChIJW6JZSLF_XUgRE1X8yVJjkeo	electrician|point_of_interest|establishment	53.34885269999999	-6.279043499999999	True	electrician
+5	Ecw Ltd	ChIJnzXAJzAMZ0gRH42xwZKa2vo	electrician|point_of_interest|establishment	53.3462651	-6.282694100000001		electrician
+6	DunneElec Electrical Contractors	ChIJld1Mh08NZ0gRkSGCfKevyL4	electrician|point_of_interest|establishment	53.37240079999999	-6.293799499999999	False	electrician
+7	Acrobat Electrical	ChIJGYHOJd0NZ0gR5PUD-n0WK94	electrician|point_of_interest|establishment	53.37382720000001	-6.288252100000001		electrician
+8	Aurora Electrical Ltd	ChIJl2jhRHwNZ0gRV6BwPZXfZuQ	electrician|point_of_interest|establishment	53.3745485	-6.289284200000001		electrician
+9	Ian Kelly Electrical Ltd.	ChIJD3XAF8INZ0gRq2P533bfXF0	electrician|point_of_interest|establishment	53.3749022	-6.294692	False	electrician
+10	ER Building Group LTD	ChIJ6cZBcU4MZ0gRkOonHC60Kuw	painter|electrician|plumber|roofing_contractor|general_contractor|point_of_interest|establishment	53.3420819	-6.296338200000001	False	electrician

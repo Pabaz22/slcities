@@ -1,0 +1,58 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Mother’s Tankstation - Dublin	ChIJI0huSDAMZ0gRvMVIkr-fkSk	art_gallery|point_of_interest|establishment	53.346291	-6.28449	False		art_gallery
+1	3 Walls Gallery	ChIJV7swcuQNZ0gRADFR78WkhP8	art_gallery|point_of_interest|establishment	53.35238400000001	-6.289410800000001			art_gallery
+2	Steam Box	ChIJbTcuJzsMZ0gRc2Qv-5MZGs4	art_gallery|point_of_interest|establishment	53.3415275	-6.282726			art_gallery
+3	Damn Fine Print	ChIJaSPH_i4MZ0gR_hOqCAFL0rQ	art_gallery|point_of_interest|establishment	53.3506568	-6.280290699999998	False		art_gallery
+4	NCAD Gallery	ChIJ__9vDCUMZ0gRr55TYIHLx60	art_gallery|point_of_interest|establishment	53.34292809999999	-6.2789359	False		art_gallery
+5	studio ex	ChIJ5VViuK0NZ0gRaPDUQv7rutQ	art_gallery|point_of_interest|store|establishment	53.346044	-6.276313600000001	False		art_gallery
+6	Iveagh Gallery	ChIJsXnUJyQMZ0gRHDjJsKldoxs	art_gallery|point_of_interest|establishment	53.3413991	-6.2746857			art_gallery
+7	Greta Thunberg graffiti	ChIJKyXkNEUNZ0gRBqNvCDCVl5c	art_gallery|point_of_interest|establishment	53.3469439	-6.27203	True		art_gallery
+8	Patrick Howard Antiques	ChIJgyvhHyQMZ0gRLSt85s-Ewm8	art_gallery|home_goods_store|point_of_interest|store|establishment	53.340584	-6.274155399999999	False		art_gallery
+9	Michael Mortell	ChIJ-w59oCYMZ0gRyc1_wADadsQ	art_gallery|furniture_store|home_goods_store|point_of_interest|store|establishment	53.3405485	-6.274102200000001	False		art_gallery
+10	Ceramics Zozimus	ChIJmwLInyYMZ0gRTnv3ivx1xpQ	art_gallery|point_of_interest|establishment	53.34023060000001	-6.273986300000001	False		art_gallery
+11	The Market Studios	ChIJtTVplCkMZ0gRIYxf10SnfDM	art_gallery|point_of_interest|establishment	53.3492481	-6.271252			art_gallery
+12	Gallery Zozimus	ChIJne86pyYMZ0gRIiJ6XcMMKRE	art_gallery|point_of_interest|establishment	53.34029229999999	-6.273869899999999	False		art_gallery
+13	Nag Gallery	ChIJF-9apiYMZ0gR61oOxJG-aG0	art_gallery|point_of_interest|establishment	53.3401685	-6.273862299999999			art_gallery
+14	Jam Art Factory	ChIJXVBK6SYMZ0gRoALoWfDf29A	art_gallery|point_of_interest|store|establishment	53.34117	-6.272100000000001	False		art_gallery
+15	Caxton Antique Prints	ChIJoT5B6SYMZ0gRyiM-BCcZdUE	art_gallery|home_goods_store|point_of_interest|store|establishment	53.3411218	-6.2721024	False		art_gallery
+16	Monster Truck Gallery & Studios Ltd	ChIJqRGqrCYMZ0gRvCdVk721gbU	art_gallery|point_of_interest|establishment	53.33940880000001	-6.273491600000001			art_gallery
+17	Art Prints	ChIJl9YYExgNZ0gRzeVI0Zu5yGU	art_gallery|point_of_interest|store|establishment	53.3449856	-6.2695264	False		art_gallery
+18	Gallery Number One	ChIJEdRPvCcMZ0gREanoJRDfmuk	art_gallery|point_of_interest|establishment	53.34316829999999	-6.269821099999998	False		art_gallery
+19	ebow art gallery	ChIJOfHfvCcMZ0gRQXeRtXUmVkQ	art_gallery|point_of_interest|establishment	53.34303999999999	-6.269755	True		art_gallery
+20	Kevin Kavanagh Dublin	ChIJS5TDQScMZ0gRV7WZPJyKuME	art_gallery|tourist_attraction|point_of_interest|establishment	53.3410259	-6.2687331	False	Chancery Ln, Dublin 8	art_gallery
+21	Gallery of Photography Ireland	ChIJo0eBLp0OZ0gRChvCIrb6xb0	art_gallery|tourist_attraction|book_store|point_of_interest|store|establishment	53.34482320000001	-6.265444	False	Meeting House Square, Temple Bar, Dublin 2	art_gallery
+22	Coach House Gallery	ChIJ7cccgXIPZ0gRlmwb5dR-dM0	art_gallery|point_of_interest|establishment	53.3415066	-6.2666118		Leitrim House, 67 Stephen Street Upper, Dublin 8, D08 RKW1	art_gallery
+24	Temple Bar Gallery + Studios	ChIJudUINIMOZ0gR2btmsqR2X7s	art_gallery|point_of_interest|establishment	53.3455723	-6.2636547	False	5-9 Temple Bar, Dublin 2, D02 AC84	art_gallery
+25	The Arcade Gallery	ChIJUc6hVZwOZ0gRfy54y4-qaRg	art_gallery|point_of_interest|store|establishment	53.3426455	-6.2642899	False	1 George's Street Arcade, South Great George's Street, Dublin, D02 DH79	art_gallery
+26	Jam Art Factory	ChIJu3aRtZwOZ0gRRTTUW865zeo	art_gallery|point_of_interest|store|establishment	53.345149	-6.2628761	False	14A Crown Alley, Temple Bar, Dublin 2, D02 RX36	art_gallery
+27	Hillsboro Fine Art	ChIJGwKZOYEOZ0gRmacXXoTTsqc	art_gallery|point_of_interest|establishment	53.3522682	-6.264139399999999		49 Parnell Square W, Rotunda, Dublin, D01 A971	art_gallery
+28	RARE ART GALLERY	ChIJn5uLWZwOZ0gRdD-1UzlRD7Y	art_gallery|point_of_interest|establishment	53.3423117	-6.2630902	False	12 Castle Market, Dublin, D02 ND91	art_gallery
+29	Graphic Studio Gallery	ChIJ0Zv6sZwOZ0gRMpNp7WbX1YQ	art_gallery|tourist_attraction|point_of_interest|establishment	53.344994	-6.262273	False	8a Cope St, Temple Bar, Dublin 2	art_gallery
+30	The Hugh Lane	ChIJE42FqWAMZ0gRhDMWDRn7ksw	art_gallery|tourist_attraction|museum|point_of_interest|establishment	53.3541763	-6.2646519	False	Charlemont House, Parnell Square N, Rotunda, Dublin, D01 F2X9	art_gallery
+31	SO Fine Art Editions	ChIJe-TQ7ZsOZ0gRGGvKbFu7o2A	art_gallery|point_of_interest|establishment	53.342295	-6.262154799999999	False	2nd Floor Powerscourt Townhouse Centre, 59 William St S, Dublin, D02 H762	art_gallery
+32	Irish Art	ChIJRZMiZJwOZ0gRL1GoMm3KMuk	art_gallery|point_of_interest|establishment	53.3422339	-6.261800699999999		Unit 28b, Powerscourt Centre, 59 William St S, Dublin Southside, Dublin	art_gallery
+33	Balla Bán Art Gallery	ChIJjezecJwOZ0gR_BbBlrSsa7Y	art_gallery|point_of_interest|establishment	53.34201849999999	-6.2612565	False	The Westbury Shopping Mall Off, Clarendon St, Dublin 2	art_gallery
+34	Solomon Fine Art	ChIJxwnQEpwOZ0gRyXIRdgRuVPg	art_gallery|point_of_interest|establishment	53.3413426	-6.2614516	False	Balfe St, Dublin 2, D02 T802	art_gallery
+35	The Green Gallery	ChIJY2DQhZ4OZ0gRxb2g5wO_l0s	art_gallery|point_of_interest|establishment	53.340106	-6.261872299999999	False	Top Floor Stephen's Green Centre, Dublin 2	art_gallery
+37	GALLERY @ NO. SIX	ChIJq9G-85sOZ0gRp4tEAxlx2Y8	art_gallery|point_of_interest|establishment	53.341247	-6.259742	False	6 Anne St S, Dublin 2, D02 V095	art_gallery
+38	Sol Art Gallery	ChIJ4ShjsJsOZ0gRu7B_rdduwf8	art_gallery|point_of_interest|establishment	53.3462159	-6.2583541	False	The Times Building, 10 D'Olier Street, Dublin 2, D02 R671	art_gallery
+39	Kerlin Gallery	ChIJC_9Z-psOZ0gRFRUv0bfe5cc	art_gallery|tourist_attraction|point_of_interest|establishment	53.340658	-6.259557	False	Anne's Ln, Dublin 2, D02 A028	art_gallery
+40	Loom Studios	ChIJa1IPvCoMZ0gRyagGkvtCXGA	art_gallery|point_of_interest|establishment	53.3545562	-6.271867899999999	False	40 Dominick Street Upper, Phibsborough, Dublin 7	art_gallery
+41	Graffiti art	ChIJIzX1LwENZ0gRz5Ay67DKZM8	art_gallery|point_of_interest|establishment	53.3368323	-6.266416599999999		10 Liberty Ln, Portobello, Dublin, D08 T934	art_gallery
+42	Hang Tough Contemporary	ChIJsXXxPuYPZ0gRDC58SbwarxE	art_gallery|point_of_interest|establishment	53.3420447	-6.2621246	False	1 Coppinger Row, Dublin, D08 X751	art_gallery
+43	Lilly Fine Art	ChIJiSq7ZJwOZ0gRaMos9dBgaoM	art_gallery|point_of_interest|establishment	53.3423359	-6.2615397		Powerscourt Townhouse Centre, 59 William St S, Dublin 2	art_gallery
+44	Frame Art	ChIJ9SAKnp4OZ0gRwTgMciM-d9k	art_gallery|point_of_interest|establishment	53.3399063	-6.2622177	False	St Stephen's Green, Dublin	art_gallery
+45	Duke Street Gallery	ChIJ6xPMlZsOZ0gRiUcfrr2t584	art_gallery|point_of_interest|establishment	53.341774	-6.2588922	False	17 Duke St, Dublin 2, D02 W310	art_gallery
+46	darc space gallery	ChIJ0X-yAYcOZ0gR9kfpJ9PxsTQ	art_gallery|point_of_interest|establishment	53.35365969999999	-6.260008		26 N Great George's St, Rotunda, Dublin, D01 X3E5	art_gallery
+48	Art for Art's Sake	ChIJ3fuB3B4MZ0gRYOUZTxxDJoE	art_gallery|point_of_interest|establishment	53.33087500000001	-6.2706817		30 Avenue Rd, Portobello, Dublin 8, D08 DK60	art_gallery
+49	Gormleys Fine Art	ChIJh5c0TpoOZ0gRxNDo8q5PKAE	art_gallery|point_of_interest|establishment	53.342245	-6.2563903	False	27 Frederick St S, Dublin 2, D02 EP03	art_gallery
+50	The Basement Gallery	ChIJGT65fWMPZ0gRgMinkFPRUOU	art_gallery|point_of_interest|establishment	53.3420231	-6.2564305	True	28 Frederick St S, Dublin, D02 YW57	art_gallery
+51	The Doorway Gallery	ChIJgxXXUZoOZ0gRXt5nZ3C3iEM	art_gallery|point_of_interest|establishment	53.3422534	-6.256291399999999	True	24 Frederick St S, Dublin 2, D02 XP30	art_gallery
+52	The Molesworth Gallery	ChIJ1YyuMZoOZ0gR_fmVUiyuN2g	art_gallery|point_of_interest|establishment	53.34110459999999	-6.2561652	False	16 Molesworth St, Dublin 2, D02 YF58	art_gallery
+53	Gallery 29	ChIJSyNFLpoOZ0gRboawrNjekbc	art_gallery|point_of_interest|establishment	53.3408664	-6.2561231		29 Molesworth St, Dublin 2, D02 PF82	art_gallery
+54	Gorry Gallery	ChIJSwtZFMJWREgRfAKo387E5bY	art_gallery|point_of_interest|establishment	53.3410349	-6.255706399999999		20 Molesworth St, Dublin 2	art_gallery
+55	Taylor Galleries	ChIJmT6anZkOZ0gR1-9X6SUsLJo	art_gallery|point_of_interest|establishment	53.3393824	-6.2564044	False	16 Kildare St, Dublin 2, D02 XF75	art_gallery
+56	Oonagh Young Gallery	ChIJU0sVxogOZ0gRWj8YvLhDG0E	art_gallery|point_of_interest|establishment	53.3516591	-6.253334499999999	False	1 James Joyce Street, Mountjoy, Dublin, D01 X2Y8	art_gallery
+57	The LAB	ChIJa0qwzYgOZ0gRRALPZAbW55o	art_gallery|point_of_interest|establishment	53.3515604	-6.252930999999999	False	1 Foley St Dublin 1 D01 WA07 Foley St, Mountjoy, Dublin 1, D01 WA07	art_gallery
+58	Atelier Now	ChIJuxrZIEoPZ0gRPgWORruT0VY	art_gallery|point_of_interest|establishment	53.331228	-6.2615646	False	Block 3, Charlemont St, Saint Kevin's, Dublin, D02 ET63	art_gallery
+59	National Gallery of Ireland	ChIJb1ecSpcOZ0gRMQ3w0Qyz_Vg	art_gallery|tourist_attraction|point_of_interest|store|establishment	53.3409266	-6.2525147	False	Merrion Square W, Dublin 2, D02 K303	art_gallery

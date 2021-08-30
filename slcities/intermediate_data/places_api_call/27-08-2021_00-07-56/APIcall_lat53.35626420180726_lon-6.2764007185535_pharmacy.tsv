@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Flanagan's Pharmacy	ChIJmVfDc38OZ0gRHoUT8jsOl2I	pharmacy|health|point_of_interest|store|establishment	53.3589506	-6.270032699999999			pharmacy
+1	Mountjoy Street Careplus Pharmacy	ChIJ5VTmnjUPZ0gR4Vor4jdJnC8	pharmacy|health|point_of_interest|store|establishment	53.3563342	-6.268420700000001	False		pharmacy
+2	Collis Pharmacy	ChIJba-24NUNZ0gRObPuG0GPSHw	pharmacy|health|point_of_interest|store|establishment	53.360729	-6.273507	False		pharmacy
+3	Dargans Pharmacy	ChIJm0-4yH8OZ0gRV0M_EOE9v1A	pharmacy|health|point_of_interest|store|establishment	53.3569697	-6.2682347	False		pharmacy
+4	Hickey's Pharmacy Phibsboro - Late Night	ChIJm4HJB9YNZ0gRS6Nsa1uQSgc	pharmacy|health|point_of_interest|store|establishment	53.3615757	-6.2729892	False		pharmacy
+5	Manor Pharmacy	ChIJ40GIfy0MZ0gR74NhyL4QPus	pharmacy|health|point_of_interest|store|establishment	53.3524571	-6.283629700000001	False		pharmacy
+6	Boots	ChIJlddrDtUNZ0gRs6a7P8Ld7-0	pharmacy|health|point_of_interest|store|establishment	53.36157779999999	-6.272517799999999	False		pharmacy
+7	Pharmacy Benevolent Fund	ChIJ_cQW7ysMZ0gRaQbKr8DrAO0	pharmacy|health|point_of_interest|store|establishment	53.3505181	-6.2781999			pharmacy
+8	Polonia Pharmacy	ChIJSRAPWCkMZ0gR1R77BPP8fxM	pharmacy|drugstore|health|point_of_interest|store|establishment	53.350077	-6.275485499999999	False		pharmacy
+9	Pharmacy	ChIJE9XvVykMZ0gRKuk3BPRoiH4	pharmacy|health|point_of_interest|store|establishment	53.3500495	-6.275600000000001	False		pharmacy
+10	Polskaja Apteka Dublin	ChIJE9XvVykMZ0gRreEggS8ijxs	pharmacy|health|point_of_interest|store|establishment	53.3500495	-6.275600000000001			pharmacy
+11	McFadden's Pharmacy	ChIJMyDlvTIMZ0gRmgjR5LDZxWI	pharmacy|health|point_of_interest|store|establishment	53.3535713	-6.285841199999999	False		pharmacy
+12	Janet Dillon Pharmacy	ChIJ4dRtjS0MZ0gR_rwt67--JL4	pharmacy|health|point_of_interest|store|establishment	53.35110969999999	-6.282881599999999	False		pharmacy
+13	Pharmacy Department	ChIJ2YD2WX4OZ0gRcKf1ASmjLdw	pharmacy|health|point_of_interest|store|establishment	53.359689	-6.266869199999999			pharmacy
+14	Frederick Pharmacy	ChIJMZ1Qp4AOZ0gRFA3-_tIl8no	pharmacy|health|point_of_interest|store|establishment	53.3560458	-6.2649912			pharmacy
+15	Medipharm	ChIJuSE5p4AOZ0gRPkK_woaJce4	pharmacy|health|point_of_interest|store|establishment	53.3559776	-6.264951799999999	False		pharmacy
+16	LloydsPharmacy	ChIJY5Sl5y0MZ0gRnZlODfiJ9d4	pharmacy|health|point_of_interest|store|establishment	53.3502176	-6.2819891	False		pharmacy
+17	LloydsPharmacy	ChIJvZ6u7dENZ0gRqtqoazjXUOs	pharmacy|health|point_of_interest|store|establishment	53.36128790000001	-6.2846686	False		pharmacy
+18	Dalys Pharmacy	ChIJoSAJ79ENZ0gRIsfqls1VmzA	pharmacy|health|point_of_interest|store|establishment	53.36131280000001	-6.285080199999999	False		pharmacy
+19	Market Pharmacy Smithfield	ChIJNdDHiC4MZ0gR7R6nOH6Ng4M	pharmacy|health|point_of_interest|store|establishment	53.3490925	-6.279348399999999	False		pharmacy
+20	Hogan's Life Pharmacy Parnell Street	ChIJb0xdCIIOZ0gR3FOtc1TLwZ4	pharmacy|health|point_of_interest|store|establishment	53.35059949999999	-6.2651892	False	35/41 Parnell St, North City, Dublin 1, D01 HW58	pharmacy
+21	Pharmacy Department	ChIJD0FPMIEOZ0gRC_nzQswzXEU	pharmacy|health|point_of_interest|store|establishment	53.3523916	-6.263183499999999		46 Parnell Square W, Rotunda, Dublin, D01 H2P8	pharmacy
+22	Capel Street Pharmacy	ChIJCyS6f4IOZ0gRC8XMA-I_bGg	pharmacy|health|point_of_interest|store|establishment	53.3478601	-6.2687253	False	138 Capel St, North City, Dublin 1, D01 C4E9	pharmacy
+23	Blackhall Pharmacy	ChIJ0yKbzS8MZ0gR4jCcNEo5c8g	pharmacy|health|point_of_interest|store|establishment	53.34687659999999	-6.2817532	False	13 Ellis Quay, Arran Quay, Smithfield, Dublin 7, D07 PV29	pharmacy
+24	Stack's Pharmacy	ChIJl_ytHHgOZ0gRrtrrLjebn8M	pharmacy|health|point_of_interest|store|establishment	53.36609929999999	-6.2719504	False	Glasnevin, Dublin	pharmacy
+25	Allcare Pharmacy Dorset Street	ChIJ03lWjXwOZ0gRatoUSRCQ4bQ	pharmacy|health|point_of_interest|store|establishment	53.3604041	-6.260341100000001	False	50 Dorset Street Lower, Dublin 1, D01 W524	pharmacy
+26	Boots Jervis Centre	ChIJ36jtTIIOZ0gRqP_opm2-TSs	pharmacy|health|point_of_interest|store|establishment	53.3481841	-6.2652586	False	Henry St, North City, Dublin 1, D01 E8H4	pharmacy
+27	Foley's Chemist	ChIJIcuGrYcOZ0gRGyUCQw_p3Gs	pharmacy|health|point_of_interest|store|establishment	53.35387189999999	-6.2588601	False	136 Parnell St, Rotunda, Dublin 1, D01 A9C7	pharmacy
+28	Park's Late Night Pharmacy	ChIJ3wn4Dt4PZ0gRo4jVrqxIXL0	pharmacy|drugstore|health|point_of_interest|store|establishment	53.3612648	-6.2602211	False	62 Dorset Street Lower, Inns Quay, Dublin, D01 P5V9	pharmacy
+29	Boots Henry Street	ChIJIW3EDIQOZ0gRGbagf68lHks	pharmacy|health|point_of_interest|store|establishment	53.3492285	-6.2622426	False	20 Henry St, North City, Dublin, D01 CD63	pharmacy
+30	Hickey's Pharmacy Henry Street	ChIJ11W8lYMOZ0gRDr8GhAmx7AQ	pharmacy|health|point_of_interest|store|establishment	53.34956930000001	-6.2612384	False	6 Henry St, North City, Dublin 1, D01 AK46	pharmacy
+31	Mc cabes	ChIJ_Xw-ViwPZ0gRHxLwHk3sE2Y	pharmacy|health|point_of_interest|store|establishment	53.3498092	-6.2602739		North City, Dublin	pharmacy
+32	Stanley's Pharmacy	ChIJjyAJW3sOZ0gRKW6eizz9e0A	pharmacy|health|point_of_interest|store|establishment	53.36231429999999	-6.2592973		14 Drumcondra Rd Lower, Drumcondra, Dublin, D09 E2H2	pharmacy
+33	Boles Pharmacy	ChIJi2IuRXsOZ0gRiPpjfS5IG6Y	pharmacy|health|point_of_interest|store|establishment	53.3624831	-6.259059	False	20 Drumcondra Rd Lower, Botanic, Dublin, D09 Y773	pharmacy
+34	Pure Pharmacy	ChIJbaFDJ2MOZ0gROmKy9MwkeXQ	pharmacy|health|point_of_interest|store|establishment	53.3592986	-6.2562123	False	Portland St N, Dublin	pharmacy
+35	Temple Bar Pharmacy	ChIJVfWIKoMOZ0gRFMi-m9lmjDQ	pharmacy|health|point_of_interest|store|establishment	53.34560200000001	-6.264506799999999	False	Essex St E, Temple Bar, Dublin 2	pharmacy
+36	Hickey's Pharmacy O'Connell Street - Late Night	ChIJhUu68YQOZ0gR-oXvZIRfXWw	pharmacy|health|point_of_interest|store|establishment	53.347638	-6.259761300000001	False	55 O'Connell Street Lower, North City, Dublin 1, D01 W2V3	pharmacy
+37	Reilly's Pharmacy Thomas Street	ChIJ1e2GwyUMZ0gR4hXv9vnBvsM	pharmacy|drugstore|health|point_of_interest|store|establishment	53.343032	-6.275443999999999	False	Parnell Plaza, Bertram Court, Cornmarket, Thomas St, The Liberties, Dublin, D08 WF96	pharmacy
+38	Allcare Pharmacy O'Connell Street	ChIJJ4d0-YQOZ0gREvHqcdOGgP0	pharmacy|health|point_of_interest|store|establishment	53.348	-6.259002	False	5 O'Connell Street Lower, North City, Dublin 1, D01 P9F2	pharmacy
+39	cleary's pharmacy	ChIJ-zXz8IUOZ0gR3IDjJyoHsow	pharmacy|health|point_of_interest|store|establishment	53.3503659	-6.2560199		Talbot St, North City, Dublin 1, D01 YX60	pharmacy
+40	Hilton's Pharmacy	ChIJY7POYYEOZ0gR92qzf2KzEOE	pharmacy|health|point_of_interest|store|establishment	53.3510946	-6.263838	False	Greeg Court, Parnell St, North City, Dublin 1	pharmacy
+41	Boots Ilac Centre	ChIJS7QDYYEOZ0gRP8u2ufjBbFw	pharmacy|health|point_of_interest|store|establishment	53.3501919	-6.2643946	False	Unit 20, Central Mall Ilac Centre, Dublin 1	pharmacy
+42	صيدليه	ChIJZ7Go-2UPZ0gR27lN4KPsWAM	pharmacy|health|point_of_interest|store|establishment	53.34971660000001	-6.2612416		36 Henry St, North City, Dublin 1, D01 DX32،	pharmacy
+43	Nolans Pharmacy	ChIJjyAJW3sOZ0gR1AOK2kRNJPg	pharmacy|health|point_of_interest|store|establishment	53.36231429999999	-6.2592973		14 Drumcondra Rd Lower, Drumcondra, Dublin, D09 E2H2	pharmacy
+44	Brecan Pharmacy	ChIJjyAJW3sOZ0gRWhAvLzsgO_o	pharmacy|health|point_of_interest|store|establishment	53.36231429999999	-6.2592973		14 Drumcondra Rd Lower, Drumcondra, Dublin, D09 E2H2	pharmacy
+45	Advance Pharmacy (Late Night)	ChIJOV4GW3sOZ0gRtyODiEHrUwQ	pharmacy|health|point_of_interest|store|establishment	53.36231429999999	-6.2592972	False	Drumcondra Rd Lower, Botanic, Dublin 9, D09 E2H2	pharmacy
+46	Thomas Street Pharmacy	ChIJU_H7vDoMZ0gRheHz2n2Z-uU	pharmacy|health|point_of_interest|store|establishment	53.3426884	-6.2781647	False	Ireland, 55 Thomas St, Dublin 8	pharmacy
+47	Liberties CarePlus Pharmacy Thomas street	ChIJW8krzLENZ0gR5RGxhWfb9LQ	pharmacy|health|point_of_interest|store|establishment	53.3427789	-6.280234099999999	False	36, Thomas Street Dublin 8 Dublin 8, Dublin, D08 T211	pharmacy
+48	City Pharmacy Ltd	ChIJ7YbUPJ0OZ0gRXKw1SNtfOjs	pharmacy|health|point_of_interest|store|establishment	53.3440527	-6.2654546	False	14 Dame St, Dublin 2, D02 XH24	pharmacy
+49	Tracey's Pharmacy	ChIJk7vRDoUOZ0gRIqX23T0TZLs	pharmacy|health|point_of_interest|store|establishment	53.3481503	-6.2569281	False	18 Eden Quay, North City, Dublin, D01 A403	pharmacy
+50	Maple Pharmacy	ChIJU0ImwskNZ0gR6c8enW5pkR4	pharmacy|health|point_of_interest|store|establishment	53.3614312	-6.2986898	False	3, The Maple Centre, Navan Rd, Dublin 7, D07 CKR7	pharmacy
+51	Thomas Court Pharmacy	ChIJc-HoOlYNZ0gReIj-JbJiJ7c	pharmacy|health|point_of_interest|store|establishment	53.3422133	-6.2806904	False	Hanbury Ln, The Liberties, Dublin	pharmacy
+52	Pelly's Pharmacy	ChIJs3RlwcUNZ0gRMhWfYHJB28g	pharmacy|health|point_of_interest|store|establishment	53.3670213	-6.2930295	False	26 Faussagh Ave, Cabra West, Dublin, D07 X9YN	pharmacy
+53	Hickey's Pharmacy Meath Street	ChIJY7Hl4iQMZ0gRi_zYnihW2bs	pharmacy|health|point_of_interest|store|establishment	53.3416586	-6.2790291	False	18 Meath St, The Liberties, Dublin 8, D08 V2K0	pharmacy
+54	Patrick Street Pharmacy	ChIJU8mD8iYMZ0gR_mE-mf_FF2s	pharmacy|health|point_of_interest|store|establishment	53.3414756	-6.272632799999999	False	Ardilaun Court, Patrick St, The Liberties, Dublin 8	pharmacy
+55	Medipharm	ChIJpc5iAp0OZ0gRRsDWWA4wkr4	pharmacy|health|point_of_interest|store|establishment	53.343106	-6.2642472	False	16 S Great George's St, Dublin 2	pharmacy
+56	Medipharm	ChIJsypxzecPZ0gRfKZMvPyG2wA	pharmacy|health|point_of_interest|store|establishment	53.3430893	-6.2642196	False	16 South Great George's Street, Dublin, D02 NY24	pharmacy
+57	Foley's Pharmacy	ChIJB4h9iyQMZ0gRjdQOF15Q-Bk	pharmacy|health|point_of_interest|store|establishment	53.3403557	-6.2782833	False	39 Meath St, The Liberties, Dublin 8, D08 T0X4	pharmacy
+58	Allen's Pharmacy	ChIJ_14W5GEOZ0gRzbEkabim2nM	pharmacy|health|point_of_interest|store|establishment	53.3573414	-6.248719299999999	False	10 Summerhill Parade, Dublin, D01 W526	pharmacy
+59	Boots Pharmacy Grafton Street	ChIJLYlam5sOZ0gRgFIS8dfcFuU	pharmacy|health|point_of_interest|store|establishment	53.3425166	-6.259450699999999	False	12 Grafton Street, Dublin, D02 HK49	pharmacy

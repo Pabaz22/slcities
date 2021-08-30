@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Irish River Jewellery	ChIJ_R3Y6IUOZ0gRWNe-hIP7Oko	jewelry_store|point_of_interest|store|establishment	53.350249	-6.256742	True			jewelry_store
+1	Dublin Goldsmiths	ChIJHasz74UOZ0gR5bqZxzuRrnQ	jewelry_store|point_of_interest|store|establishment	53.35030099999999	-6.256684				jewelry_store
+2	Juvi Designs	ChIJwS0e2PMJZ0gRWppztGdT8F4	jewelry_store|point_of_interest|store|establishment	53.34926249999999	-6.2584469				jewelry_store
+3	John Brereton Jewellers	ChIJv1t3OIQOZ0gRHAuGLjis-OY	jewelry_store|point_of_interest|store|establishment	53.34949349999999	-6.259615999999999	False			jewelry_store
+4	Valdo Zeni	ChIJnz5E5oQOZ0gR38dR3vihYKo	jewelry_store|point_of_interest|store|establishment	53.34956690000001	-6.2596947	False			jewelry_store
+5	Dylan Oaks	ChIJT47mmMIPZ0gRjV1SbQYC-Ig	jewelry_store|point_of_interest|store|establishment	53.34978390000001	-6.2596207	False			jewelry_store
+6	Emin Goldsmith	ChIJPcIxO4QOZ0gRfHs0lOSAP0U	jewelry_store|point_of_interest|store|establishment	53.3476624	-6.2597087	False			jewelry_store
+7	McDowells Jewellers	ChIJC9-AO4QOZ0gRxGqUjS9XKPw	jewelry_store|point_of_interest|store|establishment	53.3500729	-6.259944999999999	False			jewelry_store
+8	Diamonds Factory	ChIJh_Tn9yMPZ0gR9RB3N7MuoYE	jewelry_store|point_of_interest|store|establishment	53.3498053	-6.260309700000001	False			jewelry_store
+9	The Irish Store	ChIJp3ClXO8PZ0gR5bWrqpsrA94	jewelry_store|point_of_interest|clothing_store|store|establishment	53.35023349999999	-6.2600664	False			jewelry_store
+10	Piercer Charlie's Creations	ChIJDSC8L7YLZ0gRjlIRloR5gHU	jewelry_store|point_of_interest|store|establishment	53.3464287	-6.258452500000001	False			jewelry_store
+11	Swarovski	ChIJyYktPoQOZ0gRow19-m3qvZ4	jewelry_store|point_of_interest|store|establishment	53.34964069999999	-6.260855500000001	False	4.0		jewelry_store
+13	Des Byrne Jewellers	ChIJRQXjkIQOZ0gRkdX_QCiUnjA	jewelry_store|point_of_interest|store|establishment	53.347321	-6.260646499999999	False			jewelry_store
+14	Fields the Jeweller, Henry St.	ChIJo8WhEoQOZ0gR4AeJ5LmWWj4	jewelry_store|point_of_interest|store|establishment	53.349532	-6.261346999999999	False			jewelry_store
+15	Patrick Glynn Jewellers	ChIJ-VE5oIMOZ0gRN3Fjt5v1QEg	jewelry_store|point_of_interest|store|establishment	53.34826529999999	-6.261925299999999	False			jewelry_store
+16	Jewellery for children and young adults	ChIJQSv-poQOZ0gReAHsvhIpAQ0	jewelry_store|point_of_interest|store|establishment	53.34657999999999	-6.260669999999999				jewelry_store
+17	Fashion Paradie	ChIJOyUECYQOZ0gRkzak0dYZpyA	clothing_store|jewelry_store|point_of_interest|store|establishment	53.34993279999999	-6.2620694	False			jewelry_store
+18	THOMAS SABO	ChIJW0gFE4QOZ0gRskFU19-Ypak	jewelry_store|point_of_interest|store|establishment	53.3492212	-6.2630526	False			jewelry_store
+19	Yellow Brick Road	ChIJTU1OZoMOZ0gR9OUv0UrqpDU	jewelry_store|point_of_interest|store|establishment	53.346934	-6.262362999999999	False			jewelry_store
+20	Conways Jewellers	ChIJT_NAuYMOZ0gRKKugZQIo068	jewelry_store|point_of_interest|store|establishment	53.3490484	-6.264256899999999	False		15 Liffey St. Upper, North City, Dublin, D01 WV60	jewelry_store
+21	H.Samuel	ChIJcUDJYYEOZ0gRbYXGaMwufdk	jewelry_store|point_of_interest|store|establishment	53.34904650000001	-6.2642753	False	2.0	1 Henry St, North City, Dublin 1	jewelry_store
+22	Pandora Henry Street	ChIJidpmQSMPZ0gRop4Ify-RoGI	jewelry_store|point_of_interest|store|establishment	53.35136600000001	-6.2634417	False		Parnell Plaza, General Post Office, Henry St, North City, Dublin	jewelry_store
+23	Gear Jewellers	ChIJY7POYYEOZ0gRifgPD-7hBlc	jewelry_store|point_of_interest|store|establishment	53.3509861	-6.2642281	False		Unit 3, Parnell St, North City, Dublin, D01 XC62	jewelry_store
+25	Rhinestones Jewellery & Gifts	ChIJu90HnJwOZ0gRzJqN7ZOMFFg	jewelry_store|point_of_interest|store|establishment	53.34371950000001	-6.261662500000001	False		18 St Andrew's St, Dublin, D02 T382	jewelry_store
+26	Neil Conway Jewellers	ChIJ9-4ImpwOZ0gRMPsBrkX3OEo	jewelry_store|point_of_interest|store|establishment	53.343669	-6.261751599999999	False		9B Trinity St, Dublin 2	jewelry_store
+27	Swarovski	ChIJdYm2dZsOZ0gRfm2zqFDutW8	jewelry_store|point_of_interest|store|establishment	53.3429095	-6.2593266	False	4.0	5 Grafton Street, Dublin 2, D02 YY07	jewelry_store
+28	Dublin Diamond Factory	ChIJaaqJ1ZwOZ0gR7XXqMqbTnTg	jewelry_store|point_of_interest|store|establishment	53.3450328	-6.2647048	False		18 Eustace St, Temple Bar, Dublin, D02 WR53	jewelry_store
+29	Weir & Sons- Official Rolex Retailer	ChIJZzdRnZsOZ0gRhH1SOOzJYt4	jewelry_store|finance|point_of_interest|store|establishment	53.3427734	-6.259730999999999	False		96-99 Grafton Street, Dublin 2, D02 WR12	jewelry_store
+30	Caratz Diamond Boutique	ChIJCZDLhpwOZ0gRYvvuLH9EWAQ	jewelry_store|point_of_interest|store|establishment	53.34297	-6.261214	False		34 Wicklow St, Dublin 2, D02 F431	jewelry_store
+31	Weldons	ChIJQTsdgJwOZ0gRT6XjrOdk1C8	jewelry_store|home_goods_store|point_of_interest|store|establishment	53.3427416	-6.2608348	False		55 Clarendon St, Dublin 2, D02 HH73	jewelry_store
+32	Claddaghstore	ChIJG7A564IOZ0gRcLRHqK7h5CA	jewelry_store|point_of_interest|store|establishment	53.3467426	-6.2667986	False		65 Strand Street Great, North City, Dublin, D01 P446	jewelry_store
+33	Tiffany & Co.	ChIJe7-UnJsOZ0gR-hcD6H8it9Q	jewelry_store|point_of_interest|store|establishment	53.3423914	-6.259914699999999	False		88-95 Grafton Street, Dublin, D02 VF65	jewelry_store
+34	Spirit Jewellery	ChIJb06wT5oOZ0gR6qkEskSpkLg	jewelry_store|point_of_interest|store|establishment	53.3418503	-6.2566935			Frederick St S, Dublin	jewelry_store
+35	Martin Gear Jewellers	ChIJd0cFtH0OZ0gRv3W7bX4YRuA	jewelry_store|finance|point_of_interest|store|establishment	53.3484516	-6.2680929	False		5 Mary St, North City, Dublin 1, D01 K2V8	jewelry_store
+36	MoMuse	ChIJgzGfJNcNZ0gRbkLe6ZjImZc	jewelry_store|point_of_interest|store|establishment	53.3423283	-6.2616127	False		Unit 5, 59 William St S, Dublin, D02 HF95	jewelry_store
+37	Fields the Jeweller, Grafton St.	ChIJpWTFjpsOZ0gRgeLYl24RGA4	jewelry_store|point_of_interest|store|establishment	53.3418717	-6.259822	False		22 Grafton Street, Dublin 2, D02 Y199	jewelry_store
+38	Chupi Jewellery	ChIJe_w3Z5wOZ0gRxDzUEE2UKpY	jewelry_store|point_of_interest|store|establishment	53.3424211	-6.2619716	False		Powerscourt, The Top Floor Townhouse, 59, William St S, Dublin 2	jewelry_store
+39	My Diamond	ChIJv4SG-5sOZ0gRVAHwT891_SQ	jewelry_store|point_of_interest|store|establishment	53.3417536	-6.2599385	False		1st Floor, 24 Grafton Street, Dublin 2, D02 PC96	jewelry_store
+40	Hubery Mens Jewellery	ChIJQWpa5IMOZ0gRTk_XgOCRJWk	jewelry_store|point_of_interest|store|establishment	53.35028080000001	-6.2635393	False		1, Henry St, North City, Dublin 1	jewelry_store
+41	Jon Richard Ltd	ChIJAR3NwYMOZ0gRKzmg7q4iq-M	jewelry_store|point_of_interest|store|establishment	53.3495289	-6.264059	False		inside Debenhams, 54 Henry Street, North City, Dublin 1	jewelry_store
+42	Fields the Jeweller, Jervis St.	ChIJWZrvTIIOZ0gRRPD5mNfRQ-w	jewelry_store|point_of_interest|store|establishment	53.348692	-6.265506999999999	False		Jervis Street Shopping Centre, 1a, Jervis St, Dublin 1	jewelry_store
+43	Bespoke Diamond	ChIJdWNOMCYPZ0gRCfEdGscBRQw	jewelry_store|point_of_interest|store|establishment	53.3450328	-6.2647048			18 Eustace St, Temple Bar, Dublin, D02 WR53	jewelry_store
+44	DESIGNYARD	ChIJy_OkdJsOZ0gRrN_KCGQ2RFA	jewelry_store|art_gallery|point_of_interest|store|establishment	53.342213	-6.256376899999999	True		25 Frederick St S, Dublin 2, D02 E424	jewelry_store
+45	Natasha Sherling	ChIJiVXfxDgJZ0gRZAsMaAvgBgM	jewelry_store|point_of_interest|store|establishment	53.3429643	-6.261903999999999	False		24b Wicklow St, Dublin 2	jewelry_store
+46	Irish Jewelry Craft	ChIJWyHiZ14PZ0gRuFeY7hTSewU	jewelry_store|point_of_interest|store|establishment	53.3417536	-6.2599385	False		24 Grafton Street, Dublin 2, D02 PC96	jewelry_store
+47	Grays of Grafton Street	ChIJo8N7cJwOZ0gRRrhJKZPj-LU	jewelry_store|point_of_interest|store|establishment	53.3420296	-6.261209999999999	False		12 Johnson's Ct, Grafton Street, Dublin	jewelry_store
+48	Paul Sheeran Jewellers	ChIJISjK0PEMZ0gRIDMpHqRTiz8	jewelry_store|point_of_interest|store|establishment	53.34190659999999	-6.2608527	False		7-8 Johnson's Ct, Grafton Street, Dublin 2, D02 K799	jewelry_store
+49	Kings Jewellers	ChIJfxm4cJwOZ0gRq6_Tp-C3TJQ	jewelry_store|point_of_interest|store|establishment	53.3419774	-6.2612274			12 Johnson's Ct, Dublin, D02 YK12	jewelry_store
+50	Appleby Jewellers	ChIJRdnldpwOZ0gRjcLhEEx0YJE	jewelry_store|point_of_interest|store|establishment	53.341848	-6.260761	False		5 Johnson's Ct, Dublin 2, D02 EH52	jewelry_store
+51	The Wedding Band Shop	ChIJW59N25cOZ0gRbdSb6Dpk2ZA	jewelry_store|point_of_interest|store|establishment	53.3421695	-6.261987200000001	False		Unit 23G, Powerscourt Townhouse Centre, 59 William St S, Dublin 2, D02 CY67	jewelry_store
+52	ABANA jewellers	ChIJXUD7i5sOZ0gRI6MB01N-KVI	jewelry_store|point_of_interest|store|establishment	53.3420911	-6.26188	False		23g, Powerscourt Townhouse, William St S, Dublin 2	jewelry_store
+53	Courtville - Antique and Vintage jewellers	ChIJVVUVZJwOZ0gRo6auyEiKb_o	jewelry_store|point_of_interest|store|establishment	53.34216170000001	-6.262228599999999	False		Antique Gallery Powerscourt Townhouse, 59 William St S, Dublin 2, D02 CX63	jewelry_store
+54	Cullen and Co Jewellers	ChIJSW5cWJwOZ0gRniVlnWpbG_o	jewelry_store|finance|point_of_interest|store|establishment	53.3424712	-6.2631235	False		7 Castle Market, Dublin	jewelry_store
+55	Rocks Jewellers - Grafton Street Dublin	ChIJo2xY9ZsOZ0gRTFLN7-L4CZc	jewelry_store|point_of_interest|store|establishment	53.341397	-6.260517	False		73 Grafton Street, Dublin 2, D02 WE00	jewelry_store
+56	The Collective Dublin	ChIJ3aw1UZwOZ0gRmFCERZPXihY	jewelry_store|point_of_interest|store|establishment	53.3422589	-6.2635199	False		24 Drury St, Dublin, D02 V658	jewelry_store
+57	John Brereton Jewellers	ChIJa1t94ikMZ0gR3MN24sO8Gfo	jewelry_store|point_of_interest|store|establishment	53.34958839999999	-6.2694027	False		108 Capel St, Rotunda, Dublin, D01 NP58	jewelry_store
+58	John Brereton Jewellers	ChIJodnlD5wOZ0gRsqA8JpoVfCY	jewelry_store|point_of_interest|store|establishment	53.3412586	-6.2602737	False		33 Grafton Street, Dublin, D02 TD85	jewelry_store
+59	Boodles - Jewellers in Dublin, Ireland	ChIJzViMCpwOZ0gRfrKPzr2HEdQ	jewelry_store|point_of_interest|store|establishment	53.3413034	-6.2606151	False		71 Grafton Street, Dublin 2, D02 NR04	jewelry_store

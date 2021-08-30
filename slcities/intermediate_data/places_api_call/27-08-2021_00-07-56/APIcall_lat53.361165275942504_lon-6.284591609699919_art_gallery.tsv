@@ -1,0 +1,16 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
+0	Súileir	ChIJg6v-zZANZ0gRnAVsfV1eSlM	art_gallery|point_of_interest|store|establishment	53.3598505	-6.2725135	False		art_gallery
+1	The Bernard Shaw	ChIJZf8Yh6AOZ0gRhewFFltjO2k	art_gallery|cafe|bar|food|point_of_interest|establishment	53.3646909	-6.271209799999999	False	2.0	art_gallery
+2	3 Walls Gallery	ChIJV7swcuQNZ0gRADFR78WkhP8	art_gallery|point_of_interest|establishment	53.35238400000001	-6.289410800000001			art_gallery
+3	Loom Studios	ChIJa1IPvCoMZ0gRyagGkvtCXGA	art_gallery|point_of_interest|establishment	53.3545562	-6.2718679	False		art_gallery
+4	Damn Fine Print	ChIJaSPH_i4MZ0gR_hOqCAFL0rQ	art_gallery|point_of_interest|establishment	53.3506568	-6.280290699999998	False		art_gallery
+5	The Hugh Lane	ChIJE42FqWAMZ0gRhDMWDRn7ksw	art_gallery|tourist_attraction|museum|point_of_interest|establishment	53.35417629999999	-6.2646519	False		art_gallery
+7	The Market Studios	ChIJtTVplCkMZ0gRIYxf10SnfDM	art_gallery|point_of_interest|establishment	53.3492481	-6.271252			art_gallery
+9	Mother’s Tankstation - Dublin	ChIJI0huSDAMZ0gRvMVIkr-fkSk	art_gallery|point_of_interest|establishment	53.346291	-6.28449	False		art_gallery
+10	Hillsboro Fine Art	ChIJGwKZOYEOZ0gRmacXXoTTsqc	art_gallery|point_of_interest|establishment	53.3522682	-6.264139399999999			art_gallery
+11	13 North Great George's Street Space	ChIJx8IoEocOZ0gRu8fZIosdtD0	art_gallery|point_of_interest|establishment	53.3544789	-6.261017499999999			art_gallery
+12	studio ex	ChIJ5VViuK0NZ0gRaPDUQv7rutQ	art_gallery|point_of_interest|store|establishment	53.346044	-6.276313600000001	False		art_gallery
+13	Greta Thunberg graffiti	ChIJKyXkNEUNZ0gRBqNvCDCVl5c	art_gallery|point_of_interest|establishment	53.3469439	-6.27203	True		art_gallery
+14	Coles Lane Gallery	ChIJO3qRV4EOZ0gR5_OoM6x2Zu8	art_gallery|point_of_interest|establishment	53.3508424	-6.2633571			art_gallery
+15	darc space gallery	ChIJ0X-yAYcOZ0gR9kfpJ9PxsTQ	art_gallery|point_of_interest|establishment	53.35365969999999	-6.260007999999999			art_gallery
+16	Pass Freely	ChIJV1p1QNwPZ0gRAa6GVBe__V4	art_gallery|point_of_interest|establishment	53.3520292	-6.261466100000001			art_gallery

@@ -1,0 +1,14 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
+0	Kellys Homevalue Hardware	ChIJ10_fyF8OZ0gRruXod5jCOAQ	hardware_store|home_goods_store|point_of_interest|store|establishment	53.3594856	-6.2419162	False		hardware_store
+1	Edge & Sons Hardware Store	ChIJH8JcU1kOZ0gR8673vXPbdNs	hardware_store|point_of_interest|store|establishment	53.36264809999999	-6.236980900000001	False		hardware_store
+2	O'Briens Hardware	ChIJbWMmKo8OZ0gRtC8Jgi1a8F0	hardware_store|point_of_interest|store|establishment	53.35102939999999	-6.2519916	False		hardware_store
+3	Valu Mart	ChIJKXgOVEEPZ0gRmXBC3AhPCvc	hardware_store|point_of_interest|store|establishment	53.35084380000001	-6.253271099999999	False		hardware_store
+4	Larry's DIY	ChIJ9yS8jmgOZ0gRWTZnfnmJVOQ	hardware_store|point_of_interest|store|establishment	53.3687166	-6.2497884	False		hardware_store
+5	Central Key & Hardware Ltd	ChIJr-mssYAOZ0gRctB2OQyJ3YA	hardware_store|locksmith|point_of_interest|store|establishment	53.3553069	-6.264165200000002	False		hardware_store
+6	Marino Hardware Stores	ChIJ0eXhh0QOZ0gR5kMnY5yIszQ	hardware_store|point_of_interest|store|establishment	53.37080139999999	-6.238870399999999	False		hardware_store
+7	Phibsboro Hardware	ChIJn_M1fngOZ0gRr2YUB4FkW1c	hardware_store|point_of_interest|store|establishment	53.3638988	-6.2723203	False		hardware_store
+8	Keys Cut, Electrical and DIY tools	ChIJv3c-b4IOZ0gRqbYzxqghm_g	hardware_store|point_of_interest|store|establishment	53.34852830000001	-6.2678914	False		hardware_store
+9	Pearse Street Hardware Ltd	ChIJrXC-B5MOZ0gRTLyrw4m_3g0	hardware_store|point_of_interest|store|establishment	53.3430283	-6.2430566	False		hardware_store
+10	Lenehans	ChIJMYk3doIOZ0gRi6xOAGJOWEE	hardware_store|home_goods_store|point_of_interest|store|establishment	53.3486058	-6.268931700000001	False		hardware_store
+11	McQuillan Tools	ChIJlzmxfoIOZ0gRd5MoHTMW1uU	hardware_store|point_of_interest|store|establishment	53.3480919	-6.268435699999999	False		hardware_store
+12	Mary's Bar & Hardware	ChIJy6cVf5sOZ0gRF5C4UwATBGY	hardware_store|bar|point_of_interest|store|establishment	53.34285190000001	-6.260283800000001	False	2.0	hardware_store

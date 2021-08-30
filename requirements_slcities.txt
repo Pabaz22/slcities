@@ -111,3 +111,5 @@ xgboost==1.4.2
 googlemaps==4.5.3
 haversine==2.4.0
 pyproj==3.1.0
+streamlit==0.87.0
+streamlit==folium-0.4.0

@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Ryan Hotels	ChIJRUNgkIYOZ0gRpOVY-VSGebQ	lodging|point_of_interest|establishment	53.3516597	-6.260294999999999			lodging
+1	Hotel Riu Plaza The Gresham Dublin	ChIJHQz3kIYOZ0gR_u9dPKm4aAE	lodging|point_of_interest|establishment	53.3515365	-6.2606459	True		lodging
+2	Holiday Inn Express Dublin City Centre, an IHG Hotel	ChIJX7pUWoQOZ0gRysnoWURNUP8	lodging|point_of_interest|establishment	53.3523056	-6.260954900000001	True		lodging
+3	Croke park hotel dublin	ChIJ69BKQx8PZ0gRBGFHH5QBNPY	lodging|point_of_interest|establishment	53.3523641	-6.259160000000001			lodging
+4	Academy Plaza Hotel	ChIJl7GCGIQOZ0gR1eKfkCCnaKc	lodging|bar|restaurant|food|point_of_interest|establishment	53.3525243	-6.259991400000001	True		lodging
+5	Lewis	ChIJiwBckWcPZ0gRzbX8lZlVE4U	lodging|point_of_interest|establishment	53.3502861	-6.2609134			lodging
+6	Point A Hotel Dublin Parnell Street	ChIJs1H0qYYOZ0gROFlVkuWIcog	lodging|point_of_interest|establishment	53.3508801	-6.262086399999998			lodging
+7	Point A Hotel Dublin Parnell Street	ChIJs1H0qYYOZ0gRLfFfwrOq9L0	lodging|point_of_interest|establishment	53.3508801	-6.262086399999998			lodging
+8	The Gate Hotel	ChIJVQ5z74YOZ0gR_a9AG5iE1_c	lodging|point_of_interest|establishment	53.35277259999999	-6.2606074	True		lodging
+9	Dublin hotels	ChIJ2zhDdusPZ0gRrAUhHX9H6wY	lodging|point_of_interest|establishment	53.3498093	-6.260273900000001			lodging
+10	Rosalind Apartments	ChIJidrwAfQPZ0gRzzkRRj3GYls	lodging|point_of_interest|establishment	53.3498093	-6.260273900000001			lodging
+11	Hostal en Dublin	ChIJm4V2RhoPZ0gRaGIye9JLgk0	lodging|point_of_interest|establishment	53.3498093	-6.260273900000001			lodging
+12	Glendalough	ChIJq-u-si8PZ0gRfZbxX93-jYk	lodging|point_of_interest|establishment	53.3498093	-6.260273900000001			lodging
+13	Hilarios Hotal	ChIJMcI18BYPZ0gRoHVSuCmGsDQ	lodging|point_of_interest|establishment	53.3498093	-6.260273900000001			lodging
+14	Trinity	ChIJVcu_278PZ0gRRf0ddrVynBQ	lodging|point_of_interest|establishment	53.3498092	-6.2602739			lodging
+15	Nancy Williams	ChIJdc9PsccPZ0gRIY_Ve70gXVc	lodging|point_of_interest|establishment	53.3498053	-6.260309700000001			lodging
+16	Ashling Hotel	ChIJhy_Nbp8PZ0gRPQEoBsEjO_s	lodging|point_of_interest|establishment	53.3498053	-6.260309700000001			lodging
+17	ferryman house	ChIJK9OfhPEPZ0gRVffHpsTLCMQ	lodging|point_of_interest|establishment	53.3498053	-6.260309700000001			lodging
+18	ダブリンコーチ（キルケ二―行）バス停	ChIJX5MzSN0PZ0gRSxK8CH3gLSk	lodging|point_of_interest|establishment	53.3498053	-6.260309700000001			lodging
+19	Galway	ChIJY9uijQoPZ0gRKY-Tl02yIN8	lodging|point_of_interest|establishment	53.3498053	-6.260309700000001			lodging
+20	Jurys Inn Parnell Street Dublin	ChIJ3QI1TIEOZ0gRJmESP7v_4hI	lodging|restaurant|food|point_of_interest|establishment	53.3515784	-6.2630151	True	Plaza, Moore St, Parnell St, North City, Dublin, D01 E0H3	lodging
+21	Cassidys Hotel	ChIJkxPD3IYOZ0gRzWtftpTNoqU	lodging|bar|restaurant|food|point_of_interest|establishment	53.3531054	-6.261574299999999	True	Cavendish Row, O'Connell Street Upper, Upper, Dublin 1, D01 K883	lodging
+22	Dublin Central Inn	ChIJH7mZ74UOZ0gR18_0NXlyw8A	lodging|point_of_interest|establishment	53.3500563	-6.256736399999999		95-98 Talbot St, North City, Dublin 1, D01 HR68	lodging
+23	Moxy Dublin City	ChIJg46_w7APZ0gRSEEB04XkuWY	lodging|point_of_interest|establishment	53.3492574	-6.258043799999999	True	1-5 Sackville Pl, North City, Dublin, DO1 TY75	lodging
+24	Parnell Square Apartments	ChIJHy79OIEOZ0gRNkle5C4ppCw	lodging|point_of_interest|establishment	53.35225519999999	-6.2639843	False	50 Parnell Square W, Rotunda, Dublin 1, D01 W5R9	lodging
+25	Hotel St. George by Nina	ChIJOaN7MocOZ0gRrfT8dg9ZtR8	lodging|point_of_interest|establishment	53.3537842	-6.2623647	True	7 Parnell Square E, Rotunda, Dublin, D01 E176	lodging
+26	Amberley House	ChIJgVtZpogOZ0gRV-efHjGekbU	lodging|point_of_interest|establishment	53.351339	-6.255083099999999	True	34 Gardiner Street Lower, North City, Dublin 1, D01 FP65	lodging
+27	Celtic Lodge Guest House	ChIJ14pQUI8OZ0gRot1QwKZoedM	lodging|point_of_interest|establishment	53.3504921	-6.2552359	False	82 Talbot St, North City, Dublin, D01 DK12	lodging
+28	Hazelbrook Lodge	ChIJzybCdrQPZ0gRd1oEiCQ8WME	lodging|point_of_interest|establishment	53.3517143	-6.254949		86 Gardiner Street Lower, Mountjoy, Dublin	lodging
+29	My Place	ChIJOcCgpYgOZ0gRpiQvX9bfZ3Y	lodging|point_of_interest|establishment	53.3519397	-6.2549587		89 - 90 Gardiner Street Lower, Mountjoy, Dublin, D01 KN92	lodging
+30	Abbott Lodge	ChIJR0iQr4gOZ0gRVM8_YQktE6k	lodging|point_of_interest|establishment	53.3518798	-6.2549006		87/88 Gardiner Street Lower, Mountjoy, Dublin 1, D01 EY88	lodging
+31	Wynn's Hotel Dublin	ChIJG7_3CoMOZ0gRo00joSI1zu8	night_club|lodging|bar|restaurant|food|gym|health|point_of_interest|establishment	53.348342	-6.258687999999999	False	35-39 Abbey Street Lower, North City, Dublin 1, D01 C9F8	lodging
+32	Hazelbrook House	ChIJZ7D_n4gOZ0gRuOeapKCRpaY	lodging|point_of_interest|establishment	53.3517819	-6.254822400000001		85 Lower Gardiner St, Mountjoy, Dublin	lodging
+33	Avondale Guesthouse	ChIJ7d4_Uo8OZ0gRhD7xMblHRUg	lodging|point_of_interest|establishment	53.3509259	-6.2548264		40-41 Gardiner Street Lower, North City, Dublin, D01 HD82	lodging
+34	Hotel The Glen Guesthouse Dublin	ChIJGzAfrogOZ0gRhwzkGSihOUk	lodging|point_of_interest|establishment	53.3516554	-6.2547598	True	84 Gardiner Street Lower, Mountjoy, Dublin, D01 YY54	lodging
+35	Gardiner Lodge	ChIJbUvXTI8OZ0gRTKfTI4CHF6A	lodging|point_of_interest|establishment	53.351172	-6.2544517	True	76 Gardiner Street Lower, Mountjoy, Dublin, D01 TW08	lodging
+36	Maple Hotel Dublin	ChIJjbYQTY8OZ0gRreDg-2Xi3dU	lodging|point_of_interest|establishment	53.3511342	-6.254340300000001		75 Gardiner Street Lower, Mountjoy, Dublin, D01 E125	lodging
+37	Globetrotters Tourist Hostel	ChIJZTU-RI8OZ0gRmwZ7UTJFaEw	lodging|point_of_interest|establishment	53.3502556	-6.2544014		48 Gardiner Street Lower, North City, Dublin 1	lodging
+38	Durban Residence - B&B Dublin	ChIJQ9tST48OZ0gRTeLFTzIx6rQ	lodging|point_of_interest|establishment	53.35069679999999	-6.2541758	True	Gardiner Street Lower Gardiner Street Lower, Mountjoy, Dublin 1, D01 FH28	lodging
+39	Anchor House Dublin	ChIJIZTfQ48OZ0gRuj3gC3HSDKY	lodging|point_of_interest|establishment	53.3501785	-6.2542537		49 Gardiner Street Lower, North City, Dublin, D01 T658	lodging
+40	The Pillar	ChIJD-YD6IUOZ0gRd9jY9hD08ZE	lodging|point_of_interest|establishment	53.3503832	-6.2571857		7 Talbot St, North City, Dublin 1, D01 W702	lodging
+41	Kingfisher Restaurant & Townhouse	ChIJdSdQSYEOZ0gRGGtcaedBc7w	restaurant|meal_takeaway|lodging|food|point_of_interest|establishment	53.3518079	-6.263380499999999	False	166-168 Parnell St, Rotunda, Dublin, D01 DX43	lodging
+42	The Charles Stewart Dublin - Guest Accommodation	ChIJD4eZKIcOZ0gR3l16ABZGCK4	lodging|point_of_interest|establishment	53.35371989999999	-6.2621368		5/6 Parnell Square, Rotunda, Dublin 1	lodging
+43	Holiday Ireland Hotels	ChIJpWQdrYUOZ0gRixnERMiVo4E	lodging|point_of_interest|establishment	53.3488067	-6.258402200000001		9A Abbey Street Lower, North City, Dublin, D01 A0W2	lodging
+44	MEC Hostel	ChIJ_S0NqZ0OZ0gRLdoB4oyMTLM	lodging|point_of_interest|establishment	53.3546783	-6.2607217		42 N Great George's St, Rotunda, Dublin 1, D01 K023	lodging
+45	O'Sheas of Talbot Street	ChIJrwr1To8OZ0gRssdwcC6f8hA	bar|lodging|point_of_interest|establishment	53.35090109999999	-6.2542725	False	19 Talbot St, North City, Dublin 1, D01 FA49	lodging
+46	Clifton Court Hotel	ChIJ03oIBIUOZ0gRHdA8rpQ3VQU	lodging|point_of_interest|establishment	53.3479369	-6.2579014		11 Eden Quay, North City, Dublin	lodging
+47	The Townhouse Hotel	ChIJZTU-RI8OZ0gRXm4618R2ZqI	lodging|point_of_interest|establishment	53.3501651	-6.2542139		46/48 Gardiner Street Lower, North City, Dublin	lodging
+48	Adelphi Guesthouse	ChIJM3erSI8OZ0gR7gQ_GlvPv1A	lodging|point_of_interest|establishment	53.3505697	-6.2540022		D1, 67-68 Gardiner Street Lower, Mountjoy, Dublin, D01 CF66	lodging
+49	Abbey Hotel	ChIJD0H1eIMOZ0gRMbRSael3GX0	lodging|bar|restaurant|food|point_of_interest|establishment	53.3479703	-6.2625772		52 Middle Abbey St, North City, Dublin, D01 W9H6	lodging
+50	Abbey Court Hostel	ChIJ-7cdk4QOZ0gRxtbqtAaDHpE	lodging|point_of_interest|establishment	53.34743659999999	-6.2603459	True	29 Bachelors Walk, North City, Dublin, D01 AX90	lodging
+51	Belvedere Hotel Dublin	ChIJ8ZAkRocOZ0gRgouxkHHF9yg	lodging|bar|restaurant|food|point_of_interest|establishment	53.3550328	-6.2624178	True	Denmark Street Great, Rotunda, Dublin, D01 W1C0	lodging
+52	Castle Hotel	ChIJif9mNYcOZ0gRC-cNixUDS6M	lodging|bar|restaurant|food|point_of_interest|establishment	53.3547688	-6.2633545	True	Gardiner Row, Denmark Street Great, Rotunda, Dublin 1, D01 R640	lodging
+53	Arlington Hotel	ChIJDY0-moQOZ0gROx5wYJNaus4	lodging|point_of_interest|establishment	53.3473053	-6.260686199999999		23-25 Bachelors Walk, O'Connell Bridge, North City, Dublin 1	lodging
+54	Hotel 7	ChIJy2rWSIcOZ0gRL_acwrlwSYw	lodging|bar|restaurant|food|point_of_interest|establishment	53.3551452	-6.2628545	True	7 Gardiner Row, Rotunda, Dublin 1, D01 XN53	lodging
+56	Paddy's Palace	ChIJWzWmCp0OZ0gRPj-qAAU9jmY	lodging|point_of_interest|establishment	53.3496843	-6.2534052		5 Beresford Pl, Gardiner Street Lower, Mountjoy, Dublin	lodging
+57	Beresford Hotel IFSC	ChIJyQ9lII8OZ0gRqFm_Moc2OuE	cafe|lodging|restaurant|food|point_of_interest|establishment	53.350088	-6.2527591	True	21 Store St, North Dock, Dublin, D01 T9R2	lodging
+58	Clifden House Dublin by Nina	ChIJz9Hce4cOZ0gRIAYcqpWoEzw	lodging|point_of_interest|establishment	53.35594	-6.260441999999999	True	32 Gardiner Pl, Rotunda, Dublin 1, D01 CX93	lodging
+59	Dergvale Hotel	ChIJo6E7fIcOZ0gRzTGHO5Dw1o4	lodging|point_of_interest|establishment	53.3561141	-6.2607155		4 Gardiner Pl, Rotunda, Dublin 1, D01 P0K6	lodging

@@ -1,0 +1,6 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+1	Cusack Stand	ChIJ____6mMOZ0gRnXjLm7p5vXI	stadium|point_of_interest|establishment	53.36061659999999	-6.2497452		stadium
+2	Croke Park	ChIJlflkkmMOZ0gRX7SIDoZHE-U	stadium|tourist_attraction|point_of_interest|establishment	53.360712	-6.251208999999999	False	stadium
+4	croke park	ChIJiTbABlKbREgRRHC6ubUDyqU	stadium|point_of_interest|establishment	53.3610832	-6.2509893		stadium
+5	Hill 16	ChIJ_5D_zmMOZ0gRzl7LrzFIZEI	stadium|point_of_interest|establishment	53.3615076	-6.2506439		stadium
+6	Shelbourne Park Greyhound Stadium	ChIJY3YSBPUPZ0gRXavyAxeRfWE	stadium|tourist_attraction|bar|restaurant|food|point_of_interest|establishment	53.3404699	-6.230460300000001	False	stadium

@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Krystal Klean Express Limited | Clearance & Cleaning Services	ChIJxeMEp2kNZ0gR2ZV4MP2jqgo	laundry|point_of_interest|establishment	53.3628915	-6.275379300000001	True		laundry
+1	Mr Tubs Launderette & Dry Cleaners	ChIJbWzr4NUNZ0gRZUQ1YceHtgQ	laundry|point_of_interest|establishment	53.3609089	-6.273505699999999	False		laundry
+2	Cleaning Angel Dry Cleaning & Laundry	ChIJrREvFHgOZ0gRdbbClZ-e3fU	laundry|point_of_interest|establishment	53.36548000000001	-6.271431000000001	False		laundry
+3	Ascot Dry Cleaners	ChIJv0wqhdENZ0gRKgZIhIxzDvA	laundry|point_of_interest|establishment	53.3611984	-6.2831668	False		laundry
+4	VIP Cleaners	ChIJ7ffRHdANZ0gRlSdnhRNrFRs	laundry|point_of_interest|establishment	53.3647935	-6.2866467			laundry
+5	Berkeley Wash	ChIJ_f1Lo38OZ0gRUVrcYxe7ioY	laundry|point_of_interest|establishment	53.3579126	-6.269074099999999	False		laundry
+6	McGauran Cleaning	ChIJSUsHV3oOZ0gRzjjpflg4f98	laundry|point_of_interest|establishment	53.36481449999999	-6.262541299999999	False		laundry
+7	Ascot Dry Cleaners	ChIJR5hCbXQOZ0gRa97XsKQuvIg	laundry|point_of_interest|establishment	53.3707364	-6.268120499999998	False		laundry
+8	BC Cleaning & Maintenance Services	ChIJXe6PLn4OZ0gR7LJrEVQpxJM	car_wash|laundry|point_of_interest|establishment	53.35641210000001	-6.2669353			laundry
+9	Revolution Laundry Circle K Cabra	ChIJLfyjCmQNZ0gR5Jp-CY4Ozns	laundry|point_of_interest|establishment	53.3610352	-6.291699700000001	True		laundry
+10	Fresh Laundry	ChIJl7YPq0APZ0gRRu0S0MyG8QI	laundry|point_of_interest|establishment	53.3562698	-6.265519800000001	False		laundry
+11	Supreme Clean Launderette & Dry-Cleaners	ChIJs54Lk3wOZ0gR2YqslEgUScM	laundry|point_of_interest|establishment	53.36061429999999	-6.2598703	False		laundry
+12	Uniqueclean Cleaning Services	ChIJaW-MjYgNZ0gRPqpohLXHTvE	laundry|point_of_interest|establishment	53.35092239999999	-6.272058499999999	False		laundry
+13	Clean Sneaks	ChIJsQJI79sNZ0gRb9q_Qk23e4A	laundry|point_of_interest|establishment	53.3736413	-6.291146100000001	False		laundry
+14	Phenom Clean	ChIJ7TOk-4QPZ0gRHP8vdJ2CY3c	laundry|point_of_interest|establishment	53.3542547	-6.260121799999999	False		laundry
+15	ECS Cleaning Services Ltd	ChIJ41rG8lNtZ0gRelPeMp_OBxI	laundry|point_of_interest|establishment	53.3503555	-6.2828585	False		laundry
+16	SAOIRSE HEALTH & BEAUTY STORE	ChIJn5hHQNANZ0gRGhNDyz67oBw	laundry|beauty_salon|health|point_of_interest|clothing_store|store|establishment	53.3674377	-6.2989765	False		laundry
+17	Revolution Laundry Tesco Cabra	ChIJTZYhTVENZ0gRCgvl32s-Lnc	laundry|point_of_interest|establishment	53.3607619	-6.299674	True		laundry
+18	Gardiner Street Dry Cleaners	ChIJgf3b2ocOZ0gRojA_sYGyRek	laundry|point_of_interest|establishment	53.354549	-6.2568905	False		laundry
+19	Premier Linen Services	ChIJOUGaeMENZ0gR5aMKRVRGpw4	laundry|point_of_interest|establishment	53.3732543	-6.296430099999999	False		laundry
+20	Mr Tubs	ChIJ730Bpi8MZ0gRToTb9pLfvm8	locksmith|laundry|point_of_interest|establishment	53.3465948	-6.279559099999999	False	37 Arran Quay, Smithfield, Dublin, D07 Y6X7	laundry
+21	New York Cleaners	ChIJR7qJYoQOZ0gRg2CFogX1Yig	laundry|point_of_interest|establishment	53.3480398	-6.2608489	False	69 Middle Abbey St, North City, Dublin, D01 P5Y4	laundry
+22	Temple Bar Laundry	ChIJfXy-pIQOZ0gRkRkQidQRrYE	laundry|point_of_interest|establishment	53.3463956	-6.2603114	False	13 Aston Quay, Temple Bar, Dublin 2, DO2 PD65	laundry
+23	Thomas Dry Cleaners	ChIJRW6AvyUMZ0gRVgG5k8AS9yw	laundry|point_of_interest|establishment	53.34313239999999	-6.276609199999999	False	Usher's Quay, Dublin 8	laundry
+24	First Class Dry Cleaners	ChIJlf331V0OZ0gR4k_rkd5AiVg	laundry|point_of_interest|establishment	53.362843	-6.240913	False	59A Fairview Strand, Fairview, Dublin 3, D03 H2C9	laundry
+25	Excel Original Dry Cleaners	ChIJWcq0lZwOZ0gR4Fcc2Xwu9mE	laundry|point_of_interest|establishment	53.3437638	-6.262516499999999	False	Moira House, Dame Ln, Dublin 2	laundry
+26	Heuston Launderette and Dry Cleaners	ChIJsVxxIUgMZ0gRUyzFjEdf_Kk	laundry|point_of_interest|establishment	53.345116	-6.296739000000001	False	Unit 5, Dargan Building, Heuston South Quarter, St John's Road West,, Kilmainham, Dublin 8	laundry
+27	KRYSTAL DRY CLEANERS ( Same Day Laundry Service - Open 7 Days ) - DRY CLEANER OF THE YEAR AWARD 2020/21	ChIJhXBe6yYMZ0gR4CeHkbj2CBg	laundry|point_of_interest|establishment	53.3411552	-6.272526699999999	False	Ardilaun Court, 2 Patrick St, The Liberties, Dublin	laundry
+28	Francis Cleaners	ChIJ3SG43eUNZ0gR8HIjS3uGN4E	laundry|point_of_interest|establishment	53.3409473	-6.274274699999999	False	45 Francis St, Merchants Quay, Dublin, D08 HW95	laundry
+29	All American Launderette	ChIJUUOoup0OZ0gRt9PnAScTHuo	laundry|point_of_interest|establishment	53.34178259999999	-6.2647983	False	40 South Great George's Street, Dublin 2, D02 V256	laundry
+30	Tubs & Suds	ChIJJXeLrV4OZ0gRWEGpiOvfxB8	laundry|point_of_interest|establishment	53.3622831	-6.237347	False	23 Annesley Bridge Rd, Clontarf West, Dublin, D03 DK35	laundry
+31	Bright Wash	ChIJn-sRD54OZ0gRD41AjjGIGac	laundry|point_of_interest|establishment	53.33947430000001	-6.2657183	False	26 Aungier St, Dublin 2	laundry
+32	Sunlight Dry Cleaners	ChIJJVkiPPQOZ0gR0M0CZ3GyHec	laundry|point_of_interest|establishment	53.3537651	-6.2363531	False	79 St Mary's Rd, East Wall, Dublin 3, D03 WC59	laundry
+33	Bubbles Laundrette - (Washing and Ironing - Service Wash and Self-Service)	ChIJccD2F_INZ0gRv_qU0B8W7-o	laundry|point_of_interest|establishment	53.38803970000001	-6.300139499999999	False	6 Church St, Finglas, Dublin, D11 V051	laundry
+34	Laundry Online Kilmainham	ChIJ8Y2IIEUMZ0gRt2Juf8anGPo	laundry|point_of_interest|establishment	53.34033059999999	-6.307782899999999	False	641 S Circular Rd, Kilmainham, Dublin	laundry
+35	SunBeams Laundry, Alterations	ChIJ7zg9tyIOZ0gR_NqeYMoWI7c	laundry|point_of_interest|establishment	53.3900431	-6.248971999999999	False	7 Shanliss Rd, Whitehall, Dublin, D09 KP73	laundry
+36	Scrub A Dub	ChIJbf4w0D8MZ0gRs5V3GMwyc4g	laundry|point_of_interest|establishment	53.33361739999999	-6.2908575	False	29 Dolphin's Barn St, Saint James' (part of Phoenix Park), Dublin, D08 TP08	laundry
+37	Curzon Launderette	ChIJfyYKCx8MZ0gRLPfBCPtHW8U	laundry|point_of_interest|establishment	53.3326702	-6.2692156	False	19B Curzon St, Portobello, Dublin 8	laundry
+38	Laundry Online - Leonard's Corner	ChIJsdCe7RgMZ0gRfCfoYRzlMtY	laundry|point_of_interest|establishment	53.3323555	-6.274820699999999	False	108 S Circular Rd, Portobello, Dublin 8, D08 YR28	laundry
+39	Spin City	ChIJ2aHQnKAOZ0gRLT7uWtSN-6I	laundry|point_of_interest|establishment	53.3309942	-6.2647606	False	42A Richmond St S, Saint Kevin's, Dublin 2	laundry
+40	Fitz	ChIJWZbojIIOZ0gR8lfbg_P1kU0	laundry|point_of_interest|establishment	53.347331	-6.2671706	False	9 Abbey Street Upper, North City, Dublin 1	laundry
+41	5 Lamps Cleaners	ChIJfQDdGWEPZ0gR2-FO1BGIeuU	laundry|point_of_interest|establishment	53.351099	-6.251486600000001	False	60 Talbot St, Mountjoy, Dublin, D01 R278	laundry
+42	Laundry & Dry Cleaning Shop	ChIJgzQb240OZ0gRPhuqd5lac6k	laundry|point_of_interest|establishment	53.3481876	-6.2506375		Custom House Quay, North Dock, Dublin, D01 V9X5	laundry
+43	Fresh Dry Cleaners	ChIJqZS0Y18OZ0gREnojK985LZw	laundry|point_of_interest|establishment	53.343213	-6.289499999999999	False	40b James's St N, Ushers, Dublin, D08 Y8N1	laundry
+44	Fitzwilliam Dry Cleaners	ChIJxav2SpYOZ0gRFtyEROoNxMQ	laundry|point_of_interest|establishment	53.3367319	-6.2485645	False	45 Baggot Street Lower, Dublin 2, D02 RK53	laundry
+45	Wagss Dry Cleaners	ChIJcWmnw54NZ0gRLubZVtmQMfw	laundry|point_of_interest|establishment	53.3782294	-6.3269248	False	2 Creation, River Centre, Rathborne Pl, Ashtown, Dublin	laundry
+46	Harcourt Launderette & Dry Cleaners	ChIJpzVxA6EOZ0gRVnuA0YkIuGI	laundry|point_of_interest|establishment	53.3313168	-6.2611135	False	Unit 2 , Harcourt Green, 64 Charlemont St, Dublin 2, D02 RX72	laundry
+47	Presswell Cleaners	ChIJv7d7yqANZ0gROIdJ5K6VaiY	laundry|point_of_interest|establishment	53.3706437	-6.3317232	False	Blackhorse Ave, Ashtown, Dublin 7, D07 PP8D	laundry
+48	Cleanwell Washeteria	ChIJf8ylL1oMZ0gRLcVgmCqk5cs	laundry|point_of_interest|establishment	53.3401465	-6.3171342	False	19 Emmet Rd, Inchicore, Dublin 8, D08 DW94	laundry
+49	Marlowe Dry Cleaners	ChIJaeF6jVQOZ0gRiMGhBmeqWh4	laundry|point_of_interest|establishment	53.3627984	-6.218576499999999	False	52 Clontarf Rd, Clontarf, Dublin 3, D03 E2K3	laundry
+50	Whitewash Laundry	ChIJIf8YXuoOZ0gR7xHssgyohLo	laundry|point_of_interest|establishment	53.337398	-6.23448	False	60 Grand Canal Street Upper, Ballsbridge, Dublin, D04 P3F8	laundry
+51	Ringsend laundry and Dry Cleaners	ChIJzcgCHnMPZ0gRy9JDiEjAlDY	laundry|point_of_interest|establishment	53.3416478	-6.2279481	False	6 Bridge St, Dublin 4, D04 TE86	laundry
+52	Yaundry - Dublin's Laundry App	ChIJW8RwPaMOZ0gRc0d0yVWQNpE	laundry|point_of_interest|establishment	53.33035160000001	-6.251413899999999	False	128 Leeson Street Upper, Dublin, D04 TX07	laundry
+53	Revolution Launderette Supervalu Santry	ChIJB9sHvS8OZ0gRFa461HxtzyU	laundry|point_of_interest|establishment	53.392036	-6.234861100000001	True	9 Lorcan Ave, Whitehall, Co. Dublin, D09 A8F7	laundry
+54	The Laundry and Dry Cleaning Shop	ChIJY3jnnR0MZ0gRRXZzDbPT8a0	laundry|point_of_interest|establishment	53.3261079	-6.2648415	False	118 Rathmines Rd Lower, Rathmines, Dublin, D06 W660	laundry
+55	Shirley's Laundrette	ChIJZ24ibR0MZ0gRuEA0ykAW39U	laundry|point_of_interest|establishment	53.3254173	-6.2652911	False	141 Rathmines Rd Lower, Dublin Southside, Dublin	laundry
+56	Northwood Dry Cleaners	ChIJNXJNZ-ERZ0gRYh4cGINgeA8	laundry|point_of_interest|establishment	53.4036985	-6.260019199999999	False	Unit d2 gullivers retail park, Northwood Ct, Santry Demesne, Dublin	laundry
+57	The Washboard	ChIJ-9lC2w8MZ0gRuDVBrchuL_w	laundry|point_of_interest|establishment	53.32225	-6.2791993	False	207 Harold's Cross Rd, Rathmines, Dublin, D6W H685	laundry
+58	Laundry Online - Ranelagh	ChIJbTrnjq8OZ0gR-A3XbFRPg2E	laundry|point_of_interest|establishment	53.3239066	-6.251825699999999	False	95 Ranelagh, Dublin, D06 V1W5	laundry
+59	Sundry Laundry	ChIJI4bsknIMZ0gRGAxBxyQBJrY	laundry|point_of_interest|establishment	53.3208425	-6.2933049	False	Blarney Park, Kimmage, Dublin	laundry

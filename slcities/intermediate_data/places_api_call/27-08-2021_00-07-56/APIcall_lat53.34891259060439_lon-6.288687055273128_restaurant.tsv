@@ -1,0 +1,58 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Iveagh Bar	ChIJacRPtjYMZ0gRs6Tadsajcts	bar|restaurant|food|point_of_interest|establishment	53.34807540000001	-6.290640099999999	False			restaurant
+1	P. Duggan's	ChIJvUHdkjYMZ0gRnBGKRbiyeSU	bar|restaurant|food|point_of_interest|establishment	53.3481564	-6.2932568	False	1.0		restaurant
+2	Provender & Family	ChIJuYMV_C4MZ0gRtOqXwhfikdA	cafe|liquor_store|restaurant|food|point_of_interest|store|establishment	53.34817169999999	-6.2934492	False			restaurant
+3	Lilliput Stores	ChIJ_88yAjIMZ0gRZHQsXmPkY20	grocery_or_supermarket|cafe|restaurant|food|point_of_interest|store|establishment	53.34982840000001	-6.283901699999999	False			restaurant
+4	Ryan's of Parkgate Street	ChIJ4yIKijYMZ0gREJHzkabj-wY	bar|restaurant|food|point_of_interest|establishment	53.3481667	-6.2935959	False	2.0		restaurant
+5	FXB @ Ryans Of Parkgate Street	ChIJ0cN5jDYMZ0gR5cS6mS_sVZ4	restaurant|food|point_of_interest|establishment	53.3481715	-6.2936317	False			restaurant
+6	Nancy Hands Bar & Restaurant	ChIJ0WPWYzYMZ0gROVdf2UYMizc	bar|restaurant|food|point_of_interest|establishment	53.3482267	-6.293976700000001	True	2.0		restaurant
+7	New Ri Ri Chinese Takeaway	ChIJk6iyZTYMZ0gRrKLKc5IC6tc	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.3481963	-6.2941967	False	1.0		restaurant
+8	Guinness	ChIJl1LMTjAMZ0gR-r2Ng_HX9ok	bar|restaurant|food|point_of_interest|establishment	53.34644950000001	-6.284834499999999				restaurant
+9	Sbarro New York pizza Heuston	ChIJccvFqFwNZ0gR_XvRK12lGl0	restaurant|food|point_of_interest|establishment	53.34642019999999	-6.2925824	False			restaurant
+10	Subway	ChIJ2_VLZDYMZ0gRD_PmKJnOiVQ	meal_takeaway|restaurant|food|point_of_interest|establishment	53.34824760000001	-6.294358000000001	False	1.0		restaurant
+11	Supermacs	ChIJQwyYpcQNZ0gRoK3ZcvhRQFE	restaurant|food|point_of_interest|establishment	53.34633530000001	-6.292684	False			restaurant
+12	Supermac's Heuston Station	ChIJneGtAzcMZ0gRkm6RWwTdSAU	restaurant|food|point_of_interest|establishment	53.3463307	-6.2926853	False	1.0		restaurant
+13	Yellow rice	ChIJHe2PzjUNZ0gRYb6HXXQtAzc	bar|restaurant|food|point_of_interest|establishment	53.3464024	-6.284518400000001	False			restaurant
+14	Sorrento's Takeaway	ChIJPazh-y0MZ0gRXujN_bRfpoU	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3501202	-6.283012900000001	False			restaurant
+15	Berry Lane Bistro	ChIJyXG5bjYMZ0gRVq1Levat8_A	restaurant|food|point_of_interest|establishment	53.34821590000001	-6.294647299999999	False			restaurant
+16	Giannis Takeaway	ChIJMRwTbDYMZ0gRwrlhk-cFB4o	restaurant|food|point_of_interest|establishment	53.3480137	-6.2950133	False			restaurant
+17	Romayo's Diner Parkgate Street	ChIJgeoabDYMZ0gRK9xUPQ7ines	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.3479602	-6.295062900000001	False	1.0		restaurant
+18	Wuff	ChIJM2AkKS4MZ0gRaT6M6JfCXxM	cafe|restaurant|food|point_of_interest|establishment	53.3475	-6.282500000000001	False	2.0		restaurant
+19	Grano	ChIJ7yMW8y0MZ0gR1xoDZzvRfDY	restaurant|food|point_of_interest|establishment	53.3512611	-6.2830245	False	2.0		restaurant
+20	Mi Thai	ChIJSx0piS0MZ0gRF59g7jL_M7o	restaurant|food|point_of_interest|establishment	53.3515682	-6.283395899999999	False	2.0	87B Manor St, Stoneybatter, Dublin, D07 Y9K6	restaurant
+21	Stone Pizza Stoneybatter	ChIJM11tSRQNZ0gRA8lrJ0P8XxM	restaurant|food|point_of_interest|establishment	53.3509433	-6.2826679	False		Norseman Court, Unit 1, Manor St, Stoneybatter, Dublin 7, D07 ECK8	restaurant
+22	Social Fabric Cafe	ChIJ8zHmVOENZ0gRYWOxeIVHyhk	cafe|restaurant|food|point_of_interest|store|establishment	53.3505468	-6.2821247	False		34 Stoneybatter, Arbour Hill, Stoneybatter, Dublin, D07 HP99	restaurant
+23	Fish Shop	ChIJ_b6FLS4MZ0gR_e29dnCtEbg	bar|restaurant|food|point_of_interest|establishment	53.3472611	-6.2819629	False	2.0	76 Benburb St, Smithfield, Dublin, D07 X3PN	restaurant
+24	All Bar Chicken	ChIJRRpVpnQNZ0gRoRYC7n4aI5E	restaurant|food|point_of_interest|establishment	53.3509037	-6.282137899999999	False	2.0	Niemba, 16 Stoneybatter, Dublin 7	restaurant
+25	Kerala Kitchen	ChIJhZ1ZfogNZ0gRO9uLbPUoqNg	restaurant|food|point_of_interest|establishment	53.3523797	-6.2841741	False		73 Manor St, Stoneybatter, Dublin	restaurant
+26	Vietnom	ChIJpzz9RyoNZ0gRe3apGTaEgOo	restaurant|food|point_of_interest|establishment	53.3508685	-6.2819994	False		The Glimmer Man 14, Stoneybatter, Arran Quay, Dublin 7, D07 RK37	restaurant
+27	Ramen Co	ChIJP6_mkTIMZ0gRIaRm3tc-0pU	restaurant|food|point_of_interest|establishment	53.3529941	-6.2853591	False	2.0	56 Manor St, Stoneybatter, Dublin 7, D07 EY65	restaurant
+28	Cow Lane Tapas	ChIJB4hIxdMNZ0gRS5s2USvXjnI	restaurant|food|point_of_interest|establishment	53.3531261	-6.285853400000001	False		50a Manor St, Stoneybatter, Dublin, D07 FV09	restaurant
+29	PHX Bistro	ChIJjykxzC8MZ0gRF57tFs4TXfM	restaurant|food|point_of_interest|establishment	53.34694529999999	-6.281653899999999	False	2.0	12 Ellis Quay, Smithfield, Dublin, D07 DD88	restaurant
+30	Vegan Sandwich Co	ChIJKUWQZLkNZ0gREWZVazE-Nwo	meal_takeaway|restaurant|food|point_of_interest|store|establishment	53.34709489999999	-6.2800239	False	2.0	6 Queen St, Smithfield, Dublin 7	restaurant
+31	Lavanda Takeaway	ChIJFXQVMiwMZ0gRycmwVkh9uJI	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3506423	-6.279722599999999	False	2.0	31 Brunswick St N, Stoneybatter, Dublin 7, D07 DA25	restaurant
+32	Bel Cibo Smithfield	ChIJ0Q17jC4MZ0gRQmwYB8HAYhw	restaurant|food|point_of_interest|establishment	53.348658	-6.2790308	False	2.0	Smithfield Market, Smithfield, Arran Quay, Dublin	restaurant
+33	Thundercut Alley	ChIJY-93ji4MZ0gRMYJ_TM304Aw	restaurant|bar|food|point_of_interest|establishment	53.3489338	-6.278970300000001	False	2.0	Smithfield Smithfield, Dublin 7	restaurant
+34	My Meat Wagon	ChIJFRfkjS4MZ0gRrpcIYlbn3r8	restaurant|food|point_of_interest|establishment	53.3488872	-6.2788415	False	2.0	Market Square, Smithfield, Dublin	restaurant
+35	Boojum Smithfield	ChIJg8jt7S4MZ0gRGL2bc0HSEHQ	restaurant|food|point_of_interest|establishment	53.3483229	-6.2785872	False	1.0	Block C, 19 Smithfield, Arran Quay, Dublin, D07 A034	restaurant
+37	KALE+COCO	ChIJu7PiMqAOZ0gRYiQogBMsgoU	cafe|restaurant|food|point_of_interest|store|establishment	53.3519534	-6.2795859	False		18 Grangegorman Lower, Dublin, D07 WF44	restaurant
+38	Harkin's Bar & Bistro	ChIJmWlXIDoMZ0gR9TTra4v7KEo	bar|restaurant|food|point_of_interest|establishment	53.3424805	-6.2885768	False	1.0	The Old Harbour, 6 Echlin St, Ushers, Dublin 8, D08 HX3K	restaurant
+39	Sparks Bistro	ChIJ2U_zwC4MZ0gRI67pTGLdiJc	cafe|restaurant|food|point_of_interest|establishment	53.348554	-6.277579	False	2.0	Unit 3, Block C, Smithfield, Dublin 7	restaurant
+40	Oscars Café Bar	ChIJA5Wxky4MZ0gRyNOTgzDMhKk	bar|restaurant|food|point_of_interest|establishment	53.348889	-6.2785828	False	2.0	6, Smithfield, Dublin, D07 A034	restaurant
+41	Brewers' Dining Hall	ChIJhQssSDoMZ0gRLu4MjDW5qs4	restaurant|food|point_of_interest|establishment	53.34179959999999	-6.2870519	False		St. James Gate, Dublin	restaurant
+42	Vincenzo's Takeaway & Restaurant	ChIJ8Q4YFSUMZ0gRcPEJlEV_INw	restaurant|food|point_of_interest|establishment	53.3431714	-6.279859999999999	False		117 Thomas St, Usher's Quay, Dublin 8, D08 AK50	restaurant
+43	Cafe Oasis	ChIJicEuVikMZ0gRA8dMc0eWQ68	restaurant|food|point_of_interest|establishment	53.3500187	-6.2757233	False	1.0	48, 59 7 King St N, Smithfield, Dublin, D07 EE76	restaurant
+45	Bonobo, Smithfield	ChIJl06uq6kNZ0gR3JzoTWfyYm8	bar|restaurant|food|point_of_interest|establishment	53.3503957	-6.274601	False	2.0	119 Church Street Upper, Inns Quay, Dublin 7, D07 E128	restaurant
+46	Hub Himalayan Nepalese and Indian Food	ChIJT-3K6s0NZ0gRw4_2I79z_18	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3574849	-6.288586899999999	False		Hanlon's Corner, 1 Annamoe Rd, Cabra East, Dublin 7, D07 HK03	restaurant
+47	Variety Jones	ChIJF-JWLLwNZ0gRyLN1NTAEKT8	restaurant|food|point_of_interest|establishment	53.34286729999999	-6.276182899999999	False		78 Thomas St, The Liberties, Dublin, D08 F2RN	restaurant
+49	Gursha	ChIJ8d1USIcPZ0gRxKxKq0eJrCw	restaurant|food|point_of_interest|establishment	53.34222440000001	-6.2752017			19 Francis St, The Liberties, Dublin, D08 EK06	restaurant
+50	Fayrouz Lebanese Restaurant	ChIJ5-flOdwNZ0gRpM05zg9cr2w	restaurant|food|point_of_interest|establishment	53.3382128	-6.282726599999999	False		117 Cork St, The Liberties, Dublin 8, D08 ER24	restaurant
+51	Boco	ChIJs2dICSoMZ0gRCzVhHbrcffE	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.3513315	-6.2700662	False	2.0	57 Bolton St, Dublin 1, D01 CK40	restaurant
+52	Spitalfields	ChIJSUPbEzENZ0gRfVMr9jmriT4	restaurant|food|point_of_interest|establishment	53.3398173	-6.2756969	False		25 The Coombe, Merchants Quay, Dublin 8, D08 YV07	restaurant
+53	Brother Hubbard (North)	ChIJY-21nIIOZ0gRnZK9cNnSwww	cafe|bar|restaurant|food|point_of_interest|store|establishment	53.3471139	-6.268372200000001	False	2.0	153 Capel St, North City, Dublin, D01 V9V0	restaurant
+54	Lundy Foot's, Bar & Restaurant Temple Bar	ChIJJ7hgKJYPZ0gRXK79fxx9SH0	bar|restaurant|food|point_of_interest|establishment	53.3449015	-6.2679554	False	2.0	Lundy Foot's Bar and Restaurant, Essex Gate, D2, Dublin	restaurant
+55	The Church Café, Late Bar & Restaurant	ChIJtTOXRIIOZ0gRiLAbrd61jVs	bar|tourist_attraction|cafe|restaurant|food|point_of_interest|establishment	53.3486388	-6.2667114	False	2.0	Junction of Mary St. and, Jervis St, Dublin 1, D01 YX64	restaurant
+56	Zampas Bar & Restaurant	ChIJldn10v4NZ0gRC00yf1kZu3I	restaurant|food|point_of_interest|establishment	53.3441085	-6.2681764	False		16/18 Lord Edward St, Temple Bar, Dublin 2, D02 TD73	restaurant
+57	La Dolce Vita	ChIJsSh_a0UMZ0gRmRozTYh9xTw	restaurant|food|point_of_interest|establishment	53.3417304	-6.3075629	False	2.0	760 S Circular Rd, Ushers, Dublin 8, D08 HV0A	restaurant
+58	Roberta's Restaurant, Bar & Terrace	ChIJi9OsK4MOZ0gRBJgVXatL_8A	bar|restaurant|food|point_of_interest|establishment	53.34510299999999	-6.267157	False	3.0	1 Essex St E, Temple Bar, Dublin	restaurant
+59	Toscana City Centre Italian Restaurant	ChIJ65N9WZ0OZ0gRlW2shD8PD8M	restaurant|food|point_of_interest|establishment	53.3441752	-6.2675697	False	2.0	3 Cork Hill, Dame St, Temple Bar, Dublin, D02 DR53	restaurant

@@ -1,0 +1,16 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	main_type
+0	James Street, stop 1940	ChIJFxLcfDoMZ0gREk7Dj5DEs-k	bus_station|transit_station|point_of_interest|establishment	53.34345020000001	-6.285634500000001	bus_station
+1	Millbrook Court	ChIJ5bWGTUYMZ0gRQAER71__SR0	bus_station|transit_station|point_of_interest|establishment	53.3414171	-6.2992916	bus_station
+2	St. Catherine's Close	ChIJX0AIQSQMZ0gRvpqth_IDIko	bus_station|transit_station|point_of_interest|establishment	53.340757	-6.276321299999999	bus_station
+3	New Street South, stop 2636	ChIJT4JGgCEMZ0gRzJq6mvANwuI	bus_station|transit_station|point_of_interest|establishment	53.3365804	-6.2731743	bus_station
+4	Thomas Street, stop 1938	ChIJFbwnvyUMZ0gRHr1YNv9kkWQ	bus_station|transit_station|point_of_interest|establishment	53.3428962	-6.2766617	bus_station
+5	Francis St Junc, stop 1999	ChIJx_OAvyUMZ0gRKUS_5cc0bRU	bus_station|transit_station|point_of_interest|establishment	53.34306369999999	-6.276670899999998	bus_station
+6	Patrick's Cathedral, stop 2383	ChIJr6SptCYMZ0gRIOBj0VIVlfU	bus_station|transit_station|point_of_interest|establishment	53.33939519999999	-6.272686299999999	bus_station
+7	Heuston Station	ChIJBSc-4jYMZ0gRLgeyd-RtawI	bus_station|transit_station|point_of_interest|establishment	53.346619	-6.291963000000001	bus_station
+8	Heuston Station, Victoria Quay	ChIJKR3B4zYMZ0gR8cWXYkd3Qx8	bus_station|transit_station|point_of_interest|establishment	53.34676579999999	-6.2920335	bus_station
+9	St Michan's Church, stop 1616	ChIJ5_2i1ygMZ0gRYB94jBe1Jm8	bus_station|transit_station|point_of_interest|establishment	53.3473225	-6.275078499999998	bus_station
+10	Ormond Quay Upper, stop 1480	ChIJdW8MbigMZ0gRqfDilc0PVRo	bus_station|transit_station|point_of_interest|establishment	53.3457605	-6.270842500000001	bus_station
+11	Whitefriars Street, stop 1355	ChIJTarw450OZ0gRDsXr4O8j_u0	bus_station|transit_station|point_of_interest|establishment	53.3400962	-6.265838799999999	bus_station
+12	Camden Street Lower, stop 1352	ChIJ6SFM_58OZ0gRMM9hnC8prVk	bus_station|transit_station|point_of_interest|establishment	53.3344454	-6.2654073	bus_station
+13	Wicklow Court	ChIJLZcdsJ0OZ0gRde6fXsdryvI	bus_station|transit_station|point_of_interest|establishment	53.34365820000001	-6.2645797	bus_station
+14	Church Street Upper, stop 1614	ChIJmy44ySsMZ0gRL7JGa1JdXK0	bus_station|transit_station|point_of_interest|establishment	53.3511978	-6.2737015	bus_station

@@ -1,0 +1,11 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Handyman Dublin - DMS | Danny Maintenence Service	ChIJXxXl_r4PZ0gRa8o3d9cfFNo	electrician|plumber|general_contractor|point_of_interest|establishment	53.3544724	-6.248161	False	electrician
+1	Redmond Electrical	ChIJgQlyivQOZ0gRpQp0aqw0TXM	electrician|point_of_interest|establishment	53.35316570000001	-6.238513299999999	False	electrician
+2	Emergency Electricians Dublin	ChIJN5v8VKcPZ0gRCXUL2gC0a2s	electrician|point_of_interest|establishment	53.3656054	-6.2586467	True	electrician
+3	Mag Wire Limited	ChIJHxKuYW8OZ0gRL3ZwxsNswh4	electrician|point_of_interest|establishment	53.3676019	-6.254317800000001	False	electrician
+4	Mark O'Toole Electrical	ChIJ8WAUDJIPZ0gRZ9ADxTD0T9M	electrician|point_of_interest|establishment	53.3498093	-6.260273900000001		electrician
+5	Powercom Solutions Lightning Protection in Ireland	ChIJv3jTukMOZ0gRvcXanqIybww	general_contractor|electrician|point_of_interest|establishment	53.37154049999999	-6.241586400000001	False	electrician
+6	Electrician Dublin	ChIJocSemZEOZ0gRIzABsLAcwTc	electrician|point_of_interest|establishment	53.34393359999999	-6.248305799999999		electrician
+7	Bowhill Developments Ltd	ChIJT6AbH4MOZ0gRG8WcGetj9iI	electrician|plumber|general_contractor|point_of_interest|establishment	53.3467462	-6.2648218	False	electrician
+8	Albert Electrical and Building Services	ChIJO3HibO4OZ0gRF23R8edw77U	electrician|general_contractor|point_of_interest|establishment	53.3454985	-6.2321008	False	electrician
+9	Netcomm | Electrical Services Dublin	ChIJP4pXBIMMZ0gR3Mx1x645QIg	electrician|point_of_interest|establishment	53.3612011	-6.2771929	False	electrician

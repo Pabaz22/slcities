@@ -1,0 +1,13 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
+0	Guineys	ChIJsYbzV48OZ0gRTapqqrqAazI	department_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3504154	-6.2553803	False		department_store
+1	Guineys	ChIJsYbzV48OZ0gRq3mGVBAGHeE	home_goods_store|department_store|point_of_interest|store|establishment	53.3500118	-6.2585462	False		department_store
+2	Guineys	ChIJXbJ9zIUOZ0gRu6E4Itvf-Zg	department_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3500019	-6.258614800000002	False		department_store
+3	TK Maxx	ChIJ-7IJ44MOZ0gR9KyXJ4KrMZM	department_store|point_of_interest|store|establishment	53.35049230000001	-6.2635367	False	1.0	department_store
+4	Argos Ilac Centre (Dublin)	ChIJrxbk3IMOZ0gRr_atohQddkU	department_store|jewelry_store|electronics_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.35044440000001	-6.264601100000001	False	2.0	department_store
+5	Marks and Spencer	ChIJ1RqODo0OZ0gR2wQxWR7VjAc	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.3489101	-6.2437814	False	2.0	department_store
+6	Dunnes Stores - Henry Street	ChIJs-s79YMOZ0gRuedHUMYPupE	department_store|supermarket|grocery_or_supermarket|cafe|food|point_of_interest|clothing_store|store|establishment	53.3497637	-6.2633135	False		department_store
+7	Arnotts	ChIJ9wcNE4QOZ0gRfvZo4ZTxlOU	department_store|shoe_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3491377	-6.2631308	False		department_store
+8	Marks and Spencer	ChIJ19axsIMOZ0gRsz4tFcp1RAs	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.3488949	-6.264739799999999	False	2.0	department_store
+9	The Fashion Stage	ChIJ40O1eIMOZ0gRZImg64Vm4ac	department_store|point_of_interest|store|establishment	53.3479405	-6.2623365	False		department_store
+10	Carraig Donn Jervis	ChIJnShz_4IOZ0gRjUklgFnsl3A	department_store|point_of_interest|store|establishment	53.3487209	-6.265780700000001	False		department_store
+11	Argos Dublin Jervis Street	ChIJp5v9-YIOZ0gRmnQDxNDR7nc	department_store|jewelry_store|electronics_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.34823779999999	-6.2661793	False	2.0	department_store

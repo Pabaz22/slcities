@@ -1,0 +1,18 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Deane Motors - Classic & Performance Cars	ChIJ0TQcP74OZ0gRSkszELNlVC4	car_dealer|car_repair|point_of_interest|store|establishment	53.3344006	-6.242673599999999	False	car_dealer
+1	Clonfin Car Sales	ChIJfYX2T38PZ0gR9lTeqVfT7Dk	car_dealer|point_of_interest|store|establishment	53.33514599999999	-6.2504329	True	car_dealer
+2	Gordon Kellett Motors	ChIJ2RNWfusOZ0gRJGhExFLGJkI	car_dealer|point_of_interest|store|establishment	53.341181	-6.2359799		car_dealer
+3	The Society of the Irish Motor Industry- SIMI	ChIJKQQunKIOZ0gRNASHlf_JbOs	car_dealer|point_of_interest|store|establishment	53.3346735	-6.253959600000001	False	car_dealer
+4	Waltons Garage Ranelagh Ltd	ChIJyxe3eaMOZ0gRBbLAVhLYuT4	car_repair|car_dealer|point_of_interest|store|establishment	53.3299888	-6.253858800000001	False	car_dealer
+5	MSL Ballsbridge Motors Mercedes-Benz Dublin	ChIJ5XxlSsEOZ0gRfVPY1EGjOSA	car_wash|finance|car_dealer|point_of_interest|store|establishment	53.3308107	-6.231549900000001	False	car_dealer
+6	Looplow | Car Dealers Dublin	ChIJi8o5JY4OZ0gR3m6KmUou6AQ	car_dealer|point_of_interest|store|establishment	53.34665789999999	-6.250036499999998	False	car_dealer
+7	Volvo Pop Up Shop	ChIJ3TZg9ZsOZ0gRgn2n5jDXA3s	car_dealer|point_of_interest|store|establishment	53.34133159999999	-6.260348	False	car_dealer
+8	Terrific.ie	ChIJbaPpu44PZ0gRewZCvM2tyUo	car_dealer|point_of_interest|store|establishment	53.34582879999999	-6.2585484	False	car_dealer
+9	Cars Bought For Cash - Cash for Cars Dublin - We Buy Any Car in Ireland - Sell Your Car	ChIJKd9rl5wOZ0gRyK8gzdafZhs	car_dealer|point_of_interest|store|establishment	53.3438106	-6.261885299999999	False	car_dealer
+10	Andy Cummins Autos	ChIJ5_2RVMQOZ0gR67NJycVknUU	car_dealer|point_of_interest|store|establishment	53.3296562	-6.225168500000001		car_dealer
+11	Erne Motor Works	ChIJq6qpS-QOZ0gRCcIElFHaI54	car_dealer|point_of_interest|store|establishment	53.34363700000001	-6.222003900000001		car_dealer
+12	Mulligan's Garage	ChIJF_bwth8MZ0gRInQTh1ay6A0	car_repair|car_dealer|point_of_interest|store|establishment	53.33204540000001	-6.2673678	False	car_dealer
+13	Carole Nash Insurance Consultants	ChIJBXPUL4kOZ0gRFXkj13Ztp7A	insurance_agency|car_dealer|point_of_interest|store|establishment	53.3519152	-6.250881100000001	False	car_dealer
+14	Seville Motors	ChIJyxvWAosOZ0gRC0my9wzUdTI	car_dealer|point_of_interest|store|establishment	53.3527492	-6.2442063		car_dealer
+15	Data Centre Brokerage	ChIJb_ri1K4OZ0gRMirn-QnXevg	car_dealer|point_of_interest|store|establishment	53.3213068	-6.2554691		car_dealer
+16	Bloomfield Garage ( Service Department)	ChIJ22xQLB8MZ0gRbAx8jg2nQ0k	car_repair|car_dealer|point_of_interest|store|establishment	53.3318256	-6.2719697	False	car_dealer

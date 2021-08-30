@@ -1,0 +1,17 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Aokplumbingandheating	ChIJUZPyhWwNZ0gR6xM3btWp02M	plumber|point_of_interest|establishment	53.3510094	-6.272246000000001	True	plumber
+1	ST Pumps	ChIJOeua09UNZ0gRyvLAFglpQFU	plumber|point_of_interest|store|establishment	53.36091039999999	-6.2729731	False	plumber
+2	LC Plumbing	ChIJJ2HyqNwPZ0gR2RR5lbIwxLc	plumber|point_of_interest|establishment	53.35021260000001	-6.260050000000001		plumber
+3	Plumbline	ChIJu8kwfIYOZ0gRz856th9mhyk	plumber|point_of_interest|establishment	53.3513658	-6.258930400000001		plumber
+4	Bowhill Developments Ltd	ChIJT6AbH4MOZ0gRG8WcGetj9iI	electrician|plumber|general_contractor|point_of_interest|establishment	53.3467462	-6.2648218	False	plumber
+5	R&B Heating & Plumbing	ChIJYSlR09cNZ0gRt7fzRClOpDI	plumber|point_of_interest|establishment	53.3638103	-6.273010200000001		plumber
+6	McCarron Plumbing Heating & Gas - Dublin Gas boiler Replacements & Repair	ChIJU2vPEnYRZ0gRQDB0mgQeAPc	plumber|point_of_interest|establishment	53.3476616	-6.258371299999999	True	plumber
+7	Emergency Plumber Dublin - 24 Hour Plumber	ChIJs8k1O50OZ0gRkDs0VDKk0eg	plumber|car_repair|home_goods_store|general_contractor|point_of_interest|store|establishment	53.3442943	-6.265448699999999	True	plumber
+8	Power Flushing Dublin	ChIJ03PBrYgOZ0gR8jDzH2gRuQA	plumber|car_repair|general_contractor|point_of_interest|establishment	53.35027669999999	-6.2538316	True	plumber
+9	Dublin pumps	ChIJeRDNBpYOZ0gRnGtgTdZR040	plumber|point_of_interest|establishment	53.3438106	-6.261885299999999	True	plumber
+10	Dublin Area Plumbers	ChIJnfKVmpwOZ0gRRlboOHEcEDw	plumber|general_contractor|point_of_interest|establishment	53.3434731	-6.2616362	True	plumber
+11	On The Level Plumbing Services	ChIJbU34GHgOZ0gRGucLpAppd_c	plumber|point_of_interest|establishment	53.36606829999999	-6.2714815		plumber
+12	Handyman Dublin - DMS | Danny Maintenence Service	ChIJXxXl_r4PZ0gRa8o3d9cfFNo	electrician|plumber|general_contractor|point_of_interest|establishment	53.3544724	-6.248161	False	plumber
+13	Drain Clear Ltd	ChIJ10FclZEOZ0gRmIQVHwd1BgA	plumber|point_of_interest|establishment	53.34545	-6.24845		plumber
+14	Blocked Drains Cleared From €50 1 Hour Response 24/7 365 Days a Year	ChIJfzAf0SMMZ0gRGQ5cLAfnBM0	plumber|point_of_interest|establishment	53.337131	-6.274007999999999	False	plumber
+15	A Action Boiler Services	ChIJ6747ZGAOZ0gRcbbqfQ5BTZQ	plumber|point_of_interest|establishment	53.3594007	-6.244645600000001		plumber

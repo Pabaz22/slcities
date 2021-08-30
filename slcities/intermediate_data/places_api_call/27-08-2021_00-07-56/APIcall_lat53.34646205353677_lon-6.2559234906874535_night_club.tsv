@@ -1,0 +1,27 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	price_level	opening_hours.open_now	formatted_address	main_type
+1	O'Reilly's	ChIJ3wjf8I8OZ0gR5tvtJlkau4c	night_club|bar|restaurant|food|point_of_interest|establishment	53.3469956	-6.2541858	1.0	True		night_club
+3	Wynn's Hotel Dublin	ChIJG7_3CoMOZ0gRo00joSI1zu8	night_club|lodging|bar|restaurant|food|gym|health|point_of_interest|establishment	53.348342	-6.258687999999998		True		night_club
+4	Boardwalk Nightclub @ The Arlington Hotel Dublin	ChIJez8FkYQOZ0gRrHenNXSCbU8	night_club|point_of_interest|establishment	53.3473416	-6.2606478				night_club
+5	QG supermavs	ChIJg8I7Tj8PZ0gRwbiJn-294-o	night_club|point_of_interest|establishment	53.3482127	-6.2599514				night_club
+6	Wigwam	ChIJ40O1eIMOZ0gRjDej1H9r50o	restaurant|night_club|cafe|bar|food|point_of_interest|establishment	53.34788890000001	-6.262308300000001	2.0	True		night_club
+7	Club M	ChIJPVjtrJwOZ0gRBEI_lVEUBwI	night_club|point_of_interest|establishment	53.34482850000001	-6.262202100000001	2.0	False		night_club
+11	The Grand Social	ChIJgzxUFYMOZ0gRahqesNCyL9M	night_club|bar|point_of_interest|establishment	53.34690119999999	-6.2634767	2.0	True		night_club
+12	Yamamori Tengu	ChIJJQpBEYMOZ0gRd00Gmjf4lN8	night_club|bar|point_of_interest|establishment	53.3470713	-6.263842699999999	2.0	True		night_club
+13	Havana Nightclub	ChIJJQalxJwOZ0gRTC9aLwtwGVk	night_club|point_of_interest|establishment	53.34433019999999	-6.263612999999999				night_club
+15	Rí-Rá	ChIJDSef55wOZ0gRckNt5To_AjI	night_club|point_of_interest|establishment	53.3438763	-6.263771100000001				night_club
+16	The Button Factory	ChIJp_CB1pwOZ0gRxcFX0Egkqd8	night_club|cafe|food|point_of_interest|establishment	53.3449334	-6.2645228				night_club
+20	Ukiyo Lounge	ChIJS9izx6oPZ0gRRz4CPGcAGHM	night_club|point_of_interest|establishment	53.3433687	-6.2636122		True	Dame Ct, Dublin	night_club
+21	Twenty Two Night Club	ChIJ7Zch75sOZ0gRLm6iEv_WAXs	night_club|bar|point_of_interest|establishment	53.3409665	-6.259054099999999	2.0		22 Anne St S, Dublin, D02 CH94	night_club
+22	The George	ChIJ_8isAPULZ0gRfC-Ciqzqcxc	night_club|bar|point_of_interest|establishment	53.343743	-6.2646836	2.0	True	89 South Great George's Street, Dublin 2, D02 R220	night_club
+24	Bad Bobs Temple Bar	ChIJnUe-NZ0OZ0gRcURhnZCniJE	night_club|bar|restaurant|food|point_of_interest|establishment	53.3450924	-6.265879399999999	2.0	True	35-37 Essex St E, Temple Bar, Dublin 2, D02 Y891	night_club
+25	The Liquor Rooms	ChIJY-HBs4IOZ0gR8Tzb0TWJx90	night_club|bar|point_of_interest|establishment	53.3453683	-6.2668329	2.0	True	6-8 Wellington Quay, Temple Bar, Dublin, D02 HT44	night_club
+26	Temple Bar Emporium Casino and Lapdancing club	ChIJYSDSRZ0OZ0gRQHcY4NVvvXo	night_club|point_of_interest|establishment	53.3442733	-6.2667913		False	20 Crane Ln, Temple Bar, Dublin, D02 CH24	night_club
+30	Xico	ChIJJaxy1ZkOZ0gRtHrmH0jiAsE	night_club|bar|restaurant|food|point_of_interest|establishment	53.3378354	-6.252701099999999	2.0	False	143 Baggot Street Lower, Dublin 2, D02 PH39	night_club
+37	Copper Face Jacks	ChIJk5B5mp8OZ0gR47yxFK37Ybg	bar|night_club|point_of_interest|establishment	53.3353453	-6.2635988	2.0	False	29-30 Harcourt St, Saint Kevin's, Dublin 2, D02 XV58	night_club
+38	Everleigh	ChIJ3V2nj58OZ0gRV4qMtS38jeM	night_club|point_of_interest|establishment	53.335181	-6.2635599	2.0	False	33 Harcourt St, Saint Kevin's, Dublin 2	night_club
+40	Fitzsimons Hotel Temple Bar	ChIJww8Q1IIOZ0gRtDK-tFjPNu4	bar|night_club|lodging|restaurant|food|point_of_interest|establishment	53.345581	-6.2651186		True	21/22 Wellington Quay, Temple Bar, Dublin	night_club
+43	The Sugar Club	ChIJWQQVlJgOZ0gRmQ6XgMFugVA	night_club|point_of_interest|establishment	53.3355007	-6.2566432		False	8 Leeson Street Lower, Saint Kevin's, Dublin, D02 ET97	night_club
+44	Opium	ChIJo-AK0Z8OZ0gRPRsrzYcwgiU	night_club|restaurant|food|point_of_interest|establishment	53.3366763	-6.2657137	2.0	True	26 Wexford St, Portobello, Dublin 2, D02 HX93	night_club
+47	D Two	ChIJvbuxKKAOZ0gRNFN3k1Wi0Gw	night_club|bar|point_of_interest|establishment	53.3343886	-6.262885	2.0	True	60 Harcourt St, Saint Kevin's, Dublin 2, D02 P902	night_club
+50	Mc Gowans of Phibsboro	ChIJ5SSKF28OZ0gRwFzxZdVgaHo	night_club|bar|restaurant|food|point_of_interest|establishment	53.356588	-6.273832	2.0	True	17 Phibsborough Rd, Phibsborough, Dublin 7, D07 A562	night_club
+57	The nikçis	ChIJ7_3d8QQPZ0gRk-tkSo22Mms	night_club|point_of_interest|establishment	53.3869001	-6.2665808			17 Wadelai Green, Ballygall, Dublin 11, D11 FK27	night_club

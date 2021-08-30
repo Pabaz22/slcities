@@ -1,0 +1,51 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Eligan Botox™ and Dermal Fillers Clinic	ChIJGbBFyYsNZ0gRVJSuLB7OnGM	doctor|beauty_salon|spa|health|point_of_interest|establishment	53.3354046	-6.269038999999999	False		spa
+1	YMCA Gym	ChIJL2vIBZ4OZ0gRu_c-nR_Ssks	gym|spa|health|point_of_interest|establishment	53.3393733	-6.2661252	False		spa
+2	Cloud Nine Retreat	ChIJ965QCaAOZ0gRBicNqSZnfTs	spa|point_of_interest|establishment	53.3334058	-6.265180300000001			spa
+3	Velvaere Spa - Radisson Blu Royal Hotel - Codage Paris	ChIJ6yHNJx8NZ0gROYjcqt5D8Dc	spa|point_of_interest|establishment	53.34120890000001	-6.268667799999999	False		spa
+4	VELVAERE SPA	ChIJEWEcorMNZ0gRWyT6J4_Pwpc	spa|point_of_interest|establishment	53.3413665	-6.268762300000001			spa
+6	The Buff Day Spa	ChIJzc9-HpwOZ0gRXLbOuaeiYC4	spa|point_of_interest|establishment	53.3402111	-6.2612972	False		spa
+8	Beauty Studio Thea	ChIJ9SGEhB0MZ0gRAFqB7Ew0WMw	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.33245650000001	-6.274966900000002	False		spa
+9	Temple Thai Massage	ChIJk3T9vmQPZ0gRuPd_uuiKSnQ	spa|point_of_interest|establishment	53.3424472	-6.2647263	False		spa
+10	Bali Wellness	ChIJ5a40cLoPZ0gRSoQaOgduXB8	spa|point_of_interest|establishment	53.33973859999999	-6.259128700000001	False		spa
+12	The Oriental Day Spa	ChIJ3w4aoI8MZ0gRj7E10tgUEv4	spa|point_of_interest|establishment	53.3318756	-6.2749777	False		spa
+13	Fitzgerald Private Clinic Dublin	ChIJp4ZqjuYPZ0gRCBWAPZaIIbM	spa|doctor|health|point_of_interest|establishment	53.3407821	-6.2596767	False		spa
+14	Genevieve Nail & Beauty	ChIJc9FSWJwOZ0gRsuZ2QATrj68	beauty_salon|hair_care|spa|point_of_interest|establishment	53.3424656	-6.2630751	False		spa
+15	5th Avenue Beauty Emporium Dublin	ChIJaXWvb5wOZ0gRT9j0YEMPb0U	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.3419047	-6.261544199999999	False		spa
+16	Rainbow Beauty Spa	ChIJx4j-3SoPZ0gR56b58v57060	beauty_salon|hair_care|spa|point_of_interest|establishment	53.341041	-6.259792600000001	False		spa
+17	Chiffon Beauty Spa	ChIJkVVG8ZsOZ0gRb7gq-iQ5YJg	beauty_salon|spa|point_of_interest|establishment	53.341041	-6.259792600000001	False		spa
+19	Skin Essence Beauty Salon	ChIJuZ5x7psOZ0gRskU0gIFhTqY	beauty_salon|hair_care|spa|doctor|health|point_of_interest|establishment	53.34102	-6.25963	False		spa
+20	Cloud Nine At The Dawson	ChIJq6pu4ZsOZ0gRDk_VynXOktE	spa|point_of_interest|establishment	53.3403856	-6.258738999999999		35 Dawson St, Dublin	spa
+21	Mandala Spa	ChIJC5sP4ZsOZ0gRbpzscBQYGJk	spa|point_of_interest|establishment	53.3404339	-6.2586882		35 Dawson St, Dublin	spa
+22	Essences Day Spa	ChIJlfsHRgYPZ0gR5xjtt70Rjj0	spa|point_of_interest|establishment	53.3432842	-6.2617854	False	5 St Andrew's St, D2, Dublin, D02 YD85	spa
+23	The Spa & Salon at The Shelbourne	ChIJh8YPo5kOZ0gRebxnevUoRBs	spa|beauty_salon|gym|health|point_of_interest|establishment	53.338787	-6.2554378	False	27 St Stephen's Green, Dublin 2, D02 K224	spa
+24	Solar Spa Express Tanning & Beauty	ChIJozSvkJwOZ0gRrtAzXjkQKSA	beauty_salon|spa|point_of_interest|establishment	53.3436862	-6.2617599	False	9A Trinity St, Dublin, D02 RC58	spa
+25	Orchid Day Spa	ChIJzc5LzJkOZ0gR8SMxyAZ1uAE	spa|point_of_interest|establishment	53.3375682	-6.254112999999999		Ely Pl, Dublin	spa
+26	Massage Therapy at Home	ChIJC7ZE-B0MZ0gRnFV9ytTfavo	spa|point_of_interest|establishment	53.328463	-6.264577999999999	True	Lower Rathmines Road, Rathmines, Dublin	spa
+29	Merrion Day Spa (Cloud Nine)	ChIJOYSSrIMOZ0gRM2ZqG856ywQ	spa|health|point_of_interest|establishment	53.3391931	-6.25103	False	79 Merrion Square S, Dublin 2, D02 TN27	spa
+31	FLORAISON	ChIJxd3A0bwPZ0gRuTz2K401E9E	beauty_salon|spa|point_of_interest|establishment	53.3358642	-6.250362099999999	False	16 Fitzwilliam St. Upper Basement Floor, Dublin 2, D02 Y221	spa
+32	The Dawson Spa	ChIJw9-2jioPZ0gRB9C3b8otWAo	spa|point_of_interest|establishment	53.3482143	-6.2656231		125 Abbey Street Upper, North City, Dublin, D01 W3X5	spa
+33	Perola Padilha Clinic & Spa	ChIJlTB8SrAPZ0gRy_6Jhh5Vs6w	spa|health|point_of_interest|establishment	53.3456791	-6.2554222	False	International House, Tara St, Dublin 2, D02 AE33	spa
+34	Liz Brazilian massage	ChIJfeF87AIPZ0gRqnU8XE9ZaDQ	spa|point_of_interest|establishment	53.347807	-6.2611915	True	39 N Lotts, North City, Dublin	spa
+35	Essence Day Spa	ChIJkVfAI5APZ0gRngZdTtgBOY4	spa|point_of_interest|establishment	53.3458209	-6.2553573		179 Townsend St, Dublin	spa
+37	Oriental Massage AKMO	ChIJD4tn8q4PZ0gRzssCgn80NVA	spa|point_of_interest|establishment	53.3498092	-6.2602739		North City, Dublin	spa
+38	Oasis Beauty	ChIJK45rhi4MZ0gR8XY1bWd5btc	beauty_salon|spa|health|point_of_interest|establishment	53.3493095	-6.279367799999999	False	2, Thundercut Alley, Queen St, Smithfield, Dublin 7	spa
+39	Sanctuary Massage Clinique	ChIJa-m8m6UOZ0gRuG8PWKj7W6c	beauty_salon|spa|point_of_interest|establishment	53.3250719	-6.2536844	False	2ND FLOOR, Ranelagh Court, Chelmsford Rd, Ranelagh, Dublin 6, D06 H5N0	spa
+40	Shaba Thai Massage Dublin 8	ChIJCxKsNiYMZ0gRww0ZgXwdl00	spa|health|point_of_interest|establishment	53.3438898	-6.2719431	False	Inns Court, 19, Winetavern St, Dublin	spa
+41	The Wicklow Street Clinic	ChIJn5jAgZwOZ0gRGmcZ_kCuOvo	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.3431353	-6.2606839	False	13 Wicklow St, Dublin 2, D02 TW83	spa
+42	Late Night Beauty Salon (Temple Bar Branch)	ChIJD3Jpz5wOZ0gRxgXsZhQ0mig	beauty_salon|spa|point_of_interest|establishment	53.3447039	-6.2634516	False	4 Fownes Street Upper, Temple Bar, Dublin, D02 Y798	spa
+43	Sensitive Tantra	ChIJ_dLHdecNZ0gRyi9KfHG-9tk	spa|point_of_interest|establishment	53.3332866	-6.252892	False	32, 2 Fitzwilliam Pl, Dublin 2, D07 H942	spa
+44	eden	ChIJY6ynISoMZ0gRYyis8DNs8WE	spa|point_of_interest|establishment	53.3506253	-6.271207299999999		Dublin	spa
+45	Good Day Spa & Massage	ChIJx7mn6T8MZ0gRaLIPsoYyxYI	spa|point_of_interest|establishment	53.3338944	-6.292199099999999	True	339 S Circular Rd, Saint James' (part of Phoenix Park), Dublin 8, D08 W6T4	spa
+46	The kingdom spa	ChIJ5fdlpasPZ0gR3wKuX2I-O7o	spa|point_of_interest|establishment	53.350085	-6.257957999999999	False	107 Talbot St, North City, Dublin, D01 F9V4	spa
+48	Deep Relief Spa	ChIJGypFrqIPZ0gRsCyeYVNsAHM	spa|point_of_interest|establishment	53.3507636	-6.2549337	True	Room 2, Talbot Street Business Centre, 19, Dublin, D01 X9P9	spa
+49	Golden Thai Antique Massage	ChIJITlUtvMPZ0gRlkYZeyQt5Ts	spa|point_of_interest|establishment	53.3539125	-6.266334899999999	True	12a Granby Row, Rotunda, Dublin, DO1X6K6	spa
+50	Royal Thai Massage	ChIJTd1dWYkOZ0gRXPiK6R0b4Fw	physiotherapist|spa|health|point_of_interest|establishment	53.3508498	-6.2506564	False	5 Amiens St, Mountjoy, Dublin	spa
+51	Cardiff Lane Beauty & Spa- LPG Beauty Therapy	ChIJU7xhd-wPZ0gROBrOaTOsxuw	spa|beauty_salon|point_of_interest|establishment	53.3453634	-6.2409113		Clayton Hotel, 10-12 Cardiff Ln, Dublin 2, D02 YT21	spa
+52	Viola Day Spa	ChIJCUK8EY0OZ0gRLaMoaKuGoTs	beauty_salon|hair_care|spa|point_of_interest|establishment	53.348171	-6.243326	False	The Spencer Hotel, Excise Walk, International Financial Services Centre, Dublin	spa
+53	TANTRAHOME MASSAGES DUBLIN	ChIJmV8UvuwOZ0gRT1KZgI6ghgg	spa|point_of_interest|establishment	53.3423335	-6.2378434	True	Grand Canal Bridge, Grand Canal Dock, Dublin	spa
+55	Eden One	ChIJSTYVNYwPZ0gRTiECBUynWLQ	spa|gym|health|point_of_interest|establishment	53.3316192	-6.2324419	True	Number One Ballsbridge, Shelbourne Rd, Dublin, D04 Y3X9	spa
+56	Urban Day & Medi Spa	ChIJ77eHgukOZ0gRav0FSbTCVv4	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.339262	-6.229962	False	Sportsco, First floor, S Lotts Rd, Dublin	spa
+57	S.P.Y. Hair & Beauty Salon	ChIJe9GSQHwOZ0gRA3PLwsmU-B4	beauty_salon|hair_care|spa|point_of_interest|establishment	53.3600988	-6.2627514	False	467 N Circular Rd, Dublin	spa
+58	Lotus Thai Massage Centre	ChIJJXrJNmYJZ0gRv4suicwu0sA	spa|point_of_interest|establishment	53.28935	-6.2427188	False	Eagle Terrace, Shamrock House, Kilmacud Rd Upper, Dundrum, Dublin 14	spa
+59	Unique Day Spa	ChIJE2uPVgsLZ0gRWip_wMXAlHk	beauty_salon|spa|health|point_of_interest|establishment	53.3069719	-6.350996299999999	False	Fashion City, 9A, Ballymount Rd Upper, Ballymount, Dublin 24, D24 H6EH	spa

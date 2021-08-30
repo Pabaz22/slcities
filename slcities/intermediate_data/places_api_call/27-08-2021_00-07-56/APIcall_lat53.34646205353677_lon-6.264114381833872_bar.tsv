@@ -1,0 +1,50 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	The Whisky Bar - Yamamori North City	ChIJge_EWfAPZ0gRtbEkfH-7qks	bar|point_of_interest|establishment	53.34675859999999	-6.263774400000001	True			bar
+1	The Grand Social	ChIJgzxUFYMOZ0gRahqesNCyL9M	night_club|bar|point_of_interest|establishment	53.34690119999999	-6.2634767	True	2.0		bar
+2	Yamamori Tengu	ChIJJQpBEYMOZ0gRd00Gmjf4lN8	night_club|bar|point_of_interest|establishment	53.3470713	-6.263842699999999	True	2.0		bar
+3	Sfuso	ChIJmZuQhLEPZ0gRl60zjJQ4KMg	bar|restaurant|food|point_of_interest|establishment	53.34661029999999	-6.2651655	True			bar
+4	Enoteca Delle Langhe	ChIJ4cbYIYMOZ0gRDtqlf4BfWc8	bar|restaurant|food|point_of_interest|store|establishment	53.3466101	-6.2651659	True	2.0		bar
+5	Wallace’s Taverna	ChIJhRkk34IOZ0gRpvt2yIVIr9Q	bar|restaurant|food|point_of_interest|establishment	53.3464556	-6.265208299999999	True	2.0		bar
+6	The Ha'penny Bridge Inn	ChIJz3DoN4MOZ0gR8tDEG0_HTJE	bar|point_of_interest|establishment	53.3458976	-6.2633812	True	2.0		bar
+7	Merchant's Arch	ChIJ2S0FRoMOZ0gRRpOHlw7_msw	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.34594800000001	-6.2628273	True	2.0		bar
+8	The Temple Bar Whiskey & Tobacco Shop	ChIJT6Em1JwOZ0gRalAhPaLk4-8	bar|point_of_interest|establishment	53.34553	-6.2639833	True			bar
+10	the temple bar restaurant	ChIJZYEJUu0PZ0gRdBbEnnKoT8A	bar|point_of_interest|establishment	53.345513	-6.264088699999999	True			bar
+12	The Temple Bar	ChIJR9mP8ScMZ0gRWDrL2dfqLBA	bar|restaurant|food|point_of_interest|establishment	53.34547420000001	-6.2641937	True	3.0		bar
+14	The Lotts Cafe Bar	ChIJ0XdmbYMOZ0gRzhQBeKi5pTU	cafe|bar|restaurant|food|point_of_interest|establishment	53.3473617	-6.263325	True	2.0		bar
+16	Fitzsimons Hotel Temple Bar	ChIJww8Q1IIOZ0gRtDK-tFjPNu4	bar|night_club|lodging|restaurant|food|point_of_interest|establishment	53.345581	-6.265118600000001	True	2.0		bar
+17	The glimmer man	ChIJUTBNOcQPZ0gRVaCAl_Kl7DM	bar|point_of_interest|establishment	53.347108	-6.2655361				bar
+18	The Norseman	ChIJVfWIKoMOZ0gRIX4KZlTka4k	bar|restaurant|food|point_of_interest|establishment	53.34535409999999	-6.2647671	True	2.0		bar
+19	The Roof Garden Temple Bar	ChIJqerULMEPZ0gRgQk0nqxjwuQ	bar|point_of_interest|establishment	53.345477	-6.265269				bar
+20	Bad Ass Cafe	ChIJYVcctZwOZ0gRJhEhp0WVviM	cafe|bar|restaurant|food|point_of_interest|establishment	53.3453472	-6.2629	True	2.0	9-11 Crown Alley, Temple Bar, Dublin	bar
+21	La Caverna Restaurant and Wine Bar	ChIJWQO9y5wOZ0gRDUWJDEpAPoE	bar|restaurant|food|point_of_interest|establishment	53.3451351	-6.263310499999999	True	2.0	12 Fownes Street Upper, Temple Bar, Dublin 2, D02 PY51	bar
+22	Crowbar	ChIJwX4N1JwOZ0gRMOv65jyD8vQ	bar|point_of_interest|establishment	53.3449637	-6.2643206	True	2.0	2 Temple Ln S, Temple Bar, Dublin	bar
+24	The Old Storehouse Bar and Restaurant	ChIJiTBhtJwOZ0gRQVe4FWJj5Kg	bar|restaurant|food|point_of_interest|establishment	53.345176	-6.262646	True	2.0	3 Crown Alley, Temple Bar, Dublin, D02 CX67	bar
+25	Riot	ChIJyUV-WIMOZ0gROz2JK9URJQA	bar|point_of_interest|establishment	53.3462635	-6.261503299999999	True	2.0	4 Aston Quay, Temple Bar, Dublin, D02 VP93	bar
+26	Vintage Cocktail Club	ChIJJ5P3tZwOZ0gRul-DaLTh-jk	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.3450546	-6.262910799999999	True	3.0	15 Crown Alley, Temple Bar, Dublin 2, D02 E229	bar
+27	Bad Bobs Temple Bar	ChIJnUe-NZ0OZ0gRcURhnZCniJE	night_club|bar|restaurant|food|point_of_interest|establishment	53.3450924	-6.265879399999999	True	2.0	35-37 Essex St E, Temple Bar, Dublin 2, D02 Y891	bar
+29	The Liquor Rooms	ChIJY-HBs4IOZ0gR8Tzb0TWJx90	night_club|bar|point_of_interest|establishment	53.3453683	-6.2668329	True	2.0	6-8 Wellington Quay, Temple Bar, Dublin, D02 HT44	bar
+30	Foggy Dew	ChIJPYCJw5wOZ0gRRLWGxxydvRY	bar|restaurant|food|point_of_interest|establishment	53.3445277	-6.2633765	True	2.0	1 Fownes Street Upper, Temple Bar, Dublin 2, D02 WP21	bar
+32	Knightsbridge Bar & Bistro	ChIJF3ZrmoQOZ0gRKqIrkoq3Op0	bar|point_of_interest|establishment	53.3472425	-6.2609182	True		24 Bachelors Walk, North City, Dublin	bar
+33	Trinity Bar & Venue	ChIJ6e3GRJ0OZ0gRutaWOjFlip0	bar|restaurant|food|point_of_interest|establishment	53.34433	-6.263612999999999	True	2.0	46-49 Dame St, Dublin Southside, Dublin, D02 X466	bar
+35	Roberta's Restaurant, Bar & Terrace	ChIJi9OsK4MOZ0gRBJgVXatL_8A	bar|restaurant|food|point_of_interest|establishment	53.34510299999999	-6.267157	True	3.0	1 Essex St E, Temple Bar, Dublin	bar
+36	Three Spirits Bar & Grill	ChIJx2vKAyoMZ0gR2f2CBeqyNz4	bar|restaurant|food|point_of_interest|establishment	53.3464152	-6.267998200000001			89-94 Capel St, North City, Dublin, D01 H0C2	bar
+37	Buskers on the Ball	ChIJR9mP8ScMZ0gRH6LBjSvHjX4	bar|point_of_interest|establishment	53.3459357	-6.2603281	True	2.0	13 - 17 Fleet St, Temple Bar, Dublin, D02 WD51	bar
+38	Porterhouse Temple Bar	ChIJISjK0PEMZ0gRZz3RsNSfxjQ	bar|restaurant|food|point_of_interest|establishment	53.3450877	-6.2674185	True	2.0	16-18 Parliament St, Temple Bar, Dublin 2, D02 VR94	bar
+39	Cafe Rubis Wine Bar	ChIJhT7UT50OZ0gRYlkrZza9gnY	bar|food|point_of_interest|establishment	53.3445979	-6.267234900000001	True		9 Parliament St, Temple Bar, Dublin 2, D02 K726	bar
+40	Anne's Bar & Hardware	ChIJkXPb9PQPZ0gRCtYE_it0W7Q	bar|point_of_interest|establishment	53.3452144	-6.2660502	True		10 Essex St E, Temple Bar, Dublin, D02 TF24	bar
+41	W.Plunket	ChIJMXiA-nYPZ0gRKqycNTKZ1LA	bar|point_of_interest|establishment	53.34797	-6.26258	True		52 Middle Abbey St, North City, Dublin, D01 W9H6	bar
+43	O'Connell's Bar Dublin	ChIJdRf4koQOZ0gRs69VG2aIbb8	bar|restaurant|food|point_of_interest|establishment	53.3474772	-6.2602807	True	2.0	30 Bachelors Walk, North City, Dublin, D01 YP70	bar
+44	The Bankers Bar	ChIJiTZhlZwOZ0gR1GiRj8Y6XFk	bar|point_of_interest|establishment	53.34399980000001	-6.262488299999999	True	2.0	Trinity St, Dublin, D02 A440	bar
+45	The Church Café, Late Bar & Restaurant	ChIJtTOXRIIOZ0gRiLAbrd61jVs	bar|tourist_attraction|cafe|restaurant|food|point_of_interest|establishment	53.3486388	-6.2667114	True	2.0	Junction of Mary St. and, Jervis St, Dublin 1, D01 YX64	bar
+46	The Palace Bar	ChIJY8EByoQOZ0gRSMYJds1CQHU	bar|restaurant|food|point_of_interest|establishment	53.3458948	-6.2596063	True	2.0	21 Fleet St, Temple Bar, Dublin 2, D02 H950	bar
+47	Lundy Foot's, Bar & Restaurant Temple Bar	ChIJJ7hgKJYPZ0gRXK79fxx9SH0	bar|restaurant|food|point_of_interest|establishment	53.3449015	-6.2679554	True	2.0	Lundy Foot's Bar and Restaurant, Essex Gate, D2, Dublin	bar
+48	4 Dame Lane	ChIJU7k9lZwOZ0gRzC8d16KpLVM	bar|point_of_interest|establishment	53.3437628	-6.262862699999999	True	2.0	4 Dame Ln, Dublin 2, D02 YD79	bar
+49	TGI Friday's - Temple Bar	ChIJRXMQUoMOZ0gRCybfupY0Yog	bar|restaurant|food|point_of_interest|establishment	53.3460695	-6.259363599999999	True	2.0	10-12 Westmoreland St, Temple Bar, Dublin, D02 CD45	bar
+50	The Oval Bar Dublin	ChIJW--8YIQOZ0gRi_8uV6kItkI	bar|restaurant|food|point_of_interest|establishment	53.3484586	-6.2603402	True	2.0	78 Middle Abbey St, North City, Dublin 1, D01 RW24	bar
+51	Pillar Bar Dublin	ChIJO4Tl3IQOZ0gRL6MvhjzH3E0	bar|point_of_interest|establishment	53.3466902	-6.2588833	True		25 Westmoreland St, Dublin, D02 XP95	bar
+52	The Globe - Late Bar 7 Nights A Week	ChIJcduJ4pwOZ0gRati0mqc8_dM	bar|point_of_interest|establishment	53.343325	-6.264257	True	2.0	11 South Great George's Street, Dublin, D02 V628	bar
+54	Emple Bar	ChIJf8le8ScMZ0gRyc7mwNZYJCc	bar|point_of_interest|establishment	53.3446094	-6.2686601	True		Temple Bar, Dublin 8	bar
+55	Library Bar	ChIJBfP1_JwOZ0gROrshDI9WYNw	bar|restaurant|food|point_of_interest|establishment	53.3431053	-6.264126300000001	True	2.0	Exchequer St, Dublin 2, D02 E044	bar
+56	River Bar	ChIJH9113oQOZ0gR4vSG0NFAm0M	bar|point_of_interest|establishment	53.3468528	-6.2584466	True	2.0	1 Burgh Quay, Dublin 2	bar
+58	Dakota	ChIJ5ylG9ZwOZ0gRUMjOMVhYuyw	bar|point_of_interest|establishment	53.34265860000001	-6.262323100000001	True	2.0	8/9 William St S, Dublin 2, D02 ND76	bar
+59	Chaplins Bar	ChIJp1jnL4UOZ0gRB0UnXOwVsk8	tourist_attraction|bar|restaurant|food|point_of_interest|establishment	53.3462007	-6.2571756	True	1.0	1-2 Hawkins St, Dublin 2, D02 K590	bar

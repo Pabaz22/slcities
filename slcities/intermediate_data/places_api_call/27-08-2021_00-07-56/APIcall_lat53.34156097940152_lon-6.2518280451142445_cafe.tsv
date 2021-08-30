@@ -1,0 +1,60 @@
+	name	place_id	price_level	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Insomnia Coffee Company	ChIJKW4hmZAOZ0gR8Viyg-JY8dw	2.0	cafe|food|point_of_interest|store|establishment	53.34198790000001	-6.2526903	False		cafe
+1	Cafe Sol Lincoln Place	ChIJ2e6c3ZAOZ0gR_cJdyBalyz8		cafe|restaurant|food|point_of_interest|store|establishment	53.3418517	-6.250460599999999	False		cafe
+2	Costa Cafe	ChIJn0OlTkgPZ0gRzgLKYEcxvtI		cafe|food|point_of_interest|establishment	53.3418042	-6.250424700000001			cafe
+3	The Davenport Hotel	ChIJ0VwTxZAOZ0gRS0QnGUR8TdE		cafe|lodging|bar|restaurant|food|point_of_interest|establishment	53.3416667	-6.250027499999999	True		cafe
+4	White Rabbit Café	ChIJJywnbvgPZ0gRYlEMghh-GUU		cafe|food|point_of_interest|store|establishment	53.341926	-6.2539575	False		cafe
+5	Coffeeangel	ChIJnbxScpoOZ0gRiwvxhTOWSAQ	2.0	cafe|food|point_of_interest|store|establishment	53.341957	-6.254135000000001	False		cafe
+6	Brewbaker Cafe	ChIJkUY7cpoOZ0gR4qlRyte4vAU		cafe|food|point_of_interest|establishment	53.3420096	-6.254269700000001			cafe
+7	Chez Max Coffee Shop	ChIJazuGoSgPZ0gR5oTvJl42aAw		cafe|food|point_of_interest|establishment	53.34190510000001	-6.254385	False		cafe
+8	Il Caffe Di Napoli	ChIJISjK0PEMZ0gRnrKfPJw43IQ	2.0	cafe|food|point_of_interest|store|establishment	53.34270300000001	-6.2499822	True		cafe
+9	Steam Café @ The Alex - Dublin 2	ChIJczeQsIgPZ0gRl2VjTAtH2lU		cafe|food|point_of_interest|establishment	53.3418512	-6.249085399999998	False		cafe
+10	Cafe Joly	ChIJAQC8GpoOZ0gRx4vSvmmms0g		cafe|food|point_of_interest|establishment	53.3412118	-6.2548213	False		cafe
+11	O'Briens Sandwich Cafe	ChIJa1jqaJoOZ0gRnXL5bRWOWMY	2.0	cafe|food|point_of_interest|establishment	53.3421956	-6.255077099999999	False		cafe
+12	Kilkenny Cafe and Restaurant	ChIJGTNjW5oOZ0gRQXd_jj5bwgY		cafe|restaurant|food|point_of_interest|establishment	53.34220130000001	-6.2551813	False		cafe
+13	Kilkenny Shop	ChIJ1eKCQpoOZ0gRC95WPSY_n-A		department_store|cafe|food|point_of_interest|store|establishment	53.3421558	-6.2553189	False		cafe
+14	Petit Café	ChIJbyOGJpoOZ0gRyL7xThTM3CI		cafe|food|point_of_interest|establishment	53.34061819999999	-6.2555613	False		cafe
+15	Offbeat Donut Co.	ChIJFXcqpJEOZ0gRYu0Hh_zT4AQ	2.0	bakery|cafe|restaurant|food|point_of_interest|store|establishment	53.3436981	-6.249242	False		cafe
+16	Tiller + Grain	ChIJz0L78ncPZ0gR-Cb061infso		cafe|food|point_of_interest|establishment	53.34231039999999	-6.256276399999999	False		cafe
+17	Sprout & Co Kitchen Limited	ChIJz-7lTpoOZ0gRt5wBW8J4_l0		cafe|food|point_of_interest|establishment	53.3420816	-6.256395299999999			cafe
+18	Brewbakers Cafe	ChIJoYM2UJoOZ0gR4Au8mRFeMpI		cafe|food|point_of_interest|establishment	53.3423302	-6.2563186			cafe
+19	Lavazza at the Arts Café (Perch Café)	ChIJB1Si3ZoOZ0gREc2B4pI7B4Y		cafe|food|point_of_interest|establishment	53.3423838	-6.2562959	False		cafe
+20	Trinity SU Cafe	ChIJz-HLopEOZ0gRFUkTRyQZVIU	1.0	cafe|food|point_of_interest|establishment	53.3440384	-6.2488081	False	46 R802, Dublin	cafe
+21	Cloud Picker Cafe	ChIJQc30T8YPZ0gRoiHKrq-p1OU		cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment	53.34450769999999	-6.2501168	False	The Projector Room, The Academy, 42 Pearse St, Dublin 2	cafe
+22	O'Donovan Cafe	ChIJ0-0avZEOZ0gRxfxSfeNZn4k		cafe|food|point_of_interest|establishment	53.3441751	-6.248881099999999		44 Pearse St, Dublin, D02 PX31	cafe
+23	Lolly and Cooks	ChIJMcvm0JkOZ0gRbF7p2AbPgnY	2.0	cafe|food|point_of_interest|store|establishment	53.33819339999999	-6.2533273	False	18 Merrion St Upper, Dublin 2	cafe
+24	KC Peaches Cafe St. Stephen's Green	ChIJlQXBpJkOZ0gR7UQ72Ni03xY	2.0	cafe|restaurant|food|point_of_interest|establishment	53.3387263	-6.255329199999999	False	North, 35 - 37 St Stephen's Green, Dublin 2	cafe
+25	KC Peaches Cafe Nassau Street	ChIJsxs5q5sOZ0gRLd81VE_JJO0	2.0	cafe|restaurant|food|point_of_interest|establishment	53.3427963	-6.2575961	False	27-29 Nassau St, Dublin 2	cafe
+26	Cafe Sol Lower Baggot Street	ChIJ79lGgpcOZ0gROMkQ3B8_D6I		cafe|meal_takeaway|restaurant|food|point_of_interest|establishment	53.337671	-6.252006	False	134 Baggot Street Lower, Dublin	cafe
+27	Il Fornaio Dawson Street	ChIJ78xVwJsOZ0gR0LFYiJEeEqM		cafe|food|point_of_interest|establishment	53.3413676	-6.258399199999999	True	Unit 10, Royal Hibernian Way, Dawson St, Dublin 2	cafe
+28	Camerino Bakery Café	ChIJAViEt-8PZ0gRuDSSI9gHUWw	2.0	cafe|food|point_of_interest|establishment	53.3392288	-6.2463934	False	37 Merrion Square E, Grand Canal Dock, Dublin, D02 XK52	cafe
+29	Cafe Boulevard	ChIJTWEvg5cOZ0gRRRdibB_hjW4	2.0	cafe|food|point_of_interest|establishment	53.3375	-6.251666699999999	False	132 Baggot Street Lower, Dublin, D02 AE12	cafe
+30	Sapori di Pizza & Deli	ChIJEc8YLZIOZ0gRM3EuSZZUj0o		cafe|food|point_of_interest|establishment	53.3436406	-6.245962	True	66B Pearse St, Dublin Southside, Co. Dublin, D02 DE68	cafe
+31	Our Little Cafe	ChIJ9yfK75EOZ0gRyoCm6MLcs-E		cafe|food|point_of_interest|establishment	53.3452715	-6.2482096		Dublin	cafe
+32	Caffé Nero	ChIJk1UxX5kOZ0gRp191usAQxYc	2.0	cafe|food|point_of_interest|establishment	53.3400008	-6.2588156	False	29 Dawson St, Dublin, D02 HW67	cafe
+33	MARKS AND SPENCER CAFE	ChIJo5-8M3wPZ0gRDc5c2Bv1kVE		cafe|food|point_of_interest|establishment	53.3422357	-6.2595212	True	15 Grafton Street, Dublin	cafe
+34	Green & Bean Cafe and Bar	ChIJAY2LhJsOZ0gRpuVcPOSOvsg		cafe|food|point_of_interest|establishment	53.3423914	-6.259914699999999	True	Green & Bean Cafe & Bar, Brown Thomas, 88-95 Grafton Street, Dublin	cafe
+35	Cafe Sol Baggot Street	ChIJNeF0NZYOZ0gRkC0bLVOjvck	2.0	cafe|restaurant|food|point_of_interest|store|establishment	53.33670170000001	-6.2484959	False	46 Baggot Street Lower, Dublin, D02 RP48	cafe
+36	Butlers Chocolate Café, Grafton Street	ChIJcXYPApwOZ0gRhJVOCiJAa3A	2.0	cafe|food|point_of_interest|store|establishment	53.34008799999999	-6.26057	True	51 Grafton Street, Dublin 2, D02 KD39	cafe
+37	Le Petit Parisien	ChIJybwAhJwOZ0gRpbfvzstJAT0	2.0	cafe|food|point_of_interest|establishment	53.3430805	-6.261149	True	17 Wicklow St, Dublin 2, D02 PA07	cafe
+38	The Pepper Pot	ChIJOZetZpwOZ0gRatuhbR47DGs	2.0	cafe|food|point_of_interest|establishment	53.3421988	-6.2616877	False	59 William St S, Dublin 2, D02 CH28	cafe
+39	Salt Cellar Cafe	ChIJFxiH3JUOZ0gRyxVG-CaIAVE	1.0	cafe|restaurant|food|point_of_interest|store|establishment	53.3372317	-6.2445336	False	29 Mount Street Upper, Grand Canal Dock, Dublin, D02 K003	cafe
+40	Java Republic	ChIJD9GtzZsOZ0gRplAGfvW8yD0	2.0	cafe|food|point_of_interest|establishment	53.3410419	-6.2570548	False	37 Molesworth Pl, Dublin 2, D02 K023	cafe
+41	O'Briens Sandwich Cafe	ChIJF6nmzpkOZ0gRuHqvr6JqPlk	2.0	cafe|restaurant|food|point_of_interest|establishment	53.3381342	-6.2537967	False	19 Merrion Row, Dublin 2, D02 TA46	cafe
+42	Cafe Sol Dawson Street	ChIJPzMkwpsOZ0gRMSK5YoaDtMc		cafe|meal_takeaway|restaurant|food|point_of_interest|establishment	53.3413967	-6.2585333	False	Royal Hibernian Way, Dawson St, Dublin	cafe
+43	Dolce Sicily	ChIJG-5b3ZsOZ0gRelL4mJ0ROiI	2.0	bakery|cafe|restaurant|food|point_of_interest|store|establishment	53.3409827	-6.258890099999999	True	20 Anne St S, Dublin, D02 V625	cafe
+44	Butlers Chocolate Café, Wicklow Street	ChIJY54xiZwOZ0gR1rUA021BGi8	2.0	cafe|food|point_of_interest|store|establishment	53.34299859999999	-6.2619593	False	24 Wicklow St, Dublin, D02 R981	cafe
+45	Cafe Sol Earlsfort Terrace	ChIJdb36C6IOZ0gRsSBtMgHrrLk		cafe|restaurant|food|point_of_interest|store|establishment	53.3358171	-6.2571941	False	1 Earlsfort Terrace, Saint Kevin's, Dublin 2	cafe
+46	Keoghs Cafe	ChIJbR8TvpwOZ0gRoHjj1FJSZWM	2.0	cafe|restaurant|food|point_of_interest|store|establishment	53.3440326	-6.2622037	False	1 & 2 Trinity St, Dublin, D02 A440	cafe
+47	Metro Cafe	ChIJM53DN5wOZ0gRLwe1FRWl1Fg	2.0	cafe|restaurant|food|point_of_interest|establishment	53.3412348	-6.262988099999999	True	43 William St S, Dublin 2, D02 YK59	cafe
+48	Brew Town Cafe	ChIJcajxI6gPZ0gRq0Nr1UIn2zM		cafe|food|point_of_interest|store|establishment	53.3357159	-6.257313099999999	False	1A Earlsfort Terrace, Dublin 2 Dublin 2, Dublin, D02 F727	cafe
+49	Busyfeet & Coco Cafe	ChIJRelUNpwOZ0gR4TBZ01H2wjU	2.0	meal_takeaway|cafe|bar|restaurant|food|point_of_interest|store|establishment	53.3410622	-6.2631411	True	41 William St S, Dublin, D02 R228	cafe
+50	Taste Food Company	ChIJ3QXQNpwOZ0gRlPSKUTE8oeM	2.0	cafe|restaurant|food|point_of_interest|establishment	53.3409759	-6.2631814	True	39-40 William St S, Dublin 2, D02 AK50	cafe
+51	Kaph	ChIJm1QEWJwOZ0gRvZz8xmTOkiY	1.0	cafe|food|point_of_interest|establishment	53.342594	-6.26324	False	31 Drury St, Dublin 2, D02 Y684	cafe
+52	The Pieman Cafe	ChIJB_GQtZwOZ0gR0dVDFZ9AX94	1.0	cafe|bakery|restaurant|food|point_of_interest|store|establishment	53.3451313	-6.2629122	True	2, 14 Crown Alley, Temple Bar, Dublin 2, D02 RX36	cafe
+53	Bad Ass Cafe	ChIJYVcctZwOZ0gRJhEhp0WVviM	2.0	cafe|bar|restaurant|food|point_of_interest|establishment	53.3453472	-6.2629	True	9-11 Crown Alley, Temple Bar, Dublin	cafe
+54	Café Sol	ChIJI7MefaIOZ0gRAdD49Iblmfw	2.0	cafe|restaurant|food|point_of_interest|store|establishment	53.3340839	-6.2555834	False	33 Hatch Street Lower, Saint Kevin's, Dublin 2, D02 VH70	cafe
+55	Murphy’s Bistro Cafe	ChIJYWHFm4QOZ0gRA1G2btiLONk		cafe|food|point_of_interest|establishment	53.3472096	-6.2610836	True	22 Bachelors Walk, North City, Dublin 1, D01 V838	cafe
+56	Insomnia Coffee Company	ChIJ4WvZnokPZ0gRgT2M_n1TWeM	2.0	cafe|food|point_of_interest|establishment	53.3433585	-6.2388707	True	Unit 4, Block, Sq, 1 Grand Canal Quay, Grand Canal Dock, Dublin, D02 FF61	cafe
+57	Cafe Bar H	ChIJAUe90OwOZ0gRaXj9fSiDj3M	2.0	restaurant|cafe|bar|food|point_of_interest|establishment	53.34350250000001	-6.2388035	True	1 Grand Canal Square, Grand Canal Dock, Dublin, D02 TP60	cafe
+59	Green Bench Cafe	ChIJKyj4uZ8OZ0gRB1qQlFZf5MY	1.0	cafe|meal_takeaway|restaurant|food|point_of_interest|establishment	53.3364607	-6.263986699999999	False	18 Montague St, Saint Kevin's, Dublin 2, D02 VE29	cafe

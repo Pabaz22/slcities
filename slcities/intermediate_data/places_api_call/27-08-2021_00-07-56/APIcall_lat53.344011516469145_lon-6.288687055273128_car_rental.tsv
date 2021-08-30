@@ -1,0 +1,8 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Budget Car Rental Dublin City Centre - South	ChIJo7qJpUUMZ0gRDLMRwjQCg5c	car_rental|point_of_interest|establishment	53.34112210000001	-6.305384	True	car_rental
+1	Avis Car Hire Dublin City Centre	ChIJo7qJpUUMZ0gRMYC47Si8oGw	car_rental|point_of_interest|establishment	53.3409719	-6.3054043	True	car_rental
+2	Hertz Car Hire	ChIJAS8yoBcMZ0gRoCS90c2ng7o	car_rental|point_of_interest|establishment	53.3309548	-6.280882200000001	False	car_rental
+3	UFODRIVE: 24/7- Car Rental - Dublin City	ChIJq-OXyKIPZ0gR_LWL4U3iYr0	car_rental|point_of_interest|establishment	53.3394269	-6.2635717	True	car_rental
+4	Hertz Car Hire	ChIJYdDsEtQNZ0gRbO-QmxQRPow	car_rental|point_of_interest|establishment	53.3596926	-6.2778363	False	car_rental
+5	Thrifty Car Rental	ChIJ2Uok6PENZ0gRGR-Ju-dy0kU	car_rental|point_of_interest|establishment	53.359709	-6.277702	False	car_rental
+6	Dollar Rent A Car	ChIJ-RCq3VINZ0gRrPRFxXFkI5E	car_rental|point_of_interest|establishment	53.359716	-6.277708	False	car_rental

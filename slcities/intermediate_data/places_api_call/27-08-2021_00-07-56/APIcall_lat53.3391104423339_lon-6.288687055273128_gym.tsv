@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Pilates with Lena	ChIJdyb2AsgPZ0gR9Seing-Cc-c	gym|health|point_of_interest|establishment	53.338426	-6.287628	False		gym
+1	Herberton Leisure	ChIJPwGAOD8MZ0gRNf_kmkvfoXY	gym|health|point_of_interest|establishment	53.3371315	-6.2929229	False		gym
+2	Estelle Birdy Yoga	ChIJpc6_iB8MZ0gRVGoBo1V47m0	gym|health|point_of_interest|establishment	53.3380342	-6.281890399999999	False		gym
+3	Donore Boxing Club	ChIJZQy3qD0MZ0gRlJu37miKkD4	gym|health|point_of_interest|establishment	53.335373	-6.283993400000001			gym
+4	Energie Fitness Dublin8	ChIJxd4mBq8NZ0gRL05_6tYwFyM	gym|health|point_of_interest|establishment	53.33871429999999	-6.280345599999999	False		gym
+5	St James Gate Health and Fitness Club	ChIJoxIQhDoMZ0gRXZ_2mJk0s8g	gym|health|point_of_interest|establishment	53.3441122	-6.285171800000001	False		gym
+6	Capital Strength Weightlifting Club	ChIJ3V-J7z8MZ0gRHPOJBuiFOH0	gym|health|point_of_interest|establishment	53.3337499	-6.292806300000001	False		gym
+7	Timber Yard	ChIJZwP2lbINZ0gRdRH4utJJcAE	gym|health|point_of_interest|establishment	53.3389563	-6.278571899999999			gym
+8	Sta.Lan.Do Mugendo Kickboxing	ChIJgWa1OoUOZ0gRrtiJ3CEjUpk	gym|health|point_of_interest|establishment	53.3410478	-6.278721200000001	False		gym
+9	Anytime Fitness Kilmainham	ChIJEcCeCUgMZ0gRat_EB9bb05Y	gym|health|point_of_interest|establishment	53.3441688	-6.2969582	True		gym
+10	Bruiser's HQ	ChIJ59iMRC8NZ0gRT8yrvQRCDgw	gym|health|point_of_interest|establishment	53.3392405	-6.300669099999999	False		gym
+11	Outside Gym	ChIJUd7JKgYNZ0gRgaf1Ul8ByYA	gym|health|point_of_interest|establishment	53.33461579999999	-6.301735599999998			gym
+12	Lift Training Studios	ChIJfXKp_i4MZ0gRvTDzd9kpBE8	gym|health|point_of_interest|establishment	53.3467956	-6.2801103	False		gym
+13	Viribus Crossfit, Smithfield, Dublin	ChIJZyXc_i4MZ0gRjXIIR8lIz6w	gym|health|point_of_interest|establishment	53.3468596	-6.280062599999999	False		gym
+14	FUSE Smithfield	ChIJH1a3J_YNZ0gRtMIEb0zMxP0	gym|health|point_of_interest|establishment	53.3484709	-6.2817291	False		gym
+15	High Street Kenpo Karate Academy	ChIJ66MVQSYMZ0gROA7a6yFFu8A	gym|health|point_of_interest|establishment	53.3432355	-6.2727717	True		gym
+16	Avona Boxing Club	ChIJmUCqCVZyZ0gRVf_bTo-xnlo	gym|health|point_of_interest|establishment	53.34955979999999	-6.286076	False		gym
+17	Euroeducation Ireland in Iveagh Fitness Club	ChIJRd7j_CYMZ0gRCCla0DSw-tY	gym|health|point_of_interest|establishment	53.3416785	-6.271170499999999	False		gym
+18	Iveagh Fitness Club	ChIJZclB_SYMZ0gRvNAA3kxYxIM	gym|health|point_of_interest|establishment	53.34157829999999	-6.2708805	False		gym
+19	Oxyfitness	ChIJc_BQ1mkMZ0gRXBOpChDs7fg	gym|health|point_of_interest|establishment	53.3322454	-6.303346	False		gym
+20	LivingWell Health Club Kilmainham	ChIJoTpdXUUMZ0gRUW_SDKzQf_Q	gym|health|point_of_interest|establishment	53.342413	-6.308112599999999	True	Hilton Dublin Kilmainham, S Circular Rd, Kilmainham, Dublin, D08 XAK3	gym
+21	1escape Health Club	ChIJl8_Ohi4MZ0gRkrRAc0fH77E	gym|health|point_of_interest|establishment	53.3495459	-6.278339	True	Smithfield Market, Block G, Smithfield, Dublin 7	gym
+22	South Dublin Strength & Conditioning	ChIJ7RQNrBAMZ0gRihghBlkOBXg	gym|health|point_of_interest|establishment	53.3280077	-6.2788556	False	10-11 Greenmount Ave, Harold's Cross, Dublin 6	gym
+23	F45 Training Grangegorman	ChIJBV69avsNZ0gR3Q_bzBrHiOI	gym|health|point_of_interest|establishment	53.3512919	-6.2795403	False	8 Grangegorman Lower Unit 3, Ard Cairn House, Smithfield, Dublin, D07 DA25	gym
+24	YMCA Gym	ChIJL2vIBZ4OZ0gRu_c-nR_Ssks	gym|spa|health|point_of_interest|establishment	53.3393733	-6.2661252	False	53 Aungier St, Dublin 2, D02 CH96	gym
+25	Dublin Fit Club	ChIJNUh89GgMZ0gR59rv5RPWmmA	gym|health|point_of_interest|establishment	53.329648	-6.3051375	False	Sunshine Industrial Estate, Crumlin Rd, Crumlin, Dublin 12	gym
+26	Icon Health Club	ChIJTwQx258OZ0gRI_HCZ-RVrk8	gym|school|health|point_of_interest|establishment	53.3362584	-6.265157899999999	False	1-4 Camden Street Lower, Saint Kevin's, Dublin 2, D02 PX82	gym
+27	FLYEfit George's Street	ChIJD25sqZ0OZ0gRsEuW8IYIOXg	gym|health|point_of_interest|establishment	53.34236139999999	-6.2652926	True	South Great George's Street, Dublin 2	gym
+28	Underdog Boxing	ChIJt-EfNp4OZ0gRuqVN8vneylI	gym|health|point_of_interest|establishment	53.3374773	-6.2647773	False	Greenside House, Cuffe St, Dublin 2	gym
+29	The ABS Gym	ChIJWcjOR50OZ0gRQby3kurghB0	gym|health|point_of_interest|establishment	53.3445228	-6.2661162	False	1-5 Crampton Ct, Temple Bar, Dublin 2, D02 FD25	gym
+30	CrossFit Navitas	ChIJcbwV-Z8OZ0gRALPIMnNL0gM	gym|health|point_of_interest|establishment	53.3346204	-6.265469700000001	False	64 Camden Street Lower, Saint Kevin's, Dublin, D02 EV90	gym
+31	FLYEfit Portobello	ChIJPRvPxB8MZ0gRDMsgBAQaLig	gym|health|point_of_interest|establishment	53.332333	-6.2664219	True	8-10 Harrington St, S Circular Rd, Portobello, Dublin 8, D08 X242	gym
+32	Traning	ChIJZSR82HoNZ0gR3MED9XJzgp0	gym|health|point_of_interest|establishment	53.3338842	-6.312886799999999		12 Benmadigan Rd, Drimnagh, Dublin, D12 V40C	gym
+33	Power Gym Dublin 2	ChIJz0F-yrsPZ0gRznq7Cho_f-8	gym|health|point_of_interest|establishment	53.3351689	-6.263802699999999	False	33 Harcourt St, Saint Kevin's, Dublin, D02 WC81	gym
+34	Hercules Gym	ChIJCbw2OyoMZ0gRReKhO91XLuY	gym|health|point_of_interest|establishment	53.3509986	-6.2719279	False	Lurgan St, Northside, Dublin	gym
+35	FLYEfit Jervis Street	ChIJzcRk17wPZ0gRFdFfHdT5okc	gym|health|point_of_interest|establishment	53.34766759999999	-6.265978	True	Jervis Lane Upper, North City, Dublin	gym
+36	Gym	ChIJzUffa5wOZ0gREtFSSOxLCXs	gym|health|point_of_interest|establishment	53.3416755	-6.2618858	False	42 Clarendon St, Dublin 2, D02 R653	gym
+37	SmartFIT	ChIJhX4N2g8MZ0gRZc-KEbuKNv4	gym|health|point_of_interest|establishment	53.3226203	-6.280356500000001	False	7 Shamrock Villas, Terenure, Dublin, D6W Y884	gym
+38	West Wood Club	ChIJeRzLvIQOZ0gR9iHa5il1_aY	gym|health|point_of_interest|establishment	53.3463431	-6.260578199999999	True	2 Aston Quay, Temple Bar, Dublin, D02 PN56	gym
+39	FFS Gym	ChIJr3ca-pwPZ0gRACT8jgiACBw	gym|health|point_of_interest|establishment	53.3518364	-6.2650079	False	214 Ivy Exchange, Granby Pl, Parnell St, Dublin 1, D01 W8X5	gym
+41	Origins Muay Thai	ChIJFxDa9S0MZ0gRxBoueYmk0Gk	gym|health|point_of_interest|establishment	53.35072599999999	-6.283442	False	11 Arbour Pl, Stoneybatter, Dublin, D07 R206	gym
+42	Sanchin Karate Dojo and Gym	ChIJjxhQ8ycMZ0gRkvSJ5A3HdLA	gym|health|point_of_interest|establishment	53.3438149	-6.2683655		The Tramyard, Castle St, Dalkey, Co. Dublin	gym
+43	Fit for Me - cardiac rehabilitation	ChIJwxpLU1AMZ0gRJm95IYgfrvA	gym|health|point_of_interest|establishment	53.345073	-6.313238	False	Civil Service GAA Club, Memorial Gardens, Islandbridge, Dublin 8	gym
+44	Smithfield Boxing Club	ChIJZ_dzODwMZ0gRs2aGqUbFBD0	gym|health|point_of_interest|establishment	53.3551918	-6.2895601		Aughrim St Sports Centre, Aughrim St, Stoneybatter, Dublin	gym
+45	West Wood Club	ChIJlbkpu4QOZ0gRnXrJua1M18E	gym|health|point_of_interest|establishment	53.34632509999999	-6.260583599999999	False	3-5 Aston Pl, Temple Bar, Dublin, D02 HF65	gym
+46	O’Rourke’s Gym	ChIJawWIZmINZ0gR2HfVFlZoVA8	gym|health|point_of_interest|establishment	53.3363399	-6.3227552	False	Inchicore, Dublin	gym
+48	FFS Gym	ChIJEQrz5aIOZ0gRQrcJ_xj8yJE	gym|physiotherapist|health|point_of_interest|establishment	53.33285799999999	-6.253922999999999	False	47 Leeson Street Lower, Saint Kevin's, Dublin, D02 P788	gym
+49	The henry fitness centre	ChIJZVgzIJgOZ0gR6zjUQlnRZoI	gym|health|point_of_interest|establishment	53.3365968	-6.252621599999999	False	14 Pembroke Street Lower, Dublin 2, D02 HK79	gym
+50	Markievicz Leisure Centre	ChIJd_yg_48OZ0gRsH5wW2QE8Tk	gym|spa|health|point_of_interest|establishment	53.34607399999999	-6.254294199999999	False	Luke St, Dublin 2	gym
+51	FLYEfit Baggot Street	ChIJ9f0VeJcOZ0gRDMNUY7iSf8E	gym|health|point_of_interest|establishment	53.33791350000001	-6.2518074	True	15-16 Baggot Street Lower, Dublin 2, D02 AV91	gym
+52	Educogym	ChIJc985b34OZ0gR3LaveK-N3iA	gym|health|point_of_interest|establishment	53.35784659999999	-6.265423699999999	True	66 Eccles St, Dublin	gym
+53	Belvedere College & Gym	ChIJV2MPi30OZ0gRUSOlGFXW0oM	gym|health|point_of_interest|establishment	53.3560798	-6.2616938	False	Temple St, Northside, Dublin	gym
+54	Gym In park	ChIJbYrt9tcNZ0gRPse7ECLljDQ	gym|health|point_of_interest|establishment	53.3333755	-6.3272308	False	Drimnagh, Dublin 8	gym
+55	FLYEfit Ranelagh	ChIJc8NLx6UOZ0gRGesKK_OsXbg	gym|health|point_of_interest|establishment	53.3257302	-6.255089	True	28-36 Ranelagh, Dublin 6, D06 X6W0	gym
+56	Better Body Gym	ChIJ03lWjXwOZ0gRIsBaWOQVOXk	gym|health|point_of_interest|establishment	53.36136699999999	-6.272361999999999	False	Phibsborough Place, 26-26A Phibsborough Rd, Cabra East, Dublin 7	gym
+57	CP Fitness	ChIJa1IPvCoMZ0gR63w5yy_UUOg	gym|health|point_of_interest|establishment	53.36516570000001	-6.290114	False	Naomh Fionbarra GAA Club, Faussagh Ave, Cabra East, Dublin 7	gym
+58	Complete Fitness	ChIJa0jDyogPZ0gR3sDRyS6mH78	gym|health|point_of_interest|establishment	53.3373666	-6.244906500000001	False	25 Mount Street Upper, Grand Canal Dock, Dublin, D02 E302	gym
+59	FLYEfit CHQ	ChIJiaruxI0OZ0gRlshDY6qs28E	gym|health|point_of_interest|establishment	53.34938769999999	-6.2482058	True	The Chq Building, VAULT D, N Wall Quay, Dublin, D01 A3X7	gym

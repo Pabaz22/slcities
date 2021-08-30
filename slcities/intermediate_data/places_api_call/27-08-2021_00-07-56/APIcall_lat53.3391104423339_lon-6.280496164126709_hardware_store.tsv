@@ -1,0 +1,17 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
+0	Alfa Bargains	ChIJl6ZfEyUMZ0gR8kR_o0x_MfM	hardware_store|point_of_interest|store|establishment	53.3430408	-6.279630399999999	False		hardware_store
+1	Dunnes Hardware	ChIJtUpi0Z8OZ0gRJrUTT1Ps_jw	hardware_store|point_of_interest|store|establishment	53.3367276	-6.265744899999999	False		hardware_store
+2	Fogarty Lock & Safe Co Ltd.	ChIJPVAFRJ0OZ0gRVrRToTE7HRk	hardware_store|locksmith|point_of_interest|store|establishment	53.344253	-6.2667895	False		hardware_store
+3	Expert Hardware	ChIJTS20qJ0OZ0gRD7v19KoY_VU	hardware_store|point_of_interest|store|establishment	53.3422198	-6.2648559	False		hardware_store
+4	Decwells Hardware	ChIJlUkor50OZ0gRzbweqPRaJks	hardware_store|point_of_interest|store|establishment	53.3422198	-6.2648559	False		hardware_store
+5	Mannions Building Supplies	ChIJMxV0-UAMZ0gRXuW58h6aSbo	hardware_store|point_of_interest|store|establishment	53.33571319999999	-6.2971397	False		hardware_store
+6	McQuillan Tools	ChIJlzmxfoIOZ0gRd5MoHTMW1uU	hardware_store|point_of_interest|store|establishment	53.3480919	-6.268435699999999	False		hardware_store
+7	Lenehans	ChIJMYk3doIOZ0gRi6xOAGJOWEE	hardware_store|home_goods_store|point_of_interest|store|establishment	53.3486058	-6.268931700000001	False		hardware_store
+8	Keys Cut, Electrical and DIY tools	ChIJv3c-b4IOZ0gRqbYzxqghm_g	hardware_store|point_of_interest|store|establishment	53.34852830000001	-6.2678914	False		hardware_store
+9	Manor DIY	ChIJqfgzgDIMZ0gRMr4HuK93Rvg	hardware_store|point_of_interest|store|establishment	53.3511227	-6.2828926	False		hardware_store
+10	Mary's Bar & Hardware	ChIJy6cVf5sOZ0gRF5C4UwATBGY	hardware_store|bar|point_of_interest|store|establishment	53.3428527	-6.2602792	True	2.0	hardware_store
+11	Siopa Linn DIY (Hardware)	ChIJwZsBhhAMZ0gRmrdRxKw2PxI	hardware_store|point_of_interest|store|establishment	53.325881	-6.2787565	False		hardware_store
+12	City Saw Services Ltd	ChIJR0uTkzIMZ0gRk--1TD5nt8A	hardware_store|point_of_interest|store|establishment	53.3535351	-6.288550400000001	False		hardware_store
+13	Hardware Home Center	ChIJeRXlhZcOZ0gRRHQIEqUMPqM	hardware_store|point_of_interest|store|establishment	53.3370627	-6.252110499999999			hardware_store
+14	Points & Plugs Motor Factors	ChIJuXtBP80NZ0gR_X9oMfGr-IM	hardware_store|point_of_interest|store|establishment	53.3563261	-6.286831099999999	False		hardware_store
+15	M.s.i. Limited	ChIJS5S7tqIOZ0gRS2S78i9_Z9U	hardware_store|point_of_interest|store|establishment	53.33400690000001	-6.252161500000001			hardware_store

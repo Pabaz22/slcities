@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Coach Park	ChIJbac1GJcOZ0gRKTEMHf2c9gE	parking|point_of_interest|establishment	53.339095	-6.250080899999999			parking
+1	Q-Park Dawson Street	ChIJ87AMK5oOZ0gRQtjT6yAEC7Q	parking|storage|point_of_interest|establishment	53.340279	-6.255961000000001	True		parking
+2	Crystal Valet - Dawson Street	ChIJ_61suPAPZ0gRDsC0Cb2S7nI	car_wash|parking|point_of_interest|establishment	53.340128	-6.256913399999999	False		parking
+3	Mobypark car park	ChIJvUiUfdYPZ0gRcagI8I0_qto	parking|point_of_interest|establishment	53.33405769999999	-6.2588307			parking
+4	Q-Park Setanta	ChIJub5aT5oOZ0gRik4O3OL05qU	parking|storage|point_of_interest|establishment	53.34153509999999	-6.2557449	True		parking
+5	Setanta Place	ChIJp_hmSJoOZ0gRQZAdwax7M5g	parking|point_of_interest|establishment	53.3417842	-6.256151699999998			parking
+6	Albert Court	ChIJT4ys85QOZ0gRRujg8cfcTJc	parking|point_of_interest|establishment	53.3394967	-6.241721900000001			parking
+7	Crystal Valet - RCSI St. Stephens Green	ChIJj7qjKZwOZ0gRnq7TbSnpWwE	car_wash|parking|point_of_interest|establishment	53.3392862	-6.262435899999999	False		parking
+8	Q-Park St Stephens Green	ChIJ3SWqmp4OZ0gRVQJRuVgz8C8	parking|storage|point_of_interest|establishment	53.33928	-6.262508	True		parking
+9	Trinity College Visitors Car Park Cumberland Street South	ChIJd_hYnJEOZ0gROaluNDUpdRY	parking|point_of_interest|establishment	53.34365	-6.24794			parking
+10	2-22 Grand Canal Quay Garage	ChIJH1Uiv5QOZ0gRccGvAg08UNI	parking|point_of_interest|establishment	53.33996639999999	-6.2406801			parking
+11	Crystal Valet - St Stephens Green	ChIJUTQv5l0PZ0gRRFPQSpoPIlA	car_wash|parking|point_of_interest|establishment	53.3398649	-6.2632316	False		parking
+12	13-20 Clarence Place Great Parking	ChIJyxp0dpMOZ0gRJJaff2CpRH4	parking|point_of_interest|establishment	53.341986	-6.242803400000001			parking
+13	Stephen’s Green Q Park	ChIJc7xbstwPZ0gRDfAJpU2YcC8	parking|point_of_interest|establishment	53.3398285	-6.2641406			parking
+14	Ormonde Street Car Park	ChIJ8SvGhKQOZ0gRXf1t_LAn9nk	parking|point_of_interest|establishment	53.3288703	-6.255742100000001			parking
+15	Camden Court Hotel	ChIJkZPPDaAOZ0gRpnfbgd9-bws	beauty_salon|hair_care|parking|cafe|lodging|restaurant|food|gym|health|point_of_interest|store|establishment	53.33321360000001	-6.264256199999999	True		parking
+16	Brown Thomas Car Park	ChIJF61mfZwOZ0gR4t7UkAwyk_w	parking|point_of_interest|establishment	53.3426151	-6.261580800000001			parking
+17	Parking dublin	ChIJJWgbmCsPZ0gRECXTHAelpvQ	parking|point_of_interest|establishment	53.342411	-6.262686			parking
+18	Park Rite Drury Street	ChIJq5PotJ0OZ0gRhC6mURWMhes	parking|point_of_interest|establishment	53.3415148	-6.263947600000001	True		parking
+20	Drury Street Car Park	ChIJVbzY9pwOZ0gR9jq4SHX5IQ8	parking|point_of_interest|establishment	53.34291	-6.263128999999999	True	36/37 Drury St, Dublin, D02 YK20	parking
+21	Car Park Trinity Street (APCOA)	ChIJEaVGGJEOZ0gRFIbmynO8aLE	parking|point_of_interest|establishment	53.3437575	-6.262552299999999	True	Car Park, Trinity St, Dublin 2, D02 A440	parking
+22	2 Macken St Garage	ChIJt4eS1ZIOZ0gRo0dsKi48eMs	parking|point_of_interest|establishment	53.3438794	-6.240173299999999		2 Macken St, Dublin Docklands, Dublin, D02 HX04	parking
+23	Q-Park Grand Canal Square	ChIJk72g1OwOZ0gRdzruN_VI9mU	parking|point_of_interest|establishment	53.3437259	-6.2397088	True	Chimney View, Dublin Docklands, Dublin	parking
+24	ParkMagic Parking Reservations	ChIJtUxZ0OwOZ0gRlWnG6-tRwbQ	parking|point_of_interest|establishment	53.343371	-6.239		4 Grand Canal Quay, Dublin Docklands, Dublin	parking
+25	Park Rite	ChIJx3TPUpsOZ0gRLvW6CkKJ4fk	parking|point_of_interest|establishment	53.3452432	-6.2612903	True	52-57 Fleet St, Temple Bar, Dublin, D02 A375	parking
+26	Park Rite City Quay	ChIJB8CHyo8OZ0gRRZ8qeSRQ0JY	parking|point_of_interest|establishment	53.34722259999999	-6.2513877	False	3-1 City Quay, Dublin Docklands, Dublin	parking
+27	Best Car Parks	ChIJU4NplM8PZ0gR9FAvk0jR8Xc	parking|point_of_interest|establishment	53.34471370000001	-6.2397408	True	Hibernian Rd, Dublin Docklands, Dublin	parking
+28	The Gasworks Car Park	ChIJwe_NyusOZ0gRQrnilVanCC4	parking|point_of_interest|establishment	53.338773	-6.233422099999999		27-33 S Lotts Rd, Dublin 4, D04 R1H7	parking
+29	NCPS Pay Parking Bride Street	ChIJ36L5oCcMZ0gRST_NkjQp_8Q	parking|point_of_interest|establishment	53.3424236	-6.2696314	True	Werburgh St, Dublin Southside, Dublin	parking
+30	Car Park	ChIJKRpfMgQNZ0gRAPx5ldcIiH8	parking|point_of_interest|establishment	53.3433886	-6.2691655		Wood Quay, Dublin	parking
+31	Q-Park Christchurch	ChIJb9iPoycMZ0gR26M-RpUpAt8	parking|storage|point_of_interest|establishment	53.34301749999999	-6.270018500000001	True	2 Werburgh St, Dublin, D08 X981	parking
+32	Spencer Hotel car park	ChIJwxO7ExMPZ0gR1GCX40urOrk	parking|point_of_interest|establishment	53.3484722	-6.2445279		Unnamed Road, North Dock, Dublin	parking
+33	Park Rite IFSC	ChIJEwHYyY0OZ0gRi7d4MhF60IE	parking|point_of_interest|establishment	53.348808	-6.246055999999999	True	Commons St, North Dock, Dublin, D01 DA34	parking
+34	Parking in Rathmines	ChIJs3L81AMNZ0gR09k3XcrvVuo	parking|point_of_interest|establishment	53.3262699	-6.2644536	True	Leinster Cricket Club, Observatory Ln, Rathmines, Dublin 6, D06 WF96	parking
+35	Park Rite	ChIJ51HdkYUOZ0gRXm0HO28n8UI	parking|point_of_interest|establishment	53.3496283	-6.2543191	True	Irish Life Centre, Gardiner Street Lower, North City, Dublin 1, D01 Y7V2	parking
+36	Car Park Jervis Street | APCOA	ChIJtRUY8IIOZ0gRsMvOXLA6FHo	car_wash|parking|point_of_interest|establishment	53.3472386	-6.2661928	True	61-66 Jervis St, North City, Dublin, D01 X8C6	parking
+37	Best Car Parks Arnotts	ChIJebFSd4QOZ0gREV034JBJKeI	parking|point_of_interest|establishment	53.3487718	-6.262390099999999	False	3 Prince's St, North City, Dublin	parking
+38	Euro Car Parks Convention Centre Dublin Car Park	ChIJM6zU4PIOZ0gRCMK1CLxWN2g	parking|point_of_interest|establishment	53.3482315	-6.238840499999999	True	1 Mayor Street Upper, North Wall, Dublin 1, D01 DR94	parking
+39	Public Car Park	ChIJ4w_nTekOZ0gRih7ZxKtAHEo	parking|point_of_interest|establishment	53.3411604	-6.2294706		Dublin	parking
+40	Spencer Hotel Car Park	ChIJ______AOZ0gRrXUdadMfKTw	parking|point_of_interest|establishment	53.3484647	-6.2445192		Alderman Way, North Dock, Dublin	parking
+41	A&L Goodbody Car Park	ChIJ36EJG10PZ0gRF92x8p6EMaM	parking|point_of_interest|establishment	53.348432	-6.2420914		North Dock, Dublin	parking
+42	No-H2o--Red Long Term Car Park, Dublin Airport	ChIJ_adyR3YPZ0gRU4LX7WpfyIk	car_wash|parking|point_of_interest|establishment	53.3498053	-6.2603097	True	Red Long Term Car Park, Dublin Airport, Co. Dublin	parking
+43	Jervis Shopping Centre Car Park	ChIJB9McFcEPZ0gRxeVyC5_uMmI	parking|point_of_interest|establishment	53.34786829999999	-6.2662575	True	23 Jervis St, North City, Dublin, D01 TH72	parking
+44	CCD & PwC Underground Car Park	ChIJbxE_V_IOZ0gR2r-2kq5qQik	parking|point_of_interest|establishment	53.3497496	-6.2386482		Spencer Dock, N Wall Quay, North Dock, Dublin	parking
+45	Swan Car Park	ChIJjUAetAIMZ0gREX0P8eoQbwE	parking|point_of_interest|establishment	53.3232625	-6.26465	True	6 Rathmines Rd Lower, Rathmines, Co. Dublin	parking
+46	Coach Parking Area	ChIJod57iXoPZ0gRnJc0rH7_334	parking|point_of_interest|establishment	53.3518309	-6.2467565	True	43-49 Sheriff Street Lower, North Dock, Dublin 1, D01 T6C9	parking
+47	Moore Lane Car Park	ChIJF4GfroYOZ0gRukynOw9dgkM	parking|point_of_interest|establishment	53.3512262	-6.262169		Moore Ln, North City, Dublin	parking
+48	Free parking	ChIJPYG4XIkOZ0gRrQueXlVsUgU	parking|point_of_interest|establishment	53.3525617	-6.2496782		Foley St, Mountjoy, Dublin 1, D01 WA07	parking
+49	Ilac Shopping Centre Car Park	ChIJ09F7YoEOZ0gRekeF-kyOu_Y	parking|point_of_interest|establishment	53.3506872	-6.2648771	True	Parnell St, North City, Dublin 1, D01 TF70	parking
+50	Q-PArk Clerys	ChIJnQZ_6_0PZ0gRYy7J-7TPxe0	parking|point_of_interest|establishment	53.35239499999999	-6.258438		1 Marlborough St, North City, Dublin, D01 KR53	parking
+51	Q-Park The Spire	ChIJyx41XYYOZ0gR_QCfOzLvLo4	parking|storage|point_of_interest|establishment	53.352408	-6.258408999999999	True	Marlborough Pl, North City, Dublin 1, D01 W207	parking
+52	Parkrite Parking	ChIJVV_jj4EOZ0gRlJQhiHJJPQU	parking|point_of_interest|establishment	53.3510028	-6.266703499999999	True	16 King's Inns St, Rotunda, Dublin 1	parking
+53	Park Rite	ChIJPa87CIIOZ0gRa6WzULx8f0A	parking|point_of_interest|establishment	53.3510457	-6.267051299999999	True	The Parnell Centre, Loftus Ln, Rotunda, Dublin 1, D01 W7P4	parking
+54	15-21 Usher's Quay Parking	ChIJ7-rdaS8MZ0gRGjSQ_OriZZY	parking|point_of_interest|establishment	53.3453143	-6.276431499999999		15-21 Usher's Quay, Usher's Quay, Dublin, D08 K778	parking
+55	Public Car Park	ChIJ0e2J9oEOZ0gRDhqNEFjlFMw	parking|point_of_interest|establishment	53.350659	-6.2682745		Loftus Ln, Rotunda, Dublin	parking
+56	Oliver Bond Street Parking	ChIJEe0jhCUMZ0gR0TuW6FYEt68	parking|point_of_interest|establishment	53.3441908	-6.278012599999999	True	Oliver Bond St, Usher's Quay, Dublin	parking
+57	RDS Parking	ChIJ1YFDusUOZ0gRhy_O5BiZjDA	parking|point_of_interest|establishment	53.3275077	-6.2267546	False	44, 46 Merrion Rd, Dublin 4	parking
+58	Q-Park Four Courts	ChIJ_SEaaS8MZ0gRLVCk3fiU7fw	parking|storage|point_of_interest|establishment	53.345208	-6.27788	False	15-21 Usher's Quay, Usher's Quay, Dublin 8, D08 VP9C	parking
+59	2 Gardiner Street Middle Parking	ChIJ3fbYz4cOZ0gRI1lcJqFGDmM	parking|point_of_interest|establishment	53.3543383	-6.257193699999999		2 Gardiner Street Middle, Rotunda, Dublin 1, D01 W1C2	parking

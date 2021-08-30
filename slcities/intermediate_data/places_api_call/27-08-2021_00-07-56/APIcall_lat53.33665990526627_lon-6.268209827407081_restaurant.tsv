@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Taqueria Los Chicanos	ChIJMTmbolgNZ0gRXq2t87Mr2mU	restaurant|food|point_of_interest|establishment	53.33628290000001	-6.266381900000001	True			restaurant
+1	Boojum Kevin Street	ChIJUy5vgiAMZ0gRnE1on9PEVvw	restaurant|food|point_of_interest|establishment	53.33747890000001	-6.266805	True	1.0		restaurant
+2	Dash Burger	ChIJ4UN-giAMZ0gRj4dKCGA-EWg	restaurant|food|point_of_interest|establishment	53.33745469999999	-6.266599299999998	True			restaurant
+3	HOT CHILLI	ChIJzZqpKZ4OZ0gR7itUIYnMNFo	restaurant|food|point_of_interest|establishment	53.33753189999999	-6.266281299999999	True	1.0		restaurant
+4	Roma 2	ChIJJ7bE058OZ0gRNFaDuSRFwNo	meal_takeaway|restaurant|food|point_of_interest|establishment	53.336782	-6.265757999999999	True	1.0		restaurant
+5	The Jar	ChIJuSAP058OZ0gRlpw-0mehZak	bar|restaurant|food|point_of_interest|establishment	53.33693100000001	-6.265785000000001	True	2.0		restaurant
+6	BóBós Burgers Restaurant	ChIJ5ZFx0J8OZ0gRo7KzK3G50F8	restaurant|food|point_of_interest|establishment	53.336482	-6.265743	False	2.0		restaurant
+7	Bunsen Wexford Street	ChIJH6vzLJ4OZ0gRzfro_Y_9L00	meal_takeaway|restaurant|food|point_of_interest|establishment	53.33722009999999	-6.2659004	True	2.0		restaurant
+8	Opium	ChIJo-AK0Z8OZ0gRPRsrzYcwgiU	night_club|restaurant|food|point_of_interest|establishment	53.3366763	-6.2657137	True	2.0		restaurant
+9	Goose on the Loose	ChIJTVQtKZ4OZ0gRu7Pi8eaKYqQ	cafe|restaurant|food|point_of_interest|store|establishment	53.33750200000001	-6.266068399999999	False	1.0		restaurant
+10	Ryan's of Camden St.	ChIJXSll2p8OZ0gRQcO01pUDZx8	bar|restaurant|food|point_of_interest|establishment	53.336371	-6.265684000000001	True	2.0		restaurant
+11	Sova Vegan Butcher	ChIJTVAK9x0MZ0gRcLgKDDF_0I0	restaurant|food|point_of_interest|establishment	53.33549170000001	-6.266311099999999	True	2.0		restaurant
+12	Against the Grain	ChIJBQqn0p8OZ0gR5uqZlXXpmnU	bar|restaurant|food|point_of_interest|establishment	53.3370639	-6.265483399999999	True	2.0		restaurant
+13	Wow Burger	ChIJA3QWiS8PZ0gR92mJlUHemVs	restaurant|food|point_of_interest|establishment	53.3366651	-6.265395499999999	True			restaurant
+14	Zakura Noodle & Sushi Restaurant	ChIJTYWdzZ8OZ0gRL8BlfYBz16M	restaurant|food|point_of_interest|establishment	53.3369217	-6.265422800000001	True	2.0		restaurant
+15	WOWBURGER Wexford St.	ChIJ1ZQ9zp8OZ0gR8QxX3L3bdFg	restaurant|food|point_of_interest|establishment	53.33672780000001	-6.2653888	True	2.0		restaurant
+16	Eddie Rocket's	ChIJ_0B-8ZsOZ0gRthvh-xTz5rI	restaurant|food|point_of_interest|establishment	53.336614	-6.265350900000001	True	2.0		restaurant
+17	Pane e Panelle	ChIJXf025yAMZ0gRkY3oYhB8Dys	restaurant|food|point_of_interest|establishment	53.33812589999999	-6.269683	False			restaurant
+18	Las Tapas De Lola	ChIJ254SzZ8OZ0gRpnKgYmHpxwk	restaurant|food|point_of_interest|establishment	53.3369696	-6.265387899999999	True	2.0		restaurant
+19	Subway	ChIJJyBSxlEPZ0gR03N8j-EjXA4	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3372338	-6.265492	True	1.0		restaurant
+20	McGuinness Traditional Take Away	ChIJ51z-3J8OZ0gRawLaKMVk0a8	meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment	53.3359146	-6.265468299999999	True	1.0	84 Camden Street Lower, Dublin Southside, Dublin 2, D02 DH36	restaurant
+21	Jerusalem Restaurant	ChIJE-8H5p8OZ0gRUt1YC9BXhNc	meal_delivery|cafe|restaurant|food|point_of_interest|establishment	53.3354047	-6.2654469	True	2.0	77 Camden Street Lower, Saint Kevin's, Dublin, D02 XE80	restaurant
+22	double 8	ChIJq31AlC6pZ0gR4gkwbefNs3o	restaurant|food|point_of_interest|establishment	53.3354846	-6.265210799999999	True		75 Camden Pl, Saint Kevin's, Dublin 2, D02 XE82	restaurant
+23	Double 8 Camden Street	ChIJ1TU_gwcPZ0gRBhdS_jpBC4A	restaurant|food|point_of_interest|establishment	53.3352224	-6.2654782	True		75 Camden Street Lower, Saint Kevin's, Dublin, D02 KH42	restaurant
+24	Neon Asian Street Food	ChIJFZsm758OZ0gRcGdjXYpOBRs	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.3353791	-6.2649908	True	2.0	17 Camden Street Lower, Saint Kevin's, Dublin, D02 TX94	restaurant
+25	Dig In	ChIJtd07I6oPZ0gRaxljGqJx2bY	restaurant|food|point_of_interest|establishment	53.3352553	-6.264976	True		19 Camden Street Lower, Saint Kevin's, Dublin, D02 R520	restaurant
+26	D Grill	ChIJZ73aGZ4OZ0gRSABQFqyvqAk	restaurant|food|point_of_interest|establishment	53.3386546	-6.2659247	True		40 Aungier St, Dublin 2, D02 RC84	restaurant
+27	The Port House Cava	ChIJQ45v_v0PZ0gRSGt9qi5M9fk	bar|restaurant|food|point_of_interest|establishment	53.3349175	-6.264912	True		21 Camden Street Lower, Saint Kevin's, Dublin, D02 HH92	restaurant
+28	Bao House	ChIJA8f5EJ4OZ0gR9m8PAAC2kJ8	restaurant|food|point_of_interest|establishment	53.3389289	-6.2657735	True	1.0	34 Aungier St, Dublin 2, D02 HK75	restaurant
+29	Winedown	ChIJ_-iA3KgPZ0gRFaOKrZonEGk	bar|restaurant|food|point_of_interest|establishment	53.33657090000001	-6.2636682	True		15 Montague St, Dublin, D02 AX68	restaurant
+30	Sprezzatura	ChIJm9w4hNANZ0gR8azS99PPX9g	restaurant|food|point_of_interest|establishment	53.3342258	-6.266070099999999	True		Camden Market, 5/6, Saint Kevin's, Dublin 8, D08 FYK8	restaurant
+31	Mister S	ChIJYYy3JZ0PZ0gR5b6JioTM6A4	restaurant|food|point_of_interest|establishment	53.3346427	-6.264895000000001	True		32 Camden Street Lower, Saint Kevin's, Dublin 2, D02 P029	restaurant
+32	Dall'Italia Pastabar	ChIJvfEi-R8MZ0gRikbc8ztoBOc	meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment	53.3341959	-6.2657387	True		8, Camden Market, 1 Grantham St, Saint Kevin's, Dublin, D08 A49Y	restaurant
+34	Delahunt	ChIJkzLmAqAOZ0gR2Xe5fZzyN5c	restaurant|food|point_of_interest|establishment	53.3342773	-6.265012599999999	True	3.0	39 Camden Street Lower, Saint Kevin's, Dublin 2, D02 K277	restaurant
+35	Sophie's Restaurant, Bar & Terrace	ChIJ4YMrkJ8OZ0gRwaqvsiWmn6Q	bar|restaurant|food|point_of_interest|establishment	53.3351812	-6.2635434	True	3.0	33 Harcourt St, Saint Kevin's, Dublin 2	restaurant
+36	Canteen Marlin	ChIJ4w-YmwdxZ0gRSra53rJBgcM	restaurant|food|point_of_interest|establishment	53.3398732	-6.264485899999999	True	3.0	11 Bow Ln E, St Stephen's Green, Dublin 2, D02 YE24	restaurant
+37	India Today Bar & Grill	ChIJ-xMPV_cNZ0gRwY1IF64bwNY	restaurant|food|point_of_interest|establishment	53.3407544	-6.268597499999999	True		Golden Ln, Dublin	restaurant
+38	Damascus Gate Restaurant	ChIJBSB3dKAOZ0gR5PXzPi7iHxg	restaurant|food|point_of_interest|establishment	53.3328944	-6.265219399999999	True	2.0	10 Camden Street Upper, Saint Kevin's, Dublin 2, D02 H304	restaurant
+39	Doolally Indian Restaurant	ChIJJ_GChgsPZ0gRAYaghnn0PwY	restaurant|food|point_of_interest|establishment	53.33172010000001	-6.2648674	True	3.0	The Lennox Building, 47-51 Richmond St S, Saint Kevin's, Dublin 2, D02 FK02	restaurant
+40	Sushida Clanbrassil	ChIJNSy3KCIMZ0gRMQXYYvHGRkg	restaurant|food|point_of_interest|establishment	53.3359472	-6.273562099999999	True		Malpas Court, Unit 1, Clanbrassil Street Lower, Merchants, Dublin 8	restaurant
+41	Bistro Takeaway	ChIJQ-vndSIMZ0gR2TqGniIe2d0	restaurant|meal_takeaway|food|point_of_interest|establishment	53.33421149999999	-6.274530899999999	True	1.0	30 Clanbrassil Street Lower, Portobello, Dublin, D08 X7H2	restaurant
+42	Aoki Sushi Noodle Bar	ChIJ_5gHe6AOZ0gRxgiDcDsU5BM	restaurant|food|point_of_interest|establishment	53.3323188	-6.2646427	True	2.0	Unit 4, 63 Richmond St S, Saint Kevin's, Dublin	restaurant
+43	Spitalfields	ChIJSUPbEzENZ0gRfVMr9jmriT4	restaurant|food|point_of_interest|establishment	53.3398173	-6.2756969	True		25 The Coombe, Merchants Quay, Dublin 8, D08 YV07	restaurant
+44	Catch-22	ChIJb1Jr8ZsOZ0gRyO6C_Iv-59U	restaurant|food|point_of_interest|establishment	53.3410567	-6.2624311	True	2.0	32 Clarendon St, Dublin 2, D02 HX66	restaurant
+45	Dada	ChIJG205SJwOZ0gRVZTqRZuZaf8	restaurant|food|point_of_interest|establishment	53.3413139	-6.262933299999999	True	2.0	City Centre, 45-44 William St S, Dublin 2, D02 WT04	restaurant
+46	Glas Restaurant	ChIJnyEg83EPZ0gR3171rBs5Gws	restaurant|food|point_of_interest|establishment	53.3409941	-6.261957799999999	True		16 Chatham St, Dublin 2, D02 FV50	restaurant
+47	Fade Street Social Restaurant & Cocktail Bar	ChIJX_0SkhsPZ0gRsCUoeW1w7tY	restaurant|bar|food|point_of_interest|establishment	53.3418518	-6.2639381	True		6 Fade St, Dublin 2	restaurant
+48	Platform 61	ChIJ93L_RZwOZ0gRsR4aTgjQKE0	bar|restaurant|food|point_of_interest|establishment	53.3416299	-6.2630499	True	2.0	27 William St S, Dublin, D02 RP86	restaurant
+49	The Market Bar Restaurant	ChIJg1ZiTZwOZ0gRgiHsVb75STE	bar|restaurant|food|point_of_interest|establishment	53.3420615	-6.2640604	True	2.0	14A Fade St, Dublin 2	restaurant
+50	Richmond	ChIJt0gwg6AOZ0gRc6SIVFIwS6g	restaurant|food|point_of_interest|establishment	53.331075	-6.264691699999999	True	2.0	43 Richmond St S, Portobello, Dublin 2, D02 X499	restaurant
+51	NoLIta Dublin	ChIJ6Wo3qZ0OZ0gRYgwR_D9RxRg	bar|restaurant|food|point_of_interest|establishment	53.3424631	-6.2647267	True	2.0	64 South Great George's Street, Dublin	restaurant
+52	Balfes	ChIJG227E5wOZ0gR9KBXBnvWlGE	bar|restaurant|food|point_of_interest|establishment	53.3414778	-6.2615224	True	2.0	2 Balfe St, Dublin 2	restaurant
+53	SOLE Seafood & Grill	ChIJ7dhVQ5wOZ0gRHy-Ie6Qk5bI	restaurant|food|point_of_interest|establishment	53.3420401	-6.2627738	True	3.0	18-19 William St S, Dublin, D02 KV76	restaurant
+54	Viva	ChIJ-RPJdYMOZ0gRDFeUbk1LYxs	cafe|bar|restaurant|food|point_of_interest|establishment	53.3308008	-6.2642034	True	2.0	27 Richmond St S, Saint Kevin's, Dublin, D02 W319	restaurant
+55	WILDE Restaurant	ChIJzwpddJsOZ0gRR_25_UBpZLU	restaurant|food|point_of_interest|establishment	53.34146339999999	-6.2611997	True		Harry St, Dublin 2, D02 CH66	restaurant
+56	La Cave Wine Bar and Restaurant	ChIJDzpn8ZsOZ0gRYpp1Nrmo9EY	bar|restaurant|food|point_of_interest|establishment	53.341059	-6.259698999999999	True	2.0	28 Anne St S, Dublin 2, D02 DX39	restaurant
+57	The Greenhouse	ChIJT5Y7wZsOZ0gRHd0yJgfxjr0	restaurant|food|point_of_interest|establishment	53.34000469999999	-6.2584398	True	4.0	Joshua House, 21 Dawson St, Dublin 2, D02 TK33	restaurant
+58	Bunsen South Anne Street	ChIJN-GJ9JsOZ0gRoWEJxDXzCJU	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3412763	-6.259978200000001	True	1.0	3 Anne St S, Dublin 2, D02 YR63	restaurant
+59	777	ChIJzYpzHZ0OZ0gR3vqlQXf850Q	restaurant|food|point_of_interest|establishment	53.3431146	-6.2645776	True	2.0	4 16 16 S Great George's St, Dublin 2	restaurant

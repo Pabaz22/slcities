@@ -1,0 +1,21 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
+0	Alfa Bargains	ChIJl6ZfEyUMZ0gR8kR_o0x_MfM	hardware_store|point_of_interest|store|establishment	53.3430408	-6.279630399999999	True		hardware_store
+1	Lenehans	ChIJMYk3doIOZ0gRi6xOAGJOWEE	hardware_store|home_goods_store|point_of_interest|store|establishment	53.3486058	-6.268931700000001	True		hardware_store
+2	McQuillan Tools	ChIJlzmxfoIOZ0gRd5MoHTMW1uU	hardware_store|point_of_interest|store|establishment	53.3480919	-6.268435699999999	True		hardware_store
+3	Keys Cut, Electrical and DIY tools	ChIJv3c-b4IOZ0gRqbYzxqghm_g	hardware_store|point_of_interest|store|establishment	53.34852830000001	-6.2678914	True		hardware_store
+4	Manor DIY	ChIJqfgzgDIMZ0gRMr4HuK93Rvg	hardware_store|point_of_interest|store|establishment	53.3511227	-6.2828926	False		hardware_store
+5	Fogarty Lock & Safe Co Ltd.	ChIJPVAFRJ0OZ0gRVrRToTE7HRk	hardware_store|locksmith|point_of_interest|store|establishment	53.344253	-6.2667895	False		hardware_store
+6	Expert Hardware	ChIJTS20qJ0OZ0gRD7v19KoY_VU	hardware_store|point_of_interest|store|establishment	53.3422198	-6.2648559	True		hardware_store
+7	Decwells Hardware	ChIJlUkor50OZ0gRzbweqPRaJks	hardware_store|point_of_interest|store|establishment	53.3422198	-6.2648559	True		hardware_store
+8	City Saw Services Ltd	ChIJR0uTkzIMZ0gRk--1TD5nt8A	hardware_store|point_of_interest|store|establishment	53.3535351	-6.288550400000001	False		hardware_store
+9	Mary's Bar & Hardware	ChIJy6cVf5sOZ0gRF5C4UwATBGY	hardware_store|bar|point_of_interest|store|establishment	53.3428527	-6.2602792	True	2.0	hardware_store
+10	Central Key & Hardware Ltd	ChIJr-mssYAOZ0gRctB2OQyJ3YA	hardware_store|locksmith|point_of_interest|store|establishment	53.3553069	-6.264165200000002	False		hardware_store
+11	Dunnes Hardware	ChIJtUpi0Z8OZ0gRJrUTT1Ps_jw	hardware_store|point_of_interest|store|establishment	53.3367276	-6.265744899999999	True		hardware_store
+12	Points & Plugs Motor Factors	ChIJuXtBP80NZ0gR_X9oMfGr-IM	hardware_store|point_of_interest|store|establishment	53.3563261	-6.286831099999999	False		hardware_store
+13	Valu Mart	ChIJKXgOVEEPZ0gRmXBC3AhPCvc	hardware_store|point_of_interest|store|establishment	53.35084380000001	-6.253271199999999	True		hardware_store
+14	LOCKSMITH	ChIJp3sfj9ENZ0gRvA0R3UQQ_Es	locksmith|hardware_store|point_of_interest|store|establishment	53.36094199999999	-6.283518	True		hardware_store
+15	O'Briens Hardware	ChIJbWMmKo8OZ0gRtC8Jgi1a8F0	hardware_store|point_of_interest|store|establishment	53.3510296	-6.251989399999998	True		hardware_store
+16	Mannions Building Supplies	ChIJMxV0-UAMZ0gRXuW58h6aSbo	hardware_store|point_of_interest|store|establishment	53.33571319999999	-6.2971397	False		hardware_store
+17	Hardware Home Center	ChIJeRXlhZcOZ0gRRHQIEqUMPqM	hardware_store|point_of_interest|store|establishment	53.3370627	-6.252110499999999			hardware_store
+18	Phibsboro Hardware	ChIJn_M1fngOZ0gRr2YUB4FkW1c	hardware_store|point_of_interest|store|establishment	53.3638988	-6.2723203	True		hardware_store
+19	Dereks Hardware	ChIJkZCPRigNZ0gRdWSTNOaXlcs	hardware_store|point_of_interest|store|establishment	53.3619514	-6.290782899999999	True		hardware_store

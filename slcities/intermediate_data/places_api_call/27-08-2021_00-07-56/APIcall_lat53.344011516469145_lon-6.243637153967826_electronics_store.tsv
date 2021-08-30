@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	price_level	main_type
+0	WalkieTalk.ie - Walkie Talkies Rental for Film & Television production in Ireland	ChIJX7LAtpMOZ0gRHy1USG6WQgg	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3435548	-6.245795999999999	False			electronics_store
+1	High Wire Post Production Facilities	ChIJVbi40pMOZ0gRQNiLuUBOPT8	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3432536	-6.2458807	False			electronics_store
+2	NaviFly Aerospace Technologies Limited	ChIJQ3ymI9MPZ0gRK-yVcZGNK5g	electronics_store|point_of_interest|store|establishment	53.3422934	-6.2451631	True			electronics_store
+3	Old Windmill lane studios	ChIJd5TsjsIPZ0gRCbKObY_-kmI	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3457957	-6.245874100000001				electronics_store
+4	The Podcast Studios	ChIJ_xrQkfkPZ0gRDX9DkPI3MAw	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3443711	-6.248499699999999	False			electronics_store
+5	HeadStuff Podcast Studio	ChIJ2Y7Uv5EOZ0gRNCMkULtwh-c	electronics_store|home_goods_store|point_of_interest|store|establishment	53.34443829999999	-6.248484799999999	False			electronics_store
+6	Komodo Recordings International	ChIJf2wjvpEOZ0gR3L7JQ2cXcBs	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3445035	-6.2488105				electronics_store
+7	MSB Mastering	ChIJoao8vpEOZ0gR5gfAWqzyr74	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3445035	-6.2488105				electronics_store
+8	Inmusik	ChIJI_BNbyYaZ0gRwodbrkJLPBo	electronics_store|home_goods_store|point_of_interest|store|establishment	53.348136	-6.245065500000002	True			electronics_store
+9	Secure Facility Services	ChIJRYlqIztzZ0gRtCPgmuIL2Pk	electrician|plumber|electronics_store|general_contractor|point_of_interest|store|establishment	53.33980020000001	-6.2395825	False			electronics_store
+10	Windmill Lane Recording Studios	ChIJF-ZOcOwOZ0gRro2jKfL6v2M	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3420557	-6.2346766	False			electronics_store
+11	Garys Computer Repair Service	ChIJL_kblYQPZ0gR9CXwdevv13g	electronics_store|point_of_interest|store|establishment	53.3451519	-6.233746999999999	True			electronics_store
+12	Upgrade my PC	ChIJn_l-jB0PZ0gRgho5rPXGdKg	electronics_store|point_of_interest|store|establishment	53.3451519	-6.233746999999999	False			electronics_store
+13	CFCP	ChIJT95qGpcOZ0gR0FPVZnVxOCM	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3388284	-6.2500234				electronics_store
+14	Mazzard LTD	ChIJsx-AkesOZ0gRUOOnYf59ors	electronics_store|point_of_interest|store|establishment	53.3405892	-6.2342823				electronics_store
+15	Bounce	ChIJ7fsn2JUOZ0gRVDLsvPx03DA	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3374737	-6.2452571				electronics_store
+16	Moynihan Russell Studios	ChIJoURvipYOZ0gRuiwuWRQMD_8	electronics_store|home_goods_store|point_of_interest|store|establishment	53.337321	-6.245107000000001	False			electronics_store
+17	Tinpot Productions Recording Studio	ChIJDyGlXJcOZ0gRGJla3sK-DFE	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3393689	-6.2520635	False			electronics_store
+18	Sing Factory	ChIJDyGlXJcOZ0gRJCORUgM6I5A	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3393689	-6.2520635	False			electronics_store
+19	Design Lighting & Interiors ltd	ChIJ0Qaew5UOZ0gR6TSlAyK0Xds	electronics_store|point_of_interest|store|establishment	53.3371258	-6.244240700000001	False			electronics_store
+20	Designer Electrical	ChIJT4rwpJcOZ0gRMNF9sdyqzaI	electronics_store|point_of_interest|store|establishment	53.3373612	-6.2500652	False	27, 33 Baggot Street Lower, Dublin, D02 RW59		electronics_store
+21	Tecca	ChIJo4ddiWoPZ0gRnNbakGFofig	electronics_store|point_of_interest|store|establishment	53.34357809999999	-6.259455099999999	True	111 Grafton Street, Dublin 2, D02 FT21		electronics_store
+22	MIG New Phone Centre	ChIJiR52UY8OZ0gRMAkegRXJ4tE	electronics_store|point_of_interest|store|establishment	53.3507932	-6.254835099999999	True	19A Talbot St, North City, Dublin 1		electronics_store
+23	CeX	ChIJlbKhzoQOZ0gRQcx3kocP0Tw	electronics_store|point_of_interest|store|establishment	53.3461234	-6.2594406	False	13 Westmoreland St, Temple Bar, Dublin, D02 HO48	1.0	electronics_store
+24	Limetech	ChIJy0p4jJsOZ0gRSx8225pGYsU	electronics_store|point_of_interest|store|establishment	53.3416454	-6.259973	False	26 Grafton Street, Dublin 2		electronics_store
+25	Conns Cameras	ChIJrdvpf5wOZ0gRvJaIkS-E1ug	electronics_store|home_goods_store|point_of_interest|store|establishment	53.34272350000001	-6.2608589	False	54 Clarendon St, Dublin 2, D02 AK61		electronics_store
+26	E Cigarette & Eliquid online Ireland	ChIJqSJZl5wOZ0gRM_4PhQJyv1s	electronics_store|point_of_interest|store|establishment	53.3437735	-6.2618106	False	Office:6, 9 Trinity St, Dublin		electronics_store
+27	3電信	ChIJy9XM_voPZ0gRnwl1Uba2KdQ	electronics_store|point_of_interest|store|establishment	53.3402751	-6.2608562		56 Grafton Street, Dublin, D02 F576		electronics_store
+28	IT Star | Stephen's Green Shopping Centre | Dublin	ChIJOX-oon8PZ0gRBWAa8Nxmb8E	electronics_store|point_of_interest|store|establishment	53.3407334	-6.261406699999999	True	122b ,1st Floor, Stephen's Green Shopping Centre, Dublin 2		electronics_store
+29	Big Brain Electronica	ChIJwTidYJwPZ0gRx8-I7zjMlyE	hospital|electronics_store|home_goods_store|health|point_of_interest|store|establishment	53.34716520000001	-6.2615359	False	Bachelors Walk, North City, Dublin, D01 EA02		electronics_store
+30	Sounds Good Systems	ChIJR5obBr8OZ0gRXi-9OO1agmw	electronics_store|point_of_interest|store|establishment	53.33272969999999	-6.239978199999999		50 Pembroke Rd, Ballsbridge, Dublin, D04 R2X3		electronics_store
+31	The Laptop Shop	ChIJWV16nZ4OZ0gRAdg6--FEqtg	electronics_store|point_of_interest|store|establishment	53.3399661	-6.262006599999999	False	Unit 206A, Stephen's Green Shopping Centre, Dublin 2, D02 EA02		electronics_store
+32	Dyson	ChIJdXk5J5wOZ0gRgclyoS_SbBo	electronics_store|point_of_interest|store|establishment	53.34007949999999	-6.262301300000001	True	Unit C 16, Faiche Stiabhna, Dublin 2		electronics_store
+33	FAT Electronics LTD	ChIJS9cDfKIOZ0gRuIq-vEuBtLA	electronics_store|point_of_interest|store|establishment	53.3345452	-6.255698499999999		22 Leeson Street Lower, Saint Kevin's, Dublin 2, D02 EK40		electronics_store
+34	Argos St Stephens Green (Dublin)	ChIJsyB-8ZkOZ0gRpS-7x0QDZY8	department_store|jewelry_store|electronics_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3401991	-6.262872499999999	False	Unit 114, Stephen's Green Shopping Centre, St Stephen's Green, Dublin, D02 CA36	2.0	electronics_store
+35	Mobile Store	ChIJg-IIBE8PZ0gRiulzHF79ouQ	electronics_store|point_of_interest|store|establishment	53.3496854	-6.2618493	True	2 Moore St, North City, Dublin, D01 RC65		electronics_store
+36	CeX	ChIJDR76qp0OZ0gR3-gTOI75Co4	electronics_store|point_of_interest|store|establishment	53.3424316	-6.2643112	False	23 South Great George's Street, Dublin, D02 AP66	1.0	electronics_store
+37	D5 Hosting	ChIJ6Ze2mIYOZ0gRiAQ_z11dAso	electronics_store|point_of_interest|store|establishment	53.35124159999999	-6.2607789	False	O'Connell Street Upper, North City, Dublin		electronics_store
+38	GSM EXPERT	ChIJGYhcCIQOZ0gRH0dfuXKNzF8	electronics_store|point_of_interest|store|establishment	53.35002300000001	-6.262162	True	8 Moore St, North City, Dublin 1, D01 X439		electronics_store
+39	First Choice ITech	ChIJOWMSCIQOZ0gRyOUjDtXL2fM	electronics_store|point_of_interest|store|establishment	53.3500757	-6.2622576	True	Shop No. 9, 1 Moore St, North City, Dublin, D01 EW99		electronics_store
+40	Tower Records	ChIJGZynXYQOZ0gRLtIoOhglVhQ	movie_rental|electronics_store|home_goods_store|point_of_interest|store|establishment	53.34225499999999	-6.2577444	False	7 Dawson St, Dublin, D02 X688		electronics_store
+41	Bookmart & Gamexchange	ChIJcy1kLo8OZ0gRzqc_BzK0LfU	book_store|cafe|electronics_store|home_goods_store|food|point_of_interest|store|establishment	53.3508965	-6.2527045	False	73 Talbot St, Mountjoy, Dublin 1, D01 TW28		electronics_store
+42	Refresh - Trinity College Dublin	ChIJzzz_LJsOZ0gRJeE2uW_4Gj0	electronics_store|point_of_interest|store|establishment	53.344689	-6.258931	False	Trinity Students' Union, House 6, The University of Dublin Trinity College, College Street, Dublin, Dublin 2, D02 FD37		electronics_store
+43	iConnect Ireland | Apple Premium Reseller	ChIJye1pEoQOZ0gRJCihWyg5_6M	electronics_store|point_of_interest|store|establishment	53.3497242	-6.2612888	False	1 Co. Dublin IE, 36 Henry St, Co. Dublin, D01 DX32		electronics_store
+44	APPLECARE	ChIJzbOj94MOZ0gRRlz3m5tcPk0	electronics_store|point_of_interest|store|establishment	53.3500136	-6.2625275	False	55 Moore St, North City, Dublin 1, D01 A6N4		electronics_store
+45	LaptopLab at Back From The Future	ChIJr3O06p0OZ0gR45QBBYJj94M	electronics_store|point_of_interest|store|establishment	53.3421367	-6.2649178	False	58 South Great George's Street, Dublin 2, D02 KD35		electronics_store
+46	The Music Box	ChIJXbBgAKIOZ0gR6wAESeq48uk	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3346656	-6.258707999999999	False	National Concert Hall, Earlsfort Terrace, Saint Kevin's, Dublin 2, D02 N527		electronics_store
+47	CeX	ChIJQRqvvIMOZ0gRc8b6tv9Jdoo	electronics_store|point_of_interest|store|establishment	53.3487325	-6.2640457	False	11/12 Liffey St. Upper, North City, Dublin, D01 F623	1.0	electronics_store
+48	Currys PC World	ChIJJ0xdRYIOZ0gReLmAm75m0d0	electronics_store|home_goods_store|point_of_interest|store|establishment	53.3478736	-6.265640299999999	True	Unit 15-17 Jervis Shopping Centre, 125 Abbey Street Upper, Dublin	2.0	electronics_store
+49	One Stop Repair Centre	ChIJsf5-toYOZ0gRQsq0guz2Kjs	electronics_store|point_of_interest|store|establishment	53.35198889999999	-6.2623335	True	71 Parnell St, North City, Dublin 1, D01 EA89		electronics_store
+50	Micro Electronic Services	ChIJSW5DrOcOZ0gRTsJ1UjDN5PY	electronics_store|point_of_interest|store|establishment	53.33916079999999	-6.221792	False	6 Herbert Pl, Dublin		electronics_store
+51	Toco Connect	ChIJg_PfefcOZ0gRaPhU0XEGCkI	electronics_store|point_of_interest|store|establishment	53.3549922	-6.2292149		128-130 E Wall Rd, East Wall, Dublin		electronics_store
+52	Argos Ilac Centre (Dublin)	ChIJrxbk3IMOZ0gRr_atohQddkU	department_store|jewelry_store|electronics_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3504444	-6.2646011	False	Parnell Mall Ilac Shopping Centre, Dublin 1	2.0	electronics_store
+53	Gadget Geek	ChIJU9Zc34MOZ0gRR6ld_AM8FuI	electronics_store|point_of_interest|store|establishment	53.3506788	-6.2644055	True	Unit 64, ILAC Shopping Centre, D1, Parnell Street, Dublin, D01 A0T2		electronics_store
+54	Argos Dublin Jervis Street	ChIJp5v9-YIOZ0gRmnQDxNDR7nc	department_store|jewelry_store|electronics_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3482378	-6.2661793	True	Jervis Street Shopping Centre, 12-28 Jervis St, North City, Dublin	2.0	electronics_store
+55	Dublin Electrical Wholesalers Limited	ChIJzV3JD2IOZ0gRBCfLBIs98NY	electronics_store|point_of_interest|store|establishment	53.357416	-6.2510474	False	580 N Circular Rd, Mountjoy, Dublin, D01 RP83		electronics_store
+56	V Repair	ChIJO-ZQEJ4OZ0gReO4sRcj-KUw	electronics_store|point_of_interest|store|establishment	53.3389293	-6.2657734	True	33 Aungier St, Dublin 2, D02 CV07		electronics_store
+57	IT-Fix	ChIJMU-wZ4EOZ0gRaFRoGieASNM	electronics_store|point_of_interest|store|establishment	53.3514534	-6.264246099999999	True	176 Parnell St, Rotunda, Dublin, D01 X4Y6		electronics_store
+58	Mobile Doctor	ChIJC__0ZoEOZ0gRypqApezdaek	electronics_store|point_of_interest|store|establishment	53.3512002	-6.264634999999999	False	182 Parnell St, Rotunda, Dublin, D01 P7E8		electronics_store
+59	Zaki Mobiles	ChIJs4nzWoEOZ0gRsh7z5fdUYJs	electronics_store|point_of_interest|store|establishment	53.34111619999999	-6.2673613	False	Moore mall Moore street beside lidless city center, North City, Dublin		electronics_store

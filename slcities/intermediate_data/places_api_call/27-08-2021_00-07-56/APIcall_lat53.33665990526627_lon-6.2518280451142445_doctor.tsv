@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Elite Hair Clinic	ChIJmz6uO5gOZ0gREpBUbnc__Po	doctor|health|point_of_interest|establishment	53.336849	-6.2534577	False		doctor
+1	Dr. Ahsan Riaz	ChIJh8PnuZcOZ0gRu29bOw8UF6o	doctor|health|point_of_interest|establishment	53.3368251	-6.2497129			doctor
+2	Dublin City Chiropractic	ChIJ710v4ZcOZ0gRUpSqOoInhJI	doctor|health|point_of_interest|establishment	53.3361996	-6.249470199999999	False		doctor
+4	Refine Clinic	ChIJbxhRz5cOZ0gRqAoFlxfw6G4	doctor|health|point_of_interest|establishment	53.3361422	-6.249372899999999	False		doctor
+5	Psychotherapy Dublin	ChIJmTlu3pcOZ0gRHoRKcF8w-RY	doctor|health|point_of_interest|establishment	53.3354831	-6.2500866	False		doctor
+6	D2 Dental	ChIJhyV9sZcOZ0gRFJsxkWAwliA	dentist|doctor|health|point_of_interest|establishment	53.3370671	-6.2492101	False		doctor
+7	Reiki/Shamanic Healing/Psychotherapy	ChIJHVEs4JcOZ0gRqJZqN88td94	doctor|health|point_of_interest|establishment	53.335209	-6.2503495			doctor
+8	dublinhealthscreening	ChIJDRVctpcOZ0gR5ZItd_kdaQI	doctor|health|point_of_interest|establishment	53.33519930000001	-6.250213200000001	False		doctor
+9	Optilase Clinic Laser Eye Surgery Dublin	ChIJp3QWNZgOZ0gRtYMlYq2tWK4	doctor|health|point_of_interest|establishment	53.33773660000001	-6.2541575	False		doctor
+10	Clinic BeauCare	ChIJ3w_Wb5cOZ0gRKIw6hlwmi8E	hospital|doctor|health|point_of_interest|establishment	53.33849900000001	-6.251613000000001			doctor
+11	Spectrum Foot Clinics - Chiropody & Podiatry Baggot Street	ChIJMZ4wy5cOZ0gRPZhbCHIR9bM	doctor|health|point_of_interest|establishment	53.3363891	-6.2487392	False		doctor
+12	ALBANY FOOT CLINIC	ChIJqz3VU5YOZ0gR2iBgJjz7ogs	doctor|health|point_of_interest|establishment	53.337479	-6.248504	False		doctor
+13	Clifton Court Medical, Centric Health	ChIJ62YYTpYOZ0gRbCoQDxWN7eg	doctor|health|point_of_interest|establishment	53.3377124	-6.2486493	False		doctor
+14	Mr.J.A.McKeever	ChIJd-04UZYOZ0gR1fXxg5igsTQ	doctor|health|point_of_interest|establishment	53.3375931	-6.248403299999999			doctor
+15	Wolfrad Radiology Services	ChIJ4Tmen6IOZ0gR2bwRGH_MZGk	doctor|health|point_of_interest|establishment	53.3349112	-6.254298399999999			doctor
+16	Smart TMS Ireland	ChIJ2cIzc5gOZ0gRjsfItYnNbuw	doctor|health|point_of_interest|establishment	53.3346569	-6.254164099999999	False		doctor
+17	Dr. Brigid O' Connell	ChIJXwEMu6IOZ0gRU4d735Nv-Jg	doctor|health|point_of_interest|establishment	53.3341647	-6.2528094	False		doctor
+18	Dermatology Matters	ChIJk--qt6IOZ0gRtbs63L9BaIM	doctor|health|point_of_interest|establishment	53.33388219999999	-6.2522884			doctor
+19	Dr Callaghan Condon Dermatology Matters	ChIJk--qt6IOZ0gROzDwsRVxWLQ	doctor|health|point_of_interest|establishment	53.3338821	-6.252288099999999			doctor
+20	Best Doctors Europe Limited	ChIJBWaI3qIOZ0gRJSEu4pXpW6o	doctor|health|point_of_interest|establishment	53.3325955	-6.2527021		Fitzwilliam Hall, Glandore Business Centres, Fitzwilliam Pl, Dublin	doctor
+21	Doctor On Duty	ChIJ6xfFhBUMZ0gR3wZ1fzpftWw	doctor|health|point_of_interest|establishment	53.3411217	-6.2511332		95 Merrion Square W, Dublin, D08 Y96D	doctor
+22	GP24	ChIJ4_XFyJAOZ0gRJNSfthNfhWE	doctor|health|point_of_interest|establishment	53.3411217	-6.2511332	True	95 Merrion Square W, Dublin, D02 KT67	doctor
+23	The Adelaide Clinic	ChIJeWZ7KBIPZ0gRwWzALO187Qg	doctor|health|point_of_interest|establishment	53.33214539999999	-6.2532527		56 Adelaide Rd, Saint Kevin's, Dublin, D02 H337	doctor
+24	Professor LM Collum	ChIJC5uds6EOZ0gRQ0leJWQFB3M	doctor|health|point_of_interest|establishment	53.3321489	-6.2532912		55 Adelaide Rd, Saint Kevin's, Dublin, D02 WF95	doctor
+25	Jubilee Medical GP Dublin 2	ChIJt9sI-HYPZ0gRKqraVWZEdc4	doctor|health|point_of_interest|establishment	53.3414709	-6.252176299999999	False	26 Clare St, Dublin 2, D02 VX59	doctor
+26	The Gallery Medical Centre	ChIJG_iNu5AOZ0gR_4MEw3QevW8	doctor|health|point_of_interest|establishment	53.3414709	-6.252176299999999	False	26 Clare St, Dublin, D02 VX59	doctor
+27	Dr. Shane Higgins	ChIJW2jirl0PZ0gRZgRy4rIxSdY	doctor|health|point_of_interest|establishment	53.3366412	-6.2432861	False	Private Suite, National Maternity Hospital, 1st Floor, 60 Lower Mount Street 637 3463, Dublin, D02 NH93	doctor
+28	Baggot Street Medical. GP and Doctor Dublin 4	ChIJe31h2b0OZ0gRW3NOb8tcEOQ	hospital|doctor|health|point_of_interest|establishment	53.33387219999999	-6.2445916	False	10 Baggot Street Upper, Dublin 4, D04 KT35	doctor
+29	Trinity Clinic	ChIJiwG4q5sOZ0gRHxTpoFiqjVk	doctor|health|point_of_interest|establishment	53.3410186	-6.259617299999999	False	First floor, 27 Anne St S, Dublin, D02 XY89	doctor
+30	Grafton Medical Practice	ChIJT56OCZwOZ0gRanL_1_u1fcw	doctor|health|point_of_interest|establishment	53.3411188	-6.2603494	False	Grafton Buildings, 34 Grafton Street, Dublin, D02 XY06	doctor
+31	Weekend Doctor, Nassau Clinic	ChIJxeO3VZoOZ0gRRiyjvP-U6bc	doctor|health|point_of_interest|store|establishment	53.3427151	-6.2574859	False	32 Nassau Street Suite 17 on 1st Floor, Dublin	doctor
+32	College Student Health Service	ChIJpz_XmpoOZ0gR5GAO1DcqmL8	doctor|health|point_of_interest|establishment	53.34451869999999	-6.253440599999999	False	Trinity College Dublin, College Green, Dublin	doctor
+33	Mercer's Medical Centre	ChIJKUHKNJwOZ0gRv-y2ozKOwQk	hospital|doctor|health|point_of_interest|establishment	53.3406686	-6.263794499999999	False	2 Stephen Street Lower, Dublin 2	doctor
+34	Dr. Niall O'Cléirigh	ChIJ8Ug8ivoPZ0gRL8NB99XZaAk	doctor|health|point_of_interest|establishment	53.3449049	-6.2497321	False	Dublin	doctor
+35	Pearse Street Primary Care Centre	ChIJVy5vyZEOZ0gRpdZmPPfkL5I	doctor|health|point_of_interest|establishment	53.3449734	-6.2495796	False	2 Mark's Ln, Dublin	doctor
+36	Doctor Bradys	ChIJWwnOdaAOZ0gRUGZt3y1PpzE	doctor|health|point_of_interest|establishment	53.3327722	-6.265285400000001	False	48 Harrington St, Saint Kevin's, Dublin 8	doctor
+37	Barrow Medical, Centric Health	ChIJr4r1GesOZ0gRtfS6tnKT4qI	doctor|hospital|health|point_of_interest|establishment	53.33919909999999	-6.2363043	False	The Dickens, Unit 2E, Barrow St, Dublin, D04 C1K7	doctor
+38	Camden Medical Doctors Dublin	ChIJgf5HTiAMZ0gRuMhwwWnVx3s	doctor|hospital|local_government_office|health|point_of_interest|establishment	53.33598929999999	-6.2691297	False	GP Doctor Meath Primary Care Centre, Heytesbury St, Dublin 8	doctor
+39	Bath Avenue Medical Centre	ChIJx2prZuoOZ0gRYpzz1PIPVSo	doctor|hospital|health|point_of_interest|establishment	53.33732029999999	-6.2339764	False	4 Bath Ave, Sandymount, Co. Dublin, D04 V8N8	doctor
+40	Dr Anver Amod	ChIJGbObHP4PZ0gRRudPG2xT70g	doctor|health|point_of_interest|establishment	53.3426966	-6.2491791	False	44 R118, Co. Dublin	doctor
+41	Dublin City GP	ChIJwaBOsyEMZ0gRkGfDZ2_Zp2k	doctor|health|point_of_interest|establishment	53.3359009	-6.269451099999999	False	Camden Clinic, The Meath Primary Care Centre, Heytesbury St, Dublin 8, D08 HX97	doctor
+42	Harrington Medical Clinic	ChIJGevusyEMZ0gRM8hd31-ZJJo	doctor|health|point_of_interest|establishment	53.3358771	-6.2696803	False	Camden Clinic Meath Primary Care Centre, Heytesbury St, Dublin	doctor
+43	Dame Street Medical Centre	ChIJt7v9Ip0OZ0gRaDROc-vjsfk	hospital|doctor|health|point_of_interest|establishment	53.344039	-6.2651859	False	16 Dame St, Dublin 2, D02 TD50	doctor
+44	Hanover Medical Centre	ChIJfYGcQO0OZ0gRUo-z2Kk3EG8	doctor|health|point_of_interest|establishment	53.3452321	-6.238953599999999	False	5 Lazer Ln, Grand Canal Dock, Dublin	doctor
+45	E&S Doctors	ChIJe7Ciq28PZ0gR1sXAqFc6nN4	doctor|health|point_of_interest|establishment	53.3457611	-6.2641585	False	31-32 Wellington Quay, Temple Bar, Dublin, D02 RX80	doctor
+46	Temple Bar Medical Centre	ChIJi9XuLoMOZ0gRJOITr8WdqDk	hospital|doctor|health|point_of_interest|establishment	53.3456655	-6.26457	False	26 Wellington Quay, Temple Bar, Dublin, D02 R221	doctor
+47	O'Connell Street Medical Centre	ChIJz4Z0-YQOZ0gREz7CeqRNYLk	doctor|health|point_of_interest|establishment	53.348	-6.259002	False	5 O'Connell Street Lower, North City, Dublin 1, D01 P9F2	doctor
+48	O'Connell Street Medical centre Dublin 1	ChIJz4Z0-YQOZ0gR_FwEGQhY7iA	doctor|hospital|health|point_of_interest|establishment	53.3480003	-6.259001899999999		5 O'Connell Street Lower, North City, Dublin, D01 P9F2	doctor
+49	Parliament Street Medical Practice	ChIJhUcgTp0OZ0gR6MoswhMI1l0	doctor|health|point_of_interest|establishment	53.3446925	-6.2672666	False	11 Parliament St, Temple Bar, Dublin, D02 V277	doctor
+50	Abbey Street Medical Centre	ChIJCXG8iYQOZ0gRE0TL6wYmXRs	doctor|health|point_of_interest|establishment	53.34806099999999	-6.260714	False	71 Middle Abbey St, North City, Dublin, D01 E7K5	doctor
+51	Ranelagh Medical, Centric Health	ChIJ-5mTIbAOZ0gRN51V9wsoL_Q	doctor|health|point_of_interest|establishment	53.3230308	-6.2487417	False	22-26 Sandford Rd, Ranelagh, Dublin 6, D06 A365	doctor
+52	Dr Brendan Clune	ChIJ_5GH5KUOZ0gRGd8pFp8-oB0	doctor|health|point_of_interest|establishment	53.3237084	-6.2599097		3 Charleston Ave, Ranelagh, Dublin 6	doctor
+53	Talbot St Medical Centre	ChIJyx0jUI8OZ0gR-xP8p3qVBbM	hospital|doctor|health|point_of_interest|establishment	53.35039030000001	-6.255974699999999	False	Unit 27, Irish Life Mall 1, Talbot St, Dublin	doctor
+54	D4 Medical Centre	ChIJJdXR5bkOZ0gRzH78E_qlR-o	doctor|health|point_of_interest|establishment	53.3241473	-6.2400617	True	First floor, 95a Morehampton Rd, Donnybrook, Co. Dublin, D04 N903	doctor
+55	South Circular Road GP Clinic	ChIJp6jR7RgMZ0gRqonSSqy8CCA	doctor|health|point_of_interest|establishment	53.3322336	-6.274779000000001	False	106a S Circular Rd, Wood Quay, Dublin, D08 K2V6	doctor
+56	Eldon Family Practice	ChIJ8WavEjYNZ0gR4PXXFVhBXtg	doctor|hospital|health|point_of_interest|establishment	53.3320563	-6.2757175	False	Leonard's Corner, 119 S Circular Rd, Dublin, D08 VC0H	doctor
+57	Capel Street Medical Centre	ChIJCyS6f4IOZ0gRztnhcPitBx0	doctor|health|point_of_interest|establishment	53.3478601	-6.2687253	False	138 Capel St, North City, Dublin, D01 C4E9	doctor
+58	Dr. Dermot Rafter, Dr Yvonne Rafter	ChIJg3dB0AIMZ0gRZS58XFGHzNE	doctor|health|point_of_interest|establishment	53.32294659999999	-6.265937999999999	False	183 Rathmines Rd Lower, Rathmines, Dublin Southside, Co. Dublin, D06 E3E5	doctor
+59	Jervis Medical Centre	ChIJcfNeI4IOZ0gR368q2nO3PtE	hospital|doctor|health|point_of_interest|establishment	53.34997019999999	-6.2671997	False	1 Jervis St, North City, Dublin 1	doctor

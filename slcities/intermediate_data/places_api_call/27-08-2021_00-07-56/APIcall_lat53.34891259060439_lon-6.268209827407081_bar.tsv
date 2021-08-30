@@ -1,0 +1,54 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Marrakesh by Mindo Karaoke Bar	ChIJBZMyNEgNZ0gRPbA3GHw-93A	night_club|bar|restaurant|food|point_of_interest|establishment	53.3487558	-6.2691069	False			bar
+1	Slattery's	ChIJE42FqWAMZ0gRNgtpxlLd7wQ	bar|restaurant|food|point_of_interest|establishment	53.3482748	-6.2688625	False	2.0		bar
+2	The Church Café, Late Bar & Restaurant	ChIJtTOXRIIOZ0gRiLAbrd61jVs	bar|tourist_attraction|cafe|restaurant|food|point_of_interest|establishment	53.3486388	-6.266711399999999	False	2.0		bar
+3	The Black Sheep	ChIJk1IUCIIOZ0gRL4X5sjOjIFQ	bar|restaurant|food|point_of_interest|establishment	53.34979569999999	-6.269089799999999	False	2.0		bar
+4	Bleu Note Bar & Club	ChIJKWl6CIIOZ0gRXMu80yn_lqo	bar|point_of_interest|establishment	53.34972579999999	-6.269264799999999				bar
+5	McNeill's Pub	ChIJs8XZf4IOZ0gR3o1S_7PIVdI	bar|restaurant|food|point_of_interest|establishment	53.3477628	-6.2686698	False	1.0		bar
+6	BAR 1661	ChIJ5c8zFIsNZ0gRYXrfIxO3Eog	bar|point_of_interest|establishment	53.3493039	-6.270402599999999	False	2.0		bar
+7	Craft Cocktails X Cuckoo Lane	ChIJOe0rmNUNZ0gRM0dIiIstgMU	bar|point_of_interest|establishment	53.3493053	-6.2704022	False			bar
+8	The Hacienda Bar	ChIJT_M6ySkMZ0gR6bMxPzzgYao	bar|point_of_interest|establishment	53.3481865	-6.270230499999999	True	1.0		bar
+9	Woolshed Baa & Grill	ChIJEff8I4IOZ0gRa3Aap96eX9g	bar|restaurant|food|point_of_interest|establishment	53.3502702	-6.267416500000001	False	2.0		bar
+10	The Boar's Head Dublin	ChIJZXyAgYIOZ0gRf0Uk6sY7hOc	bar|restaurant|food|point_of_interest|establishment	53.3473625	-6.268538499999999	False	2.0		bar
+11	Brother Hubbard (North)	ChIJY-21nIIOZ0gRnZK9cNnSwww	cafe|bar|restaurant|food|point_of_interest|store|establishment	53.3471139	-6.268372200000001	False	2.0		bar
+12	TP Smiths Pub	ChIJOVgT-oIOZ0gRMTfS9wozvEc	bar|restaurant|food|point_of_interest|establishment	53.3474694	-6.265950799999999	False	2.0		bar
+14	Koh Restaurant & Cocktail Lounge	ChIJ-Tf6_IIOZ0gR4WvW49ZFp8I	bar|restaurant|food|point_of_interest|establishment	53.3474463	-6.265571999999999	False	2.0		bar
+15	Paddle & Peel	ChIJgYn7jdENZ0gR9BqqzrrRrqE	bar|restaurant|food|point_of_interest|establishment	53.3508915	-6.2700874	True	2.0		bar
+16	PantiBar	ChIJcXZQmIIOZ0gRKQhS3-LsQRs	bar|point_of_interest|establishment	53.34657239999999	-6.267876899999999	False	2.0		bar
+17	The glimmer man	ChIJUTBNOcQPZ0gRVaCAl_Kl7DM	bar|point_of_interest|establishment	53.347108	-6.2655361				bar
+18	Jack Nealons	ChIJCVrpoYIOZ0gRHtxaf24XNpo	bar|point_of_interest|establishment	53.3464344	-6.268115900000002	False	2.0		bar
+19	Three Spirits Bar & Grill	ChIJx2vKAyoMZ0gR2f2CBeqyNz4	bar|restaurant|food|point_of_interest|establishment	53.3464152	-6.267998199999999				bar
+21	The Lotts Cafe Bar	ChIJ0XdmbYMOZ0gRzhQBeKi5pTU	cafe|bar|restaurant|food|point_of_interest|establishment	53.3473617	-6.263325	False	2.0	9 Liffey St. Lower, North City, Dublin, D01 E3F9	bar
+22	The Liquor Rooms	ChIJY-HBs4IOZ0gR8Tzb0TWJx90	night_club|bar|point_of_interest|establishment	53.3453683	-6.2668329	False	2.0	6-8 Wellington Quay, Temple Bar, Dublin, D02 HT44	bar
+24	Fitzsimons Hotel Temple Bar	ChIJww8Q1IIOZ0gRtDK-tFjPNu4	bar|night_club|lodging|restaurant|food|point_of_interest|establishment	53.345581	-6.2651186	False		21/22 Wellington Quay, Temple Bar, Dublin	bar
+25	Porterhouse Temple Bar	ChIJISjK0PEMZ0gRZz3RsNSfxjQ	bar|restaurant|food|point_of_interest|establishment	53.3450877	-6.2674185	False	2.0	16-18 Parliament St, Temple Bar, Dublin 2, D02 VR94	bar
+26	Roberta's Restaurant, Bar & Terrace	ChIJi9OsK4MOZ0gRBJgVXatL_8A	bar|restaurant|food|point_of_interest|establishment	53.34510299999999	-6.267157	False	3.0	1 Essex St E, Temple Bar, Dublin	bar
+27	Lundy Foot's, Bar & Restaurant Temple Bar	ChIJJ7hgKJYPZ0gRXK79fxx9SH0	bar|restaurant|food|point_of_interest|establishment	53.3449015	-6.2679554	False	2.0	Lundy Foot's Bar and Restaurant, Essex Gate, D2, Dublin	bar
+28	Bad Bobs Temple Bar	ChIJnUe-NZ0OZ0gRcURhnZCniJE	night_club|bar|restaurant|food|point_of_interest|establishment	53.3450924	-6.265879399999999	False	2.0	35-37 Essex St E, Temple Bar, Dublin 2, D02 Y891	bar
+29	The Ha'penny Bridge Inn	ChIJz3DoN4MOZ0gR8tDEG0_HTJE	bar|point_of_interest|establishment	53.3458976	-6.2633812	False	2.0	42 Wellington Quay, Temple Bar, Dublin 2, D02 Y103	bar
+30	The Temple Bar	ChIJR9mP8ScMZ0gRWDrL2dfqLBA	bar|restaurant|food|point_of_interest|establishment	53.34547420000001	-6.2641937	False	3.0	47-48, Temple Bar, Dublin 2, D02 N725	bar
+31	the temple bar restaurant	ChIJZYEJUu0PZ0gRdBbEnnKoT8A	bar|point_of_interest|establishment	53.345513	-6.2640887	False		The Locksmiths, Temple Bar, Dublin 2	bar
+32	Cafe Rubis Wine Bar	ChIJhT7UT50OZ0gRYlkrZza9gnY	bar|food|point_of_interest|establishment	53.3445979	-6.267234900000001	False		9 Parliament St, Temple Bar, Dublin 2, D02 K726	bar
+34	Crowbar	ChIJwX4N1JwOZ0gRMOv65jyD8vQ	bar|point_of_interest|establishment	53.3449637	-6.2643206	False	2.0	2 Temple Ln S, Temple Bar, Dublin	bar
+35	Knightsbridge Bar & Bistro	ChIJF3ZrmoQOZ0gRKqIrkoq3Op0	bar|point_of_interest|establishment	53.3472425	-6.2609182	False		24 Bachelors Walk, North City, Dublin	bar
+36	The Oval Bar Dublin	ChIJW--8YIQOZ0gRi_8uV6kItkI	bar|restaurant|food|point_of_interest|establishment	53.3484586	-6.2603402	False	2.0	78 Middle Abbey St, North City, Dublin 1, D01 RW24	bar
+37	Bad Ass Cafe	ChIJYVcctZwOZ0gRJhEhp0WVviM	cafe|bar|restaurant|food|point_of_interest|establishment	53.3453472	-6.2629	False	2.0	9-11 Crown Alley, Temple Bar, Dublin	bar
+38	Riot	ChIJyUV-WIMOZ0gROz2JK9URJQA	bar|point_of_interest|establishment	53.3462635	-6.261503299999999	False	2.0	4 Aston Quay, Temple Bar, Dublin, D02 VP93	bar
+39	Vintage Cocktail Club	ChIJJ5P3tZwOZ0gRul-DaLTh-jk	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.3450546	-6.262910799999999	False	3.0	15 Crown Alley, Temple Bar, Dublin 2, D02 E229	bar
+40	The Whisky Bar - Yamamori North City	ChIJge_EWfAPZ0gRtbEkfH-7qks	bar|point_of_interest|establishment	53.3467586	-6.263774400000001	False		39 Ormond Quay Lower, North City, Dublin 1, D01 R224	bar
+41	W.Plunket	ChIJMXiA-nYPZ0gRKqycNTKZ1LA	bar|point_of_interest|establishment	53.34797	-6.26258	False		52 Middle Abbey St, North City, Dublin, D01 W9H6	bar
+42	The Roof Garden Temple Bar	ChIJqerULMEPZ0gRgQk0nqxjwuQ	bar|point_of_interest|establishment	53.345477	-6.265269000000001			16 to 18, Essex St E, Dublin 2	bar
+43	Anne's Bar & Hardware	ChIJkXPb9PQPZ0gRCtYE_it0W7Q	bar|point_of_interest|establishment	53.3452144	-6.2660502	False		10 Essex St E, Temple Bar, Dublin, D02 TF24	bar
+46	Merchant's Arch	ChIJ2S0FRoMOZ0gRRpOHlw7_msw	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.34594800000001	-6.2628273	False	2.0	48-49 Wellington Quay, Temple Bar, Dublin, D02 EY65	bar
+47	La Caverna Restaurant and Wine Bar	ChIJWQO9y5wOZ0gRDUWJDEpAPoE	bar|restaurant|food|point_of_interest|establishment	53.3451351	-6.263310499999999	False	2.0	12 Fownes Street Upper, Temple Bar, Dublin 2, D02 PY51	bar
+48	O'Connell's Bar Dublin	ChIJdRf4koQOZ0gRs69VG2aIbb8	bar|restaurant|food|point_of_interest|establishment	53.3474772	-6.2602807	False	2.0	30 Bachelors Walk, North City, Dublin, D01 YP70	bar
+49	The Parnell Heritage Pub & Grill	ChIJ1wjst4YOZ0gR_pg-hMy3dhM	bar|restaurant|food|point_of_interest|establishment	53.35220770000001	-6.2619741	False	2.0	72-74 Parnell St, North City, Dublin 1, D01 ND00	bar
+50	The Old Storehouse Bar and Restaurant	ChIJiTBhtJwOZ0gRQVe4FWJj5Kg	bar|restaurant|food|point_of_interest|establishment	53.345176	-6.262646	False	2.0	3 Crown Alley, Temple Bar, Dublin, D02 CX67	bar
+51	Trinity Bar & Venue	ChIJ6e3GRJ0OZ0gRutaWOjFlip0	bar|restaurant|food|point_of_interest|establishment	53.34433	-6.263612999999999	False	2.0	46-49 Dame St, Dublin Southside, Dublin, D02 X466	bar
+52	Toddys Bar & Brasserie	ChIJzRHjlYYOZ0gR15qh6P3KGF0	bar|restaurant|food|point_of_interest|establishment	53.3519052	-6.2607791	False	2.0	23 O'Connell Street Upper, North City, Dublin, D01 C3W7	bar
+53	Buskers on the Ball	ChIJR9mP8ScMZ0gRH6LBjSvHjX4	bar|point_of_interest|establishment	53.3459357	-6.2603281	False	2.0	13 - 17 Fleet St, Temple Bar, Dublin, D02 WD51	bar
+54	Murray’s Pub	ChIJsx8N6oYOZ0gR013MeLYyxAs	night_club|bar|restaurant|food|point_of_interest|establishment	53.35246	-6.260899999999999	False	2.0	33-34 O'Connell Street Upper, Rotunda, Dublin 1, D01 E0W2	bar
+56	The Living Room	ChIJbV4GlYYOZ0gRaGe3lJppVYw	bar|point_of_interest|establishment	53.3523443	-6.260340600000001	False	2.0	Cathal Brugha St, Rotunda, Dublin 1	bar
+57	The Palace Bar	ChIJY8EByoQOZ0gRSMYJds1CQHU	bar|restaurant|food|point_of_interest|establishment	53.3458948	-6.2596063	False	2.0	21 Fleet St, Temple Bar, Dublin 2, D02 H950	bar
+58	The Bankers Bar	ChIJiTZhlZwOZ0gR1GiRj8Y6XFk	bar|point_of_interest|establishment	53.34399980000001	-6.262488299999999	False	2.0	Trinity St, Dublin, D02 A440	bar
+59	Pillar Bar Dublin	ChIJO4Tl3IQOZ0gRL6MvhjzH3E0	bar|point_of_interest|establishment	53.3466902	-6.2588833	False		25 Westmoreland St, Dublin, D02 XP95	bar

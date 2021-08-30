@@ -1,0 +1,19 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Park Shopping Centre	ChIJcRKXHs0NZ0gRcodFeUUsmZQ	shopping_mall|point_of_interest|establishment	53.3562124	-6.2871766	False	shopping_mall
+1	Londis	ChIJeVjY3sUNZ0gRpCPj7_hZllI	convenience_store|shopping_mall|food|point_of_interest|store|establishment	53.367143	-6.293929599999998	False	shopping_mall
+2	Stoneybatter Farmers Market at Pender's Yard	ChIJzz7p7i0MZ0gRtzNrQVvK0GM	shopping_mall|point_of_interest|establishment	53.35069430000001	-6.282315599999999	False	shopping_mall
+3	Loja De Tecidos	ChIJj7wdZcQNZ0gRusOTpL12tt8	shopping_mall|point_of_interest|establishment	53.3499194	-6.280987800000001		shopping_mall
+4	Dublino	ChIJv9RHPocOZ0gRwPOpxHPHMXg	shopping_mall|point_of_interest|establishment	53.3546269	-6.261827399999999	False	shopping_mall
+5	Glasnevin	ChIJ1wpeikkNZ0gRc7VMXEAzSwQ	shopping_mall|point_of_interest|establishment	53.37516110000001	-6.295096099999999	False	shopping_mall
+6	Dublin Beer Factory	ChIJS88xb3sPZ0gRE245f6a5Fm0	shopping_mall|point_of_interest|establishment	53.3508332	-6.266870699999999	False	shopping_mall
+7	Moore Street Shopping Mall	ChIJGUtzUoEOZ0gRi9AFwJtBQFE	shopping_mall|point_of_interest|establishment	53.3513831	-6.2633375	False	shopping_mall
+8	Ilac Shopping Centre	ChIJQzGI6oMOZ0gRK0qi8vAboI8	shopping_mall|point_of_interest|establishment	53.3499889	-6.264737899999999	False	shopping_mall
+9	Max	ChIJfRIm44MOZ0gRjeviWHXBNxQ	shopping_mall|point_of_interest|establishment	53.3505968	-6.262712499999999	False	shopping_mall
+10	Monker Town	ChIJ6Ze2mIYOZ0gRgMmkG0O2WUE	shopping_mall|point_of_interest|establishment	53.35124159999999	-6.260778900000001	False	shopping_mall
+11	Catch	ChIJ68uMhYIPZ0gRYo2eWBSIo2A	shopping_mall|point_of_interest|establishment	53.34949400000001	-6.263602400000002	False	shopping_mall
+12	محل حلال رخيص	ChIJY_38CYQOZ0gRzHHMoIf_QLg	shopping_mall|point_of_interest|establishment	53.349818	-6.262286		shopping_mall
+13	Tienda merceria	ChIJb8YfvoMOZ0gRpLGZigh7Kdg	shopping_mall|point_of_interest|establishment	53.3490994	-6.2638981	False	shopping_mall
+14	NEXT Henry Street	ChIJ41K4HnUPZ0gR1rsFGoC-ky8	shopping_mall|point_of_interest|establishment	53.3491994	-6.2634673	False	shopping_mall
+15	Malll	ChIJDbuZkz0PZ0gRTbQ7ipAnfB0	shopping_mall|point_of_interest|establishment	53.3482667	-6.2656792		shopping_mall
+16	Negozio regalini	ChIJt-sdyfwPZ0gRKDrAovd_82I	shopping_mall|point_of_interest|establishment	53.34953939999999	-6.262399999999999		shopping_mall
+17	Jervis Shopping Centre	ChIJrT6yAYMOZ0gRvxniWEYO5q4	shopping_mall|parking|point_of_interest|establishment	53.3482143	-6.2656231	False	shopping_mall

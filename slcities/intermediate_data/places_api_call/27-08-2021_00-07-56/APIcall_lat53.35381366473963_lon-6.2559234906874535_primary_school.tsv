@@ -1,0 +1,12 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Scoil Chaoimhin	ChIJk9HI1oUOZ0gR_S6qyhK4iqs	primary_school|school|point_of_interest|establishment	53.3513317	-6.257598700000002		primary_school
+1	St. Vincent's Girls' National School	ChIJU63MeIoOZ0gRJIReCi05RsU	primary_school|school|point_of_interest|establishment	53.35753200000001	-6.247147399999999	False	primary_school
+2	Special Primary School	ChIJQxYtp4wOZ0gR5TnuZWkyJnA	primary_school|school|point_of_interest|establishment	53.351585	-6.242862700000001		primary_school
+3	St Laurence O'Toole Girls & Boys national School	ChIJi9tGaYsOZ0gRA8TfkQXmKks	primary_school|school|point_of_interest|establishment	53.3509344	-6.241923999999999		primary_school
+4	Presentation Primary School George’s Hill	ChIJRyjUoikMZ0gREJt45XTCg_I	primary_school|school|point_of_interest|establishment	53.3483489	-6.2715493		primary_school
+5	ImaginationGYM	ChIJx5IKWJ0OZ0gRN6QRO2V4UhI	primary_school|school|health|point_of_interest|establishment	53.3443366	-6.2681008	False	primary_school
+6	Dublin 7 Educate Together National School	ChIJz1477CwMZ0gRvyG8ZqJLpBk	primary_school|school|point_of_interest|establishment	53.3518786	-6.277930700000001		primary_school
+7	Hedley Park Montessori School	ChIJZ8JlHJcOZ0gRIiZCJ44GAVI	primary_school|school|point_of_interest|establishment	53.3387782	-6.249627499999999	False	primary_school
+8	Stanhope Street Primary School	ChIJxekkUywMZ0gRzEHv_n2rvoE	primary_school|school|point_of_interest|establishment	53.35264	-6.282912899999999	False	primary_school
+9	Francis Street School	ChIJ48fUJiQMZ0gRUbzq0Ev9aUA	primary_school|school|point_of_interest|establishment	53.3414075	-6.273488399999999		primary_school
+10	St. Joseph's School for Children with Visual Impairment	ChIJ34SPgEEOZ0gRiCdxIF9PU0I	primary_school|school|point_of_interest|establishment	53.370882	-6.246736400000001		primary_school
