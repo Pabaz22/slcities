@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import geopandas as gpd
 
 
 def list_files_in_dir(dir_path):
@@ -61,9 +62,35 @@ def get_files_absolute_path(dir_path, lst_fnames):
     return [os.path.join(dir_path, f_name) for f_name in lst_fnames]
 
 
-def open_file_as_pandas_dataframe(f_path, lst_columns=None, sep='\t'):
+def open_file_as_pandas_dataframe(
+    f_path,
+    sep='\t',
+    lst_columns=None,
+):
     if lst_columns is None:
         df = pd.read_csv(f_path, sep=sep)
     else:
         df = pd.read_csv(f_path, sep=sep, usecols=lst_columns)
     return df
+
+def dataframe_to_geopandas(df,
+                           longitude_col='longitude',
+                           latitude_col='latitude'):
+    """
+    Turn DataFrame into a geoDataFrame
+    """
+    return gpd.GeoDataFrame(df,
+                            geometry=gpd.points_from_xy(
+                                df[longitude_col], df[latitude_col]))
+
+
+def open_file_as_geopandas(f_path,
+                           longitude_col='longitude',
+                           latitude_col='latitude'):
+    """
+    Open a file as a GeoDataFrame
+    """
+    df = open_file_as_pandas_dataframe(f_path, sep='\t')
+    return dataframe_to_geopandas(df,
+                                  latitude_col=latitude_col,
+                                  longitude_col=longitude_col)

@@ -1,7 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	Pharmacy O'Regan Talbot St	ChIJl9Rl1Y4OZ0gROyd4Ndd7zyI	drugstore|health|point_of_interest|store|establishment	53.35123340000001	-6.252031	False	drugstore
-1	Murrays Medical Equipment Talbot Street	ChIJy9UrSo8OZ0gRByiyRvyp-d4	pharmacy|drugstore|health|point_of_interest|store|establishment	53.35086829999999	-6.253880100000001	False	drugstore
-2	Park's Late Night Pharmacy	ChIJ3wn4Dt4PZ0gRo4jVrqxIXL0	pharmacy|drugstore|health|point_of_interest|store|establishment	53.3612648	-6.260221099999999	False	drugstore
-3	Down to Earth	ChIJN63rA50OZ0gR6fMvvemuw9w	drugstore|pharmacy|food|health|point_of_interest|store|establishment	53.34297979999999	-6.264599599999999	False	drugstore
-4	Dowling's Pharmacy	ChIJ9cbFf5cOZ0gRePUpAEvOQpg	pharmacy|drugstore|hospital|local_government_office|health|point_of_interest|store|establishment	53.3380558	-6.252789499999999	False	drugstore
-5	Corrigan's Pharmacy	ChIJvdzIxVEOZ0gRrgmg4Ly3Xuo	pharmacy|drugstore|health|point_of_interest|store|establishment	53.3679445	-6.226679999999999	False	drugstore

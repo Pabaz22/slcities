@@ -1,8 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
-1	Laveesha jewellery	ChIJiydPSi0NZ0gRDUKsNOm5_MU	jewelry_store|point_of_interest|store|establishment	53.34802930000001	-6.290439799999999	True		jewelry_store
-2	John Brereton Jewellers	ChIJa1t94ikMZ0gR3MN24sO8Gfo	jewelry_store|point_of_interest|store|establishment	53.34958839999999	-6.2694027	False		jewelry_store
-3	Jd Jewellery & Accessories	ChIJObSC7-8PZ0gRefvfBRZsX8c	jewelry_store|point_of_interest|store|establishment	53.3709758	-6.266539700000001	True		jewelry_store
-4	Martin Gear Jewellers	ChIJd0cFtH0OZ0gRv3W7bX4YRuA	jewelry_store|finance|point_of_interest|store|establishment	53.3484516	-6.268092899999999	False		jewelry_store
-5	Gear Jewellers	ChIJY7POYYEOZ0gRifgPD-7hBlc	jewelry_store|point_of_interest|store|establishment	53.3509861	-6.2642281	False		jewelry_store
-6	Argos Ilac Centre (Dublin)	ChIJrxbk3IMOZ0gRr_atohQddkU	department_store|jewelry_store|electronics_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.35044440000001	-6.264601100000001	False	2.0	jewelry_store
-7	Pandora Henry Street	ChIJidpmQSMPZ0gRop4Ify-RoGI	jewelry_store|point_of_interest|store|establishment	53.35136600000001	-6.2634417	False		jewelry_store

@@ -1,6 +1,0 @@
-	name	place_id	price_level	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-0	Marks and Spencer	ChIJ1RqODo0OZ0gR2wQxWR7VjAc	2.0	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.3489101	-6.2437814	False	department_store
-1	Guineys	ChIJsYbzV48OZ0gRTapqqrqAazI		department_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3504154	-6.2553803	False	department_store
-2	Guineys	ChIJsYbzV48OZ0gRq3mGVBAGHeE		home_goods_store|department_store|point_of_interest|store|establishment	53.3500118	-6.2585462	False	department_store
-3	Guineys	ChIJXbJ9zIUOZ0gRu6E4Itvf-Zg		department_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3500019	-6.258614800000002	False	department_store
-4	TK Maxx	ChIJ-7IJ44MOZ0gR9KyXJ4KrMZM	1.0	department_store|point_of_interest|store|establishment	53.35049230000001	-6.2635367	False	department_store

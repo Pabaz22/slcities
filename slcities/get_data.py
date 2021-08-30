@@ -1,8 +1,34 @@
 import os
 import sys
 import pandas as pd
-from slcities.utils import list_files_in_dir, filter_filenames, get_files_absolute_path, open_file_as_pandas_dataframe
+from slcities.utils import list_files_in_dir, filter_filenames, get_files_absolute_path, open_file_as_pandas_dataframe, dataframe_to_geopandas, open_file_as_geopandas
 from slcities.params import PLACES_TYPES_DISCRIMINANT_SET
+
+
+class StreetLigthsPreProcessing():
+    def __init__(self):
+        self.stlights_df = None
+
+    def get_street_light_location(self,
+                                  f_path,
+                                  longitude_col='longitude',
+                                  latitude_col='latitude'):
+        self.longitude_col = longitude_col
+        self.latitude_col = latitude_col
+        self.stlights_df = open_file_as_geopandas(
+            f_path,
+            longitude_col=self.longitude_col,
+            latitude_col=self.latitude_col)
+
+    def clean_data(self,
+                   columns_to_drop=['site_name', 'unit_no', 'unit_type']):
+        self.stlights_df[self.stlights_df[self.latitude_col] != 0.0].drop(
+            columns=columns_to_drop).reset_index(drop=True)
+
+    def return_df(self):
+        return self.stlights_df
+
+
 
 
 

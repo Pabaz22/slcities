@@ -23,6 +23,13 @@ API_CALL_COLUMNS_OF_INTEREST = [
     'types', 'price_level', 'opening_hours.open_now', 'formatted_address'
 ]
 
+# lights_data = '../raw_data/dcc-pl-assert-list_open-data_260321.csv'
+# footfall_data = '../raw_data/name_file_footfall.csv'
+# areas_data = '../raw_data/Population_by_Sex_and_Marital_Status,_Electoral_Division,_Census_2016,_Theme_1.2,_Ireland,_2016,_CSO_&_OSi.geojson'
+
+
+
+
 # PLACES_TYPES_BIG_DISCRIMINANT_SET = [
 #     'accounting', 'amusement_park', 'art_gallery', 'atm', 'bakery', 'bank',
 #     'bar', 'beauty_salon', 'bicycle_store', 'bowling_alley', 'cafe',

@@ -1,6 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
-4	Paloma Knobloch - Beauty Artist	ChIJy_U4K4QPZ0gRhevqc12Y5Uw	night_club|bar|point_of_interest|establishment	53.3537344	-6.259144999999999	False		night_club
-6	Murray’s Pub	ChIJsx8N6oYOZ0gR013MeLYyxAs	night_club|bar|restaurant|food|point_of_interest|establishment	53.35246	-6.2609	False	2.0	night_club
-10	Sunnybank Hotel	ChIJ9cqQoXcOZ0gRAPP-p-tIdKc	night_club|lodging|bar|restaurant|food|point_of_interest|establishment	53.3681714	-6.270435200000001	True		night_club
-13	Wynn's Hotel Dublin	ChIJG7_3CoMOZ0gRo00joSI1zu8	night_club|lodging|bar|restaurant|food|gym|health|point_of_interest|establishment	53.348342	-6.258687999999998	False		night_club
-14	O'Reilly's	ChIJ3wjf8I8OZ0gR5tvtJlkau4c	night_club|bar|restaurant|food|point_of_interest|establishment	53.3469956	-6.2541858	False	1.0	night_club

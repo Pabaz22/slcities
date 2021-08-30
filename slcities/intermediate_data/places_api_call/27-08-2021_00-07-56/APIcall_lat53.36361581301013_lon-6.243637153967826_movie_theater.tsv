@@ -1,4 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
-1	Savoy Cinema	ChIJA2OdnIYOZ0gRyu_gLbUe5w4	movie_theater|point_of_interest|establishment	53.3512554	-6.260463599999999	False	movie_theater
-2	ODEON Point Village	ChIJha3OOfAOZ0gRPPwr87twEGk	movie_theater|point_of_interest|establishment	53.34826999999999	-6.229359899999999		movie_theater
-3	ODEON Point Square	ChIJw75YDfAOZ0gRytk2OSll9Lo	movie_theater|food|point_of_interest|store|establishment	53.3484904	-6.2277287		movie_theater

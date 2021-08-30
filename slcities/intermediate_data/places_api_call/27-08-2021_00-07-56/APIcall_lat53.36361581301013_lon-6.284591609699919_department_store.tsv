@@ -1,3 +1,0 @@
-	name	place_id	types	geometry.location.lat	geometry.location.lng	price_level	opening_hours.open_now	main_type
-0	manor	ChIJfR6Fji0MZ0gRaTCzW3zz4rA	department_store|point_of_interest|store|establishment	53.3513988	-6.2831713			department_store
-1	Argos Ilac Centre (Dublin)	ChIJrxbk3IMOZ0gRr_atohQddkU	department_store|jewelry_store|electronics_store|furniture_store|home_goods_store|point_of_interest|clothing_store|store|establishment	53.35044440000001	-6.264601100000001	2.0	False	department_store
