@@ -1,0 +1,20 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	main_type
+0	Drumcondra Rail Stn, stop 17	ChIJmSfDSnsOZ0gRb03ekP3KbDc	bus_station|transit_station|point_of_interest|establishment	53.3629171	-6.258435899999999	bus_station
+1	Drumcondra Station, stop 100121	ChIJn0ely2QOZ0gRq0HEOEfo62s	bus_station|transit_station|point_of_interest|establishment	53.3630696	-6.258414699999999	bus_station
+2	Connolly Station, stop 135121	ChIJ62j5xo4OZ0gRO2XuAqo4ezw	bus_station|transit_station|point_of_interest|establishment	53.3503316	-6.2504407	bus_station
+3	Moland Street, stop 1184	ChIJgTHsSY8OZ0gRV74Ka-wdVY4	bus_station|transit_station|point_of_interest|establishment	53.3507698	-6.2538992	bus_station
+4	Rotunda, Parnell Street	ChIJdWzQ5IYOZ0gRxajOykKlqV8	bus_station|transit_station|point_of_interest|establishment	53.3531318	-6.2604724	bus_station
+5	Dublin, Cathal Brugha Street	ChIJN2nOjIYOZ0gRDc9twNLZh64	bus_station|transit_station|point_of_interest|establishment	53.3522532	-6.2598923	bus_station
+6	St Joseph's Parade, stop 11	ChIJMSdRCX4OZ0gRxv1dnds0h6s	bus_station|transit_station|point_of_interest|establishment	53.3570923	-6.264411699999999	bus_station
+7	Abbey Street, stop 7591	ChIJu4uAooUOZ0gRKruhRgmGUYM	bus_station|transit_station|point_of_interest|establishment	53.3489114	-6.256879299999999	bus_station
+8	Eden Quay	ChIJjYvRHoUOZ0gR4EmFayQeNEw	bus_station|transit_station|point_of_interest|establishment	53.348038	-6.256339	bus_station
+9	Dublin, Clifton Court Hotel	ChIJiewbBIUOZ0gRRHA3IkzuFY4	bus_station|transit_station|point_of_interest|establishment	53.3479612	-6.257844	bus_station
+10	Dublin City South, Burgh Quay, stop 339	ChIJecKlFoUOZ0gRhaPqdIAC4Bc	bus_station|transit_station|point_of_interest|establishment	53.34731129999999	-6.256792099999999	bus_station
+11	Dublin City South, O'Connell Bridge House	ChIJHQXo3oQOZ0gR7sYA5v1SfWo	bus_station|transit_station|point_of_interest|establishment	53.3466922	-6.258346400000001	bus_station
+12	Marino Crescent Park, stop 613	ChIJ_S6BIVEOZ0gRRTAsmJHkJ4c	bus_station|transit_station|point_of_interest|establishment	53.364616	-6.226811000000001	bus_station
+13	Pearse St Garda Stn	ChIJ-5ayy5oOZ0gRMRp31UUMzP4	bus_station|transit_station|point_of_interest|establishment	53.34545130000001	-6.256246099999999	bus_station
+14	Pearse St Garda Stn	ChIJr-HnzJoOZ0gRnsP32-WUsYo	bus_station|transit_station|point_of_interest|establishment	53.3455312	-6.256666800000001	bus_station
+15	Pearse Street, stop 7588	ChIJ8SI1ppoOZ0gRybV05VzMAX4	bus_station|transit_station|point_of_interest|establishment	53.34495019999999	-6.253919599999999	bus_station
+16	Pearse Station	ChIJ5cwSmZEOZ0gRFKNoNN2qx14	bus_station|transit_station|point_of_interest|establishment	53.3438668	-6.2483086	bus_station
+17	Whitehall Garda Stn	ChIJXx0LsmsOZ0gRKCP2kIz1XYM	bus_station|transit_station|point_of_interest|establishment	53.37509279999999	-6.2508449	bus_station
+18	Church Street Upper, stop 1614	ChIJmy44ySsMZ0gRL7JGa1JdXK0	bus_station|transit_station|point_of_interest|establishment	53.3511978	-6.2737015	bus_station

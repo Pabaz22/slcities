@@ -1,0 +1,8 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	ST Pumps	ChIJOeua09UNZ0gRyvLAFglpQFU	plumber|point_of_interest|store|establishment	53.36091039999999	-6.2729731	False	plumber
+1	R&B Heating & Plumbing	ChIJYSlR09cNZ0gRt7fzRClOpDI	plumber|point_of_interest|establishment	53.3638103	-6.273010200000001		plumber
+2	On The Level Plumbing Services	ChIJbU34GHgOZ0gRGucLpAppd_c	plumber|point_of_interest|establishment	53.36606829999999	-6.2714815		plumber
+3	Solar & Renewable Technologies	ChIJHw_v0dwNZ0gRdlJICOpJMeI	plumber|general_contractor|point_of_interest|establishment	53.3725865	-6.286429	False	plumber
+4	Aokplumbingandheating	ChIJUZPyhWwNZ0gR6xM3btWp02M	plumber|point_of_interest|establishment	53.3510094	-6.272246000000001	True	plumber
+5	Glasnevin Heating Limited	ChIJI-aZAN4NZ0gRwXtbVLlydsI	plumber|point_of_interest|establishment	53.3767625	-6.282355099999998		plumber
+6	Glasnevin Heating ,Sean Lynch	ChIJI-aZAN4NZ0gRWQMYKjN-fe0	plumber|point_of_interest|establishment	53.3767625	-6.282355099999998		plumber

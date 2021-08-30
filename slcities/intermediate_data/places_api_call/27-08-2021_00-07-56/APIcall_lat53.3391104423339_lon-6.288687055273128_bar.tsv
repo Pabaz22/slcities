@@ -1,0 +1,51 @@
+	name	place_id	price_level	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Morrisseys Pub Dublin	ChIJsxFnnD4MZ0gR9ZLT4ZXWYW0	1.0	bar|point_of_interest|establishment	53.3368339	-6.287627799999999	True		bar
+2	Arthur's Bar	ChIJr1cpSDoMZ0gRXtuxTTaIW0s		bar|point_of_interest|establishment	53.34184769999999	-6.286481199999999	False		bar
+3	Gravity Bar	ChIJI2S0eNMNZ0gRhFe4VHdMpys		bar|point_of_interest|establishment	53.34193459999999	-6.2864834	True		bar
+4	Harkin's Bar & Bistro	ChIJmWlXIDoMZ0gR9TTra4v7KEo	1.0	bar|restaurant|food|point_of_interest|establishment	53.34248049999999	-6.288576799999999	True		bar
+5	The Malt House	ChIJq_jywzkMZ0gRgt15TIWbfTA	1.0	bar|point_of_interest|establishment	53.3429303	-6.290995799999999	True		bar
+7	Guinans Bar & Venue	ChIJr5Dg5jkMZ0gRmJa0Hm2ttMY	1.0	bar|point_of_interest|establishment	53.3434715	-6.290486799999999	True		bar
+8	Kenny's Bar	ChIJZZhDEzgMZ0gRygxMja1PX84	1.0	bar|point_of_interest|establishment	53.34242379999999	-6.294490499999998	True		bar
+12	The Circular & The Other Hand Bar	ChIJlyqvwEQNZ0gRTMkF-CjCM8c	2.0	bar|point_of_interest|establishment	53.33620390000001	-6.297925	True		bar
+14	The Lamplighter	ChIJhTd5hSQMZ0gRxq2Ke1nE7ck	1.0	bar|point_of_interest|establishment	53.3397255	-6.278109100000001	True		bar
+15	The Lark Inn	ChIJy0ig_SQMZ0gRIotNGcOctQQ	1.0	bar|point_of_interest|establishment	53.3417214	-6.278666399999999	True		bar
+16	Artisan Brew Academy	ChIJaVJ7FSUMZ0gRQZW0vdbBTEY	1.0	tourist_attraction|bar|restaurant|food|point_of_interest|store|establishment	53.3430573	-6.279973699999998			bar
+17	Lucky's	ChIJIYci_CQMZ0gRiHnICMdRXXY	2.0	bar|cafe|restaurant|food|point_of_interest|establishment	53.34157099999999	-6.2784649	True		bar
+18	The Bird Flanagan	ChIJs8cvFkEMZ0gRnaFp2BIbXio	2.0	bar|point_of_interest|establishment	53.3366015	-6.299221200000001	True		bar
+19	The Clock Pub	ChIJ2Tw7EiUMZ0gRghOPBieNuRM	1.0	bar|restaurant|food|point_of_interest|establishment	53.34294279999999	-6.279246199999998	True		bar
+21	John's Bar & Haberdashery	ChIJjcfvz24NZ0gR7vS6l0XD59s		bar|point_of_interest|establishment	53.3426205	-6.277525499999999	True	61 Thomas St, The Liberties, Dublin 8	bar
+22	Tom Kennedy's Bar	ChIJkdDnuiUMZ0gRBQg0PN7Q0gA	1.0	bar|point_of_interest|establishment	53.342714	-6.2772608	True	65 Thomas St, The Liberties, Dublin, D08 VOR1	bar
+23	The Galway Hooker Bar	ChIJpUKS_DYMZ0gRSGy4VNM3esw	2.0	bar|point_of_interest|establishment	53.3467716	-6.2925564	True	Heuston Station, St John's Rd W, Saint James' (part of Phoenix Park), Dublin 8	bar
+24	Anti Social Bar Dublin	ChIJjYGmiGQNZ0gRH6QjwHKJbzI	2.0	bar|point_of_interest|establishment	53.340647	-6.274619899999999	True	101 Francis St, The Liberties, Dublin, D08 FHP9	bar
+25	Drop Dead Twice	ChIJ1z3X0yUMZ0gR5f_xHA3mCN0	2.0	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.3423146	-6.275252	True	18/19 Francis St, The Liberties, Dublin, D08 EK06	bar
+26	Iveagh Bar	ChIJacRPtjYMZ0gRs6Tadsajcts		bar|restaurant|food|point_of_interest|establishment	53.34807540000001	-6.2906401	True	8 Parkgate St, Stoneybatter, Dublin 8, D08 K8P5	bar
+27	Frank Ryan's	ChIJbW99rS8MZ0gRANlukgt9b-o	1.0	bar|point_of_interest|establishment	53.3470028	-6.2800359	True	5 Queen St, Smithfield, Dublin 7, D07 T227	bar
+28	McGettigans Bar	ChIJMZdpTS4MZ0gR1bb6Xh4aAiE		bar|point_of_interest|establishment	53.3472872	-6.280319899999999	True	78 Queen St, Smithfield, Dublin, D07 PW67	bar
+29	Oscars Café Bar	ChIJA5Wxky4MZ0gRyNOTgzDMhKk	2.0	bar|restaurant|food|point_of_interest|establishment	53.348889	-6.2785828	True	6, Smithfield, Dublin, D07 A034	bar
+30	Lundy Foot's, Bar & Restaurant Temple Bar	ChIJJ7hgKJYPZ0gRXK79fxx9SH0	2.0	bar|restaurant|food|point_of_interest|establishment	53.3449015	-6.2679554	True	Lundy Foot's Bar and Restaurant, Essex Gate, D2, Dublin	bar
+31	Swan Bar	ChIJ0fTMC54OZ0gRf81MLNpo6rM	2.0	bar|restaurant|food|point_of_interest|establishment	53.3396583	-6.2656855	True	58 York St, Dublin, D02 RW67	bar
+32	The Snug	ChIJY4EZlJ0OZ0gRZxSbNZq0kSg	1.0	bar|point_of_interest|establishment	53.3414399	-6.2659939	True	8, 15 Stephen Street Upper, Dublin 8, D08 ADW4	bar
+33	Cafe Rubis Wine Bar	ChIJhT7UT50OZ0gRYlkrZza9gnY		bar|food|point_of_interest|establishment	53.3445979	-6.267234900000001	True	9 Parliament St, Temple Bar, Dublin 2, D02 K726	bar
+34	Porterhouse Temple Bar	ChIJISjK0PEMZ0gRZz3RsNSfxjQ	2.0	bar|restaurant|food|point_of_interest|establishment	53.3450877	-6.2674185	True	16-18 Parliament St, Temple Bar, Dublin 2, D02 VR94	bar
+35	The Barbers Bar	ChIJUaQvTiwMZ0gRixWtZ9v4Mx4	1.0	bar|restaurant|food|point_of_interest|establishment	53.35213	-6.27983	True	19 Grangegorman Lower, Stoneybatter, Dublin, D07 H583	bar
+36	Capitol Lounge	ChIJ-TLVxRuQREgRGUNMEs5QZ-w		bar|restaurant|food|point_of_interest|establishment	53.3413702	-6.2652796	True	1 Aungier St, Dublin 2, D02 HF72	bar
+37	Roberta's Restaurant, Bar & Terrace	ChIJi9OsK4MOZ0gRBJgVXatL_8A	3.0	bar|restaurant|food|point_of_interest|establishment	53.34510299999999	-6.267157	True	1 Essex St E, Temple Bar, Dublin	bar
+38	The Liquor Rooms	ChIJY-HBs4IOZ0gR8Tzb0TWJx90	2.0	night_club|bar|point_of_interest|establishment	53.3453683	-6.2668329	True	6-8 Wellington Quay, Temple Bar, Dublin, D02 HT44	bar
+39	Bartley's Bar & Restaurant	ChIJZ0kli6kPZ0gRKbw43fUh0No		bar|point_of_interest|establishment	53.34112039999999	-6.2640698	True	31/32 Stephen Street Lower, Dublin 2, D02 WV05	bar
+40	"John Fallon's ""The Capstan Bar"""	ChIJyXlJUSEMZ0gRFZGIgoc7LZg	1.0	bar|point_of_interest|establishment	53.3389618	-6.2734176	True	129 The Coombe, The Liberties, Dublin 8, D08 Y8CP	bar
+41	Dillons bar Parkgate Street	ChIJhb4yyhcNZ0gRBCvsLGfV3Oo		bar|point_of_interest|establishment	53.3481906	-6.2944283	True	36 Parkgate St, Arran Quay, Dublin, 8	bar
+42	Leonard's Corner	ChIJZ3Wt9hgMZ0gRQVYh6P33aj0	2.0	bar|point_of_interest|establishment	53.332141	-6.2753552	True	117 S Circular Rd, Dublin 8, D08 K522	bar
+43	The Dyflin Bar	ChIJFWVORycMZ0gR0Uy0Rl4LbpE		bar|point_of_interest|establishment	53.3408738	-6.2681755	True	8 Golden Ln, Dublin 8, D08 E2X5	bar
+45	The Gate Bar	ChIJtXQl4mgMZ0gRH1W17Jc8lyc	2.0	bar|restaurant|food|point_of_interest|establishment	53.328696	-6.3032936	True	153-155 Crumlin Rd, Drimnagh, Dublin 12, D12 HA27	bar
+46	Flannery's Bar	ChIJLw6exJ8OZ0gRZPe_OqqaKW4	2.0	bar|cafe|restaurant|food|point_of_interest|establishment	53.3360729	-6.265104399999999	True	6 Camden Street Lower, Saint Kevin's, Dublin 2, D02 TP83	bar
+47	Bad Bobs Temple Bar	ChIJnUe-NZ0OZ0gRcURhnZCniJE	2.0	night_club|bar|restaurant|food|point_of_interest|establishment	53.3450924	-6.265879399999999	True	35-37 Essex St E, Temple Bar, Dublin 2, D02 Y891	bar
+48	The Bar With No Name	ChIJi4OCsp0OZ0gRMPjSpf7T66c	2.0	bar|point_of_interest|establishment	53.3418974	-6.2641673	True	3 Fade St, Dublin	bar
+49	BAR 1661	ChIJ5c8zFIsNZ0gRYXrfIxO3Eog	2.0	bar|point_of_interest|establishment	53.3493039	-6.2704026	True	1-5 Green St, Rotunda, Dublin, D07 YT6H	bar
+50	Idlewild Bar	ChIJ4xjfrJ0OZ0gRVU-2wq_1VrI	2.0	bar|point_of_interest|establishment	53.34207869999999	-6.264131099999999	True	14 Fade St, Dublin 2, D02 HH33	bar
+51	The Market Bar Restaurant	ChIJg1ZiTZwOZ0gRgiHsVb75STE	2.0	bar|restaurant|food|point_of_interest|establishment	53.3420615	-6.2640604	True	14A Fade St, Dublin 2	bar
+53	The Globe - Late Bar 7 Nights A Week	ChIJcduJ4pwOZ0gRati0mqc8_dM	2.0	bar|point_of_interest|establishment	53.343325	-6.264257	True	11 South Great George's Street, Dublin, D02 V628	bar
+54	Library Bar	ChIJBfP1_JwOZ0gROrshDI9WYNw	2.0	bar|restaurant|food|point_of_interest|establishment	53.3431053	-6.264126300000001	True	Exchequer St, Dublin 2, D02 E044	bar
+56	Fitzsimons Hotel Temple Bar	ChIJww8Q1IIOZ0gRtDK-tFjPNu4		bar|night_club|lodging|restaurant|food|point_of_interest|establishment	53.345581	-6.2651186	True	21/22 Wellington Quay, Temple Bar, Dublin	bar
+57	The Old County Bar	ChIJ3ScEJGkMZ0gRCkMUZDvVOvE		bar|point_of_interest|establishment	53.3274422	-6.3061957	True	125 Old County Rd, Drimnagh, Dublin, D12 WF21	bar
+58	Crowbar	ChIJwX4N1JwOZ0gRMOv65jyD8vQ	2.0	bar|point_of_interest|establishment	53.3449637	-6.2643206	True	2 Temple Ln S, Temple Bar, Dublin	bar
+59	Bar Rua	ChIJQQW4PpwOZ0gRaKHnYqr5rac	2.0	bar|restaurant|food|point_of_interest|establishment	53.3410729	-6.262369199999999	True	32 Clarendon St, Dublin 2, D02 HX66	bar

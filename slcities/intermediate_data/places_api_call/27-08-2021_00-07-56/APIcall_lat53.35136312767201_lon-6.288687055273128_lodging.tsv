@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Affordable by ALTIDO Dublin	ChIJT-AZozYMZ0gRVbcT7INeSZU	lodging|point_of_interest|establishment	53.3486769	-6.2916494	True		lodging
+1	Temple Villas	ChIJoQj7C6YNZ0gR4hT3Xs-S-30	lodging|point_of_interest|establishment	53.3479791	-6.2899374			lodging
+2	Tipperary House Dublin - Heuston station luggage storage/Guesthouse	ChIJ6X_stTYMZ0gRnA9npB7yxZA	lodging|point_of_interest|establishment	53.3480327	-6.2903436	False		lodging
+3	Norseman Court	ChIJD0KliCkNZ0gRFFHkygdWmIA	lodging|point_of_interest|establishment	53.3510524	-6.282859500000001	True		lodging
+4	Ashling Hotel Dublin	ChIJg8wcuDYMZ0gRulpf1v5hru4	lodging|point_of_interest|establishment	53.3480306	-6.2910944	True		lodging
+5	ParkGate	ChIJYQzgvjYMZ0gRVPWhx_Ze42c	lodging|point_of_interest|establishment	53.34808260000001	-6.291459100000002			lodging
+6	WASi	ChIJe1In5S0MZ0gR1bFMAgkoyTc	lodging|point_of_interest|establishment	53.3502444	-6.282532			lodging
+7	Collins Square	ChIJC5CXFeMNZ0gRGAAz1Jsjz0o	lodging|point_of_interest|establishment	53.34785729999999	-6.284920899999999	True		lodging
+8	Blackhall Court	ChIJT7iXO1QNZ0gRVP7pd5-SxWg	lodging|point_of_interest|establishment	53.3495217	-6.282144999999999			lodging
+9	Easy hotel	ChIJw-551TMNZ0gRCnZjY7cyToo	lodging|point_of_interest|establishment	53.3479255	-6.2842957			lodging
+10	Blackhal View	ChIJsSbczRwNZ0gRf1HXapD0XUk	lodging|point_of_interest|establishment	53.34999559999999	-6.281772399999999			lodging
+11	Clipper Court	ChIJh6-_y8UNZ0gR3lJUAX3sPEQ	lodging|point_of_interest|establishment	53.34720739999999	-6.2851599			lodging
+12	Phoenix Park Hotel	ChIJh7ojbDYMZ0gRj7hrZ6JLTdU	lodging|point_of_interest|establishment	53.348233	-6.2947583			lodging
+13	Graze Canteen	ChIJ8a5hzC0MZ0gReiXjVn06vZo	lodging|point_of_interest|establishment	53.3507961	-6.2803311			lodging
+14	sleeperoo Ireland	ChIJTXxZpRwNZ0gRo8FlnEUfYcE	lodging|point_of_interest|establishment	53.34975	-6.280606999999999	False		lodging
+15	Parkgate St	ChIJBZ6r-aUNZ0gRw2cqENOYvbQ	lodging|point_of_interest|establishment	53.3477326	-6.2946933			lodging
+16	Swuite Dublin Student Accommodation	ChIJF3MxWxkNZ0gROU89DBA9Dwc	lodging|point_of_interest|establishment	53.3519534	-6.2795859	True		lodging
+17	Glencourt Apartments	ChIJZXLMj8wNZ0gRPrmpUmzjwrY	lodging|point_of_interest|establishment	53.356798	-6.291250100000001	False		lodging
+18	50 Parklodge	ChIJCWm9yDsNZ0gRGFEjDeL7Y-k	lodging|point_of_interest|establishment	53.352711	-6.298028499999999			lodging
+19	The Hendrick Smithfield	ChIJpdoTOC4MZ0gRR5Ns9xMDe0o	lodging|point_of_interest|establishment	53.3479871	-6.2808015	True		lodging
+20	Maldron Hotel Smithfield	ChIJOXlxmi4MZ0gR8Ttm6cVHuUc	lodging|bar|restaurant|food|point_of_interest|establishment	53.34943790000001	-6.2783099	True	Smithfield Market, Smithfield, Dublin 7, D07 RF2Y	lodging
+21	Generator Dublin	ChIJH2CS6S4MZ0gRzgijUTAyjx4	lodging|bar|restaurant|food|point_of_interest|establishment	53.3483318	-6.277839	True	Smithfield, Dublin 7	lodging
+22	Charleville Lodge Hotel	ChIJC0y9lNMNZ0gRelVgiunIuPo	lodging|point_of_interest|establishment	53.3591443	-6.2798928		268 N Circular Rd, Phibsborough, Dublin, D07 DT61	lodging
+23	Staycity Aparthotels - Saint Augustine Street, Dublin 8	ChIJv6cHjCUMZ0gR3BXDejzMQjg	lodging|point_of_interest|establishment	53.3443262	-6.2772407	True	42-76 St Augustine St, Usher's Quay, Dublin 8	lodging
+24	Staycity Aparthotels - Christchurch, Dublin	ChIJGw9ASiYMZ0gRUSzT4nG_OHY	lodging|point_of_interest|establishment	53.3430952	-6.273901200000001	True	8 High St, The Liberties, Dublin 8	lodging
+25	Maldron Hotel Parnell Square	ChIJpUNfQocOZ0gR2Al5Z8qznzo	lodging|bar|restaurant|food|point_of_interest|establishment	53.3542501	-6.266632899999999	True	Parnell Square W, Rotunda, Dublin, D01 HX02	lodging
+26	Handel’s Hotel	ChIJayRG6CcMZ0gRuqTzpweNw5U	lodging|point_of_interest|establishment	53.3440863	-6.2696745	True	16-18 Fishamble St, Temple Bar, Dublin, D08 E7R0	lodging
+27	Jurys Inn Christchurch Dublin	ChIJa8MericMZ0gRtkwuf2VOLgc	lodging|restaurant|food|point_of_interest|establishment	53.34283199999999	-6.2705198	True	8 Christchurch Pl, Dublin 8, D08 REK7	lodging
+28	The Bridge House Guest house	ChIJwx_-UJ0OZ0gRH3GMBzf3KMM	lodging|point_of_interest|establishment	53.3450254	-6.2677215		24-25 Parliament St, Temple Bar, Dublin, D02 X971	lodging
+29	Tom, Dick & Harriet's	ChIJEXychJkPZ0gRmhIWk5y1QqU	cafe|lodging|food|point_of_interest|establishment	53.3556834	-6.2657443	False	98 Dorset Street Upper, Dublin, D01 KD63	lodging
+30	Hilton Dublin Kilmainham	ChIJa_jeXEUMZ0gRAH1a5nGr9GM	lodging|point_of_interest|establishment	53.3423178	-6.308239899999999		S Circular Rd, Kilmainham, Dublin	lodging
+31	Staycity Aparthotels - Dublin Castle	ChIJp6msXycNZ0gR-3chu8Ah9Og	lodging|point_of_interest|establishment	53.34150529999999	-6.2699341	True	8 Bride St, Dublin, D08 Y2AY	lodging
+32	Fitzsimons Hotel Temple Bar	ChIJww8Q1IIOZ0gRtDK-tFjPNu4	bar|night_club|lodging|restaurant|food|point_of_interest|establishment	53.345581	-6.2651186	True	21/22 Wellington Quay, Temple Bar, Dublin	lodging
+33	Jurys Inn Parnell Street Dublin	ChIJ3QI1TIEOZ0gRJmESP7v_4hI	lodging|restaurant|food|point_of_interest|establishment	53.3515784	-6.2630151	True	Plaza, Moore St, Parnell St, North City, Dublin, D01 E0H3	lodging
+34	Zanzibar Locke, Ha'penny Bridge	ChIJJXl1i4MPZ0gRaLAD3B5Ihuo	lodging|point_of_interest|store|establishment	53.3465245	-6.2641477	True	34-37 Ormond Quay Lower, North City, Dublin, D01 H3V5	lodging
+35	Castle Hotel	ChIJif9mNYcOZ0gRC-cNixUDS6M	lodging|bar|restaurant|food|point_of_interest|establishment	53.3547688	-6.2633545	True	Gardiner Row, Denmark Street Great, Rotunda, Dublin 1, D01 R640	lodging
+36	Hotel St. George by Nina	ChIJOaN7MocOZ0gRrfT8dg9ZtR8	lodging|point_of_interest|establishment	53.3537842	-6.2623647	True	7 Parnell Square E, Rotunda, Dublin, D01 E176	lodging
+37	Abbey Hotel	ChIJD0H1eIMOZ0gRMbRSael3GX0	lodging|bar|restaurant|food|point_of_interest|establishment	53.3479703	-6.2625772		52 Middle Abbey St, North City, Dublin, D01 W9H6	lodging
+39	Eccles Townhouse	ChIJPUkW4H0OZ0gRzrgA6LRFa9g	cafe|lodging|bar|restaurant|food|point_of_interest|establishment	53.35750299999999	-6.263955999999999	False	1 Eccles St, Dublin	lodging
+40	McGettigan's Townhouse	ChIJX-VyTS4MZ0gR3MN05uxb1ZU	lodging|point_of_interest|establishment	53.3472795	-6.2802738		78 Queen St, Arran Quay, Dublin 7, D07 PW67	lodging
+41	Hampton by Hilton Fourt Courts Dublin	ChIJWbon-igMZ0gRVgKuQymXxWo	lodging|point_of_interest|establishment	53.3469703	-6.2726105		Chancery St, Smithfield, Dublin, D07 KX21	lodging
+42	Harding Hotel	ChIJsyK19ycMZ0gRIC_dtnLfZys	lodging|point_of_interest|establishment	53.34379999999999	-6.2699		Fishamble St, Temple Bar, Dublin	lodging
+43	Hard Rock Hotel	ChIJiXG0xw0NZ0gRwqhf1de1oCc	lodging|point_of_interest|establishment	53.3442816	-6.268017899999999	True	18 Exchange Street Upper, Temple Bar, Dublin, D08 AV24	lodging
+44	The Clarence Hotel	ChIJo8oetYIOZ0gRwYWzeaWxMxI	lodging|bar|restaurant|food|point_of_interest|establishment	53.3453773	-6.266915399999999	True	6-8 Wellington Quay, Temple Bar, Dublin 2, D02 HT44	lodging
+45	Staycity Aparthotels - Dublin Millennium Walk	ChIJD87V9oIOZ0gRyIX0rmU_H9E	lodging|point_of_interest|establishment	53.347341	-6.265342	True	25 Abbey Street Upper, North City, Dublin 1	lodging
+46	Parnell Square Apartments	ChIJHy79OIEOZ0gRNkle5C4ppCw	lodging|point_of_interest|establishment	53.35225519999999	-6.2639843	False	50 Parnell Square W, Rotunda, Dublin 1, D01 W5R9	lodging
+47	Hyatt Centric The Liberties Dublin	ChIJm-clSD4NZ0gRJdGYP33SJi0	lodging|point_of_interest|establishment	53.3390673	-6.2735888	True	Dean St, The Liberties, Dublin, D08 W3X7	lodging
+48	Hotel 7	ChIJy2rWSIcOZ0gRL_acwrlwSYw	lodging|bar|restaurant|food|point_of_interest|establishment	53.3551452	-6.2628545	True	7 Gardiner Row, Rotunda, Dublin 1, D01 XN53	lodging
+49	Point A Hotel Dublin Parnell Street	ChIJs1H0qYYOZ0gRLfFfwrOq9L0	lodging|point_of_interest|establishment	53.3508801	-6.262086399999999		17 - 19 Moore Ln, North City, Dublin, D01 H6K3	lodging
+50	Temple Bar Lane	ChIJv22f05wOZ0gRrFeP8WywWU0	lodging|point_of_interest|establishment	53.3451522	-6.2641714	True	19 Temple Ln S, Temple Bar, Dublin, D02 Y233	lodging
+51	Radisson Blu Royal Hotel, Dublin	ChIJ0WxXRycMZ0gRIv3nDVYfRjM	lodging|point_of_interest|establishment	53.3408762	-6.2683231	True	8 Golden Ln, Dublin, D08 E2X5	lodging
+52	Belvedere Hotel Dublin	ChIJ8ZAkRocOZ0gRgouxkHHF9yg	lodging|bar|restaurant|food|point_of_interest|establishment	53.3550328	-6.2624178	True	Denmark Street Great, Rotunda, Dublin, D01 W1C0	lodging
+53	Aloft Dublin City	ChIJL0LYtyMMZ0gRhFmtyEa5Ors	lodging|point_of_interest|establishment	53.337186	-6.2753036	True	1 Mill St, The Liberties, Dublin, D08 XK58	lodging
+54	Cassidys Hotel	ChIJkxPD3IYOZ0gRzWtftpTNoqU	lodging|bar|restaurant|food|point_of_interest|establishment	53.3531054	-6.261574299999999	True	Cavendish Row, O'Connell Street Upper, Upper, Dublin 1, D01 K883	lodging
+55	Maldron Hotel Kevin Street	ChIJNSZOKZ4OZ0gRH7vFTHHtf2Y	lodging|bar|restaurant|food|point_of_interest|establishment	53.3382953	-6.2720065	True	Kevin Street Upper, Portobello, Dublin 8, D08 AX57	lodging
+57	Holiday Inn Express Dublin City Centre, an IHG Hotel	ChIJX7pUWoQOZ0gRysnoWURNUP8	lodging|point_of_interest|establishment	53.3523056	-6.2609549	True	28-32 O'Connell Street Upper, Rotunda, Dublin 1, D01 T2X2	lodging
+58	Dublin Citi Hotel	ChIJ6cFsPi6xXUgRoDfSWVgjW0Q	lodging|point_of_interest|establishment	53.3443398	-6.2634723	True	46-49 Dame St, Temple Bar, Dublin 2, D02 X466	lodging
+59	Hotel Riu Plaza The Gresham Dublin	ChIJHQz3kIYOZ0gR_u9dPKm4aAE	lodging|point_of_interest|establishment	53.35153649999999	-6.2606459	True	23 O'Connell Street Upper, North City, Dublin, D01 C3W7	lodging

@@ -1,0 +1,4 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Dalymount Park	ChIJTW2Ee9YNZ0gRvmwt6y9YGJA	stadium|point_of_interest|establishment	53.3613976	-6.275033199999999		stadium
+5	Croke Park	ChIJlflkkmMOZ0gRX7SIDoZHE-U	stadium|tourist_attraction|point_of_interest|establishment	53.360712	-6.251208999999999	False	stadium
+6	croke park	ChIJiTbABlKbREgRRHC6ubUDyqU	stadium|point_of_interest|establishment	53.3610832	-6.2509893		stadium

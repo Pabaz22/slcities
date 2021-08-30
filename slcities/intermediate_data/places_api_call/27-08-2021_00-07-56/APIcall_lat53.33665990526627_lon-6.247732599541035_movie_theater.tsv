@@ -1,0 +1,11 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+1	Brooks' Screening Room	ChIJUzRsTJwOZ0gRA7C9oURCNc0	movie_theater|point_of_interest|establishment	53.3416404	-6.263629		movie_theater
+2	Irish Film Institute	ChIJ2wqAKJ0OZ0gR4vWWWOJdWfU	movie_theater|movie_rental|library|cafe|restaurant|food|point_of_interest|store|establishment	53.34464599999999	-6.264867999999999	True	movie_theater
+3	Basic Instincts	ChIJSTAAKZ0OZ0gRBoxVlb1I0is	movie_theater|home_goods_store|point_of_interest|clothing_store|store|establishment	53.3447418	-6.264929999999999	False	movie_theater
+4	The Stella Cinema Ranelagh	ChIJFYi3CuEPZ0gRXnTgamZkvAM	movie_theater|point_of_interest|establishment	53.3235812	-6.2507865	True	movie_theater
+7	Dubraq , Ireland	ChIJBaNiM94PZ0gRjdO3o6Hb5G0	movie_theater|point_of_interest|establishment	53.3487819	-6.264302199999999		movie_theater
+8	ODEON Point Village	ChIJha3OOfAOZ0gRPPwr87twEGk	movie_theater|point_of_interest|establishment	53.34826999999999	-6.229359899999999		movie_theater
+9	Savoy Cinema	ChIJA2OdnIYOZ0gRyu_gLbUe5w4	movie_theater|point_of_interest|establishment	53.3512554	-6.260463599999999	True	movie_theater
+10	Omniplex Cinema Rathmines	ChIJ-0FZNB0MZ0gRHtNPNdxy0z4	movie_theater|point_of_interest|establishment	53.3238188	-6.265250699999999	True	movie_theater
+12	ODEON Point Square	ChIJw75YDfAOZ0gRytk2OSll9Lo	movie_theater|food|point_of_interest|store|establishment	53.3484904	-6.2277287		movie_theater
+13	The Stella Cinema Rathmines	ChIJI8D73AIMZ0gR4Vl1fqr9QQk	movie_theater|point_of_interest|establishment	53.32237379999999	-6.2658589	True	movie_theater

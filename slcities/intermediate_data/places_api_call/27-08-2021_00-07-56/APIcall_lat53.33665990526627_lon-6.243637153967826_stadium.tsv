@@ -1,0 +1,7 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Shelbourne Park Greyhound Stadium	ChIJY3YSBPUPZ0gRXavyAxeRfWE	stadium|tourist_attraction|bar|restaurant|food|point_of_interest|establishment	53.3404699	-6.230460300000001	True	stadium
+1	Aviva Stadium	ChIJ-YrraMIOZ0gRaCYDco6ZfuM	stadium|tourist_attraction|point_of_interest|establishment	53.3352318	-6.228456999999999		stadium
+3	Irishtown Stadium	ChIJLygez-YOZ0gRML01sVuI5yE	stadium|point_of_interest|establishment	53.3403325	-6.219689499999999	False	stadium
+4	Royal Dublin Society Arena	ChIJKSKLBMYOZ0gRZN8R4aYoLII	stadium|point_of_interest|establishment	53.3256766	-6.224967899999999		stadium
+5	Energia Park (Donnybrook Stadium)	ChIJq6qq68kOZ0gRnve5ehMTcLE	stadium|point_of_interest|establishment	53.3210197	-6.233105499999999		stadium
+6	Old Wesley Rugby Football Club	ChIJxdGB9MkOZ0gRtbO6kluR1Q4	stadium|cafe|bar|food|gym|health|point_of_interest|store|establishment	53.3200902	-6.232962399999999		stadium

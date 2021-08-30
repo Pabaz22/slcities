@@ -1,0 +1,7 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Kilmainham Garda Station	ChIJf1MblUUMZ0gR2YICFeQ-PGk	police|point_of_interest|establishment	53.3419477	-6.304567499999999	True	police
+1	Sundrive Road Garda Station	ChIJUQx_MrINZ0gR4YZAOCcZXdY	police|point_of_interest|establishment	53.3302054	-6.2987008		police
+2	Kevin Street District Garda Station	ChIJjU7DOyEMZ0gR9Erx_n6dSNw	police|point_of_interest|establishment	53.3383279	-6.2694449		police
+3	Bridewell Garda Station	ChIJ50sQ3CgMZ0gRdwDCaMXjU8E	police|point_of_interest|establishment	53.3470916	-6.274115000000001	True	police
+4	Garda Siochana Inspectorate	ChIJQWhgJJ8OZ0gRnEOn79H7AoM	police|point_of_interest|establishment	53.3368499	-6.2605434		police
+5	An Garda Síochána Headquarters	ChIJU5__1koMZ0gRXUcnK3PKof0	police|point_of_interest|establishment	53.35457590000001	-6.301492400000001	False	police

@@ -1,0 +1,39 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	EUROSPAR	ChIJT55pcpIOZ0gR4nGUftk1-IM	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.345266	-6.246364199999999	True			supermarket
+1	Marks and Spencer	ChIJ1RqODo0OZ0gR2wQxWR7VjAc	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.3489101	-6.2437814	True	2.0		supermarket
+2	Fresh The Good Food Market IFSC	ChIJF76vII0OZ0gRtS-k3zS1J_c	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.34909869999999	-6.242345899999999	True			supermarket
+3	Tesco Express	ChIJscMm1ZMOZ0gRyqs3vqYkDu0	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3434395	-6.246670000000001	True	1.0		supermarket
+4	Fresh The Good Food Market Grand Canal	ChIJQ4PIIO0OZ0gR6iMqOzXSzvk	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.343427	-6.2388024	True			supermarket
+5	K&A Stores	ChIJPxkiXYsOZ0gRBtBBogMCXIo	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3523922	-6.2433511	True			supermarket
+6	Iceland Talbot St	ChIJlRIXK48OZ0gRjIp2fvJvIcM	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.35122529999999	-6.252352699999999	True	1.0		supermarket
+7	Kane/McCartney's SuperValu Talbot Street	ChIJgcas1Y4OZ0gRqdVoyUeYksQ	supermarket|bakery|grocery_or_supermarket|liquor_store|food|point_of_interest|store|establishment	53.3511749	-6.252636399999999	True	2.0		supermarket
+8	Fresh The Good Good Market	ChIJBRHClGQPZ0gRB52ywm8D75Y	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3453732	-6.231170199999999	True			supermarket
+9	Spar Castleforbes	ChIJceX4pPEOZ0gRqfwhODCQ0u4	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.34910559999999	-6.2317182	True	1.0		supermarket
+10	EuroSpar Barrow Street	ChIJZcVvcusOZ0gRZfJBnSWzXBo	grocery_or_supermarket|supermarket|food|point_of_interest|store|establishment	53.3401936	-6.236322399999999	True			supermarket
+11	Gala Castleforbes Square	ChIJcbhvo2kPZ0gR-oHgSajBp_c	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.34988629999999	-6.231702100000001	True			supermarket
+12	Tesco Express	ChIJaead-oUOZ0gRRvJjt3a74BA	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3505988	-6.256116	True	1.0		supermarket
+13	Polonez	ChIJmeM-kogOZ0gRAJHldHFS_hQ	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.35310909999999	-6.254712899999999	True			supermarket
+14	Tesco Express	ChIJhS13gpcOZ0gRhpCkDrzCYos	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3379528	-6.2517327	True	1.0		supermarket
+15	Dunnes Stores	ChIJrZM7OoQOZ0gRao7QUfE4EPU	grocery_or_supermarket|supermarket|food|point_of_interest|clothing_store|store|establishment	53.3500792	-6.259135700000001	True			supermarket
+16	Tesco Express	ChIJqyBus4QOZ0gRLuu_eTQNEaU	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3456365	-6.2602235	True	1.0		supermarket
+17	SuperValu Aston Quay	ChIJWe1KDYUPZ0gRg6WT84RQNxE	supermarket|bakery|grocery_or_supermarket|liquor_store|food|point_of_interest|store|establishment	53.346482	-6.260373700000001	True			supermarket
+18	East wall market	ChIJ7Qb5fvYOZ0gRufZnjCj5M1M	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.35511870000001	-6.2351189	True			supermarket
+19	Marks and Spencer	ChIJERvGmpsOZ0gR2DQz5W_YgYw	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.3422196	-6.2594935	True	2.0		supermarket
+20	Tesco Express	ChIJJ5CUopwOZ0gRc8XUJDFf8jQ	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3441575	-6.2617496	True	1.0	College Green, CO, Dublin	supermarket
+21	Tesco Express	ChIJV_m2sOgOZ0gRbMDAqVMwcq4	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3411905	-6.2262923	True	1.0	The Bottle Works, Fitzwilliam St, Dublin	supermarket
+22	Londis Grafton Street	ChIJHZotApwOZ0gRzJ-qN_8FmrI	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.34021869999999	-6.2605908	True	2.0	49 Grafton Street, Dublin 2, D02 KP26	supermarket
+23	Dunnes Stores	ChIJOUo5_pwOZ0gRibZN5AxpImw	grocery_or_supermarket|supermarket|food|point_of_interest|store|establishment	53.3429748	-6.2636946	True		19-20 South Great George's Street, Dublin 2, D02 FN76	supermarket
+24	Tesco Metro	ChIJLbFrZb4OZ0gRNape4aCAlJw	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3335004	-6.243544099999999	True	1.0	28-30 Baggot Street Upper, Dublin, D04 DH28	supermarket
+25	Tesco Metro	ChIJ-3WJVIIOZ0gRedlmJyJX5rU	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3480284	-6.2654079	True	1.0	Jervis Street Shopping Centre, North City, Dublin	supermarket
+26	Tesco Metro	ChIJWwrxRYEOZ0gRHwxXUoLZ7TI	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3516588	-6.2639109	True	1.0	Unit 2, Ivy Exchange, Dublin	supermarket
+27	Tesco Express	ChIJq3OvJp4OZ0gR-cS9scQctHE	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3380502	-6.2661982	True	1.0	Aungier St, Redmond's Hill, Dublin	supermarket
+28	Spar	ChIJxb8sTqMOZ0gRB75m9HULbto	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3304053	-6.2514809	True	1.0	131 Leeson Street Upper, Dublin	supermarket
+29	Tesco Express	ChIJK1qj83wOZ0gRFQng048i4Lc	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3602583	-6.2604776	True	1.0	Dorset Street Lower, Dublin	supermarket
+30	Tesco Express	ChIJvWFX2VsOZ0gRYNieV1n3wxU	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.36342399999999	-6.2350616	True	1.0	18 Fairview, Dublin, D03 HD96	supermarket
+31	Tesco Express	ChIJn-cMA6AOZ0gRP8VfkPTsn2k	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.334115	-6.2650027	True	1.0	41 Camden Street Upper, Saint Kevin's, Dublin	supermarket
+32	Spar	ChIJ3w4AcaAOZ0gRhsVJChFr2bE	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.33247069999999	-6.2646142	True	1.0	unit 1, Richmond St S, Saint Kevin's, Dublin 2	supermarket
+33	Tesco Metro	ChIJh7f5nd4OZ0gR6CjBMCkfhyE	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3332208	-6.2161129	True	1.0	80 Sandymount Rd, CO, Dublin, D04 X273	supermarket
+34	Tesco Express	ChIJTYvnDiUMZ0gRQ8MiBm6cdSQ	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3426372	-6.278583299999999	True	1.0	51 - 52 Thomas St, The Liberties, Dublin	supermarket
+35	SuperValu Ranelagh	ChIJDw6wwKUOZ0gRChQ-AdNptk4	supermarket|bakery|grocery_or_supermarket|liquor_store|food|point_of_interest|store|establishment	53.325805	-6.2551404	True	2.0	Main Street, Ranelagh, Dublin 6, D06 X6W0	supermarket
+36	Spar	ChIJL7vj_tUNZ0gRIgdkFHQZP0U	supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3608929	-6.2721097	True	1.0	N2, Cabra East, Dublin	supermarket
+37	Tesco Express	ChIJszzJ8q8OZ0gRapW7OZ1tuOg	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3236298	-6.2510214	True	1.0	113 - 115 Sandford Rd, Ranelagh, Dublin	supermarket

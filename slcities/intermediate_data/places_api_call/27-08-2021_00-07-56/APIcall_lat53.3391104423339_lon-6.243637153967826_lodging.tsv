@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	1 Grattan Street	ChIJK1oKDwkPZ0gRIB_XR5w7h8I	real_estate_agency|lodging|point_of_interest|establishment	53.33902759999999	-6.2441802			lodging
+1	18-21 Mount Street Lower	ChIJVZmea0UPZ0gRkkOdxNC0-rg	lodging|point_of_interest|establishment	53.3388476	-6.2444058			lodging
+2	The Draper Rooms	ChIJwazCTJQOZ0gRv1tIN7kfk_4	lodging|point_of_interest|establishment	53.33838049999999	-6.243148			lodging
+3	Apartment 3, Ashford House	ChIJZyVK0NsPZ0gRCJlybCFfYhU	lodging|point_of_interest|establishment	53.33876619999999	-6.2421169			lodging
+4	Click Offices - Serviced Office Space Dublin & London	ChIJvdXJepYOZ0gRz4Yoim30UWE	finance|real_estate_agency|lodging|point_of_interest|establishment	53.3394412	-6.2454105	True		lodging
+5	Apartments by Germe	ChIJtUJrgJYOZ0gRdiJEL-1FNiY	lodging|point_of_interest|establishment	53.33819519999999	-6.2457009			lodging
+6	Horwath HTL	ChIJQaM4IJUOZ0gR6pF7h_XDrSA	lodging|travel_agency|point_of_interest|establishment	53.3383069	-6.2402387			lodging
+7	Huband House B&B	ChIJZ3FmTLQwXUgRPjgNhpTAGXc	lodging|point_of_interest|establishment	53.3370968	-6.241853499999999			lodging
+8	Schoolhouse Hotel	ChIJh2PvPZUOZ0gRDvuWhYXEceU	lodging|bar|restaurant|food|point_of_interest|establishment	53.3374182	-6.2394994			lodging
+9	Contemporary Irish home	ChIJl2jQg64PZ0gR8-Q_Pc20rk8	real_estate_agency|lodging|point_of_interest|establishment	53.3422261	-6.245154100000001			lodging
+10	Birthplace of Violet Gibson	ChIJ5TzMxnIPZ0gRWGphStJxgLU	lodging|point_of_interest|establishment	53.3405453	-6.248888500000001			lodging
+11	The Plantation	ChIJN56FkIYPZ0gRVEAG3wIjGZs	lodging|point_of_interest|establishment	53.3358231	-6.2456867			lodging
+12	Grand Canal Hotel	ChIJp7zI7eoOZ0gRVv63fvYY1BE	lodging|point_of_interest|establishment	53.3381632	-6.237890299999999	True		lodging
+13	Pearse St. Suites	ChIJI5Gi0pMOZ0gREC8OvHfwRFM	lodging|point_of_interest|establishment	53.34287320000001	-6.2437975	True		lodging
+14	Merrion Mews	ChIJefMGB5cOZ0gR0Fbba2BghFM	lodging|point_of_interest|establishment	53.3380611	-6.249717299999999	False		lodging
+15	Vortexprofit Investment	ChIJYamoTZUOZ0gR_AiS-rSrowc	lodging|point_of_interest|establishment	53.3366084	-6.2384378			lodging
+16	Upcell Technologies Ltd.	ChIJ1TYwHpYOZ0gRKdcpuejHyB0	lodging|point_of_interest|establishment	53.3354284	-6.2464455	False		lodging
+17	Georgian Townhouse Group	ChIJH10SypcOZ0gRLjETa9B0b2g	lodging|point_of_interest|establishment	53.3363641	-6.2486651	False		lodging
+18	Maldron Hotel Pearse Street	ChIJT8-5qJMOZ0gR8iaUXa9uwUE	lodging|bar|restaurant|food|point_of_interest|establishment	53.3431924	-6.2433998	True		lodging
+19	Dublin	ChIJyeJZuNcPZ0gR1O2UcNtVV3o	lodging|point_of_interest|establishment	53.34320239999999	-6.2434018			lodging
+20	Fitzwilliam Townhouse	ChIJkxLWtZcOZ0gRWPs0d7-P7pY	lodging|point_of_interest|establishment	53.3365369	-6.2489916	True	41 Fitzwilliam Street Upper, Dublin 2, D02 PW71	lodging
+21	The Alex Hotel Dublin	ChIJk3HWIpEOZ0gRWo1hVs9HRG4	lodging|bar|restaurant|food|point_of_interest|establishment	53.3418512	-6.249085399999999	True	41-47 Fenian St, Dublin, D02 H678	lodging
+22	Mespil Hotel	ChIJOfLeur0OZ0gRIJva0UTWaAQ	lodging|bar|restaurant|food|point_of_interest|establishment	53.3333095	-6.246362599999999	True	50-60 Mespil Rd, Dublin 4, D04 E7N2	lodging
+23	Clayton Hotel Cardiff Lane	ChIJW3w3rZIOZ0gR4D9euQY_yrw	lodging|point_of_interest|establishment	53.345205	-6.240769299999999	True	Sir John Rogerson's Quay, Dublin Docklands, Dublin, D02 YT21	lodging
+24	Lansdowne Hotel	ChIJo5x0_L4OZ0gR-tfVX55S0mA	lodging|point_of_interest|establishment	53.3321909	-6.2412848		27 -29 Pembroke Rd, Dublin 4, D04 X5W9	lodging
+25	Pembroke Townhouse Dublin	ChIJXx-vL5mEREgRI01b8tvih0E	lodging|restaurant|food|point_of_interest|establishment	53.332506	-6.2379734		88 Pembroke Rd, Dublin, D04 TF72	lodging
+26	Buswells Hotel	ChIJzdlHJJoOZ0gRSAHBJlhQo28	lodging|bar|restaurant|food|point_of_interest|establishment	53.3407802	-6.2557572	True	23-27 Molesworth St, Dublin 2, D02 CT80	lodging
+27	Waterloo House	ChIJYZliH7wOZ0gRmf0wCX9JdEk	lodging|point_of_interest|establishment	53.33156460000001	-6.243579800000001		10 Waterloo Rd, Dublin 4, D04 T651	lodging
+28	O'Neills Victorian Pub & Townhouse	ChIJvXUKFpAOZ0gR0k24buovRy4	lodging|bar|restaurant|food|point_of_interest|establishment	53.344885	-6.252470799999999	True	36-37 Pearse St, Dublin 2, D02 VX62	lodging
+29	Number 31	ChIJhWt866IOZ0gR-K1JFrfaRuM	lodging|point_of_interest|establishment	53.33337849999999	-6.2536144	True	31 Leeson Cl, Dublin 2, D02 CP70	lodging
+30	Butlers Townhouse	ChIJJ4SHmMEOZ0gRuhRy8plkOzU	lodging|point_of_interest|establishment	53.3340482	-6.2322744		44 Lansdowne Rd, Dublin 4, D04 RY96	lodging
+31	Leeson Inn Downtown	ChIJhVJ1iKIOZ0gREy8wvNO2X6A	lodging|point_of_interest|establishment	53.3341966	-6.2552815		24 Leeson Street Lower, Saint Kevin's, Dublin, D02 FX08	lodging
+32	Ballsbridge Hotel	ChIJjW_gw8AOZ0gRfF6L8WrY290	lodging|bar|restaurant|food|point_of_interest|establishment	53.33223109999999	-6.2343714	True	Pembroke Rd, Ballsbridge, Dublin 4, D04 D687	lodging
+33	Spencer Hotel	ChIJp4mzVwJJXEgRTcjfWIKjD2Q	lodging|bar|point_of_interest|establishment	53.3480387	-6.243300899999999	True	Excise Walk, International Financial Services Centre, Dublin 1, D01 X4C9	lodging
+34	Clayton Hotel Burlington Road	ChIJSSljmLwOZ0gRaC2ayOrrGp0	lodging|point_of_interest|establishment	53.33067	-6.2487565	True	Leeson Street Upper, Dublin, D04 A318	lodging
+35	Hilton Garden Inn Dublin Custom House	ChIJx9LlpSgMZ0gRrcyJuTC2IWk	lodging|point_of_interest|establishment	53.3481684	-6.2467517		Custom House Quay, North Dock, Dublin 1, D01 V9X5	lodging
+36	The Leeson Lodge	ChIJH79jIqMOZ0gRJK1wsga7UvM	lodging|point_of_interest|establishment	53.3317206	-6.2529753	True	1 Leeson Street Upper, Ranelagh, Dublin, D04 AH22	lodging
+37	The Samuel Hotel	ChIJJ20Gb_IOZ0gR7jMXiiWLwno	lodging|point_of_interest|establishment	53.34761990000001	-6.236150100000001		N Wall Quay, North Dock, Dublin, D01 CH90	lodging
+38	The Shipwright Guesthouse	ChIJx3xaMO8OZ0gRuLnV1qH6LMc	lodging|point_of_interest|establishment	53.3423627	-6.227697699999999		16 Thorncastle St, Dublin, D04 NT78	lodging
+39	The Fleet Hotel Temple Bar	ChIJ3Qr7tYQOZ0gRDTsMx2tzylE	cafe|lodging|bar|restaurant|food|point_of_interest|establishment	53.345875	-6.2597929	True	19 - 20 Fleet St, Temple Bar, Dublin	lodging
+40	Baggot Court Townhouse	ChIJaQ06iL0OZ0gRFfI3Nl5gJP8	lodging|point_of_interest|establishment	53.335379	-6.247208	True	92 Baggot Street Lower, Dublin 2, D02 KV77	lodging
+41	The Mont Hotel	ChIJJ65VLDoPZ0gRsiY_paOiFXM	lodging|bar|restaurant|food|gym|health|point_of_interest|establishment	53.3415078	-6.2507059	True	1-4 Merrion Street Lower, Dublin, D02 H525	lodging
+42	Roxford Lodge Hotel	ChIJISEwBMAOZ0gRzPPOJSpmONY	lodging|point_of_interest|establishment	53.3354071	-6.237136		46 Northumberland Rd, Dublin 4, D04 V303	lodging
+43	Waterloo Lodge Townhouse	ChIJDfXIHrwOZ0gREewaFq5cVeU	lodging|point_of_interest|establishment	53.3311789	-6.244572799999999	True	23 Waterloo Rd, Ballsbridge, Dublin 4, D04 P526	lodging
+44	House Hotel Dublin	ChIJ3Xh_YqIOZ0gRPhmqdhV5G3g	lodging|point_of_interest|establishment	53.334061	-6.255139		26/27 Leeson Street Lower, St Kevins, Dublin, D02 V306	lodging
+45	Trinity City Hotel	ChIJY4y6C84LXUgRmtwgyWTPOi0	lodging|restaurant|food|point_of_interest|establishment	53.3452251	-6.254099699999999	True	Pearse St, Dublin 2, D02 FW96	lodging
+46	Ariel House	ChIJmcrqhMEOZ0gRrbHVxTCVppQ	lodging|point_of_interest|establishment	53.3341194	-6.231097200000001		50-54 Lansdowne Rd, Ballsbridge, Dublin 4, D04 DD27	lodging
+47	Leeson Bridge Guest House	ChIJW8RwPaMOZ0gRECuBwAuU5Bk	lodging|point_of_interest|establishment	53.33154330000001	-6.2533851		Leeson Street Upper, Ranelagh, Dublin	lodging
+48	Abbeyleigh House	ChIJzRjsRLsOZ0gR92WWLato9KY	lodging|point_of_interest|establishment	53.329905	-6.250931		28 Leeson Street Upper, Ranelagh, Dublin 4, D04 XF72	lodging
+49	Large 1 bed Apt, in the best location in Dublin!	ChIJmYwje7kOZ0gRNt3jcecrmd4	lodging|point_of_interest|establishment	53.32806799999999	-6.242646799999999		45 Wellington Pl, Dublin, D04 A065	lodging
+50	Kilronan House	ChIJqaQTsaEOZ0gRBi1c9m-rbro	lodging|point_of_interest|establishment	53.3329438	-6.2596342		70 Adelaide Rd, Saint Kevin's, Dublin 2, D02 H316	lodging
+51	Clarendon Suites	ChIJcQW4PpwOZ0gRqp2bs7qQ26U	lodging|point_of_interest|establishment	53.341057	-6.262430999999999	True	32 Clarendon St, Dublin 2, D02 HX66	lodging
+52	The Green Hotel	ChIJEbI6nZ4OZ0gRNYANgsRAF9E	lodging|bar|restaurant|food|point_of_interest|establishment	53.3373762	-6.2632766	True	1-5 Harcourt St, Dublin 2	lodging
+53	Temple Bar Inn	ChIJMQYhsoQOZ0gRMN7_tpipJmY	lodging|point_of_interest|establishment	53.34568780000001	-6.2602047	True	40-47 Fleet St, Temple Bar, Dublin 2, D02 NX25	lodging
+54	Albany House	ChIJS8GLqZ8OZ0gRgzSiLs6BAI0	lodging|point_of_interest|establishment	53.3362175	-6.2629661	True	84 Harcourt St, Saint Kevin's, Dublin 2	lodging
+55	Temple Bar Hotel	ChIJq8uCroQOZ0gR5XinKDy_qOo	lodging|point_of_interest|establishment	53.345904	-6.260228		13-17 Fleet St, Temple Bar, Dublin 2, D02 WD51	lodging
+56	Brooks Hotel	ChIJ____j2bxX0gRRo1iOZDA4wg	lodging|point_of_interest|establishment	53.3415574	-6.263604	True	62 Drury St, Dublin, D02 TV06	lodging
+57	Iveagh Garden Hotel	ChIJN98wpJ8OZ0gRtHqvWZ4Zrno	lodging|point_of_interest|establishment	53.3352938	-6.263014699999999	True	72/74 Harcourt St, Saint Kevin's, Dublin	lodging
+58	Clifton Court Hotel	ChIJ03oIBIUOZ0gRHdA8rpQ3VQU	lodging|point_of_interest|establishment	53.3479369	-6.2579014		11 Eden Quay, North City, Dublin	lodging
+59	Harrington Hall	ChIJd4sDhZ8OZ0gRDbMc38stToo	lodging|point_of_interest|establishment	53.3350442	-6.2630294	True	70 Harcourt St, Saint Kevin's, Dublin 2, D02 HP46	lodging

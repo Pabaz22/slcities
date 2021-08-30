@@ -1,0 +1,15 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	ST Pumps	ChIJOeua09UNZ0gRyvLAFglpQFU	plumber|point_of_interest|store|establishment	53.36091039999999	-6.2729731	False	plumber
+1	R&B Heating & Plumbing	ChIJYSlR09cNZ0gRt7fzRClOpDI	plumber|point_of_interest|establishment	53.3638103	-6.273010200000001		plumber
+2	On The Level Plumbing Services	ChIJbU34GHgOZ0gRGucLpAppd_c	plumber|point_of_interest|establishment	53.36606829999999	-6.2714815		plumber
+3	Aokplumbingandheating	ChIJUZPyhWwNZ0gR6xM3btWp02M	plumber|point_of_interest|establishment	53.3510094	-6.272246000000001	True	plumber
+4	Solar & Renewable Technologies	ChIJHw_v0dwNZ0gRdlJICOpJMeI	plumber|general_contractor|point_of_interest|establishment	53.3725865	-6.286429	True	plumber
+5	Plumbline	ChIJu8kwfIYOZ0gRz856th9mhyk	plumber|point_of_interest|establishment	53.3513658	-6.258930400000001		plumber
+6	LC Plumbing	ChIJJ2HyqNwPZ0gR2RR5lbIwxLc	plumber|point_of_interest|establishment	53.35021260000001	-6.260050000000001		plumber
+7	Bowhill Developments Ltd	ChIJT6AbH4MOZ0gRG8WcGetj9iI	electrician|plumber|general_contractor|point_of_interest|establishment	53.3467462	-6.2648218	False	plumber
+8	Glasnevin Heating Limited	ChIJI-aZAN4NZ0gRwXtbVLlydsI	plumber|point_of_interest|establishment	53.3767625	-6.282355099999998		plumber
+9	Glasnevin Heating ,Sean Lynch	ChIJI-aZAN4NZ0gRWQMYKjN-fe0	plumber|point_of_interest|establishment	53.3767625	-6.282355099999998		plumber
+10	McCarron Plumbing Heating & Gas - Dublin Gas boiler Replacements & Repair	ChIJU2vPEnYRZ0gRQDB0mgQeAPc	plumber|point_of_interest|establishment	53.3476616	-6.258371299999999	True	plumber
+11	Power Flushing Dublin	ChIJ03PBrYgOZ0gR8jDzH2gRuQA	plumber|car_repair|general_contractor|point_of_interest|establishment	53.35027669999999	-6.2538316	True	plumber
+12	Quantum Heating and Plumbing Ireland	ChIJc-XE9msOZ0gRV0myrZM6uBE	plumber|point_of_interest|establishment	53.3747212	-6.2580355		plumber
+13	B P Pollard Heating & Plumbing	ChIJZ3857-ANZ0gROUh_rcMwdOE	plumber|point_of_interest|establishment	53.37884469999999	-6.280764		plumber

@@ -1,0 +1,58 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Town Park	ChIJdW_59pEOZ0gRRtz6dPZlFa4	school|point_of_interest|establishment	53.34534480000001	-6.247423200000001				school
+1	Atlantic Language Dublin	ChIJDTr3k5EOZ0gRXmTtPibZnBU	school|point_of_interest|establishment	53.3445597	-6.2480972	False			school
+2	school	ChIJv1ROkpEOZ0gRZ5MFsPRskMo	school|point_of_interest|establishment	53.34455269999999	-6.248094600000001				school
+3	City Quay National School	ChIJvQF60o8OZ0gRVRKU1YqfemA	school|point_of_interest|establishment	53.3466957	-6.250986300000001				school
+4	Trinity Centre for Creative Technologies	ChIJ5axCZ44OZ0gRodh-trftM24	school|point_of_interest|establishment	53.34833030000001	-6.2495992				school
+5	St Marys Creche & Preschool	ChIJzYEEy48OZ0gR5UawxPiWEHA	school|point_of_interest|establishment	53.34712249999999	-6.251316399999999				school
+7	Hyde and Seek Creche and Montessori	ChIJ5eK2PJAOZ0gR4FrJSAr-0J4	school|point_of_interest|establishment	53.3454055	-6.251908399999999	False			school
+8	Giraffe Childcare IFSC	ChIJkUCxlI4OZ0gROdeVW48vPsQ	school|point_of_interest|establishment	53.3491289	-6.2445766	False	2.0		school
+9	Trinity College Business School Innovation Centre	ChIJUb0PtdIPZ0gRLDuwOep2UdA	school|point_of_interest|establishment	53.3446511	-6.252412500000001				school
+11	Christian Brothers Secondary School	ChIJoXbPAJEOZ0gREy8rdKVXKiY	secondary_school|school|point_of_interest|establishment	53.3435229	-6.250634600000001				school
+12	Safari Childcare Hanover Street	ChIJJ6eNWJIOZ0gRiUY8Ak01skQ	school|point_of_interest|establishment	53.3445583	-6.2427897	False			school
+13	Trinity Arts Workshop	ChIJ5YEoo5EOZ0gRiJngVASssB8	school|point_of_interest|establishment	53.34467189999999	-6.252848299999999				school
+14	Trinity College Day Nursery	ChIJLRb4lZwOZ0gR9WfGKt_oqik	school|point_of_interest|establishment	53.3447249	-6.252936399999999				school
+15	School of Botany	ChIJT_Ock8MPZ0gRYuAv4Ny-uUM	school|point_of_interest|establishment	53.3440081	-6.252073999999999				school
+16	CBS Westland Row	ChIJ6fclDJEOZ0gRzisvsLddjNo	school|point_of_interest|establishment	53.342825	-6.248949000000001	False			school
+17	Hamilton Building	ChIJbZ8s_5AOZ0gRaxSDKa04h00	school|point_of_interest|establishment	53.34313789999999	-6.2506596				school
+18	Fitzgerald Building, School of Physics	ChIJmVeLXZAOZ0gRxQRYRjt43tw	school|point_of_interest|establishment	53.3436366	-6.2520718				school
+19	Giraffe Childcare National College Ireland	ChIJkUCxlI4OZ0gRzmBOtGD0Jq4	school|point_of_interest|establishment	53.348579	-6.242185399999999	False	2.0		school
+20	St Laurence O'Tooles National School	ChIJi9tGaYsOZ0gRec8PPgez5rg	school|point_of_interest|establishment	53.3501184	-6.2422707	False		Rainbow Park, Mariners Port, Dublin 1	school
+21	St Laurence O'Toole Girls & Boys national School	ChIJi9tGaYsOZ0gRA8TfkQXmKks	primary_school|school|point_of_interest|establishment	53.3509344	-6.241924			Seville Pl, St Laurence Pl E, North Wall, Dublin 1	school
+22	Special Primary School	ChIJQxYtp4wOZ0gR5TnuZWkyJnA	primary_school|school|point_of_interest|establishment	53.3515849	-6.2428633			46 Seville Pl, North Dock, Dublin 1, D01 K227	school
+23	Frances King School of English	ChIJ1_nAuZYOZ0gRv4gq6cgiqns	school|point_of_interest|establishment	53.340175	-6.247353899999999	False		26 Merrion Square N, Dublin 2	school
+24	School of Histories and Humanities, Arts Building, Trinity College Dublin	ChIJR7bZ_ZoOZ0gREyRsNAZsxr8	school|point_of_interest|establishment	53.3432962	-6.2571341	False		Dublin	school
+25	New Quay School	ChIJwy66x4UOZ0gRBcblgD_Sjqs	school|point_of_interest|establishment	53.34987150000001	-6.2572852			Marlborough Pl, North City, Dublin	school
+26	St Paul's Special School	ChIJwy66x4UOZ0gRmcI9O3XtSws	school|point_of_interest|establishment	53.34987150000001	-6.2572852			Marlborough Pl, North City, Dublin	school
+27	St Laurence O'Toole's CBS, Senior Boys' Primary School	ChIJCdFaaYsOZ0gRQ0sOkLfvQvc	school|point_of_interest|establishment	53.3528815	-6.2444631	False		1 Seville Pl, North Dock, Dublin	school
+28	Central Model Senior School	ChIJk9HI1oUOZ0gR_bdtt5XD5KU	school|point_of_interest|establishment	53.3513517	-6.255823599999999			Marlborough St, North City, Dublin	school
+29	School	ChIJebkD88oPZ0gRQHi91pH735w	school|point_of_interest|establishment	53.34796619999999	-6.2602113			Bachelors Way, North City, Dublin	school
+30	Scoil Chaoimhin	ChIJk9HI1oUOZ0gR_S6qyhK4iqs	primary_school|school|point_of_interest|establishment	53.3513317	-6.2575987			Marlborough St, North City, Dublin, D01 YT29	school
+31	Hedley Park Montessori School	ChIJZ8JlHJcOZ0gRIiZCJ44GAVI	primary_school|school|point_of_interest|establishment	53.3387782	-6.2496275	False		67 Merrion Square S, Dublin 2, D02 CK11	school
+32	Lourdes Parish Schools	ChIJ3SkujIgOZ0gRLALMG4Zv510	school|point_of_interest|establishment	53.3534277	-6.254723299999999			2-4 Gloucester Place Lower, Mountjoy, Dublin 1, D01 P7R9	school
+33	Rutland National School	ChIJuc2vjYgOZ0gRR0wQUD6YutU	school|point_of_interest|establishment	53.353384	-6.2548585			Sean Macdermott Street Lower, Mountjoy, Dublin	school
+34	Holy Child Pre-School	ChIJJy6krIkOZ0gR5JPUPBTSL4o	school|point_of_interest|establishment	53.3543861	-6.2527744			Lourdes Parish Schools, Sean Macdermott Street Lower, Mountjoy, Dublin, D01 F228	school
+35	St. Laurance O'Toole Special School	ChIJCW90-YoOZ0gRSmRKPrdeQnA	school|point_of_interest|establishment	53.3548757	-6.2457455			Aldborough Parade, North Dock, Dublin 1, D01 K3V8	school
+36	The School of Jewellery Ireland	ChIJ04wGLssNZ0gR4LGLlJXAKng	school|point_of_interest|establishment	53.3409544	-6.2586932	False		19 Anne St S, Dublin 2, D02 YY83	school
+37	Scoil Chaitríona Baggot Street	ChIJodC9I5YOZ0gRrqpJaeuSMR4	school|primary_school|point_of_interest|establishment	53.3362052	-6.246258399999999			59 Baggot Street Lower, Dublin 2, D02 H365	school
+38	Catherine McAuley National School	ChIJryKkD5YOZ0gRDoJRmavAXQk	school|point_of_interest|establishment	53.3359389	-6.2458258			Baggot Street Lower, Dublin 2	school
+39	St. Vincent's Infant Boys' School	ChIJU63MeIoOZ0gRKVrOesg_YR4	school|point_of_interest|establishment	53.3570709	-6.246926699999999			William St N, Dublin, D01 VW63	school
+40	School Of Chemistry	ChIJ5xZ0jJAOZ0gR9lSb9DiW97A	school|point_of_interest|establishment	53.3428477	-6.2522245			Trinity College Dublin - Microelectronics and Electrical Engineering, College St, Dublin	school
+41	An tAonad Reamhscoile	ChIJ-78OjYgOZ0gRBxnn29oDvh4	school|point_of_interest|establishment	53.3533507	-6.2545066			Gloucester Place Lower, Mountjoy, Dublin	school
+42	SOS School of Sales Ltd	ChIJyZn5vJwOZ0gRJPd-3ifh8uY	school|point_of_interest|establishment	53.34409549999999	-6.2622243	False		14 College Green, Dublin, D02 DX03	school
+44	School	ChIJkWe_SZwOZ0gRNdlhMGLRae4	school|point_of_interest|establishment	53.3413522	-6.2633015			33 William St S, Dublin 2, D02 NC58	school
+45	Parnell Vocational School	ChIJX0iP34YOZ0gRP4ffcmKjve8	school|point_of_interest|establishment	53.3535245	-6.2615514			2-3 Parnell Square E, Rotunda, Dublin 1, D01 H3F2	school
+46	St. Vincent's Girls' National School	ChIJU63MeIoOZ0gRJIReCi05RsU	primary_school|school|point_of_interest|establishment	53.3575318	-6.2471478	False		William St N, Dublin	school
+47	Erin School of English	ChIJD09OIJ0OZ0gREpQ99qQ1msU	school|point_of_interest|establishment	53.3547569	-6.2607161	False		43 N Great George's St, Rotunda, Dublin, D01 N6P2	school
+48	High Schools International Limited	ChIJWeWJTZ0OZ0gRulImyVpELvU	school|point_of_interest|establishment	53.34489050000001	-6.2672447			Castle River House, Parliament St, Temple Bar, Dublin	school
+49	O'Connell CBS Primary School	ChIJqUEvEGIOZ0gRT_4mVoVCDHU	school|point_of_interest|establishment	53.3581995	-6.2510712			3-9 Richmond St N, Drumcondra, Dublin	school
+50	C.U.S Secondary And Primary School	ChIJyZd7fJgOZ0gRaeNMgABehAA	school|point_of_interest|establishment	53.3354008	-6.2551191			Stable Ln, South-East Inner City, Dublin	school
+51	School Dublin	ChIJIxK5p6IOZ0gRpZ_QC3Eb76I	school|point_of_interest|establishment	53.3349317	-6.2528711			29 Fitzwilliam Square S, Dublin 2	school
+52	MLI International Schools	ChIJofnDUL0OZ0gRae_DbsIxdLY	school|point_of_interest|establishment	53.3346563	-6.2509165	False		13 Fitzwilliam Square E, Dublin, D02 PY27	school
+53	O'Connell Secondary School	ChIJibOyH2IOZ0gRtWMz9SQQDas	secondary_school|school|point_of_interest|establishment	53.3582766	-6.250997099999999	False		Richmond St N, Drumcondra, Dublin	school
+54	St. Christopher's Primary School	ChIJu4EI8McPZ0gRFnOQ53H8N_0	school|point_of_interest|establishment	53.3352738	-6.240335			Haddington Rd, Ballsbridge, Dublin 4, D04 FP20	school
+55	School	ChIJl2z5rdgPZ0gRF57smEbdZ1E	school|point_of_interest|establishment	53.3558697	-6.260476300000001			33 Gardiner Pl, Rotunda, Dublin, D01 W625	school
+56	The Institute of Education	ChIJNZohgKIOZ0gRsyo41EDswHk	school|point_of_interest|establishment	53.33505290000001	-6.2555419			85 Leeson Street Lower, Dublin	school
+57	St Declan's School, Dublin	ChIJjeflDsAOZ0gRsrxTZLKdpfw	school|point_of_interest|establishment	53.335333	-6.237938799999999			Saint Declan's Special School, 35 Northumberland Rd, Ballsbridge, Dublin 4, D04 FD21	school
+58	St. Columba's National School	ChIJW_PBwl8OZ0gRXmztQ5HliiE	school|point_of_interest|establishment	53.3586365	-6.241667199999999			Waterloo Ave, N Strand Rd, Ballybough, Dublin, D03 NH34	school
+59	St Marys Boys National School	ChIJVdG4WJUOZ0gR705arifDEMk	school|point_of_interest|establishment	53.3343232	-6.2410283			Haddington Rd, Dublin	school

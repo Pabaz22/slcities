@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Irish Wedding Packages	ChIJ97JCApEOZ0gRj1jCZ7EU-9Q	florist|point_of_interest|clothing_store|store|establishment	53.3427433	-6.2499964	False			clothing_store
+2	Taboo Graphix	ChIJW_RhUgkPZ0gR-QOwXtoGOwc	point_of_interest|clothing_store|store|establishment	53.3460525	-6.254439299999999	False			clothing_store
+3	Reads Design & Print	ChIJW7ovRpoOZ0gRqNB8QR-9icw	point_of_interest|clothing_store|store|establishment	53.3417777	-6.255839600000001	False			clothing_store
+4	Marks and Spencer	ChIJ1RqODo0OZ0gR2wQxWR7VjAc	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.3489101	-6.2437814	True	2.0		clothing_store
+5	Classic Collection	ChIJxUAXaZcOZ0gRLSL4Z9ZqOzg	travel_agency|point_of_interest|clothing_store|store|establishment	53.33893569999999	-6.2516209				clothing_store
+6	Anne O'Mahony Bespoke Clothing	ChIJy1BnTZMOZ0gRnG71JALRsLM	point_of_interest|clothing_store|store|establishment	53.34176919999999	-6.2390284	False			clothing_store
+7	Louise Kennedy	ChIJO4nB_NQOZ0gR2QIrzALSVXE	point_of_interest|clothing_store|store|establishment	53.3382827	-6.248479300000001	False			clothing_store
+8	Trinity Woollen Mills	ChIJj5neVJoOZ0gR_sGlgAMJwDI	clothing_store|point_of_interest|store|establishment	53.34268839999999	-6.257117499999999	False			clothing_store
+9	Mr. Jenks	ChIJ1S5AphMNZ0gRWg8eMeT0szg	point_of_interest|clothing_store|store|establishment	53.33806149999999	-6.2481582	True			clothing_store
+10	Maire Forkin Designs - 30 Molesworth Street, Dublin DO2 AY19	ChIJBw-V9pcOZ0gRZCzVCncxpvI	point_of_interest|clothing_store|store|establishment	53.34087299999999	-6.2562319	False			clothing_store
+11	Kevin & Howlin	ChIJKTOsq5sOZ0gR0cMgJ_-jax0	clothing_store|point_of_interest|store|establishment	53.3427988	-6.2576034	False			clothing_store
+12	Sweater Shop	ChIJZ-oFHZ4wXUgRCSXGC2f0pQw	clothing_store|point_of_interest|store|establishment	53.3427988	-6.2576034	False			clothing_store
+13	The Orange Collection	ChIJ2atgLZoOZ0gRJJCrsgiHeeU	real_estate_agency|point_of_interest|clothing_store|store|establishment	53.3409205	-6.2566367				clothing_store
+14	Jen Kelly Design	ChIJW420zZsOZ0gRZr1aC3xcn1M	clothing_store|point_of_interest|store|establishment	53.3410232	-6.2570731	False			clothing_store
+16	Cleo LTD	ChIJgyUanZkOZ0gRvGC-8N94Ylw	clothing_store|point_of_interest|store|establishment	53.339507	-6.2562371	False			clothing_store
+17	Aoife Harrison Design	ChIJceH7w5UOZ0gRiKFFaYGfbqc	point_of_interest|clothing_store|store|establishment	53.33760119999999	-6.2436669				clothing_store
+18	Pursuit Dublin Menswear	ChIJ8bU9vpsOZ0gRkYBYkDYJ0Uw	point_of_interest|clothing_store|store|establishment	53.3417521	-6.2586184	False			clothing_store
+19	Lucy Nagle	ChIJq6pXdJsOZ0gRFX833GuJ2uI	clothing_store|point_of_interest|store|establishment	53.34303669999999	-6.259222499999999				clothing_store
+20	River Island	ChIJSSnEdpsOZ0gR0wHM8D4JgpA	clothing_store|point_of_interest|store|establishment	53.34305639999999	-6.2597176	True	2.0	102-103 Grafton Street, Dublin 2, D02 KV79	clothing_store
+21	Superdry	ChIJk74eZZsOZ0gRHX1ZK6eXPIU	clothing_store|point_of_interest|store|establishment	53.3436804	-6.2600718	True	3.0	6-10 Suffolk St, Dublin, D02 X854	clothing_store
+22	L.K.Bennett - Brown Thomas	ChIJ--qpRbUPZ0gRShwRIN4naeA	shoe_store|point_of_interest|clothing_store|store|establishment	53.3423914	-6.259914699999999	True	3.0	88 - 95 Grafton Street, Dublin, D02 VF65	clothing_store
+23	Gucci	ChIJkaeghJsOZ0gRH3FhiyZ3xbc	jewelry_store|point_of_interest|clothing_store|store|establishment	53.3423914	-6.259914699999999	True		88-95, Brown Thomas, Grafton Street, Dublin	clothing_store
+24	EILEEN FISHER	ChIJhR_BotIPZ0gR8ODNxeXxQeI	clothing_store|shoe_store|home_goods_store|point_of_interest|store|establishment	53.3423914	-6.259914699999999			88-95 Grafton Street, Dublin, D02 VF65	clothing_store
+25	Louis Copeland and Sons - Pembroke St	ChIJXx-vL5mEREgRThBlA4d2gfA	point_of_interest|clothing_store|store|establishment	53.3369027	-6.2517385	False		30 Pembroke Street Lower, Dublin 2, D02 TN30	clothing_store
+26	H&M	ChIJh8MQoJwOZ0gRjLo8r6yIHek	clothing_store|point_of_interest|store|establishment	53.344137	-6.261118	False	1.0	24-27 College Green, Dublin, D02 E198	clothing_store
+27	Levi's® Dublin	ChIJj3f6CJwOZ0gRWk5_RrjG4eo	clothing_store|point_of_interest|store|establishment	53.3408645	-6.2605059	True		38 Grafton Street, Dublin, D02 W862	clothing_store
+28	Genius Clothing and Footwear	ChIJYYlV1hJJXEgRDaqIpdPVim4	shoe_store|point_of_interest|clothing_store|store|establishment	53.3422919	-6.261415899999999	False		6a, Powerscourt Townhouse Centre, Clarendon Street, Dublin	clothing_store
+29	BOSS Store	ChIJD1GwDpwOZ0gRcxsrbXOZHGY	clothing_store|shoe_store|point_of_interest|store|establishment	53.3409551	-6.2607724	True		67/68 Grafton Street, Dublin, D02 T213	clothing_store
+30	French Connection	ChIJY4aVXZwOZ0gRDS42VfQs57s	clothing_store|point_of_interest|store|establishment	53.342158	-6.2614071	False	3.0	Powerscourt Townhouse Centre, 59 William St S, Dublin 2	clothing_store
+31	Reiss Dublin	ChIJo4sxUZkOZ0gR3KQcwLNp4Iw	clothing_store|point_of_interest|store|establishment	53.3400678	-6.2604592	True	3.0	1 St Stephen's Green, Dublin, D02 EP29	clothing_store
+32	AllSaints	ChIJ3b9Kd44OZ0gRHK_d-sEqPWw	clothing_store|shoe_store|point_of_interest|store|establishment	53.3421181	-6.2618305	False	3.0	59 William St S, Dublin	clothing_store
+33	Dunnes Stores	ChIJMelLBZwOZ0gRSjjEI3UdyMg	clothing_store|point_of_interest|store|establishment	53.3406408	-6.2610531	True		62 Grafton Street, Dublin, D02 FX05	clothing_store
+34	Little Black Dress	ChIJu9uPXZwOZ0gRVXuuq9v1x1g	clothing_store|point_of_interest|store|establishment	53.3424902	-6.262440799999999	False		12 William St S, Dublin	clothing_store
+35	Fresh Limited	ChIJR6OdtpwOZ0gRx9tihdhrD7U	clothing_store|point_of_interest|store|establishment	53.3450238	-6.262666599999999	False		1 Crown Alley, Temple Bar, Dublin, D02 NP03	clothing_store
+36	Patagonia Dublin	ChIJISjK0PEMZ0gR3GZmVWEQ1e0	clothing_store|point_of_interest|store|establishment	53.3430282	-6.262690699999999	False		24-26 Exchequer St, Dublin 2, D02 X996	clothing_store
+37	Dunnes Stores	ChIJrZM7OoQOZ0gRao7QUfE4EPU	grocery_or_supermarket|supermarket|food|point_of_interest|clothing_store|store|establishment	53.3500792	-6.2591357	True		23/24 N Earl St, North City, Dublin 1, D01 RD73	clothing_store
+38	Penneys	ChIJK-8LZoQOZ0gRF6bUtyiSw_4	clothing_store|point_of_interest|store|establishment	53.3487965	-6.2608603	True	1.0	39 O'Connell Street Upper, North City, Dublin, D01 PY90	clothing_store
+39	Fresh Cuts Clothing	ChIJLWMGYZwOZ0gRIOY5Df7TtQ0	clothing_store|point_of_interest|store|establishment	53.3423031	-6.2630241	False		13 Castle Market, Dublin, D02 XH05	clothing_store
+40	Aran Sweater Market	ChIJRZ0Na5sOZ0gRg80zSFOYBsw	clothing_store|point_of_interest|store|establishment	53.34393919999999	-6.2593643	True		115 Grafton Street, Dublin 2, D02 XK03	clothing_store
+41	COS	ChIJYb6UnJsOZ0gR0hvPm6-OtOE	clothing_store|point_of_interest|store|establishment	53.3423914	-6.259914699999999	True		88-95 Grafton Street, Dublin, D02 VF65	clothing_store
+42	Ted Baker- Browm Thomas Grafton ST	ChIJAY2LhJsOZ0gRR9FIFwIdVLg	clothing_store|point_of_interest|store|establishment	53.3423914	-6.259914699999999	True	3.0	88-95 Grafton Street, Dublin, D02 VF65	clothing_store
+43	Whistles	ChIJAY2LhJsOZ0gRdSnVbFgmAb0	shoe_store|point_of_interest|clothing_store|store|establishment	53.3424133	-6.259983399999999	True	3.0	Brown Thomas Dublin, Grafton Street, Dublin	clothing_store
+44	COS	ChIJ10Wuf5sOZ0gRmbHelPo6oS4	clothing_store|point_of_interest|store|establishment	53.342871	-6.260383999999999	True		6-8 Wicklow St, Dublin, D02 EK19	clothing_store
+45	& Other Stories	ChIJDeGPi5sOZ0gRRIvihe7x654	clothing_store|point_of_interest|store|establishment	53.3416518	-6.260041999999999	True		26-27 Grafton Street, Dublin, D02 HH24	clothing_store
+46	Jigsaw	ChIJ-acL9psOZ0gRYaf4G_Va9qM	point_of_interest|clothing_store|store|establishment	53.3410783	-6.260201599999999	False	3.0	34 Anne St S, Dublin 2, D02 K535	clothing_store
+47	Madigan Dublin	ChIJXyOLcZwOZ0gRVznzvDDd9Q0	clothing_store|point_of_interest|store|establishment	53.34155310000001	-6.2612038	False		Unit 14 Westbury Mall, Dublin 2	clothing_store
+48	USC	ChIJSTzIMwkPZ0gR8qDSXYD0TxA	clothing_store|shoe_store|point_of_interest|store|establishment	53.3501256	-6.2587432	True		19-22 N Earl St, North City, Dublin, D01 K339	clothing_store
+49	Tola Vintage	ChIJb1Mey5wOZ0gRRhlmx7ITZeM	clothing_store|point_of_interest|store|establishment	53.3452372	-6.263239	True		10 Fownes Street Upper, Temple Bar, Dublin 2, D02 YY60	clothing_store
+50	Lucy's Lounge	ChIJ-Q4-xJwOZ0gRIliFPAu3XgY	point_of_interest|clothing_store|store|establishment	53.34520699999999	-6.263304799999999	False		11 Fownes Street Upper, Temple Bar, Dublin 2, D02 XW64	clothing_store
+51	ZARA	ChIJ10WdI5wOZ0gRl4mqZBNX6SE	clothing_store|point_of_interest|store|establishment	53.3404699	-6.2622955	True	2.0	40-43 King St S, Dublin 2, D02 EC93	clothing_store
+52	Flip Clothing	ChIJvxFpz5wOZ0gR8omK4tFuMTU	clothing_store|point_of_interest|store|establishment	53.3447215	-6.263437799999999	False		4 Fownes Street Upper, Temple Bar, Dublin 2, D02 Y798	clothing_store
+53	Naya clothing	ChIJ63lyhBgPZ0gRlXD_hNdUbGg	clothing_store|point_of_interest|store|establishment	53.3498092	-6.2602739			North City, Dublin	clothing_store
+54	Om Diva	ChIJee4QV5wOZ0gROB76tSXtT1w	clothing_store|jewelry_store|point_of_interest|store|establishment	53.3423913	-6.2633902	True		27 Drury St, Dublin 2, D02 TK75	clothing_store
+55	H&M	ChIJbVkeJZwOZ0gRv5aVKJRKs9k	clothing_store|point_of_interest|store|establishment	53.3405147	-6.2625785	True	1.0	35-39 King St S, Dublin 2, D02 C838	clothing_store
+56	Tribe	ChIJgboXKZwOZ0gRtywAMXxXUiQ	shoe_store|point_of_interest|clothing_store|store|establishment	53.339907	-6.2621598	True		Unit 109, St Stephen's Green, Dublin 2, D02 FX29	clothing_store
+57	Rebel Rebel Alternative Apparel	ChIJHWY2xZwOZ0gRCL-65QRtpFo	clothing_store|point_of_interest|store|establishment	53.344626	-6.263834	False		3 Crow St, Temple Bar, Dublin, D02 TN34	clothing_store
+58	Urban Outfitters	ChIJ4wGvxZwOZ0gRZAbirhX9LYc	clothing_store|home_goods_store|point_of_interest|store|establishment	53.3450826	-6.2637968	True	3.0	Cecilia House, Cecilia St, Temple Bar, Dublin 2, D02 AK29	clothing_store
+59	9 Crow Street Vintage Fashion	ChIJs8sezpwOZ0gRYNHVvBRaY24	clothing_store|point_of_interest|store|establishment	53.34483789999999	-6.263904999999999	False		9 Crow St, Temple Bar, Dublin, D02 HX78	clothing_store

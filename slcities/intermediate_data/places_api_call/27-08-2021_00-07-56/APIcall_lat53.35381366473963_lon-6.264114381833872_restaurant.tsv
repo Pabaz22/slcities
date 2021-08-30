@@ -1,0 +1,57 @@
+	name	place_id	price_level	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Chapter One Restaurant	ChIJa7Nrz4AOZ0gRptxMf68t1Qk	4.0	restaurant|food|point_of_interest|establishment	53.354415	-6.263949600000001	False		restaurant
+1	Mr Fox	ChIJI9ohIoEOZ0gReHRyl3GepHw	3.0	restaurant|food|point_of_interest|establishment	53.3529271	-6.2648114	False		restaurant
+2	Candy Cafe	ChIJG8a7yoAOZ0gRJOCWzVwdpWE	1.0	cafe|restaurant|food|point_of_interest|store|establishment	53.3547139	-6.263455799999999	False		restaurant
+3	Castle Hotel	ChIJif9mNYcOZ0gRC-cNixUDS6M		lodging|bar|restaurant|food|point_of_interest|establishment	53.3547688	-6.263354500000001	True		restaurant
+4	Old Music Shop Restaurant	ChIJi810tYAOZ0gRgvxyQpgpoV0	2.0	restaurant|food|point_of_interest|establishment	53.3548681	-6.2636884	False		restaurant
+5	Albergo	ChIJ-X4oJocOZ0gR61x8QmjMB_E		restaurant|food|point_of_interest|establishment	53.3537183	-6.2623019	False		restaurant
+7	Hotel 7	ChIJy2rWSIcOZ0gRL_acwrlwSYw		lodging|bar|restaurant|food|point_of_interest|establishment	53.3551452	-6.2628545	True		restaurant
+8	Maldron Hotel Parnell Square	ChIJpUNfQocOZ0gR2Al5Z8qznzo		lodging|bar|restaurant|food|point_of_interest|establishment	53.35425009999999	-6.2666329	True		restaurant
+9	Belvedere Hotel Dublin	ChIJ8ZAkRocOZ0gRgouxkHHF9yg		lodging|bar|restaurant|food|point_of_interest|establishment	53.3550328	-6.2624178	True		restaurant
+11	Cassidys Hotel	ChIJkxPD3IYOZ0gRzWtftpTNoqU		lodging|bar|restaurant|food|point_of_interest|establishment	53.3531054	-6.261574299999999	True		restaurant
+12	Sicilia Pizzeria	ChIJIx8AthsPZ0gRfJCssO9Mqa8		meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.3543816	-6.2670218	False		restaurant
+13	Restaurant SIX	ChIJ7a8v3IYOZ0gRugRIY_Azq1g		restaurant|food|point_of_interest|establishment	53.35298159999999	-6.261364299999999	False		restaurant
+14	Lily's Café & Restaurant	ChIJH2Qx3YYOZ0gR9WKJO4VmC5Y	2.0	cafe|restaurant|food|point_of_interest|establishment	53.3529008	-6.2613945	False		restaurant
+15	Lovinspoon	ChIJZx2ZjbcPZ0gRa3oH3x7OQOc	1.0	restaurant|food|point_of_interest|establishment	53.355703	-6.264597699999999	False		restaurant
+16	Veginity	ChIJUT9BM7QPZ0gRNKlBp7T4VPo	2.0	restaurant|food|point_of_interest|establishment	53.3554234	-6.265951500000002	False		restaurant
+17	Glynn's Wellington House	ChIJUYpRmoAOZ0gRJLYWE9CC-pc	1.0	bar|restaurant|food|point_of_interest|establishment	53.355492	-6.265969600000001	False		restaurant
+18	The Parnell Heritage Pub & Grill	ChIJ1wjst4YOZ0gR_pg-hMy3dhM	2.0	bar|restaurant|food|point_of_interest|establishment	53.35220770000001	-6.2619741	False		restaurant
+19	Kingfisher Restaurant & Townhouse	ChIJdSdQSYEOZ0gRGGtcaedBc7w	2.0	restaurant|meal_takeaway|lodging|food|point_of_interest|establishment	53.3518079	-6.263380599999999	False		restaurant
+20	Pho Kim	ChIJmeQzo4IPZ0gREQp3MnpubT4		restaurant|food|point_of_interest|establishment	53.352949	-6.2609841	False	162 Parnell St, Rotunda, Dublin, D01 F5F3	restaurant
+21	Kimchi Hophouse	ChIJ63Hd5YYOZ0gR9tTzRQ_fy5Y	2.0	bar|restaurant|food|point_of_interest|establishment	53.3530306	-6.260891699999999	False	160-161 Parnell St, Rotunda, Dublin, D01 Y4A7	restaurant
+22	Anatolia	ChIJBxT7noAOZ0gRsdHvnY3NjT8		restaurant|food|point_of_interest|establishment	53.3558329	-6.2656919	False	Dorset Street Upper, Inns Quay, Dublin 1	restaurant
+23	Gorące Gary u Barbary Kuchary	ChIJX8aLUYEOZ0gRe8-4ubUHB6I		restaurant|food|point_of_interest|establishment	53.3515142	-6.2632422	False	58 Parnell Street, Moore Street Shopping Mall, Dublin 1	restaurant
+24	Musashi Sushi Parnell Street	ChIJfST2Z4EOZ0gR-hU0-BaCmig	2.0	restaurant|food|point_of_interest|establishment	53.351309	-6.264402	False	179 Parnell St, Rotunda, Dublin 1, D01 YP60	restaurant
+25	Wood Fire Cafe	ChIJi8K7IX4OZ0gRspk_2wpfAnQ	2.0	bar|restaurant|food|point_of_interest|establishment	53.35622100000001	-6.2656981	False	3 Blessington St, Inns Quay, Dublin 7, D07 K443	restaurant
+26	Lasani Buffet	ChIJDTRHUoEOZ0gRix6_87nXbU0	1.0	restaurant|food|point_of_interest|establishment	53.3512749	-6.262904499999999		Moore Street Mall, Parnell St, North City, Dublin 1	restaurant
+27	Wing's Gourmet Burger	ChIJFyLHpIYOZ0gRu4qYhkKusaA	1.0	cafe|restaurant|food|point_of_interest|establishment	53.3515426	-6.2613799	False	46-49 O'Connell Street Upper, North City, Dublin, D01 NR70	restaurant
+28	BITES By Kwanghi	ChIJMeglWHkPZ0gRy0XSAhmCJAE		restaurant|food|point_of_interest|establishment	53.353343	-6.259393200000001	False	56 Marlborough St, Rotunda, Dublin 1, D01 X923	restaurant
+29	White Rabbit Moore Street	ChIJeSjSi2MPZ0gR7_hlFktUEDI		restaurant|food|point_of_interest|establishment	53.3510117	-6.2631216	False	Kitchen 4, Moore Street Mall, Parnell St, North City, Dublin 1	restaurant
+30	Salsa - Authentic Mexican Food & Bar	ChIJnVnq77APZ0gRpv2wTSA5MIw		restaurant|food|point_of_interest|establishment	53.3536369	-6.2592875		147-95 Parnell St, Rotunda, Dublin, D01 N223	restaurant
+31	Lao Chinese and Korean BBQ Restaurant	ChIJLzxHTYYOZ0gRdx_6zjuCnes	2.0	restaurant|food|point_of_interest|establishment	53.3536152	-6.2588209	False	IE 102 Parnell Street Dublin 1 D01VOF1	restaurant
+32	Pasha Restaurant Dublin	ChIJ4cizCX4OZ0gR7J3p_0yRhHw	1.0	restaurant|food|point_of_interest|store|establishment	53.3569854	-6.2640908	False	65 Dorset Street Upper, Rotunda, Dublin 1, D01 RW20	restaurant
+33	Rotana City Restaurant	ChIJxYp672QPZ0gRllZOuZUcUvw		restaurant|food|point_of_interest|establishment	53.3507222	-6.2659718	False	195-196 Parnell St, Rotunda, Dublin, D01 CC67	restaurant
+34	Admiral Restaurant	ChIJuXZqZ4YOZ0gR0wc87d26J8Q	2.0	restaurant|food|point_of_interest|establishment	53.3523036	-6.258917599999999	False	1 Q-Park Marlborough Street, Dublin	restaurant
+35	Art Flamingo	ChIJXWaIWtgPZ0gRUkZVhOfG10U		restaurant|meal_takeaway|food|point_of_interest|establishment	53.3517508	-6.2697202	False	52 Bolton St, Dublin, D01 A0W6	restaurant
+36	Fujiyama Sushi Restaurant	ChIJb4qhJoQOZ0gRxX49GuziV2w	2.0	restaurant|food|point_of_interest|establishment	53.3506114	-6.260248700000001	False	11 O'Connell Street Upper, North City, Dublin	restaurant
+37	Flanagan's Bar & Restaurant	ChIJ96flGIQOZ0gRSyjEGrX6MDg	2.0	meal_delivery|restaurant|food|point_of_interest|establishment	53.35033319999999	-6.2609281	False	61 O'Connell Street Upper, North City, Dublin 1, D01 Y274	restaurant
+38	Brannigans	ChIJVQ-AJYQOZ0gR1BjChczzOcM	2.0	bar|restaurant|food|point_of_interest|establishment	53.3504221	-6.259747	False	9 Cathedral St, North City, Dublin, D01 FH29	restaurant
+39	Boco	ChIJs2dICSoMZ0gRCzVhHbrcffE	2.0	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.3513315	-6.2700662	False	57 Bolton St, Dublin 1, D01 CK40	restaurant
+40	Restaurant Balkan	ChIJMRWSUYEOZ0gRsMDdK_3BUZc		restaurant|food|point_of_interest|establishment	53.3510117	-6.2631216	False	Moore Street Mall, North City, Dublin 1	restaurant
+41	Turkish Kebab House	ChIJ40J6tIcOZ0gRgxM_un3W8LA	1.0	restaurant|food|point_of_interest|establishment	53.3539811	-6.2584301	False	Parnell St, Rotunda, Dublin 1, DUBLIN1	restaurant
+42	Bun Cha Vietnamese Street Food	ChIJLR2MB4QOZ0gRTzkQrtsflh4		restaurant|food|point_of_interest|establishment	53.350222	-6.2623603	False	11 Moore St, North City, Dublin 1, D01 NY82	restaurant
+43	Fabi’s Grill	ChIJMXMvQGoPZ0gR9sVJUxME7vM	2.0	restaurant|food|point_of_interest|establishment	53.350451	-6.2673822	False	The Parnell Centre, Parnell St, Rotunda, Dublin	restaurant
+44	One Society	ChIJ8XAo-2sPZ0gRp9_TXPpsRcA	2.0	restaurant|cafe|food|point_of_interest|store|establishment	53.3540899	-6.256557	False	1 lower gardiner street, Mountjoy, Dublin 1	restaurant
+46	The Church Café, Late Bar & Restaurant	ChIJtTOXRIIOZ0gRiLAbrd61jVs	2.0	bar|tourist_attraction|cafe|restaurant|food|point_of_interest|establishment	53.3486388	-6.2667114	False	Junction of Mary St. and, Jervis St, Dublin 1, D01 YX64	restaurant
+47	101 Talbot	ChIJmyb8woUOZ0gRkuvTCRXfL94	2.0	restaurant|food|point_of_interest|establishment	53.3501461	-6.2572815	False	101 Talbot St, North City, Dublin, D01 F2V3	restaurant
+49	Govinda's Restaurant	ChIJO5jqY4QOZ0gRtqEPoGYiCpA	1.0	restaurant|food|point_of_interest|establishment	53.3484071	-6.260828300000001	False	83 Middle Abbey St, North City, Dublin 1, D01 EV91	restaurant
+50	Ann’s House	ChIJs9uhPeIPZ0gRYOwit6ypyYY		restaurant|food|point_of_interest|establishment	53.34808719999999	-6.261058999999999	False	67 Middle Abbey St, North City, Dublin 1, D01 V0H6	restaurant
+51	Koh Restaurant & Cocktail Lounge	ChIJ-Tf6_IIOZ0gR4WvW49ZFp8I	2.0	bar|restaurant|food|point_of_interest|establishment	53.34744629999999	-6.265572	False	6/7 Jervis St, Millennium Walkway, North City, Dublin 1	restaurant
+52	The Winding Stair	ChIJd03hP4MOZ0gRBWcgQzb1GO4	2.0	restaurant|food|point_of_interest|establishment	53.3466667	-6.263611099999999	False	40 Ormond Quay Lower, North City, Dublin 1, D01 R9Y5	restaurant
+53	Brother Hubbard (North)	ChIJY-21nIIOZ0gRnZK9cNnSwww	2.0	cafe|bar|restaurant|food|point_of_interest|store|establishment	53.3471139	-6.268372200000001	False	153 Capel St, North City, Dublin, D01 V9V0	restaurant
+54	The Woollen Mills	ChIJXRnkfoIOZ0gRXvx4BukwPoc	2.0	restaurant|food|point_of_interest|establishment	53.346645	-6.2634875	False	42 Ormond Quay Lower, North City, Dublin	restaurant
+55	Bar Italia ristorante	ChIJD6v4w4IOZ0gRtNMc-036ckg	2.0	restaurant|food|point_of_interest|establishment	53.3464835	-6.2649892	False	26 Ormond Quay Lower, North City, Dublin, D01 CA21	restaurant
+56	Wallace’s Asti	ChIJOeqg-2IOZ0gRAreGjuBGphw	2.0	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.35885769999999	-6.254601099999999	False	15 Russell St, Drumcondra, Dublin 1, D01 VW02	restaurant
+57	The Hungry Mexican Restaurant	ChIJgwi2oIQOZ0gRLHK83QoFX4k	2.0	restaurant|food|point_of_interest|establishment	53.3462896	-6.2614074	False	5 Aston Quay, Temple Bar, Dublin, D02 PN56	restaurant
+58	Cafe Oasis	ChIJicEuVikMZ0gRA8dMc0eWQ68	1.0	restaurant|food|point_of_interest|establishment	53.3500187	-6.2757233	False	48, 59 7 King St N, Smithfield, Dublin, D07 EE76	restaurant
+59	Good World Hong Kong Cafe	ChIJ7Q3wd4wPZ0gRO5yfIydD59g		restaurant|food|point_of_interest|establishment	53.34640590000001	-6.2588702	False	26 Westmoreland St, Dublin, D02 P448	restaurant

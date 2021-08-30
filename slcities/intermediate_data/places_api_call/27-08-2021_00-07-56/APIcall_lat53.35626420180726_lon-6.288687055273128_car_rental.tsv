@@ -1,0 +1,4 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Hertz Car Hire	ChIJYdDsEtQNZ0gRbO-QmxQRPow	car_rental|point_of_interest|establishment	53.3596926	-6.2778363	False	car_rental
+1	Thrifty Car Rental	ChIJ2Uok6PENZ0gRGR-Ju-dy0kU	car_rental|point_of_interest|establishment	53.359709	-6.277702	False	car_rental
+2	Dollar Rent A Car	ChIJ-RCq3VINZ0gRrPRFxXFkI5E	car_rental|point_of_interest|establishment	53.359716	-6.277708	False	car_rental

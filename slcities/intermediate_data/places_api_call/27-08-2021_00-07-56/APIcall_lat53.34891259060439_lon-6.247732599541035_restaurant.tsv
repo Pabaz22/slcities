@@ -1,0 +1,56 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Seven Wonders CHQ	ChIJ510t1Y0OZ0gRUdHVtf2Whto	cafe|restaurant|food|point_of_interest|store|establishment	53.34884399999999	-6.247851799999999	False			restaurant
+1	TOSS’D Noodles & Salads	ChIJA-dH1Y0OZ0gRBtUWBupmTfQ	restaurant|food|point_of_interest|establishment	53.34877979999999	-6.247859099999999	False			restaurant
+2	Urban Brewing & Stack A Restaurant	ChIJp42hgY4OZ0gRtQv7KdqZHAo	bar|liquor_store|restaurant|food|point_of_interest|store|establishment	53.3490752	-6.248266200000001	False	2.0		restaurant
+3	ELY BAR & GRILL	ChIJf-LEgo4OZ0gR9TS8emSIF_k	bar|restaurant|food|point_of_interest|establishment	53.3493537	-6.2482181		3.0		restaurant
+4	Freshii	ChIJBZK8i44OZ0gRnpyl8MHC1E0	restaurant|food|point_of_interest|store|establishment	53.3494475	-6.247797400000001	False	2.0		restaurant
+5	Oly’s Bar and Restaurant	ChIJ-YMax40OZ0gRLOmFb2jbkCY	bar|restaurant|food|point_of_interest|establishment	53.3481902	-6.246929099999999	False			restaurant
+6	Harbourmaster Bar and Restaurant	ChIJP7_1W50OZ0gRt9-cEWsKBVw	cafe|bar|restaurant|food|point_of_interest|establishment	53.34976839999999	-6.2490611	False	2.0		restaurant
+9	Subway	ChIJy20hVowOZ0gRypUe9mmgX1c	meal_takeaway|restaurant|food|point_of_interest|establishment	53.349477	-6.244384	False	1.0		restaurant
+10	Drunken Fish	ChIJ4e3T_YwOZ0gRG847Xnaiap0	restaurant|food|point_of_interest|establishment	53.3491463	-6.2439578	False	2.0		restaurant
+11	The Brew Dock	ChIJMz1p3Y4OZ0gRY8yocw58yj4	bar|restaurant|food|point_of_interest|establishment	53.3501299	-6.251024399999999	False	2.0		restaurant
+12	Milano	ChIJqTbdBo0OZ0gRJMUMU4ksue4	restaurant|food|point_of_interest|establishment	53.34805	-6.2439553	False	2.0		restaurant
+13	Kerten Hospitality	ChIJHcKHzuwPZ0gRRazKMHZu7sg	real_estate_agency|lodging|restaurant|food|point_of_interest|establishment	53.3470021	-6.2502681	False			restaurant
+14	Dall'Italia Pastabar	ChIJg86J9H0PZ0gR-ylNHsKvWUQ	meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment	53.3495205	-6.2436939	False			restaurant
+15	The grill by chaska	ChIJkfSffRsPZ0gRB91lHYyh_Z8	restaurant|food|point_of_interest|establishment	53.3495426	-6.243672				restaurant
+16	Fasta	ChIJreuy5JkPZ0gRyzDudqRKdVA	restaurant|food|point_of_interest|establishment	53.35127659999999	-6.2492937	False			restaurant
+17	J2 Sushi&Grill	ChIJe7DNdI0OZ0gR877GyIDDlXw	restaurant|food|point_of_interest|establishment	53.3476849	-6.243955499999999	False	2.0		restaurant
+19	As One	ChIJkbg8uJoPZ0gRfrT0_NPoFZI	restaurant|cafe|food|point_of_interest|store|establishment	53.34689849999999	-6.250706600000001	False			restaurant
+20	Chaska Indian Dining	ChIJN_giN2IPZ0gRs3HJkusAAog	restaurant|food|point_of_interest|establishment	53.3496823	-6.243392	False		Custom House Square, Burton House, North Dock, Dublin	restaurant
+21	Musashi IFSC Noodle & Sushi bar	ChIJFWWY5YwOZ0gR1R9uA9-D-oA	meal_takeaway|restaurant|food|point_of_interest|establishment	53.34962909999999	-6.2433618	False	2.0	Custom House Square, Unit 2, Burton Hall, Mayor Street Lower, International Financial Services Centre, Dublin 1, D01 W6F2	restaurant
+22	Salsa - Authentic Mexican Food	ChIJT6J4MSIPZ0gRVJUCr5G6TUs	restaurant|food|point_of_interest|establishment	53.3495899	-6.2433244	False	1.0	Custom House Square, Mayor Street Lower, International Financial Services Centre, Dublin	restaurant
+23	East Restaurant	ChIJ3XA1DI0OZ0gRbJ4xKXmmRhU	restaurant|food|point_of_interest|establishment	53.3480107	-6.243399699999999	True		Excise Walk, International Financial Services Centre, Dublin 1, D01 X4C9	restaurant
+24	Chaska IFSC	ChIJu8xt2m4PZ0gRg1KR85EVkd4	restaurant|food|point_of_interest|establishment	53.3496226	-6.243247299999999	False		Unit 3, Berry House, International Financial Services Centre, Dublin, D01 A386	restaurant
+25	Rocket's IFSC	ChIJe0G8co0OZ0gRxf715xh7VN8	restaurant|food|point_of_interest|establishment	53.3476581	-6.243444299999999	False	2.0	Unit B, N Wall Quay, IFSC District, Dublin	restaurant
+26	Il Fornaio IFSC	ChIJge0Hu40OZ0gRQWQuuoMB0t4	restaurant|food|point_of_interest|establishment	53.3494033	-6.243003799999999	False	2.0	Mayor Street Lower, International Financial Services Centre, Dublin, D01 P3K7	restaurant
+28	Thai Spice	ChIJ0yfZ2I4OZ0gR7fNEJrUe0-0	restaurant|food|point_of_interest|establishment	53.35101119999999	-6.2511931	False	1.0	3A Talbot Pl, Mountjoy, Dublin 1, D01 R3W9	restaurant
+29	Supermac's & Papa John's Connolly	ChIJ6YlgNYkOZ0gR_MiHBa4BEPo	meal_takeaway|restaurant|food|point_of_interest|establishment	53.35151510000001	-6.250411799999999	False	1.0	47-49 Talbot St, Mountjoy, Dublin 1, D01 H798	restaurant
+30	McGettigan's Cookhouse & Bar	ChIJB8ycS4kOZ0gR3Y0qvQ6w58E	bar|restaurant|food|point_of_interest|establishment	53.3516889	-6.2501044	False	2.0	1 Amiens St, Mountjoy, Dublin	restaurant
+31	Cafe le Monde	ChIJbYCqIY8OZ0gRej_zBVj1_60	restaurant|food|point_of_interest|establishment	53.3502254	-6.2527461			Beresford Hotel, Store Street, Dublin	restaurant
+32	Benvindo Restaurant	ChIJTQw1gi0PZ0gRK8HVZ0r-RB4	bar|restaurant|food|point_of_interest|establishment	53.3522906	-6.249563900000001	False		39 Amiens St, Mountjoy, Dublin 1, D01 TR70	restaurant
+33	Ninja Sushi Japanese Restaurant	ChIJ7VTe3_sPZ0gRzVhs44ff7Ig	restaurant|food|point_of_interest|establishment	53.344433	-6.2488687	False		3 & 4 Lombard St E, Dublin 2, D02 VY96	restaurant
+34	Le Bon Crubeen	ChIJn8COV48OZ0gRKez_WJ8u6v4	restaurant|food|point_of_interest|establishment	53.35051199999999	-6.2551367	False	2.0	81-82 Talbot St, North City, Dublin 1, D01 CD34	restaurant
+35	Wingman	ChIJZ4a2Tu0PZ0gRpr1IFDneijg	restaurant|meal_takeaway|food|point_of_interest|establishment	53.347246	-6.255221	False		3 Tara St, Dublin, D02 EP64	restaurant
+36	The Vintage Kitchen	ChIJO0IAQ4UOZ0gRf4GJOMtiPUY	restaurant|food|point_of_interest|establishment	53.3469072	-6.2556946	False	2.0	7 Poolbeg St, Dublin 2, D02 NX03	restaurant
+38	Courtyard Restaurant	ChIJvxPSqZoOZ0gRrVpCaoX64BU	restaurant|food|point_of_interest|establishment	53.34499779999999	-6.2544027	False	2.0	Pearse St, Dublin 2	restaurant
+39	101 Talbot	ChIJmyb8woUOZ0gRkuvTCRXfL94	restaurant|food|point_of_interest|establishment	53.3501461	-6.2572815	False	2.0	101 Talbot St, North City, Dublin, D01 F2V3	restaurant
+40	Grainger's Cafe Bar	ChIJg-AutI4OZ0gRw8d1iUjjq0A	cafe|bar|restaurant|food|point_of_interest|establishment	53.3513038	-6.250324	False	2.0	51 Talbot St, Mountjoy, Dublin, D01 P6K1	restaurant
+41	Camile Thai Pearse Street	ChIJ63VMt5EOZ0gRlGO-wjdc7aI	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.34428029999999	-6.249372999999999	False	2.0	43 Pearse St, Dublin 2, D02 W085	restaurant
+42	The 1592 Restaurant	ChIJpSNz3ZoOZ0gRwT_xsXmM1gs	restaurant|food|point_of_interest|establishment	53.34568729999999	-6.2577891	False		Pearse St, Dublin Southside, Dublin	restaurant
+43	Good World Hong Kong Cafe	ChIJ7Q3wd4wPZ0gRO5yfIydD59g	restaurant|food|point_of_interest|establishment	53.34640590000001	-6.2588702	False		26 Westmoreland St, Dublin, D02 P448	restaurant
+44	Brannigans	ChIJVQ-AJYQOZ0gR1BjChczzOcM	bar|restaurant|food|point_of_interest|establishment	53.3504221	-6.259747	False	2.0	9 Cathedral St, North City, Dublin, D01 FH29	restaurant
+45	One Society	ChIJ8XAo-2sPZ0gRp9_TXPpsRcA	restaurant|cafe|food|point_of_interest|store|establishment	53.3540899	-6.256557	False	2.0	1 lower gardiner street, Mountjoy, Dublin 1	restaurant
+46	Admiral Restaurant	ChIJuXZqZ4YOZ0gR0wc87d26J8Q	restaurant|food|point_of_interest|establishment	53.3523036	-6.258917599999999	False	2.0	1 Q-Park Marlborough Street, Dublin	restaurant
+47	herbstreet	ChIJzU9jGe0OZ0gRBBBj8snPCIk	restaurant|cafe|food|point_of_interest|establishment	53.3443851	-6.2376548	False	2.0	9 Hanover Quay, Dublin Docklands, Dublin 2, D02 KP20	restaurant
+48	Govinda's Restaurant	ChIJO5jqY4QOZ0gRtqEPoGYiCpA	restaurant|food|point_of_interest|establishment	53.3484071	-6.260828300000001	False	1.0	83 Middle Abbey St, North City, Dublin 1, D01 EV91	restaurant
+49	Flanagan's Bar & Restaurant	ChIJ96flGIQOZ0gRSyjEGrX6MDg	meal_delivery|restaurant|food|point_of_interest|establishment	53.35033319999999	-6.2609281	False	2.0	61 O'Connell Street Upper, North City, Dublin 1, D01 Y274	restaurant
+50	The Pig's Ear	ChIJkRYZaZoOZ0gR9CvuTvkeY5M	restaurant|food|point_of_interest|establishment	53.3421312	-6.2549834	False	3.0	4 Nassau St, Dublin, D02 YX74	restaurant
+51	The Hungry Mexican Restaurant	ChIJgwi2oIQOZ0gRLHK83QoFX4k	restaurant|food|point_of_interest|establishment	53.3462896	-6.2614074	False	2.0	5 Aston Quay, Temple Bar, Dublin, D02 PN56	restaurant
+52	10 Fleet Street Restaurant & Bar	ChIJQShT4kYPZ0gRGsKTFnMNsGY	restaurant|food|point_of_interest|establishment	53.3458201	-6.2612491	False		9 Fleet St, Temple Bar, Dublin, D02 AT86	restaurant
+53	Lily's Café & Restaurant	ChIJH2Qx3YYOZ0gR9WKJO4VmC5Y	cafe|restaurant|food|point_of_interest|establishment	53.3529008	-6.2613945	False	2.0	3A Cavendish Row, Rae Cavendish, Rotunda, Dublin 1, D01 XY31	restaurant
+54	Restaurant SIX	ChIJ7a8v3IYOZ0gRugRIY_Azq1g	restaurant|food|point_of_interest|establishment	53.3529816	-6.261364299999999	False		6 Cavendish Row, O'Connell Street Upper, Upper, Dublin 1, D01 V3P6	restaurant
+55	Mongolian Barbeque	ChIJmwT4rpwOZ0gRODNIA5Wrng8	restaurant|food|point_of_interest|establishment	53.3449778	-6.2619472	False	1.0	7 Anglesea St, Temple Bar, Dublin, D02 K376	restaurant
+56	Old Mill Restaurant	ChIJZe03SoMOZ0gRWnNxijfVrCg	restaurant|food|point_of_interest|establishment	53.3456589	-6.2629826	False	2.0	14, Temple Bar, Dublin 2, D02 V970	restaurant
+57	Featherblade Steak Restaurant	ChIJC30av5sOZ0gRtfFEAR-Kuq0	restaurant|food|point_of_interest|establishment	53.3416362	-6.258456400000001	False	2.0	51B Dawson St, Dublin	restaurant
+58	Quays	ChIJB2vyNYMOZ0gRhSTCPEktQxw	restaurant|food|point_of_interest|establishment	53.3456732	-6.263255399999999	False	2.0	10-12 Temple Bar, Dublin 2, D02 EW63	restaurant
+59	Cornucopia Wholefoods Restaurant	ChIJ8aguhJwOZ0gRRUPTGmqy9uA	restaurant|food|point_of_interest|establishment	53.3430992	-6.261429400000001	False	2.0	19-20 Wicklow St, Dublin, D02 FK27	restaurant

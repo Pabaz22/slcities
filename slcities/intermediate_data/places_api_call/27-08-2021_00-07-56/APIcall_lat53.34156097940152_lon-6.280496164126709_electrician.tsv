@@ -1,0 +1,19 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Ecw Ltd	ChIJnzXAJzAMZ0gRH42xwZKa2vo	electrician|point_of_interest|establishment	53.3462651	-6.282694100000001		electrician
+1	Coller Electrical Services	ChIJ8xe9j1sNZ0gRBu6EFEJg7yI	electrician|point_of_interest|establishment	53.3370947	-6.2880381	True	electrician
+2	Dublin Electrical Services | Emergency Electrician Dublin	ChIJW6JZSLF_XUgRE1X8yVJjkeo	electrician|point_of_interest|establishment	53.34885269999999	-6.279043499999999	True	electrician
+3	Kirby Group Engineering	ChIJk3CqRRYMZ0gRqbfc3HXYn_A	electrician|general_contractor|point_of_interest|establishment	53.3326562	-6.281880499999999		electrician
+4	ER Building Group LTD	ChIJ6cZBcU4MZ0gRkOonHC60Kuw	painter|electrician|plumber|roofing_contractor|general_contractor|point_of_interest|establishment	53.3420819	-6.296338200000001	False	electrician
+5	Bowhill Developments Ltd	ChIJT6AbH4MOZ0gRG8WcGetj9iI	electrician|plumber|general_contractor|point_of_interest|establishment	53.3467462	-6.2648218	False	electrician
+6	FCS Services Ltd (Dublin)	ChIJM10oWAIPZ0gRM5jBw3QQ5Bo	electrician|point_of_interest|establishment	53.3353754	-6.265457	False	electrician
+7	Sky Electrical | Gate Automation Dublin Ireland	ChIJ05ytgDUPZ0gR7gbwldY11pY	electrician|electronics_store|point_of_interest|store|establishment	53.3360196	-6.263609	False	electrician
+8	Hamilton's Auto Electrics Ltd	ChIJ80Qk4R8MZ0gR1-0WSKZN4A4	electrician|car_repair|point_of_interest|establishment	53.3331289	-6.265586	False	electrician
+9	Rostek	ChIJr8spIjYNZ0gRDtHbt5i8D18	electrician|point_of_interest|establishment	53.3532589	-6.286939900000001		electrician
+10	Declan Doyle	ChIJL_9MNUEMZ0gRaAqGj6j7rDY	electrician|point_of_interest|establishment	53.33809899999999	-6.300678899999999	False	electrician
+11	TGS Electrical	ChIJ49m-CpgNZ0gRLFnI9bhBvCo	electrician|point_of_interest|establishment	53.3514391	-6.2968892		electrician
+12	Electricians Dublin	ChIJnVBOcRQMZ0gR3mm93JvyOxg	electrician|point_of_interest|establishment	53.3281666	-6.2877351	True	electrician
+13	Mark O'Toole Electrical	ChIJ8WAUDJIPZ0gRZ9ADxTD0T9M	electrician|point_of_interest|establishment	53.3498093	-6.260273900000001		electrician
+14	Stainthorpe Electrical	ChIJXz7b6dgNZ0gR1jd-35vC_iY	electrician|point_of_interest|establishment	53.3344325	-6.3057155	True	electrician
+15	ibc design	ChIJV95ZEJgOZ0gRym73werbciw	electrician|general_contractor|point_of_interest|establishment	53.3358471	-6.2533085	False	electrician
+16	Atom Alarms and Security Ltd Dublin	ChIJdYvYGZgOZ0gRN3lZa2VaE-Y	electrician|point_of_interest|establishment	53.33532769999999	-6.253203099999999	True	electrician
+17	MMK Electricians	ChIJjbLNoaIOZ0gRBaS7XmGJjO0	electrician|point_of_interest|establishment	53.3348277	-6.2535288	False	electrician

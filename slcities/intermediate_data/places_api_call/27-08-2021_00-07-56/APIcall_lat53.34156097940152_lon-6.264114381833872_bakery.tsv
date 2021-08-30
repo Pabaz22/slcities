@@ -1,0 +1,57 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Nanda's Cakes	ChIJzX3vzlIPZ0gR4oODWKmRzBA	bakery|food|point_of_interest|store|establishment	53.3413824	-6.264910999999999				bakery
+1	Manger	ChIJV6k7dygPZ0gRpBc2lYEB4Eo	bakery|food|point_of_interest|store|establishment	53.342186	-6.264631699999999				bakery
+3	Pepper Pot Bakery	ChIJz2mjg6kPZ0gRNi9kxJGwUbo	bakery|food|point_of_interest|store|establishment	53.34257949999999	-6.2639156	False			bakery
+4	Milk & Cookies	ChIJwUSSnJsOZ0gRwr-hHIZtoD4	bakery|food|point_of_interest|store|establishment	53.3418807	-6.261127399999999				bakery
+5	Ladurée	ChIJY_OXi5wOZ0gRJdAMoGix4Ac	bakery|grocery_or_supermarket|home_goods_store|food|point_of_interest|store|establishment	53.3429897	-6.262198700000001	False	2.0		bakery
+6	La Croissanterie	ChIJr6uaIJwOZ0gRtVYwhBy2gTs	bakery|food|point_of_interest|store|establishment	53.3400242	-6.2620696	False			bakery
+7	Traditional Asian Cake	ChIJpeYPzmgPZ0gRh3lr3Rk-A9w	bakery|food|point_of_interest|store|establishment	53.33998620000001	-6.261820500000001	False			bakery
+9	The Rolling Donut	ChIJibgYHZwOZ0gRJ0VhLku4D4M	bakery|cafe|food|point_of_interest|store|establishment	53.3401744	-6.261085499999999	True			bakery
+10	Bewley's Grafton Street	ChIJ5y3Ci5sOZ0gR3yubvqGxDQQ	restaurant|bakery|cafe|food|point_of_interest|store|establishment	53.34172019999999	-6.260290299999999	False	2.0		bakery
+11	Boomerang Donuts At Londis	ChIJQ8nRA5wOZ0gR0xyKUMPKeQw	bakery|food|point_of_interest|store|establishment	53.3402547	-6.2605977	False	2.0		bakery
+12	Green & Baker	ChIJmehwnZ4OZ0gR8-srcsOqM8I	bakery|food|point_of_interest|store|establishment	53.33972610000001	-6.261326200000001	False			bakery
+13	Bretzel	ChIJx6hDOIoPZ0gRnUBW6kewIg4	bakery|food|point_of_interest|store|establishment	53.3418413	-6.2589769	False			bakery
+14	Dolce Sicily	ChIJG-5b3ZsOZ0gRelL4mJ0ROiI	bakery|cafe|restaurant|food|point_of_interest|store|establishment	53.3409827	-6.2588901	True	2.0		bakery
+15	The Pieman Cafe	ChIJB_GQtZwOZ0gR0dVDFZ9AX94	cafe|bakery|restaurant|food|point_of_interest|store|establishment	53.3451313	-6.262912199999999	True	1.0		bakery
+16	Rosie's Cafe	ChIJ6xTypCcMZ0gRTOlfnfdUzxU	bakery|cafe|food|point_of_interest|store|establishment	53.3429475	-6.2700041	False	1.0		bakery
+17	Queen of Tarts Cow's Lane	ChIJl109WZ0OZ0gRdOnlfZCaVqE	bakery|cafe|restaurant|food|point_of_interest|store|establishment	53.3443324	-6.268948799999999	False	2.0		bakery
+18	The Bakery Temple Bar	ChIJmSAV-ScMZ0gRA2gwQfsP_jo	bakery|food|point_of_interest|store|establishment	53.34461599999999	-6.268542099999999	False	1.0		bakery
+19	Haoliland Cakes	ChIJ--P6MIMOZ0gR243x1yCU8dQ	bakery|food|point_of_interest|store|establishment	53.34579429999999	-6.2637459	False			bakery
+20	The Cupcake Store	ChIJzaoQffMPZ0gRFKMD4cXgUP4	bakery|food|point_of_interest|store|establishment	53.3360196	-6.263609	True		20 Harcourt St, Saint Kevin's, Dublin 2, D02 H364	bakery
+21	Camerino Bakery	ChIJQdY3nIIOZ0gR8bJLJCwsKwU	bakery|cafe|food|point_of_interest|store|establishment	53.3468392	-6.268383999999999	False	1.0	158 Capel St, North City, Dublin 1, D01 ND36	bakery
+22	The Cake Cafe	ChIJ1YrPOyAMZ0gRCMDPbVBN_Gk	cafe|bakery|restaurant|food|point_of_interest|store|establishment	53.3344671	-6.2661821	False	2.0	The Daintree Building, 8 Pleasants Pl, Saint Kevin's, Dublin	bakery
+23	Scéal Bakery	ChIJYZX3i-UNZ0gR93UNVajYGw0	bakery|food|point_of_interest|store|establishment	53.3370118	-6.273514599999999	False		Fumbally Ln, Merchants Quay, Dublin	bakery
+24	Hansel and Gretel Bakery & Patisserie	ChIJR6JruJAOZ0gR0sSVbhbH_38	bakery|food|point_of_interest|store|establishment	53.3412988	-6.2516536	False	2.0	20 Clare St, Dublin 2, D02 TD45	bakery
+25	Honey Bun Bakery & Coffee	ChIJ42loS8sPZ0gROLC4_bOCNrs	bakery|food|point_of_interest|store|establishment	53.348642	-6.268236799999999	False		60 Mary St, North City, Dublin, D01 CD40	bakery
+26	Ann's Bakery	ChIJmW0btIMOZ0gR4EqO1r3lkvk	bakery|restaurant|food|point_of_interest|store|establishment	53.3490468	-6.26551	False	1.0	41 Mary St, North City, Dublin 1, D01 AP11	bakery
+27	Hong Kong Taste Bakery & Bubble Tea 港式麵包珍珠奶茶專門店	ChIJBUf2g38PZ0gR6oMqHvVxJGg	bakery|cafe|food|point_of_interest|store|establishment	53.3481889	-6.2566086	False		21 Eden Quay, North City, Dublin 1, D01 W0C0	bakery
+28	Dublin City Bakery	ChIJpWQdrYUOZ0gR8eUPtihVE0c	bakery|food|point_of_interest|store|establishment	53.3488067	-6.258402200000001	False		9A Abbey Street Lower, North City, Dublin, D01 A0W2	bakery
+29	Bread 41	ChIJ166U_osPZ0gR_ApafUK35JQ	bakery|meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment	53.3447509	-6.2517786	False	2.0	41 Pearse St, Dublin, D02 H308	bakery
+30	Quigleys Cafe, Bakery & Deli	ChIJbw1u6IMOZ0gRvp2SJUfRpcc	bakery|food|point_of_interest|store|establishment	53.34959180000001	-6.2650383	False	2.0	Henry St, North City, Dublin 1	bakery
+31	Bakeology Treats (Argentinian Bakery)	ChIJA1IjePsNZ0gRLeIwWKybL_k	bakery|food|point_of_interest|store|establishment	53.3401428	-6.2782332	False		43 Meath St, Saint Catherine's, Dublin, D08 VF76	bakery
+32	Ann's Bakery	ChIJNQdSMIQOZ0gR_DnDHYvTQFY	bakery|food|point_of_interest|store|establishment	53.3500554	-6.259288199999999	False	1.0	27 N Earl St, North City, Dublin 1, D01 VY66	bakery
+33	Mannings Bakery	ChIJxSY3FCUMZ0gRwwris--3o-0	bakery|meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment	53.3428011	-6.279738699999999	False	2.0	39/40 Thomas St, The Liberties, Dublin 8	bakery
+34	The Bretzel Bakery & Cafe	ChIJRZyzg6AOZ0gRrqJJvZVrgnI	bakery|food|point_of_interest|store|establishment	53.3312626	-6.2650013	False	2.0	1A Lennox St, Portobello, Dublin, D08 RK23	bakery
+35	VeV Bakery	ChIJL36R0TsNZ0gRYlcCjt2W61M	bakery|food|point_of_interest|store|establishment	53.34669299999999	-6.2800603	True		42 Arran Quay, Smithfield, Dublin 7, D07 F751	bakery
+36	The Cake Boutique	ChIJc1aDyYEOZ0gRXvLZMGu-GwU	bakery|food|point_of_interest|store|establishment	53.3528479	-6.268611399999999	False		31 Bolton St, Dublin, D01 X673	bakery
+37	Arun Bakery	ChIJTXqY7C0MZ0gRN6WOv0jpVTQ	bakery|food|point_of_interest|store|establishment	53.3481799	-6.2807091	False		Unit 3 Oxmantown Ln, Arran Quay, Dublin, D07 C8KD	bakery
+38	Conchita Bakery	ChIJo8jE1zAPZ0gRh-wo_MOl9wc	bakery|food|point_of_interest|store|establishment	53.3536504	-6.2592744			143 R803, Rotunda, Dublin	bakery
+39	Scéal Bakery (closed to the public)	ChIJQ3MCHyoMZ0gR5i3Djt2IPIg	bakery|food|point_of_interest|store|establishment	53.3498061	-6.281161399999999	False		King St N, Smithfield, Dublin 7, D07 T882	bakery
+40	Bite of Life	ChIJG3mMwSYMZ0gR1yG0KjH01_8	bakery|restaurant|food|point_of_interest|store|establishment	53.3407121	-6.2721148	True		55 Patrick St, Wood Quay, Dublin 8, D08 WY60	bakery
+41	The Rolling Donut	ChIJTdGgEJ4OZ0gRdeoQUzBVfd0	bakery|food|point_of_interest|store|establishment	53.3475569	-6.259839299999999	False		34 Bachelors Walk, North City, Dublin 1, D01 YN15	bakery
+42	Auntie Anne's	ChIJ3Zo9wZ8PZ0gRC73dp72IpL0	bakery|food|point_of_interest|store|establishment	53.3482435	-6.2662023			Jervis Street Shopping Centre, 12-28 Jervis St, North City, Dublin	bakery
+43	Soul Food Ltd	ChIJryOvySIMZ0gRUdl3I6h9F3I	bakery|food|point_of_interest|store|establishment	53.3349814	-6.2800509			Madden Rd, Saint Catherine's, Dublin	bakery
+44	No Messin'	ChIJzb0RrSUNZ0gRvuF3wzPGKgU	bakery|food|point_of_interest|store|establishment	53.3498995	-6.281048699999999			King St N, Smithfield, Dublin, D07 T252	bakery
+45	The Natural Bakery	ChIJDzFW44wOZ0gRXO-qiI7azrU	bakery|food|point_of_interest|store|establishment	53.3494009	-6.243714199999999	False	2.0	Mayor Square, International Financial Services Centre, Dublin 1	bakery
+46	Green Door Bakery	ChIJfxY7jC0MZ0gRiMXfqa0g3QM	bakery|food|point_of_interest|store|establishment	53.3513455	-6.2831601	False	2.0	91 Manor St, Stoneybatter, Dublin 7, D07 RK80	bakery
+47	Il Valentino Bakery & Cafe	ChIJL1QDtuwOZ0gRfJVnkJJTu9k	bakery|cafe|food|point_of_interest|store|establishment	53.3426175	-6.239008900000001	False	2.0	Gallery Quay, 5, Grand Canal Dock, Dublin 2, D02 N265	bakery
+48	The Orange Tree Bakery	ChIJP_IaeB0MZ0gRVVBY85NxpzQ	bakery|cafe|food|point_of_interest|store|establishment	53.3263092	-6.264751299999999	False	1.0	108, 6 Rathmines Rd Lower, Dublin Southside, Co. Dublin	bakery
+49	Gold Ribbon Bakeshoppe	ChIJ211JUnwOZ0gR2TACqU1eGa8	bakery|food|point_of_interest|store|establishment	53.3591394	-6.2615209	False		31 Dorset Street Lower, Mountjoy, Dublin 1, D01 XT73	bakery
+50	SugarLoaf Bakery and Pastry Shop	ChIJxf1hIdwPZ0gROr4IOvh2Um4	bakery|food|point_of_interest|store|establishment	53.3600036	-6.261358	False		80 Dorset Street Lower, Dublin 1, D01 NX33	bakery
+52	The Natural Bakery ParkGate Street	ChIJ9SIwYjYMZ0gRR-IVfuqehXA	bakery|cafe|food|point_of_interest|store|establishment	53.3481744	-6.293833999999999	True	2.0	29 Parkgate St, Stoneybatter, Dublin 8, D08 PN77	bakery
+54	The Mad Scone Bakery	ChIJUTumuaINZ0gRYDpxNWZVcMU	bakery|food|point_of_interest|store|establishment	53.36057899999999	-6.274674399999999	False		330 N Circular Rd, Phibsborough, Dublin, D07 YXY4	bakery
+55	Thunders Home Bakery	ChIJUc3Y4tUNZ0gRbO6u3VGkyNg	bakery|food|point_of_interest|store|establishment	53.3609922	-6.272931799999999	False	2.0	67a Phibsborough Rd, Phibsborough, Dublin 7, D07 ED66	bakery
+56	The Old Bakery Store	ChIJlzAGIW8NZ0gRJuOMN-MTqA4	bakery|liquor_store|food|point_of_interest|store|establishment	53.3224793	-6.2796095	False		212 Harold's Cross Rd, Harold's Cross, Terenure, Dublin, D6W AE10	bakery
+57	The Bakery by The Cupcake Bloke	ChIJI_YHb1QNZ0gRuiiXr2EhrCY	bakery|food|point_of_interest|store|establishment	53.336128	-6.298701599999999	False	2.0	461 S Circular Rd, Saint James' (part of Phoenix Park), Dublin 8, D08 DAE4	bakery
+58	Cake Lab Bakery	ChIJ9-akP6kOZ0gRqlC2V9KU3Tw	bakery|food|point_of_interest|store|establishment	53.3202112	-6.257026900000001	False	2.0	9 Annesley Park, Rathmines, Dublin 6, D06 V9Y6	bakery
+59	Chai Latte ( Traditional Pakistani takeaway & bakery)	ChIJ-7T46q4PZ0gRNfGBvxjAuh8	meal_takeaway|bakery|restaurant|food|point_of_interest|store|establishment	53.3635215	-6.258886299999999	True		Saint Vincents Centre for the Deaf, Drumcondra Rd Lower, Drumcondra, Dublin 9	bakery

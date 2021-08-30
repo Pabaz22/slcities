@@ -1,0 +1,3 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+1	The National Stadium	ChIJSYg6ZBYMZ0gRVhlo66Y8eis	stadium|point_of_interest|establishment	53.3309342	-6.280382	False	stadium
+2	Richmond Park	ChIJieNAilkMZ0gROYc3zZUqLIA	stadium|point_of_interest|establishment	53.34098460000001	-6.316747500000001	False	stadium

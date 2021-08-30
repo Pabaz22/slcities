@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	George's Street Arcade	ChIJ6SwLAJ0OZ0gRSUwrR8fiVJg	shopping_mall|point_of_interest|establishment	53.3425	-6.2638889	True		shopping_mall
+1	市区亚洲行	ChIJQVmzMREPZ0gR_PA8RPN66WU	shopping_mall|point_of_interest|establishment	53.3420016	-6.263477699999999			shopping_mall
+2	Kilkinney shop	ChIJp4m2QHsPZ0gReiLkWuF6xE4	shopping_mall|point_of_interest|establishment	53.34216439999999	-6.262949999999999			shopping_mall
+3	Local De Productos Argentinos	ChIJeSl0SYMOZ0gRvN1wjOAi0Yc	shopping_mall|point_of_interest|establishment	53.345755	-6.2628376	True		shopping_mall
+4	Antique Gallery	ChIJBwBAZJwOZ0gRYCHY6JQZNEg	shopping_mall|point_of_interest|establishment	53.3422518	-6.262255599999999	False		shopping_mall
+6	Powerscourt Centre	ChIJ23x-ZpwOZ0gR8zZd7f0jpGc	shopping_mall|point_of_interest|establishment	53.34223649999999	-6.261817299999999	False		shopping_mall
+7	Jervis Shopping Centre	ChIJrT6yAYMOZ0gRvxniWEYO5q4	shopping_mall|parking|point_of_interest|establishment	53.3482143	-6.2656231	True		shopping_mall
+8	Malll	ChIJDbuZkz0PZ0gRTbQ7ipAnfB0	shopping_mall|point_of_interest|establishment	53.3482667	-6.2656792			shopping_mall
+9	Antique Jonhsons	ChIJJT2lepwOZ0gRmNaAnPJ3HqE	shopping_mall|point_of_interest|establishment	53.34209019999999	-6.2613598	False		shopping_mall
+10	Johnson Court Antiques Service Centre	ChIJL_QiTwAPZ0gR-tTrC6JfOKI	shopping_mall|point_of_interest|establishment	53.34195860000001	-6.261245799999999			shopping_mall
+12	The Westbury Mall	ChIJx9hTbZwOZ0gRkG1ZVH3IxNY	shopping_mall|point_of_interest|establishment	53.3416445	-6.2610999	False		shopping_mall
+13	St. Stephen Green entrance	ChIJb4IeTTYPZ0gRgn_HfiOb1Ps	shopping_mall|point_of_interest|establishment	53.34027589999999	-6.262596			shopping_mall
+14	Paul	ChIJER_VNlcPZ0gRaeR3a56poTU	shopping_mall|point_of_interest|establishment	53.3463459	-6.260714600000001	True		shopping_mall
+15	Grafton Street Market	ChIJefi_UBUPZ0gRahEu-GFbarY	shopping_mall|point_of_interest|establishment	53.3424838	-6.259729200000001	True		shopping_mall
+16	Stephen's Green Shopping Centre	ChIJsyP0p54OZ0gRfKESW82zxqE	shopping_mall|point_of_interest|establishment	53.34000399999999	-6.262272900000001	True		shopping_mall
+17	Arnott's Bargain Basement	ChIJ9fA4nYMOZ0gR6NYbmjFf0fY	shopping_mall|point_of_interest|establishment	53.3481822	-6.2624795	False		shopping_mall
+18	Grafton Street	ChIJbeECprcPZ0gR40REd9qAgF8	shopping_mall|point_of_interest|establishment	53.3413794	-6.2601607	True		shopping_mall
+19	Stephen's Green Delivery Yard	ChIJI8uHhJ4OZ0gRsVk4DUPYWu0	shopping_mall|point_of_interest|establishment	53.33956360000001	-6.262792399999999	True		shopping_mall
+20	Peatonal	ChIJ0RLAp5cPZ0gRNcwtYLW0b2U	shopping_mall|point_of_interest|establishment	53.3402583	-6.260849299999999		56 Grafton Street, Dublin, D02 F576	shopping_mall
+21	The Big Pit	ChIJqX4fB04PZ0gRAgTxDYBz04A	shopping_mall|point_of_interest|establishment	53.3427693	-6.258235699999999	False	38 Nassau St, Dublin 2, D02 NN53	shopping_mall
+22	Catch	ChIJ68uMhYIPZ0gRYo2eWBSIo2A	shopping_mall|point_of_interest|establishment	53.349494	-6.2636024	True	Unit 19 Central Mall Ilac Centre, Henry St, Dublin, D01 XH32	shopping_mall
+23	Ilac Shopping Centre	ChIJQzGI6oMOZ0gRK0qi8vAboI8	shopping_mall|point_of_interest|establishment	53.3499889	-6.2647379	True	Henry St, North City, Dublin, D01 HW54	shopping_mall
+24	Royal Hibernian Way Shopping Centre	ChIJORf7wpsOZ0gRM8FfNYjJo30	shopping_mall|point_of_interest|establishment	53.3415788	-6.2583459	False	Dawson St, Dublin	shopping_mall
+25	General Post Office Arcade	ChIJ88UTU0oPZ0gRMRHRcKuZKeY	shopping_mall|point_of_interest|establishment	53.3489724	-6.2614514		General Post Office, North City, Dublin	shopping_mall
+26	The Bull Ring Market	ChIJ9Ygn-CQMZ0gRETns9_MSEmI	shopping_mall|point_of_interest|establishment	53.3411515	-6.278015799999999	True	66, 71 Meath St, Dublin Southside, Dublin 8, D08 A526	shopping_mall
+27	Irish design shop	ChIJm9P0FxwNZ0gRhuxTCIR6nEY	shopping_mall|point_of_interest|establishment	53.3373762	-6.2718459	False	Drury St, Portobello, Dublin	shopping_mall
+28	Maribar	ChIJTwUksoUOZ0gR8-N9fgEvykU	shopping_mall|point_of_interest|establishment	53.3489119	-6.259140899999999	False	1 Sackville Pl, North City, Dublin	shopping_mall
+29	Max	ChIJfRIm44MOZ0gRjeviWHXBNxQ	shopping_mall|point_of_interest|establishment	53.3505968	-6.2627125	True	19 Moore St, North City, Dublin 1	shopping_mall
+30	Buds	ChIJHQp3jrgPZ0gRt-6R1lY2QQQ	shopping_mall|point_of_interest|establishment	53.3498092	-6.2602739		North City, Dublin	shopping_mall
+31	Willie world	ChIJy3AlGEQPZ0gR_qDaSa47QGc	shopping_mall|point_of_interest|establishment	53.3498093	-6.2602739		North City, Dublin	shopping_mall
+32	Lucan Shopping Centre	ChIJ2atgLZoOZ0gReukqGG2odW4	shopping_mall|point_of_interest|establishment	53.3409205	-6.2566367		33 Molesworth St, Dublin, D02 CP04	shopping_mall
+33	Dublin Beauty Centre	ChIJ_VQhTYUOZ0gRORMq3VmgioM	shopping_mall|point_of_interest|establishment	53.3458074	-6.2554238	True	179A Townsend St, Dublin 2, D02 CV40	shopping_mall
+34	Moore Street Shopping Mall	ChIJGUtzUoEOZ0gRi9AFwJtBQFE	shopping_mall|point_of_interest|establishment	53.3513831	-6.2633375	True	58 Parnell St, North City, Dublin	shopping_mall
+35	Monker Town	ChIJ6Ze2mIYOZ0gRgMmkG0O2WUE	shopping_mall|point_of_interest|establishment	53.35124159999999	-6.2607789	True	O'Connell Street Upper, North City, Dublin	shopping_mall
+36	Talbot Mall	ChIJlSrIioUOZ0gRdUvA1dvtxrk	shopping_mall|point_of_interest|establishment	53.35001219999999	-6.256174	False	1 Talbot St, North City, Dublin, D01 XW65	shopping_mall
+37	Loja De Tecidos	ChIJj7wdZcQNZ0gRusOTpL12tt8	shopping_mall|point_of_interest|establishment	53.3499194	-6.2809878		Smithfield, Dublin	shopping_mall
+38	Johnstown Shopping Centre	ChIJO6SkhZcOZ0gRCbj3rqapFUk	shopping_mall|point_of_interest|establishment	53.336341	-6.2522629		19/26 Pembroke Street Lower, Dublin	shopping_mall
+39	VuThanh	ChIJeUHUB3gPZ0gRZ4mp2BYYrh4	shopping_mall|point_of_interest|establishment	53.348053	-6.242673099999999	True	25 N Wall Quay, North Wall, Dublin 1, D01 H104	shopping_mall
+40	Tienda merceria	ChIJb8YfvoMOZ0gRpLGZigh7Kdg	shopping_mall|point_of_interest|establishment	53.3490994	-6.2638981	True	5 Henry St North City Dublin 1 D01 AP04 Henry St, North City, Dublin 1, D01 AP04	shopping_mall
+41	Negozio regalini	ChIJt-sdyfwPZ0gRKDrAovd_82I	shopping_mall|point_of_interest|establishment	53.3495394	-6.2624		44A Henry St, North City, Dublin 1, D01 WR65	shopping_mall
+42	The Happy Shop	ChIJ97efH4UOZ0gR837mJUyMU34	shopping_mall|point_of_interest|establishment	53.3470423	-6.2579367	True	3A Burgh Quay, Dublin 2, D02 F243	shopping_mall
+43	Dublin Beer Factory	ChIJS88xb3sPZ0gRE245f6a5Fm0	shopping_mall|point_of_interest|establishment	53.3508332	-6.2668707	False	King's Inns St, Rotunda, Dublin	shopping_mall
+44	Irish Life	ChIJG5ipPnAPZ0gRy-GOSfuhUDc	shopping_mall|point_of_interest|establishment	53.3511765	-6.2530728	True	7-89 Mabbot Ln, Mountjoy, Dublin 1, D01 EY11	shopping_mall
+45	Adelphi Plaza	ChIJXyS-g6IOZ0gRrZdW0F7EIGs	shopping_mall|point_of_interest|establishment	53.3348401	-6.253962		Pembroke Street Upper, Dublin	shopping_mall
+46	CHQ Dublin	ChIJ0zvFKowOZ0gR5C2GLV36FLM	shopping_mall|food|point_of_interest|establishment	53.3490142	-6.2480492	True	Custom House Quay, North Dock, Dublin 1, D01 KF84	shopping_mall
+47	Mayavil textals	ChIJVx5By_ANZ0gRZzbPd7HVAZA	shopping_mall|point_of_interest|establishment	53.3279615	-6.2748621		Emmet St, Harold's Cross, Dublin	shopping_mall
+48	Park Shopping Centre	ChIJcRKXHs0NZ0gRcodFeUUsmZQ	shopping_mall|point_of_interest|establishment	53.3562124	-6.2871766	True	7 Prussia St, Stoneybatter, Dublin 7	shopping_mall
+49	Swan Shopping Centre	ChIJx-_1nB0MZ0gRl8T0-RgR-1o	shopping_mall|point_of_interest|establishment	53.3226767	-6.264446	True	6 Rathmines Rd Lower, Rathmines, Dublin 6	shopping_mall
+50	Point Square Dublin	ChIJ50BfbvAOZ0gRvDCYaNegrjw	shopping_mall|point_of_interest|establishment	53.34906429999999	-6.2278167	True	East Wall Road, Point Square, Dublin, D01 E0K6	shopping_mall
+51	Ashleaf Shopping Centre	ChIJ94Wbm4YMZ0gRiI7LywgChUs	shopping_mall|point_of_interest|establishment	53.31594699999999	-6.317565099999999	True	Cromwellsfort Rd, Crumlin, Dublin 12	shopping_mall
+52	Merrion Shopping Centre	ChIJKcSRhdMOZ0gRvc8CfECi6rQ	shopping_mall|point_of_interest|establishment	53.31855669999999	-6.213863	True	Merrion Rd, Dublin 4, D04 W8W2	shopping_mall
+53	Finglas Village Centre	ChIJSfvv-ncOZ0gRJrgZv4CUKfE	shopping_mall|point_of_interest|establishment	53.390325	-6.298400699999999	False	Ballygall, Dublin 11, D11 X9FH	shopping_mall
+54	Omni Shopping Centre	ChIJ-Zcpuz8OZ0gRI0AEcPnEzh4	shopping_mall|pharmacy|health|point_of_interest|clothing_store|store|establishment	53.3928317	-6.2484477	False	Swords Rd, Santry, Dublin, D09 HH61	shopping_mall
+55	Rathfarnham Shopping Centre	ChIJWawBl5ALZ0gRQfno9KStpd0	shopping_mall|beauty_salon|hair_care|jewelry_store|book_store|health|point_of_interest|store|establishment	53.2967555	-6.297553	False	Butterfield Ave, Rathfarnham, Dublin	shopping_mall
+56	Artane Castle Shopping Centre	ChIJ5RmWy8sPZ0gRtQV5CYiOcoQ	shopping_mall|point_of_interest|establishment	53.3836804	-6.2149494	True	5 Kilmore Rd, Beaumont, Dublin 5, D05 K8X9	shopping_mall
+57	Nutgrove Shopping Centre	ChIJOyLWBecLZ0gRHPEs_N_Zv40	shopping_mall|point_of_interest|establishment	53.2903992	-6.2672979	False	Nutgrove Ave, Rathfarnham, Dublin 14, D14 E6W6	shopping_mall
+58	Dundrum Town Centre	ChIJ1ar75WUJZ0gR23_MTNhRDD4	shopping_mall|movie_theater|point_of_interest|establishment	53.28698199999999	-6.242252	True	Sandyford Rd, Dundrum, Dublin 16	shopping_mall
+59	Northside Shopping Centre	ChIJR8eNFYQOZ0gRe8TkpFaz6gI	shopping_mall|point_of_interest|establishment	53.3957062	-6.2121933	True	Northside Shopping Centre, Oscar Traynor Rd, Dublin 17	shopping_mall

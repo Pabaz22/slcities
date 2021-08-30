@@ -1,0 +1,57 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	price_level	opening_hours.open_now	formatted_address	main_type
+0	Irish Country Houses and Restaurants Ltd	ChIJ8xahv5UOZ0gR28CEUkWbVmY	restaurant|food|point_of_interest|establishment	53.33704879999999	-6.2434371				restaurant
+1	Salt Cellar Cafe	ChIJFxiH3JUOZ0gRyxVG-CaIAVE	cafe|restaurant|food|point_of_interest|store|establishment	53.3372317	-6.2445336	1.0	False		restaurant
+2	O'Connor's of Mount Street	ChIJ519VTJQOZ0gRywHdgjGR_KM	bar|restaurant|food|point_of_interest|establishment	53.3383386	-6.243050299999998	2.0	True		restaurant
+3	Bon Espresso	ChIJZYQgVZQOZ0gR4zMZgNVAxmk	restaurant|cafe|food|point_of_interest|establishment	53.3383778	-6.2423312				restaurant
+4	The Punnet Food Emporium	ChIJZYQgVZQOZ0gRY6MoqlXjoAo	cafe|restaurant|food|health|point_of_interest|store|establishment	53.3383778	-6.2423312		False		restaurant
+5	Smyths of Haddington Road	ChIJ-SglF74OZ0gRv6q3bxjsP8Y	bar|restaurant|food|point_of_interest|establishment	53.3347706	-6.243412200000001	2.0	True		restaurant
+6	Asador	ChIJSYkHjOoOZ0gReO83DgQ39AU	restaurant|food|point_of_interest|establishment	53.3346448	-6.2437429	2.0	True		restaurant
+7	Angelina's Restaurant and Deli	ChIJNwNBDr4OZ0gRDmuA_q9DuMw	meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment	53.3346226	-6.2440307	2.0	True		restaurant
+9	The 51 Bar	ChIJSaeGO74OZ0gR8KZQ7o45K38	bar|restaurant|food|point_of_interest|establishment	53.3346672	-6.242479299999999	2.0	True		restaurant
+10	Milano	ChIJbd4gDr4OZ0gR3K5SS7eARNc	restaurant|food|point_of_interest|establishment	53.3342362	-6.245112600000001	2.0	True		restaurant
+11	Schoolhouse Hotel	ChIJh2PvPZUOZ0gRDvuWhYXEceU	lodging|bar|restaurant|food|point_of_interest|establishment	53.3374182	-6.2394994				restaurant
+12	Chai-Yo	ChIJvy09L5YOZ0gRY6UO1WVPulo	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.3357333	-6.247766700000001	2.0	True		restaurant
+13	Burger King Baggot Street	ChIJI4Jv370OZ0gRG3fr6lVur9A	restaurant|food|point_of_interest|establishment	53.333959	-6.2447125	1.0	True		restaurant
+14	Mamma Mia Deli Café Bar	ChIJ0bmlQZQOZ0gRNM68uNgIIyc	restaurant|food|point_of_interest|establishment	53.33943799999999	-6.243693199999999	2.0	True		restaurant
+15	Subway	ChIJD0pm370OZ0gRcCoqNLmfhog	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3339095	-6.244588499999999	1.0	False		restaurant
+16	Staple Foods	ChIJiXrwQZQOZ0gRw5gR8Ggl6cs	cafe|restaurant|food|health|point_of_interest|store|establishment	53.3395068	-6.2436905	2.0	False		restaurant
+18	Cafe Sol Baggot Street	ChIJNeF0NZYOZ0gRkC0bLVOjvck	cafe|restaurant|food|point_of_interest|store|establishment	53.3367017	-6.248495899999999	2.0	False		restaurant
+19	Dylan	ChIJk8UEW74OZ0gRLhYvFRJbu88	lodging|bar|restaurant|food|point_of_interest|establishment	53.3338092	-6.242007900000001	3.0	True		restaurant
+20	Zakura Izakaya	ChIJ75rI3r0OZ0gRCtVD-9V4Gv8	restaurant|food|point_of_interest|establishment	53.3337295	-6.244990899999999	2.0	True	7 Baggot Street Upper, Dublin 4, D04 K7H1	restaurant
+21	Kerala Kitchen	ChIJd03z270OZ0gRIyBsVfkuR2c	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.333736	-6.245114	2.0	True	5 Baggot Street Upper, Ballsbridge, Dublin 4, D04 N2X3	restaurant
+22	Saba	ChIJuYYVcL4OZ0gRquFAyUVV94U	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.3335765	-6.2437611	2.0	True	22 Baggot Street Upper, Dublin 4, D04 W5R2	restaurant
+23	Kanum Thai	ChIJ8fFKw70OZ0gRVSi5LuZD48Q	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.333775	-6.245499	2.0	True	77 Mespil Rd, Dublin 4, D04 VN26	restaurant
+24	Bloom Brasserie	ChIJfwQQ3L0OZ0gR1_44eE-GpU0	restaurant|bar|food|point_of_interest|establishment	53.33364	-6.244821	3.0	True	11 Baggot Street Upper, Dublin, D04 HN92	restaurant
+25	Bunsen Baggot Street	ChIJxdkCRXoPZ0gR8zCFiSzafzE	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3335573	-6.243680599999999		True	24 Baggot Street Upper, Dublin	restaurant
+26	The Eddison Restaurant	ChIJXZP2vsIPZ0gRvPXNeJ_ZYRc	restaurant|food|point_of_interest|establishment	53.333671	-6.2421371		True	Eastmoreland Pl, Dublin, D04 W521	restaurant
+27	Keshk Cafe	ChIJowrzWbsOZ0gRW21kkihQdWI	restaurant|food|point_of_interest|establishment	53.3337151	-6.2457726	2.0	True	71 Mespil Rd, Dublin 4	restaurant
+28	Boojum	ChIJmXUhx70OZ0gROAHlzS0XfiM	restaurant|food|point_of_interest|establishment	53.33360260000001	-6.2461631	1.0	True	63 Mespil Rd, Dublin 4, D04 RX37	restaurant
+29	Langkawi Malaysian Restaurant	ChIJeQorYb4OZ0gRhO2Za_uh2HI	restaurant|food|point_of_interest|establishment	53.3331756	-6.2428531	2.0	True	46 Baggot Street Upper, Dublin 4, D04 F2C8	restaurant
+30	Millers Pizza Kitchen	ChIJQ7GsYb4OZ0gRHdXvrVCylAU	restaurant|food|point_of_interest|establishment	53.3331775	-6.242695899999999	2.0	True	50 Baggot Street Upper, Dublin 4, D04 DH31	restaurant
+31	Fowl Play	ChIJc3MQCpQOZ0gRTvlNcxGlBgY	restaurant|food|point_of_interest|establishment	53.3408354	-6.2448136		True	45 Hogan Pl, Dublin 2, D02 RF34	restaurant
+32	Osteria Lucio	ChIJKS3MzpQOZ0gRTEe8QvvCgfo	restaurant|food|point_of_interest|establishment	53.3400984	-6.239301600000001	2.0	True	The Malting Tower, Grand Canal Quay, Clanwilliam Terrace, Dublin 2, D02 DW90	restaurant
+33	Musashi Hogan PL Noodle & Sushi bar	ChIJxcjQ95MOZ0gRqzdjufL7vwI	restaurant|food|point_of_interest|establishment	53.340926	-6.2450578	2.0	True	48 Hogan Pl, Dublin 2, D02 NC04	restaurant
+34	La Peniche	ChIJ4_nZHr0OZ0gREroutsohOwQ	restaurant|food|point_of_interest|establishment	53.33321400000001	-6.2484895	2.0	True	Grand Canal, Mespil Rd, Dublin 4	restaurant
+35	Matt The Thresher	ChIJIUhhj5cOZ0gRlJ9fSj8HMI8	restaurant|food|point_of_interest|establishment	53.3369563	-6.2517008	2.0	True	31-32 Pembroke Street Lower, Dublin 2, D02 Y523	restaurant
+36	F.X. Buckley Steakhouse Pembroke Street	ChIJDf-bhJcOZ0gResnyBU1Andc	restaurant|food|point_of_interest|establishment	53.3372824	-6.2518492	3.0	True	1a Pembroke Street Lower, Dublin, D02 VH93	restaurant
+37	Cirillo's	ChIJMwI01ZkOZ0gRn_BNiibtux0	restaurant|food|point_of_interest|establishment	53.337785	-6.252651999999999	2.0	True	140 Baggot Street Lower, Dublin 2, D02 HT73	restaurant
+38	The Chophouse	ChIJa9pqZOoOZ0gRoHOTop8_ano	bar|restaurant|food|point_of_interest|establishment	53.33701	-6.234100199999999	3.0	True	2 Shelbourne Rd, Dublin 4, D04 V4K0	restaurant
+39	Restaurant Patrick Guilbaud	ChIJwWaz2ZkOZ0gRimydVTwK0xA	restaurant|food|point_of_interest|establishment	53.3383937	-6.2530018	4.0	True	21 Merrion St Upper, Dublin 2, D02 KF79	restaurant
+40	Pearl Brasserie	ChIJpzqF0JkOZ0gRjLKm5bIW-Gs	restaurant|food|point_of_interest|establishment	53.3383413	-6.2531829	3.0	True	20 Merrion St Upper, Dublin 2, D02 XH98	restaurant
+41	The Garden Room	ChIJwcqd15kOZ0gRV2CT_4-Sxzo	restaurant|food|point_of_interest|establishment	53.3382026	-6.253331699999999		True	21-24 Merrion St Upper, Dublin 2	restaurant
+42	Orchid Restaurant	ChIJxa-BkMAOZ0gRmFrGQZgA7Cc	restaurant|food|point_of_interest|establishment	53.33234599999999	-6.236331	2.0	True	120 Pembroke Rd, Dublin, D04 E7T1	restaurant
+43	The Old Spot	ChIJsx_vauoOZ0gR-Aul2e4fO_o	bar|restaurant|food|point_of_interest|establishment	53.3373444	-6.2332028	2.0	True	14 Bath Ave, Dublin 4, D04 Y726	restaurant
+44	Hugo's Restaurant	ChIJi4F-uJkOZ0gRIrVxIrbllfg	restaurant|food|point_of_interest|establishment	53.3384943	-6.2544694	2.0	True	6 Merrion Row, Dublin 2, D02 T657	restaurant
+45	Dax Restaurant	ChIJ2a3rnKIOZ0gREovcB8K9uG4	restaurant|food|point_of_interest|establishment	53.33481099999999	-6.254518	4.0	True	Pembroke Street Upper Pembroke Street Upper, Dublin 2, D02 AK20	restaurant
+47	BANG restaurant & wine bar	ChIJrzeTuZkOZ0gRykUaIU23KhE	restaurant|food|point_of_interest|establishment	53.338384	-6.254805999999999	3.0	True	11 Merrion Row, Dublin, D02 KW61	restaurant
+48	Kennedy's Pub & Restaurant	ChIJQ1k55pAOZ0gRvHhymPkdAr8	bar|restaurant|food|point_of_interest|establishment	53.3421354	-6.2507085	2.0	True	30-32 Westland Row, Dublin 2, D02 DP70	restaurant
+49	The Sussex Restaurant	ChIJs9vRNqMOZ0gRz1vtfQ8JWn0	bar|restaurant|food|point_of_interest|establishment	53.3315482	-6.2515908	2.0	True	8/9 Sussex Terrace, Leeson Street Upper, Dublin 4, D04 KN82	restaurant
+50	Charlotte Quay	ChIJ_cjpjOwOZ0gRNw9mKAoUybs	restaurant|food|point_of_interest|establishment	53.34293770000001	-6.2369903	2.0	True	Charlotte Quay Dock, Millennium Tower, Ground Floor, Ringsend Rd, Dublin 4	restaurant
+51	Le Perroquet	ChIJ_0bh2SoPZ0gR8kbH-DGHSJw	restaurant|food|point_of_interest|establishment	53.3305508	-6.251606799999999		True	133 Leeson Street Upper, Dublin, D04 HX48	restaurant
+52	Ninja Sushi Japanese Restaurant	ChIJ7VTe3_sPZ0gRzVhs44ff7Ig	restaurant|food|point_of_interest|establishment	53.344433	-6.2488687		True	3 & 4 Lombard St E, Dublin 2, D02 VY96	restaurant
+54	The Pig's Ear	ChIJkRYZaZoOZ0gR9CvuTvkeY5M	restaurant|food|point_of_interest|establishment	53.3421312	-6.2549834	3.0	True	4 Nassau St, Dublin, D02 YX74	restaurant
+55	One Pico Restaurant	ChIJyYhP15sOZ0gRw5RvgwVvohE	restaurant|food|point_of_interest|establishment	53.340616	-6.2573439	3.0	True	5 Molesworth Pl, School House Ln E, Dublin 2, D02 YA32	restaurant
+56	FIRE Steakhouse & Bar	ChIJl9gur5sOZ0gRdWFOYPXJi6c	bar|restaurant|food|point_of_interest|establishment	53.3404968	-6.2575332	3.0	True	The Mansion House, Dawson St, Dublin 2	restaurant
+57	The Greenhouse	ChIJT5Y7wZsOZ0gRHd0yJgfxjr0	restaurant|food|point_of_interest|establishment	53.34000469999999	-6.2584398	4.0	True	Joshua House, 21 Dawson St, Dublin 2, D02 TK33	restaurant
+58	Dunne and Crescenzi	ChIJEedyTpoOZ0gRFkcbjyAxVig	restaurant|food|point_of_interest|establishment	53.3422242	-6.256606499999999	2.0	True	16 Frederick St S, Dublin	restaurant
+59	The Ivy Dublin	ChIJ41hUt5sOZ0gR1lrtFvcgXUU	restaurant|cafe|bar|food|point_of_interest|establishment	53.3414283	-6.2579769	3.0	True	13-17 Dawson St, Dublin, D02 TF98	restaurant

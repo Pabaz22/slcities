@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	UrbanWax - Waxing | Laser Hair Removal	ChIJDS0IcJsOZ0gRFSyE3SphN6U	beauty_salon|hair_care|health|point_of_interest|establishment	53.3434642	-6.2601359	False		hair_care
+1	Urban Wax	ChIJSy6-c5sOZ0gRYph1p4Q4kg8	beauty_salon|hair_care|point_of_interest|establishment	53.343459	-6.2601214			hair_care
+2	The Galligan Beauty and Skin Clinic	ChIJURZCe9sPZ0gR-n6rhA7gEuc	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.3435174	-6.2595144	False		hair_care
+3	The Wicklow Street Clinic	ChIJn5jAgZwOZ0gRGmcZ_kCuOvo	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.34313529999999	-6.260683899999999	False		hair_care
+4	The London Hair Lab	ChIJq6pXdJsOZ0gRc2GZqycNRrM	hair_care|point_of_interest|establishment	53.34303669999999	-6.259222499999999			hair_care
+5	Mask Hair	ChIJv0aFMZgPZ0gRps3FTr-Gcos	hair_care|point_of_interest|establishment	53.34303669999999	-6.259222499999999	False		hair_care
+6	The Trinity Barber	ChIJx0-hkJwOZ0gRTHd27F6v8ww	hair_care|health|point_of_interest|establishment	53.3436968	-6.261758599999999	True		hair_care
+7	RJM Hair & Beauty	ChIJbSSkkJwOZ0gRZ9KJ2i1mms8	hair_care|point_of_interest|establishment	53.3437735	-6.2618106			hair_care
+8	Dry & Fly | Wicklow Street	ChIJsbdigZwOZ0gR_pX3TbFHkv0	beauty_salon|hair_care|point_of_interest|establishment	53.3430688	-6.2610004	False		hair_care
+9	Natural Cut	ChIJy_TvgJwOZ0gR15mcVZUI4QY	hair_care|health|point_of_interest|establishment	53.34287980000001	-6.260919200000002	True		hair_care
+10	VL - Aesthetic & Laser Clinic	ChIJH7jjRsYPZ0gRWTteziffmXU	beauty_salon|hair_care|health|point_of_interest|establishment	53.3432842	-6.2617854			hair_care
+11	Number 5 Andrew Street Hair Salon	ChIJ9wVuKDQPZ0gR93eizdHa1FY	hair_care|point_of_interest|establishment	53.3432842	-6.2617854	False		hair_care
+12	Hairfairy	ChIJ-QjvhZwOZ0gRd95jAjK9b_c	hair_care|point_of_interest|establishment	53.34310139999999	-6.2615653			hair_care
+13	Irish Barber College	ChIJ64eJgUcPZ0gRU7nneutrpB8	hair_care|health|point_of_interest|store|establishment	53.34310139999999	-6.2615653	True		hair_care
+15	Anderson Mastronelli	ChIJB88PPWMPZ0gRh3GMR4UJ9aE	hair_care|point_of_interest|establishment	53.34325459999999	-6.261862900000001	False		hair_care
+16	Zara Cox hair salon	ChIJoxGuL-QPZ0gRW3Q6m44Lh8Q	hair_care|point_of_interest|establishment	53.34293750000001	-6.261379799999999			hair_care
+17	ZERO ONE SALON	ChIJ0Z2XiJwOZ0gREoNAv1qiskw	beauty_salon|hair_care|point_of_interest|establishment	53.34295119999999	-6.261665099999999	False		hair_care
+18	Flatiron by Carlin Doran	ChIJdQWUW5wOZ0gRK6OzIshJxQM	hair_care|health|point_of_interest|establishment	53.343007	-6.261871999999999	False		hair_care
+19	5th Avenue Boutique Dublin	ChIJhwbSiJwOZ0gRum4S3Gq51nA	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.34296610000001	-6.261812900000001	True		hair_care
+20	Mane Hair Salon	ChIJr6t8XJwOZ0gR6OVKD0E6GfY	hair_care|point_of_interest|establishment	53.3421645	-6.262685299999999	False	16 William St S, Dublin 2, D02 NY90	hair_care
+21	Le Fringe Beauty	ChIJmQlzWbYPZ0gRqtHSNNvcLkA	beauty_salon|hair_care|point_of_interest|establishment	53.344891	-6.2638908	True	8 Crow St, Temple Bar, Dublin, D02 HX78	hair_care
+22	The Art Team	ChIJ-29gdZwOZ0gRn7abFuB7sY4	hair_care|point_of_interest|establishment	53.3415068	-6.260406000000001		75 Grafton Street, Dublin 2, D02 PD81	hair_care
+23	Dylan Bradshaw Hair Salon	ChIJC-ytXJwOZ0gRq1egu9HS-eM	beauty_salon|hair_care|point_of_interest|establishment	53.3418977	-6.2626158	False	56 William St S, Dublin 2, D02 Y897	hair_care
+24	Eden & Mane Hair Studio	ChIJg6nrvx8NZ0gRHhtvU75t_gw	hair_care|point_of_interest|establishment	53.3448224	-6.264255599999999	True	The Design House, 23/24 Temple Ln S, Temple Bar, Dublin, D02 X611	hair_care
+25	DaveyDavey Hair Salon	ChIJmXIYUZwOZ0gR3pgLEjewA9U	hair_care|point_of_interest|establishment	53.34224	-6.263484999999999	False	23 Drury St, Dublin 2, D02 YE26	hair_care
+26	Cats Hair Salon	ChIJga9gE5wOZ0gRyyednK-7cUo	hair_care|point_of_interest|establishment	53.3412912	-6.261507399999999	False	Unit 1 Clarendon Row, Dublin, D02 TA43	hair_care
+27	NHO new hair order	ChIJM0i7hf0PZ0gRQZKEahWGXBA	hair_care|point_of_interest|establishment	53.3416557	-6.2630439	False	26 William St S, Dublin 2, D02 V659	hair_care
+28	Maven Hair Studio	ChIJz4SWKZ0OZ0gRtj2aYpfrH9s	hair_care|point_of_interest|establishment	53.34475219999999	-6.2648958	False	Esco House, 9 Eustace St, Temple Bar, Dublin, D02 CK70	hair_care
+29	The Hair Artist	ChIJEfXmmucPZ0gRoEJ_5jj-AbE	hair_care|point_of_interest|establishment	53.3448057	-6.2648939	False	Unit 4, 9/10 Eustace St, Temple Bar, Dublin 2, D02 F729	hair_care
+30	Black on White Hair Extensions	ChIJXcOsSJwOZ0gR-V7mNtYGsik	hair_care|point_of_interest|establishment	53.341611	-6.263089	False	27 William St S, Dublin 2, D02 RP86	hair_care
+31	Good Place Beauty Studio	ChIJX_r0RaYPZ0gRphBtqEtt2eA	beauty_salon|hair_care|point_of_interest|establishment	53.3456698	-6.2553294	False	Beehive Wellness, Tara St, Dublin 2, D02 AE33	hair_care
+32	Cheng Hair & Beauty Salon	ChIJXzKEO50OZ0gRJsGVK-5iSj8	hair_care|point_of_interest|establishment	53.3442945	-6.265624	True	67 Dame St, Temple Bar, Dublin, D02 X290	hair_care
+33	Foundation Hair	ChIJ6a3ilZ0OZ0gRPp9dshcX22c	hair_care|point_of_interest|establishment	53.3414252	-6.2657475	False	18 Stephen Street Upper, Dublin, D08 PTD0	hair_care
+34	New York Hairdressing	ChIJmxKCCYUOZ0gRV6dLw1rREWc	hair_care|point_of_interest|establishment	53.3481762	-6.2567433	True	20 Eden Quay, North City, Dublin 1, D01 E6N6	hair_care
+35	Ailesbury Hair Loss Clinic	ChIJG_iNu5AOZ0gR4UTWH8hrxME	beauty_salon|hair_care|hospital|doctor|health|point_of_interest|establishment	53.3414709	-6.252176299999999	False	Floors 2-3, 26 Clare Street, Dublin	hair_care
+36	Hair World Studio	ChIJDVpeCIQOZ0gRNr5uIIN0dAo	hair_care|point_of_interest|establishment	53.3500334	-6.2621404	True	9 Moore St, North City, Dublin 1, D01 V227	hair_care
+37	YOUR LASER CARE	ChIJEaf1xYUOZ0gR1H7K2qlaquY	beauty_salon|hair_care|health|point_of_interest|establishment	53.350085	-6.257957999999999		1st floor, 107 Talbot St, North City, Dublin, D01 F9V4	hair_care
+38	Rick's Hair Workshop	ChIJ3ZRbfoEOZ0gRjZ1ZI1O0YAk	hair_care|point_of_interest|establishment	53.3507878	-6.2658136	True	193 Parnell St, Rotunda, Dublin 1, D01 HD40	hair_care
+39	Kevilles Hair Care	ChIJEyy79oEOZ0gReVcSh8PY2E4	hair_care|point_of_interest|establishment	53.3507696	-6.268277899999999		Loftus Ln, Rotunda, Dublin	hair_care
+40	The Hive	ChIJNyr4aYcOZ0gRRp82YaX1aJE	hair_care|point_of_interest|establishment	53.34382799999999	-6.2626827	False	1 Dame Ln, Dublin, D02 V677	hair_care
+41	Tian Du Hairdressing Centre	ChIJFeTjyoQOZ0gR0dLvXGwOawA	hair_care|point_of_interest|establishment	53.3456781	-6.2594832	True	2nd Floor, 6 Westmoreland St, Temple Bar, Dublin, D02 VF82	hair_care
+42	Style Club Hairdressing	ChIJQzdHXpwOZ0gR8Obr8u91A3c	hair_care|point_of_interest|establishment	53.342434	-6.2624833	False	12 William St S, Dublin	hair_care
+43	Hermans Hairstylists	ChIJA2BAiZsOZ0gRTq-BhXHZAxU	hair_care|point_of_interest|establishment	53.34183520000001	-6.2602191	False	81 Grafton Street, Dublin 2, D02 K284	hair_care
+44	Robert Chambers Hair Salon	ChIJGxn4C5wOZ0gRpev4SZgONI0	hair_care|point_of_interest|establishment	53.3410804	-6.260667	False	69 Grafton Street, Dublin 2, D02 HC04	hair_care
+46	DaveyDavey Hair Salon	ChIJqewPuJ0OZ0gRdWjZzG1DLjI	hair_care|point_of_interest|establishment	53.3412461	-6.2647717	True	24 Stephen Street Lower, Dublin 2	hair_care
+47	Whetstone Aveda Concept Salon	ChIJ6cFsPi6xXUgRhq7XiTd2gRo	hair_care|point_of_interest|establishment	53.3445052	-6.267202999999999	False	7 Parliament St, Temple Bar, Dublin, D02 RK76	hair_care
+48	Salon 14	ChIJwzIIwEAPZ0gRwqBAymKsXTw	beauty_salon|hair_care|point_of_interest|establishment	53.350013	-6.2583428	False	14 N Earl St, Northside, Dublin, D01 NN70	hair_care
+49	Studio Hair and Beauty	ChIJ728UGJ4OZ0gRs7PQKTkEJpQ	hair_care|point_of_interest|establishment	53.3384882	-6.2659287		Dublin	hair_care
+50	Elmes Skincare Clinic | Electrolysis Clinic	ChIJ69s6d4IOZ0gRWFOBpeECzc0	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.3485544	-6.268665899999999	False	65 Mary St, North City, Dublin 1, D01 P7F8	hair_care
+51	Youmei hair & beauty	ChIJv_9VpDENZ0gRs8uMbRuSrwA	hair_care|point_of_interest|establishment	53.3489703	-6.2691529	True	118 Capel street Dublin 1 Dublin 1, Dublin, D01 VW94	hair_care
+52	The Salon	ChIJ6a457iYMZ0gRdF-eC0cA9w0	hair_care|point_of_interest|establishment	53.3414273	-6.272038999999999	False	73/74 Patrick St, Dublin 8, D08 XT28	hair_care
+53	Deluxe Hair, Nail & Beauty	ChIJsYXzMI8OZ0gRpEdmo60HF9g	beauty_salon|hair_care|point_of_interest|store|establishment	53.350728	-6.2530519	False	12 Store St, Mountjoy, Dublin 1, D01 HK71	hair_care
+54	Monica's Hair Extensions	ChIJ35EAII8OZ0gRqBq8-Izq2oI	hair_care|point_of_interest|establishment	53.3507512	-6.2528467		Store St, Mountjoy, Dublin	hair_care
+55	The Laser and Skin Clinic	ChIJt-8HmZcOZ0gR8AuM1L4I808	beauty_salon|hair_care|health|point_of_interest|establishment	53.3369982	-6.2522515	False	7 Pembroke Street Lower, Dublin 2, D02 KD34	hair_care
+56	Hairlift Studio	ChIJ91kk1Y4OZ0gRb4_dbg6ArbE	hair_care|point_of_interest|establishment	53.3512911	-6.2519057	True	36C Talbot St, Mountjoy, Dublin, D01 YD83	hair_care
+57	Scruples Urban Hair Beauty Retreat	ChIJJZyiy44OZ0gRQ-KoI_lgI_A	beauty_salon|hair_care|point_of_interest|establishment	53.3512079	-6.250636999999999	False	54 Talbot St, Mountjoy, Dublin, D01 W6E5	hair_care
+58	Annette Hair Salon	ChIJ1ULiUiEMZ0gRvE4aP01S5vA	hair_care|point_of_interest|establishment	53.3392748	-6.2732747	False	Dean St, Merchants Quay, Dublin	hair_care
+59	Style 4 Hair Beauty	ChIJBz2j9iQMZ0gRsLh8DrTqgdI	hair_care|beauty_salon|point_of_interest|establishment	53.3408609	-6.2781679		66 Meath St, The Liberties, Dublin 8, D08 DK64	hair_care

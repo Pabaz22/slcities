@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	anpostdelivery	ChIJ9diP4z4NZ0gRVBjyYjmncwg	post_office|finance|point_of_interest|establishment	53.33596719999999	-6.276641099999998	True		post_office
+1	An Post Cork St	ChIJAwBgHzwMZ0gRHGdMhAF02Eg	post_office|finance|point_of_interest|establishment	53.33721739999999	-6.286745199999999	False		post_office
+2	An Post Kevin Street Upper	ChIJ_____yAMZ0gRX_TCrsmgAe4	post_office|finance|point_of_interest|establishment	53.3373098	-6.272845799999999	False		post_office
+3	An Post Leonard's Corner	ChIJvTns8RgMZ0gRi1Cq_qD8NKc	post_office|finance|point_of_interest|establishment	53.3321318	-6.2750254	False		post_office
+4	An Post Dolphin's Barn	ChIJw6ueyD8MZ0gR6dG1IEkD0FE	post_office|finance|point_of_interest|establishment	53.3340174	-6.2909532	False		post_office
+5	An Post Dublin 8 Delivery Office	ChIJY0EgcRUMZ0gRPqojBqhW2hI	post_office|finance|point_of_interest|establishment	53.33197639999999	-6.289499	False		post_office
+6	Post Office	ChIJwZTNWhUMZ0gR-DqFfTNd8OE	post_office|finance|point_of_interest|establishment	53.331928	-6.289505800000001	False		post_office
+7	An Post Usher's Quay	ChIJIz87RS8MZ0gRhUw3i27CoGo	post_office|finance|point_of_interest|establishment	53.3453252	-6.2764199	False		post_office
+8	Harold's Cross Post Office	ChIJVQwhcxoMZ0gRObRH-6qCSiM	post_office|finance|point_of_interest|establishment	53.3269087	-6.277491100000001	False		post_office
+9	James's Street Post Office	ChIJTexkmzKDY0ERx_G2gJkTmq0	post_office|finance|point_of_interest|establishment	53.3425322	-6.2941064	False		post_office
+10	Rialto Post Office	ChIJbU2hGkEMZ0gRWqDFv60yvF4	post_office|finance|point_of_interest|establishment	53.3360442	-6.2984681	False		post_office
+11	St. Andrew's St. Post Office	ChIJXTLrjpwOZ0gR7eosBKKEqew	post_office|finance|point_of_interest|establishment	53.34381639999999	-6.2614242	False		post_office
+12	An Post Post Box	ChIJzUpVwhINZ0gRHtfM98MZLPc	post_office|finance|point_of_interest|establishment	53.3505492	-6.2817146			post_office
+13	An Post Earlsfort Terrace	ChIJ3yIXlpgOZ0gRZdQxFZwQ0rs	post_office|finance|point_of_interest|establishment	53.33571889999999	-6.2572458	False		post_office
+14	PPenvíos Dublin	ChIJcfNgKzANZ0gRAo57pB0iMXo	post_office|finance|point_of_interest|establishment	53.325114	-6.2673652	False		post_office
+15	Post Office	ChIJdxUvbzYMZ0gRWg76FkOlDRA	post_office|finance|point_of_interest|establishment	53.34821669999999	-6.294479000000001	False		post_office
+16	An Post	ChIJebysQYQOZ0gR-8it5ybY82M	post_office|finance|point_of_interest|establishment	53.3510283	-6.2703071	False		post_office
+17	Merrion Row Post Office	ChIJrZV_B8QOZ0gRAnfbPTbrGzw	post_office|finance|point_of_interest|establishment	53.338159	-6.2540679	False		post_office
+18	Creighans Post Office	ChIJkTih3kQMZ0gR5VwDLFf6Dd4	post_office|finance|point_of_interest|establishment	53.3399168	-6.307847999999999	False		post_office
+19	Lawrences	ChIJR2ouc4QOZ0gRQ2sTnnv95BA	post_office|finance|point_of_interest|establishment	53.34944309999999	-6.2619352			post_office
+20	An Post, General Post Office	ChIJebysQYQOZ0gRpgPPd8gjejc	post_office|tourist_attraction|finance|point_of_interest|store|establishment	53.349349	-6.260720999999999	False	O'Connell Street Lower, North City, Dublin 1	post_office
+21	GPO Museum	ChIJ____P4QOZ0gR7IJjymgVDiM	post_office|finance|point_of_interest|establishment	53.3495374	-6.260498200000001	True	O'Connell Street Lower, North City, Dublin	post_office
+22	Post Office	ChIJUwXIr2gMZ0gR3dfD4R1Uw-c	post_office|finance|point_of_interest|establishment	53.327397	-6.305580399999999	False	123 Old County Rd, Crumlin, Dublin 12, D12 AF83	post_office
+23	Rathmines Post Office DSU	ChIJS5ls8AIMZ0gRuGI4GZDXUBg	post_office|finance|point_of_interest|establishment	53.3214007	-6.2655511	False	4/6 Rathmines Rd Upper, Rathmines, Dublin 6, D06 XV90	post_office
+24	Dublin 6 postal collection point	ChIJcfwRr78NZ0gRE_PLZm7V_18	post_office|finance|point_of_interest|establishment	53.32151409999999	-6.2650182	False	Rathmines Delivery Office, Rathmines Rd Upper, Rathmines, Dublin 6	post_office
+25	Sundrive Post office	ChIJaR7Q2HIMZ0gRwDBpvset13o	post_office|finance|point_of_interest|establishment	53.3195631	-6.291072199999999	False	169C Kimmage Rd Lower, Kimmage, Dublin 6W, Co. Dublin, D6W CY27	post_office
+26	Ranelagh Post Office	ChIJ-bx1CKMOZ0gRktERixD6ky4	post_office|finance|point_of_interest|establishment	53.3254767	-6.2554848	False	27/29 Ranelagh Rd, The Triangle, Dublin	post_office
+27	An Post	ChIJuXtBP80NZ0gRVwnQkiLvFlU	post_office|finance|point_of_interest|establishment	53.3560323	-6.286692	False	Park Shopping Centre, Prussia St, Stoneybatter, Dublin	post_office
+28	An Post Sorting Office	ChIJVVVBO4cOZ0gRW_KteYMPpB4	post_office|finance|point_of_interest|establishment	53.3542597	-6.2620817	False	Rutland Pl, Rotunda, Dublin 1	post_office
+29	Rutland Place Sorting Office	ChIJndfhPIcOZ0gRthuwkPl401A	post_office|finance|point_of_interest|establishment	53.35430909999999	-6.2617917	False	1 Rutland Pl, Rotunda, Dublin	post_office
+30	An Post Baggot Street Upper Post Office	ChIJ9cwk4y8PZ0gRUu9dY1MAXG0	post_office|finance|point_of_interest|establishment	53.333581	-6.2447808	False	13 Baggot Street Upper, Dublin, D04 W7K5	post_office
+31	An Post Dorset Street	ChIJfyuWkIAOZ0gR2uWWqe-P0rM	post_office|finance|point_of_interest|establishment	53.35662850000001	-6.2643635	False	59 Dorset Street Upper, Rotunda, Dublin 1, D01 K851	post_office
+32	An Post Upper Erne Street	ChIJ9eDot5MOZ0gRgLzwbhaFZGM	post_office|finance|point_of_interest|establishment	53.3429769	-6.244837899999999	False	24, Erne Street Upper, Dublin 2	post_office
+33	Anpost	ChIJJ5Q6_FgMZ0gRhqjEf1aH9P4	post_office|finance|point_of_interest|establishment	53.3392444	-6.319922800000001	False	209 Spa Rd, Inchicore, Dublin	post_office
+34	Inchicore Post Office	ChIJwws5AFkMZ0gRVklzfupNjMM	post_office|finance|point_of_interest|establishment	53.3392079	-6.3199335	False	212 Spa Rd, Inchicore, Dublin	post_office
+35	Post office	ChIJ46UpJnQMZ0gRMw5Opbpzc08	post_office|finance|point_of_interest|establishment	53.3145052	-6.296095299999999	False	316 Kimmage Rd Lower, Kimmage, Terenure, Dublin 6W, Co. Dublin, D6W KH96	post_office
+36	Phibsborough Post Office	ChIJJ_E82tUNZ0gRk3S4KMP0hK4	post_office|finance|point_of_interest|establishment	53.3606268	-6.2742284	False	336 N Circular Rd, Dublin, D07 K2DR	post_office
+37	An Post - Terenure Post Office	ChIJhaGCvvULZ0gRh3phFeUVwTM	post_office|finance|point_of_interest|establishment	53.3103013	-6.283603299999999	False	128 Terenure Rd N, Terenure, Dublin 6W, Co. Dublin, D6W PV38	post_office
+38	An Post Parcel Depot	ChIJL74rMdINZ0gR3XtQpdciTNc	post_office|finance|point_of_interest|establishment	53.3204292	-6.3157785	False	St Agnes Rd, Kimmage, Crumlin, Co. Dublin, D12 WK5A	post_office
+39	Ringsend Post Office	ChIJ13C8cesOZ0gRohpSXVl-7Js	post_office|finance|point_of_interest|establishment	53.34022179999999	-6.2361115	False	Google Building Gordon House, Barrow St, Dublin 4, D04 EA27	post_office
+40	An Post Drimnagh	ChIJSd-D8YkMZ0gRcod_BRMnE3s	post_office|finance|point_of_interest|establishment	53.3254972	-6.3212715	False	10 Errigal Rd, Crumlin, Dublin 12, D12 XF88	post_office
+41	Crumlin Post Office	ChIJm3POLn0MZ0gR1dfkcOlVtoY	post_office|finance|point_of_interest|establishment	53.3209659	-6.317513	False	3/4 St Agnes Rd, Crumlin, Dublin 12, D12 VAA8	post_office
+42	Summerhill Post Office	ChIJ9fed5mEOZ0gRKVhs9pdyT4s	post_office|finance|point_of_interest|establishment	53.3573753	-6.2486328	False	Summerhill Parade, Ballybough, Dublin 11	post_office
+43	Cabra Post Office	ChIJmyKHHdANZ0gRMhzcOjhiQsU	post_office|finance|point_of_interest|establishment	53.3648023	-6.286852	False	40 Faussagh Rd, Cabra East, Dublin, D07 DFK0	post_office
+44	An Post Drumcondra	ChIJ3yNUNXsOZ0gRppRP4E5__mc	post_office|finance|point_of_interest|establishment	53.36337589999999	-6.2583836	False	32_38 Drumcondra Rd Lower, Drumcondra, Dublin 9, D09 DT62	post_office
+45	An Post Ballsbridge	ChIJ4R3_yMYOZ0gRTUErK2ImUPQ	post_office|finance|point_of_interest|establishment	53.3302162	-6.2317049	False	Shelbourne Rd, Dublin, D04 E038	post_office
+46	North Strand Post Office	ChIJI4SBo0kPZ0gRVg_N5-tvnuk	post_office|finance|point_of_interest|establishment	53.35689929999999	-6.2433991	False	150D N Strand Rd, North Strand, Dublin, D03 KT02	post_office
+47	Botanic Road Post Office	ChIJDxitGHgOZ0gRqsikUaWTpS0	post_office|finance|point_of_interest|establishment	53.3662789	-6.271368499999999	False	8 Botanic Rd, Botanic, Dublin 9, D09 CC79	post_office
+48	An Post	ChIJYT2ykogLZ0gRIpuBIoDseDU	post_office|finance|point_of_interest|establishment	53.3074855	-6.299919699999999	False	108 Greenlea Rd, Terenure, Dublin 6W, Co. Dublin, D6W W710	post_office
+49	Faussagh Avenue Post Office	ChIJgatKU8YNZ0gRbDkbVLZY-n4	post_office|finance|point_of_interest|establishment	53.367491	-6.2992833	False	72 Faussagh Ave, Cabra West, Dublin 7, D07 YH59	post_office
+50	An Post	ChIJnSQEOfYOZ0gRW7rdsRaVwYY	post_office|finance|point_of_interest|establishment	53.3551372	-6.2350468	False	147 Church Rd, East Wall, Dublin 3	post_office
+51	Walkinstown Post Office	ChIJnfjyCY8MZ0gRNljILzcgyrE	post_office|finance|point_of_interest|establishment	53.3218878	-6.329597499999999	False	SuperValu Shopping Centre, Walkinstown Rd, Walkinstown, Dublin	post_office
+52	Drumcondra Post Office	ChIJl0XffW8OZ0gR_pbkZAuP30c	post_office|finance|point_of_interest|establishment	53.3675067	-6.255252	False	153 Drumcondra Rd Lower, Drumcondra, Dublin 9, D09 WN56	post_office
+53	Post Delivery Services Unit	ChIJE5OPesQNZ0gRSNmJMlopyq4	post_office|finance|point_of_interest|establishment	53.37048799999999	-6.2925178	False	Bannow Rd, Cabra West, Dublin, D07 AX73	post_office
+54	Post Office Delivery Unit	ChIJl11tm-4MZ0gRfVHuei6u3kg	post_office|finance|point_of_interest|establishment	53.3366813	-6.341412	False	Westlink Industrial Estate, 18, Dublin 10	post_office
+55	Post	ChIJy1ZVSn4LZ0gR3AmEwm3Wc7Q	post_office|finance|point_of_interest|establishment	53.3083278	-6.319779899999999	False	178/180 Whitehall Rd W, Dublin 12, D12 AV96	post_office
+56	Rathfarnham Post Office	ChIJwwvuM-0LZ0gRofwMfYIOqEQ	post_office|finance|point_of_interest|establishment	53.2990996	-6.2854187	False	13 Main St, Rathfarnham, Dublin 14, D14 Y5N7	post_office
+57	An Post Lomond Avenue - Sorting Office	ChIJ7x8A4lwOZ0gR4rzwefB7LkI	post_office|finance|point_of_interest|establishment	53.3665022	-6.241369199999999	False	18 Lomond Ave, Drumcondra, Dublin, D03 KW58	post_office
+58	An Post Ballyfermot	ChIJnZRNMe8MZ0gRfn8MUrmS-Zg	post_office|finance|point_of_interest|establishment	53.3393844	-6.343815800000001	False	199 Decies Rd, Decies, Dublin 10, D10 RD36	post_office
+59	an post	ChIJa3xCeFANZ0gRZR8GvMrIBfA	post_office|finance|point_of_interest|establishment	53.32415349999999	-6.340646		Long Mile Rd, Walkinstown, Dublin	post_office

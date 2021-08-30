@@ -1,0 +1,51 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	The Spencer Health Club	ChIJN8f9EY0OZ0gR92-O6Vet53c	gym|spa|health|point_of_interest|establishment	53.3481315	-6.2434718	True		spa
+1	Viola Day Spa	ChIJCUK8EY0OZ0gRLaMoaKuGoTs	beauty_salon|hair_care|spa|point_of_interest|establishment	53.348171	-6.243326	False		spa
+2	Markievicz Leisure Centre	ChIJd_yg_48OZ0gRsH5wW2QE8Tk	gym|spa|health|point_of_interest|establishment	53.34607399999999	-6.2542942	False		spa
+3	Cardiff Lane Beauty & Spa- LPG Beauty Therapy	ChIJU7xhd-wPZ0gROBrOaTOsxuw	spa|beauty_salon|point_of_interest|establishment	53.3453634	-6.240911299999999			spa
+4	Essence Day Spa	ChIJkVfAI5APZ0gRngZdTtgBOY4	spa|point_of_interest|establishment	53.3458209	-6.2553573			spa
+5	Perola Padilha Clinic & Spa	ChIJlTB8SrAPZ0gRy_6Jhh5Vs6w	spa|health|point_of_interest|establishment	53.34567910000001	-6.255422200000001	True		spa
+7	Royal Thai Massage	ChIJTd1dWYkOZ0gRXPiK6R0b4Fw	physiotherapist|spa|health|point_of_interest|establishment	53.3508498	-6.2506564	True		spa
+8	Dublin Brazilian Massage - Exotic Relaxing ,Deep Tissue Massage Parlour Dublin	ChIJ1butnPsNZ0gRzYgjXdleht4	physiotherapist|spa|health|point_of_interest|establishment	53.3498106	-6.2536233	True		spa
+9	Deep Relief Spa	ChIJGypFrqIPZ0gRsCyeYVNsAHM	spa|point_of_interest|establishment	53.3507636	-6.254933699999999	True		spa
+10	Waldorf-Barbers	ChIJIaqsxYQOZ0gRlpXtLFjMoto	hair_care|spa|health|point_of_interest|establishment	53.34616189999999	-6.2593026	False		spa
+11	Moonlight Brazilian massage	ChIJifXUWXYPZ0gRh1b3pQ9q4NI	spa|point_of_interest|establishment	53.3489403	-6.258779499999999	True		spa
+12	Melody massage and beauty Studio	ChIJV6b1xYUOZ0gRQ2YjumrE6Wg	beauty_salon|physiotherapist|spa|health|point_of_interest|establishment	53.3500573	-6.2579835	True		spa
+13	HAIR SHOW - Hair and Beauty Studio	ChIJSYcJz4UOZ0gRhlkqMhDXWfo	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.3500847	-6.257957699999999	True		spa
+14	The kingdom spa	ChIJ5fdlpasPZ0gR3wKuX2I-O7o	spa|point_of_interest|establishment	53.350085	-6.257958	True		spa
+15	TANTRAHOME MASSAGES DUBLIN	ChIJmV8UvuwOZ0gRT1KZgI6ghgg	spa|point_of_interest|establishment	53.3423335	-6.2378434	True		spa
+17	Merrion Face Clinic-Botox Dublin -Dr Mark Hamilton	ChIJb6gpRJcOZ0gRFWkhDvI68sg	spa|doctor|health|point_of_interest|establishment	53.339475	-6.2515825	False		spa
+18	Merrion Day Spa	ChIJKZzcSlYPZ0gREROBv3_yR0k	beauty_salon|spa|health|point_of_interest|establishment	53.3391931	-6.251029999999999	True		spa
+19	Merrion Day Spa (Cloud Nine)	ChIJOYSSrIMOZ0gRM2ZqG856ywQ	spa|health|point_of_interest|establishment	53.3391931	-6.251029999999999	True		spa
+20	Liz Brazilian massage	ChIJfeF87AIPZ0gRqnU8XE9ZaDQ	spa|point_of_interest|establishment	53.347807	-6.2611915	True	39 N Lotts, North City, Dublin	spa
+21	Oriental Massage AKMO	ChIJD4tn8q4PZ0gRzssCgn80NVA	spa|point_of_interest|establishment	53.3498092	-6.2602739		North City, Dublin	spa
+22	Solar Spa Express Tanning & Beauty	ChIJozSvkJwOZ0gRrtAzXjkQKSA	beauty_salon|spa|point_of_interest|establishment	53.3436862	-6.2617599	True	9A Trinity St, Dublin, D02 RC58	spa
+23	Mandala Spa	ChIJC5sP4ZsOZ0gRbpzscBQYGJk	spa|point_of_interest|establishment	53.3404339	-6.2586882		35 Dawson St, Dublin	spa
+24	The Spa & Salon at The Shelbourne	ChIJh8YPo5kOZ0gRebxnevUoRBs	spa|beauty_salon|gym|health|point_of_interest|establishment	53.338787	-6.2554378	True	27 St Stephen's Green, Dublin 2, D02 K224	spa
+25	Cloud Nine At The Dawson	ChIJq6pu4ZsOZ0gRDk_VynXOktE	spa|point_of_interest|establishment	53.3403856	-6.258738999999999		35 Dawson St, Dublin	spa
+26	Essences Day Spa	ChIJlfsHRgYPZ0gR5xjtt70Rjj0	spa|point_of_interest|establishment	53.3432842	-6.2617854	False	5 St Andrew's St, D2, Dublin, D02 YD85	spa
+27	Rainbow Beauty Spa	ChIJx4j-3SoPZ0gR56b58v57060	beauty_salon|hair_care|spa|point_of_interest|establishment	53.341041	-6.2597926	True	29 Anne St S, Dublin 2, D02 HX88	spa
+28	Chiffon Beauty Spa	ChIJkVVG8ZsOZ0gRb7gq-iQ5YJg	beauty_salon|spa|point_of_interest|establishment	53.341041	-6.2597926	True	29 Anne St S, Dublin, D02 HX88	spa
+29	Bali Wellness	ChIJ5a40cLoPZ0gRSoQaOgduXB8	spa|point_of_interest|establishment	53.3397386	-6.2591287	True	Himalayan Beauty Salon, 11 St Stephen's Green, Street, Dublin 2, D02 FY84	spa
+31	Orchid Day Spa	ChIJzc5LzJkOZ0gR8SMxyAZ1uAE	spa|point_of_interest|establishment	53.3375682	-6.254112999999999		Ely Pl, Dublin	spa
+32	The Buff Day Spa	ChIJzc9-HpwOZ0gRXLbOuaeiYC4	spa|point_of_interest|establishment	53.3402111	-6.2612972	True	52 King St S, Dublin 2, D02 HP68	spa
+33	FLORAISON	ChIJxd3A0bwPZ0gRuTz2K401E9E	beauty_salon|spa|point_of_interest|establishment	53.3358642	-6.250362099999999	False	16 Fitzwilliam St. Upper Basement Floor, Dublin 2, D02 Y221	spa
+34	The Dawson Spa	ChIJw9-2jioPZ0gRB9C3b8otWAo	spa|point_of_interest|establishment	53.3482143	-6.2656231		125 Abbey Street Upper, North City, Dublin, D01 W3X5	spa
+36	Temple Thai Massage	ChIJk3T9vmQPZ0gRuPd_uuiKSnQ	spa|point_of_interest|establishment	53.3424472	-6.2647263	True	64 South Great George's Street, Dublin	spa
+40	Melt Natural healing ctr Temple bar	ChIJ68cTjowPZ0gR_Wcok3BDUSA	spa|health|point_of_interest|establishment	53.3449732	-6.2634243	False	2 Temple Ln S, Temple Bar, Dublin, D02 KW24	spa
+41	Late Night Beauty Salon (Temple Bar Branch)	ChIJD3Jpz5wOZ0gRxgXsZhQ0mig	beauty_salon|spa|point_of_interest|establishment	53.3447039	-6.2634516	False	4 Fownes Street Upper, Temple Bar, Dublin, D02 Y798	spa
+42	Urban Day & Medi Spa	ChIJ77eHgukOZ0gRav0FSbTCVv4	beauty_salon|hair_care|spa|health|point_of_interest|establishment	53.339262	-6.229962	False	Sportsco, First floor, S Lotts Rd, Dublin	spa
+45	Cleopatra Massage	ChIJu-Q8-oAOZ0gRTuZbro49RsA	spa|point_of_interest|establishment	53.353881	-6.266241399999999	True	Granby Row, Rotunda, Dublin, D01 CA48	spa
+46	Golden Thai Antique Massage	ChIJITlUtvMPZ0gRlkYZeyQt5Ts	spa|point_of_interest|establishment	53.3539125	-6.266334899999999	True	12a Granby Row, Rotunda, Dublin, DO1X6K6	spa
+47	Sensitive Tantra	ChIJ_dLHdecNZ0gRyi9KfHG-9tk	spa|point_of_interest|establishment	53.3332866	-6.252892	True	32, 2 Fitzwilliam Pl, Dublin 2, D07 H942	spa
+48	VELVAERE SPA	ChIJEWEcorMNZ0gRWyT6J4_Pwpc	spa|point_of_interest|establishment	53.3413665	-6.268762300000001		Le Pole Square, Chancery Ln, Dublin 8, D08 E0A8	spa
+49	Velvaere Spa - Radisson Blu Royal Hotel - Codage Paris	ChIJ6yHNJx8NZ0gROYjcqt5D8Dc	spa|point_of_interest|establishment	53.34120890000001	-6.268667799999999	True	Le Pole Square, Chancery Ln, Dublin 8	spa
+51	eden	ChIJY6ynISoMZ0gRYyis8DNs8WE	spa|point_of_interest|establishment	53.3506253	-6.271207299999999		Dublin	spa
+52	S.P.Y. Hair & Beauty Salon	ChIJe9GSQHwOZ0gRA3PLwsmU-B4	beauty_salon|hair_care|spa|point_of_interest|establishment	53.3600988	-6.2627514	True	467 N Circular Rd, Dublin	spa
+53	Cloud Nine Retreat	ChIJ965QCaAOZ0gRBicNqSZnfTs	spa|point_of_interest|establishment	53.33340579999999	-6.2651803		2 Camden Street Upper, Portobello, Dublin	spa
+54	Eden One	ChIJSTYVNYwPZ0gRTiECBUynWLQ	spa|gym|health|point_of_interest|establishment	53.3316192	-6.2324419	True	Number One Ballsbridge, Shelbourne Rd, Dublin, D04 Y3X9	spa
+55	Oasis Beauty	ChIJK45rhi4MZ0gR8XY1bWd5btc	beauty_salon|spa|health|point_of_interest|establishment	53.3493095	-6.279367799999999	True	2, Thundercut Alley, Queen St, Smithfield, Dublin 7	spa
+56	Massage Therapy at Home	ChIJC7ZE-B0MZ0gRnFV9ytTfavo	spa|point_of_interest|establishment	53.328463	-6.264577999999999	True	Lower Rathmines Road, Rathmines, Dublin	spa
+57	Sanctuary Massage Clinique	ChIJa-m8m6UOZ0gRuG8PWKj7W6c	beauty_salon|spa|point_of_interest|establishment	53.3250719	-6.2536844	True	2ND FLOOR, Ranelagh Court, Chelmsford Rd, Ranelagh, Dublin 6, D06 H5N0	spa
+58	The Oriental Day Spa	ChIJ3w4aoI8MZ0gRj7E10tgUEv4	spa|point_of_interest|establishment	53.3318756	-6.2749776	True	64 Upper Clanbrassil Street Upper, Portobello, Dublin, D08 A394	spa
+59	Good Day Spa & Massage	ChIJx7mn6T8MZ0gRaLIPsoYyxYI	spa|point_of_interest|establishment	53.3338944	-6.292199099999999	True	339 S Circular Rd, Saint James' (part of Phoenix Park), Dublin 8, D08 W6T4	spa

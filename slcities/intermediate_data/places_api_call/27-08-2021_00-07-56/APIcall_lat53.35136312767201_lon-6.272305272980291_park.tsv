@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	King's Inns Park	ChIJLy4MUSoMZ0gR0Jjy_l6qt-M	park|tourist_attraction|point_of_interest|establishment	53.3527746	-6.272498400000001	False		park
+1	St Michan’s Park, Dublin	ChIJc2tQlCkMZ0gRUzCe796EepA	park|tourist_attraction|point_of_interest|establishment	53.3491835	-6.271209799999999			park
+2	My Bike Or Hike	ChIJMz_je4IOZ0gRqV4u7NL5a88	park|point_of_interest|establishment	53.3481506	-6.268489400000001			park
+3	Garden of Eden	ChIJ9brPNSgMZ0gR9n5_8tdrhM0	park|point_of_interest|establishment	53.34737809999999	-6.270353899999999			park
+4	Wolfe Tone Park	ChIJS1Y2WYIOZ0gRUPs1z27thV0	park|tourist_attraction|point_of_interest|establishment	53.34810280000001	-6.266701400000001	True		park
+5	Chancery Park	ChIJl8wN9igMZ0gRRSiD9ZgTIzY	park|tourist_attraction|point_of_interest|establishment	53.3465867	-6.272191900000001	False		park
+6	Playground	ChIJ774FSdUNZ0gRVfWM9bgQPUA	park|point_of_interest|establishment	53.3561575	-6.2722685	True		park
+7	Children of Lir	ChIJb7TF3oAOZ0gRYONDZoVLbUI	park|point_of_interest|establishment	53.35361529999999	-6.264555999999998	False		park
+8	Prebook Car Park	ChIJQ9ca0C0MZ0gRULU9CpOLJiY	park|point_of_interest|establishment	53.3504671	-6.280848300000001			park
+10	Garden of Remembrance	ChIJCYaC2YYOZ0gRxFEZhvKYbOs	tourist_attraction|park|point_of_interest|establishment	53.3538817	-6.264142800000001	False		park
+11	Blessington Street Park (The Basin)	ChIJm43iin8OZ0gRLrI61F2gxJg	park|tourist_attraction|point_of_interest|establishment	53.3572235	-6.271910699999999			park
+13	Hardwicke Street Community Garden	ChIJBZts-H0OZ0gRBc8uGtxS1OM	park|point_of_interest|establishment	53.356595	-6.263198999999998	False		park
+14	St. Audoen's Park	ChIJ7xiH4iUMZ0gRomZlPCGXZLY	park|tourist_attraction|point_of_interest|establishment	53.34387479999999	-6.275032299999999	False		park
+15	Great Western Square, Phibsboro	ChIJ0RA4aNQNZ0gRnQs9_zH7NPA	park|point_of_interest|establishment	53.3589626	-6.276808999999999			park
+16	Armenian Genocide Memorial	ChIJGfGLSyYMZ0gRITtCZLVXw-I	park|point_of_interest|establishment	53.3432178	-6.271638	True		park
+17	Bridgefoot Street Park	ChIJa1__ht0NZ0gRosGSAaLs35E	park|point_of_interest|establishment	53.3449581	-6.2818408			park
+18	Bridgefoot Street Community Garden	ChIJoYjw-S8MZ0gRwlfNBWi7bME	park|point_of_interest|establishment	53.344685	-6.281394			park
+19	IUNVA MEMORIAL	ChIJXyuVRTIMZ0gRjk2u5Wa3anw	park|point_of_interest|establishment	53.3510708	-6.286742200000001			park
+20	Peace Park	ChIJWY1zCRINZ0gRMWcEFYSGaNQ	park|point_of_interest|establishment	53.3427504	-6.2712542	False	13 Christchurch Pl, Wood Quay, Dublin	park
+21	Billy Edwards Park	ChIJZWnQH9kNZ0gRG7vtVAYqsEM	park|point_of_interest|establishment	53.3512314	-6.287119		Stoneybatter, Dublin	park
+22	Diamond Park	ChIJl7iKN8cPZ0gREtaKF_ynX8Y	park|point_of_interest|establishment	53.3532986	-6.2560058	False	7 Gardiner Street Lower, Mountjoy, Dublin	park
+23	St Catherines Park	ChIJf8OhEa0NZ0gR5DNMjoizBvs	park|point_of_interest|establishment	53.3424134	-6.2813674	False	Thomas St, The Liberties, Dublin	park
+24	St. Patrick’s Park	ChIJPxLz2SYMZ0gRLn9DSWYFzJQ	park|tourist_attraction|point_of_interest|establishment	53.3402425	-6.2711649	False	Bull Alley St, Dublin	park
+25	Croppies Memorial Park	ChIJjc7Bf6INZ0gR2NSbCrwXv5c	park|point_of_interest|establishment	53.3477604	-6.2907082	True	13-8 Benburb St, Arran Quay, Dublin	park
+26	Liberty Park (Eileen Mcloughlin Park)	ChIJz6_GRHsPZ0gRAIeyF57pCQc	park|point_of_interest|establishment	53.35205819999999	-6.252109099999999	False	Liberty Park, North Inner City, Dublin	park
+27	Liberty Park	ChIJ2eU1xvsPZ0gR5hlAl5DpJzs	park|point_of_interest|establishment	53.3519498	-6.2516713	False	Foley St, Mountjoy, Dublin 1	park
+28	St. Anne's Road Pocket Park	ChIJ2QtbQHsOZ0gRxGrsqNhEIEQ	park|point_of_interest|establishment	53.3629763	-6.2588329	True	St Anne's Rd, Botanic, Dublin, D09 P5F2	park
+29	Weaver Park	ChIJvRdQsTwMZ0gR__jh8sx2k4k	park|tourist_attraction|point_of_interest|establishment	53.33799459999999	-6.2811672	False	128 Cork St, Merchants Quay, Dublin, D08 K5RH	park
+30	Oisin Kelly Park	ChIJd1TTc4MNZ0gRj64_AUaEyuU	park|point_of_interest|establishment	53.3419932	-6.2914014	True	Basin Street Lower, Saint James' (part of Phoenix Park), Dublin	park
+31	St Kevin's Park	ChIJmXbMeiAMZ0gRb0DDU6OEHfw	park|tourist_attraction|point_of_interest|establishment	53.3366006	-6.267056699999999	False	8 Camden Row, Portobello, Dublin 8	park
+32	St Stephen's Green	ChIJo5EyLpkOZ0gRfIOtBfARzQU	park|tourist_attraction|point_of_interest|establishment	53.3381736	-6.259119		St Stephen's Green, Dublin 2	park
+33	Merrion Square Park	ChIJb1ecSpcOZ0gRg3SCpRcmX4A	park|point_of_interest|establishment	53.3396722	-6.249213399999999	False	1 Merrion Square E, Dublin	park
+34	Griffith Park	ChIJ5XlVj3EOZ0gRXR3D8kAk91A	park|tourist_attraction|point_of_interest|establishment	53.3700847	-6.262248599999999	False	27 St Michael's Rd, Botanic, Dublin 9, D09 C8W7	park
+35	South Dock Street Park, The Swings	ChIJq6rq9OsOZ0gRH9WJjD4-bL0	park|point_of_interest|establishment	53.3412029	-6.233867399999999		South Dock Street Park, Dublin	park
+36	Turvey Park	ChIJowJeS80NZ0gROovvLr-QM0U	park|point_of_interest|establishment	53.3415845	-6.3117377	True	Kilmainham, Dublin	park
+37	Fairview Park	ChIJ1ZrmvVkOZ0gRT0bz3YqaGqw	park|point_of_interest|establishment	53.3622225	-6.2327072		Fairview, Dublin, D03 XF90	park
+38	Pope John-Paul Park II (The Bogie Park)	ChIJOab6dz8NZ0gRDqlHQU-lUXE	park|point_of_interest|establishment	53.3671597	-6.3069915	False	Unnamed Road, Cabra - Glasnevin, Ashtown, Dublin	park
+39	The Square	ChIJNchkhOoOZ0gRyrIz1BYRovw	park|point_of_interest|establishment	53.3363513	-6.235250499999999		Dublin	park
+40	St. Stephen's Green Bandstand	ChIJOeH71J4OZ0gRRzs0p-2vgfA	park|tourist_attraction|point_of_interest|establishment	53.3375774	-6.2596894	True	Superintendent’s Office, St Stephen’s Green Park, Dublin	park
+41	St Mary's Church Park	ChIJo2-VTL4OZ0gR66Q6bsNh-BQ	park|point_of_interest|establishment	53.3338873	-6.241201999999999		11 St Mary's Rd, Dublin Southside, Dublin 1	park
+42	Ranelagh Gardens Park	ChIJYV9praUOZ0gRsFmX3hgyJts	park|point_of_interest|establishment	53.3267454	-6.2542997	False	Park View, Ranelagh, Dublin	park
+43	Harold's Cross Park	ChIJxaUCaxAMZ0gRSnHLMSLvSqU	park|point_of_interest|establishment	53.3242623	-6.2790664	False	Harold's Cross Rd, Harold's Cross, Dublin	park
+44	Brickfield Park	ChIJpRpOJOgNZ0gRd7fsewMFW2M	park|point_of_interest|establishment	53.3320794	-6.308535099999999		Drimnagh, Dublin	park
+45	Eamonn Ceannt Park	ChIJAVR-KW0MZ0gRRoQEyb21eP0	tourist_attraction|park|point_of_interest|establishment	53.3231477	-6.2922037		Crumlin, Dublin 12	park
+46	Albert College Park	ChIJwWP5_Q0OZ0gR84q_Wr5Htoo	park|point_of_interest|establishment	53.38323010000001	-6.2633996	False	Whitehall, Dublin	park
+47	Mount Argus Park	ChIJBTG7y8kNZ0gRUsvcT0sKjs8	park|point_of_interest|establishment	53.3202343	-6.2875352		Lower Kimmage Rd W, Harold's Cross, Dublin	park
+48	Ringsend Park	ChIJy16wdLgPZ0gRbxakKMHwzPc	park|point_of_interest|establishment	53.3414791	-6.2202969	False	Cambridge Rd, Dublin	park
+49	Johnstown Park	ChIJ-2-Zu3MOZ0gRgVD1nD_EVGE	park|point_of_interest|establishment	53.3843249	-6.281742599999999	True	46 Glasanaon Rd, Finglas East, Dublin 11, D11 HFN3	park
+50	Herbert Park	ChIJsRO-0sQPZ0gRL7rk9y7he1w	park|point_of_interest|establishment	53.3263689	-6.234969400000001	False	Herbert Park, Dublin	park
+51	Phoenix Park	ChIJe1F08akNZ0gRa1ndmi3YJqE	park|tourist_attraction|point_of_interest|establishment	53.3558823	-6.3298133	True	Dublin 8	park
+52	Tolka Valley Park	ChIJtQK68OoNZ0gRF7aPRl62_Nc	park|tourist_attraction|point_of_interest|establishment	53.37818120000001	-6.309481099999999	False	Finglas South, Dublin	park
+53	Johnstown Park	ChIJ74f4EOMNZ0gRNP151qrsOnk	park|tourist_attraction|point_of_interest|establishment	53.3858212	-6.282176	False	11 Glasanaon Rd, Ballygall, Dublin	park
+54	Sean Moore Park	ChIJA6VOHt4OZ0gRRpPNUiRM4kY	park|point_of_interest|establishment	53.3368817	-6.2156848		Dublin City, Co. Dublin	park
+55	Playground	ChIJV-MCrsENZ0gRkR8b5a7IWTY	park|point_of_interest|establishment	53.3241615	-6.3153653		Crumlin, Dublin	park
+56	Sean Moore Park	ChIJRziLUN4OZ0gRmtRpYiQtpdc	park|point_of_interest|establishment	53.335139	-6.2134887		26-22 R802, Co. Dublin	park
+57	Crescent Park	ChIJP5qmwJgNZ0gRWpccrI-yh7g	park|point_of_interest|establishment	53.376045	-6.323243	True	15 Court View, Ashtown, Dublin	park
+58	Ellenfield Park	ChIJNdujlTsOZ0gRdR5mkck87B4	park|tourist_attraction|point_of_interest|establishment	53.38615619999999	-6.2402827	False	Glencorp Rd, Whitehall, Dublin 9	park
+59	Park benches	ChIJJZF8_vYNZ0gRvRgBJwEL4BY	park|point_of_interest|establishment	53.3618663	-6.337762199999999	True	Furze Rd, Castleknock (part of Phoenix Park), Dublin	park

@@ -1,0 +1,5 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	price_level	opening_hours.open_now	main_type
+0	Crazy Karaoke guy	ChIJAwNSglENZ0gRD77b3Oeq_Fs	night_club|bar|point_of_interest|establishment	53.3674268	-6.2982786			night_club
+7	Mc Gowans of Phibsboro	ChIJ5SSKF28OZ0gRwFzxZdVgaHo	night_club|bar|restaurant|food|point_of_interest|establishment	53.356588	-6.273832	2.0	False	night_club
+8	Sunnybank Hotel	ChIJ9cqQoXcOZ0gRAPP-p-tIdKc	night_club|lodging|bar|restaurant|food|point_of_interest|establishment	53.3681714	-6.270435200000001		True	night_club
+11	Amanda Lopes Salon	ChIJwcgsfOENZ0gRtsF0esQ8pmE	night_club|bar|point_of_interest|establishment	53.35111879999999	-6.270304700000001		False	night_club

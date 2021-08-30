@@ -1,0 +1,3 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Shelbourne Park Greyhound Stadium	ChIJY3YSBPUPZ0gRXavyAxeRfWE	stadium|tourist_attraction|bar|restaurant|food|point_of_interest|establishment	53.3404699	-6.230460300000001	True	stadium
+2	Aviva Stadium	ChIJ-YrraMIOZ0gRaCYDco6ZfuM	stadium|tourist_attraction|point_of_interest|establishment	53.3352318	-6.228456999999999		stadium

@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Stokes Property	ChIJv21fGb4OZ0gRWgLTLgCFhe8	finance|real_estate_agency|point_of_interest|establishment	53.3416276	-6.2630125	False		real_estate_agency
+1	Marconi House	ChIJWRqnxqMPZ0gRvyVCMq_FaO8	real_estate_agency|point_of_interest|establishment	53.3407922	-6.264480499999999	True		real_estate_agency
+2	Scandik Property Services Limited	ChIJM5MxMpwOZ0gRpwOSRhEUsB0	real_estate_agency|lodging|point_of_interest|establishment	53.3406883	-6.263215199999999	False		real_estate_agency
+3	Clarendon House Serviced Offices	ChIJHyKVP5wOZ0gRL2AI2hxtaD8	real_estate_agency|point_of_interest|establishment	53.3414016	-6.262037199999999	False		real_estate_agency
+4	Felicity Fox Auctioneers Limited	ChIJvTSxj5wOZ0gRu8T7Slrm0WM	real_estate_agency|point_of_interest|establishment	53.3425184	-6.262479299999999	False		real_estate_agency
+5	VFI Overseas Property	ChIJp9vB5ZwOZ0gR5K7G7lrIhzY	real_estate_agency|finance|general_contractor|point_of_interest|establishment	53.3434973	-6.263542499999999	False		real_estate_agency
+6	Westcourt Management Services Ltd.	ChIJf55Yj5wOZ0gRCgZSThgBS_Q	real_estate_agency|point_of_interest|establishment	53.34310379999999	-6.2616364	False		real_estate_agency
+7	Kenneally McAuliffe	ChIJg2jZ5pwOZ0gR9pIdn3G-Q44	real_estate_agency|point_of_interest|establishment	53.34375559999999	-6.263911600000001			real_estate_agency
+8	Hennebique Studios	ChIJL7w3V9UPZ0gRhxpAfPtbRWk	real_estate_agency|point_of_interest|establishment	53.3438074	-6.2630756			real_estate_agency
+9	Davinci Virtual Office Solutions	ChIJyYlVlpwOZ0gRJ8jieXSlFDg	real_estate_agency|point_of_interest|establishment	53.3436862	-6.2617599			real_estate_agency
+10	WeWork Central Plaza	ChIJ6XKwN5UPZ0gRLISuZ42zi-4	real_estate_agency|point_of_interest|establishment	53.3440775	-6.262995600000001	False		real_estate_agency
+11	Superior Apartments	ChIJqSJZl5wOZ0gRH6FqMM0Y6G8	real_estate_agency|point_of_interest|establishment	53.3437735	-6.2618106			real_estate_agency
+12	NNK Real Estate Investment Management	ChIJq6rOv5wOZ0gRYt80nyXFYQ4	real_estate_agency|point_of_interest|establishment	53.3440784	-6.2625499			real_estate_agency
+13	D2 Commercial Property Consultants	ChIJnRfkLw0NZ0gRuc6OxkweBng	real_estate_agency|point_of_interest|establishment	53.343981	-6.262114	False		real_estate_agency
+14	Dublin Property Surveys	ChIJ6aGLrWEPZ0gRaZuXwz3JeuI	real_estate_agency|point_of_interest|establishment	53.343981	-6.262114	False		real_estate_agency
+15	Dublin 2 Letting Agents	ChIJbd9rl5wOZ0gRQSQonUjOqWE	real_estate_agency|travel_agency|point_of_interest|establishment	53.343981	-6.262114	True		real_estate_agency
+16	Abbott & Matthews	ChIJrSi5IJ0OZ0gRjbb3fOAmDW8	real_estate_agency|point_of_interest|establishment	53.344122	-6.2624966			real_estate_agency
+17	Douglas Newman Good Commercial	ChIJnfBUnJsOZ0gRWyWDxY49pX4	real_estate_agency|point_of_interest|establishment	53.34264090000001	-6.259540200000001			real_estate_agency
+18	Irish Office Space	ChIJi8nu-jYPZ0gRwyKfdnqnihY	real_estate_agency|point_of_interest|establishment	53.3443585	-6.265741500000001	False		real_estate_agency
+19	Davinci Virtual Office Solutions	ChIJK6o5o5wOZ0gRyNmOJu21GyM	real_estate_agency|point_of_interest|establishment	53.3442119	-6.2618314			real_estate_agency
+20	Savills Ireland	ChIJofQUMpoOZ0gRdYPVUpCtlSA	real_estate_agency|point_of_interest|establishment	53.3409829	-6.256605899999999	False	33 Molesworth St, Dublin, D02 CP04	real_estate_agency
+21	MoveHome Estate Agents Capel Street	ChIJA7cF0tMPZ0gROYLB-KgA3a0	real_estate_agency|point_of_interest|establishment	53.3461454	-6.2677526	False	1 Capel St, North City, Dublin 1, D01 P293	real_estate_agency
+22	Fleming Real Estate - Property Agents	ChIJycZyOgoJZ0gRbwhA7OX-5VM	real_estate_agency|point_of_interest|establishment	53.3360196	-6.2636093	False	Suite 70, Harcourt Street Harcourt St, Saint Kevin's, Dublin 2, D02 PF99	real_estate_agency
+23	Capel Abbey Property	ChIJ7Rh4KCgMZ0gRjk0rp_Vd42s	real_estate_agency|point_of_interest|establishment	53.3471093	-6.2692613	False	241 The Capel Building, Mary's Abbey, Dublin 7, D07 R2C6	real_estate_agency
+24	MyHome.ie	ChIJOfvh8o8OZ0gRJfNfvLu8fJg	real_estate_agency|point_of_interest|establishment	53.3461997	-6.254918	False	24-28 Tara St, Dublin 2, D02 CX89	real_estate_agency
+25	JLL Dublin	ChIJm3myzJsOZ0gROc5CH1KfUy8	real_estate_agency|point_of_interest|establishment	53.334338	-6.2625199	False	Styne House, Hatch Street Upper, Saint Kevin's, Dublin, D02 DY27	real_estate_agency
+26	Owen Reilly Property Consultants Dublin 8	ChIJzZO5_x8MZ0gRdUhNOHaFIHI	real_estate_agency|point_of_interest|establishment	53.3342404	-6.2658913	False	Camden Market, 4 Grantham St, Portobello, Dublin 8	real_estate_agency
+27	McNally Handy & Partners	ChIJ75lZj5cOZ0gR7_dOIBKVNe8	real_estate_agency|point_of_interest|establishment	53.337172	-6.2520356	False	Pembroke Street Lower, Dublin 2, D02 FH24	real_estate_agency
+28	Knight Frank Dublin Estate Agents	ChIJI_y-g6IOZ0gRfYoP6GK5ShY	real_estate_agency|point_of_interest|establishment	53.3347012	-6.254738499999999	False	20-21 Pembroke Street Upper, Dublin	real_estate_agency
+29	Haden Properties - Estate Agents	ChIJtyHdV5YOZ0gRN0g_8Uir-ok	finance|real_estate_agency|point_of_interest|establishment	53.3405453	-6.2488885	False	12 Merrion Square N, Dublin, D02 H798	real_estate_agency
+30	Eldron Property Consultants	ChIJF43jjpcOZ0gR9P3jfGFjDEw	real_estate_agency|point_of_interest|establishment	53.334837	-6.2536914	False	31 Pembroke Street Upper, Dublin, D02 NY59	real_estate_agency
+31	Coldwell Banker Leeson Estates	ChIJN2qP8uIRZ0gRt9ZqXsd1wIk	real_estate_agency|point_of_interest|establishment	53.3339944	-6.2550978		28 Leeson Street Lower, Saint Kevin's, Dublin 2, D02 KF97	real_estate_agency
+32	Bespoke Estate Agents	ChIJFz9Q_JYOZ0gRcQ8AHNfOdN8	real_estate_agency|finance|point_of_interest|establishment	53.3384238	-6.248887000000001	False	60 Merrion Square S, Dublin 2, D02 NT04	real_estate_agency
+33	QRE Real Estate Advisers	ChIJMx7dUFwPZ0gRP2GTqslvegc	real_estate_agency|point_of_interest|establishment	53.3345954	-6.2509765	False	14 Fitzwilliam Square E, Dublin 2, D02 W298	real_estate_agency
+34	Margaret Granahan Estates	ChIJgTtHz4EOZ0gR3yGuaqYH2wI	real_estate_agency|point_of_interest|establishment	53.3526162	-6.2689058	False	36A Bolton St, Dublin, D01 X928	real_estate_agency
+35	Move On Estate Agency	ChIJxTa5jCUMZ0gROFU9o8LEatw	real_estate_agency|point_of_interest|establishment	53.3391624	-6.2447623	False	The Brickhouse, Mount Street Lower, Dublin	real_estate_agency
+36	Prime Property	ChIJWTjvQTYIZ0gRYZMn_xvX8kg	real_estate_agency|point_of_interest|establishment	53.3316603	-6.2506517	False	Mespil House, Unit 2, Mespil Business Centre, Sussex Rd, Co. Dublin, D04 T4A6	real_estate_agency
+37	Borgman Earls Property Consultants	ChIJ6fO-_JUOZ0gRF3ECn2qD1dg	real_estate_agency|point_of_interest|establishment	53.3360754	-6.2447518	False	11 Herbert St, Dublin 2, D02 RW27	real_estate_agency
+38	CBRE	ChIJTf7MoOGZXUgRIqvladBiM8M	real_estate_agency|point_of_interest|establishment	53.33270419999999	-6.2473449	False	3rd Floor, Connaught House, Burlington Rd, Dublin	real_estate_agency
+39	Lansdowne Partnership Estate Agents	ChIJ27VSwb0OZ0gRMN9jpfn_5yU	real_estate_agency|point_of_interest|establishment	53.333659	-6.245916999999999	False	69 Mespil Rd, Dublin 4, D04 A2W6	real_estate_agency
+40	We find Your Property	ChIJswLeKoUOZ0gRWYwl88vjwvw	real_estate_agency|point_of_interest|establishment	53.3377251	-6.2662891		9 College Court, Kevin Street, Dublin 8	real_estate_agency
+41	Herlihy Auctioneers	ChIJAwPyTpoOZ0gRiqgC__9eioA	real_estate_agency|point_of_interest|establishment	53.34207019999999	-6.2564977		28 Frederick St S, Dublin 2, D02 YW57	real_estate_agency
+42	Coldwell Banker Ireland Real Estate	ChIJ105AFWQJZ0gRe9X4Xl9yEJw	finance|real_estate_agency|point_of_interest|establishment	53.3339944	-6.2550978	False	28 Leeson Street Lower, Saint Kevin's, Dublin 2, D02 KF97	real_estate_agency
+43	Paul Tobin Estate Agents	ChIJCcPqceoPZ0gRfwqJ0YCY3LE	finance|real_estate_agency|point_of_interest|establishment	53.3379293	-6.2482769	False	Clifton House, Fitzwilliam Street Lower, Dublin 2, D02 XT91	real_estate_agency
+44	Norths Property	ChIJhzYRSr0OZ0gRAK7ONMApVpI	real_estate_agency|point_of_interest|establishment	53.3338464	-6.2513136	False	7a Fitzwilliam Pl, Dublin 2, D02 YR60	real_estate_agency
+45	Urban Link	ChIJRwDGkUMbaEgRI08G3XmYP1Y	real_estate_agency|finance|point_of_interest|establishment	53.3435111	-6.2455842	False	71 Pearse St, Dublin, D02 AH22	real_estate_agency
+46	Estate Agent Dublin	ChIJ13OL05kOZ0gRYyZ3lGqTy00	real_estate_agency|point_of_interest|establishment	53.3354502	-6.246356899999999	False	60 Baggot Street Lower, Dublin 2	real_estate_agency
+47	Hunters Estate Agent	ChIJyeYkfb4OZ0gRtCp9rhdj0ks	real_estate_agency|point_of_interest|establishment	53.333107	-6.243536199999999	False	Waterloo Exchange, Waterloo Rd, Dublin 4	real_estate_agency
+48	Lisney Leeson Street	ChIJUxuNXrsOZ0gR7BJbCQNhy-4	real_estate_agency|point_of_interest|establishment	53.3295633	-6.2491429	False	103 Leeson Street Upper, Dublin 4, D04 TN84	real_estate_agency
+49	Sherry FitzGerald Dublin City Centre	ChIJL1UOh5cPZ0gRTY1702tEs4c	real_estate_agency|point_of_interest|establishment	53.3493534	-6.242605999999999	False	Custom House Square, Unit 3, Boyne House, Mayor Street Lower, International Financial Services Centre, Dublin 1, D01 FK37	real_estate_agency
+50	Hopkins Ward - Estate Agents	ChIJnWN0VEoNZ0gRKwHlVUDGGfk	real_estate_agency|point_of_interest|establishment	53.33139389999999	-6.284101499999999	False	207 S Circular Rd, Saint Catherine's, Dublin, D08 YD21	real_estate_agency
+51	Owen Reilly	ChIJ80sPae0OZ0gRT-oJWzHJHVE	real_estate_agency|point_of_interest|establishment	53.3453636	-6.2383676	False	41 Forbes St, Grand Canal Dock, Dublin 2	real_estate_agency
+52	IRES Fund Management Limited	ChIJ9_hBRu0OZ0gRgGGRDpECWPo	real_estate_agency|point_of_interest|establishment	53.3443962	-6.2377087		South Dock House, Hanover Quay, Dublin Docklands, Dublin 2	real_estate_agency
+53	DublinLettings.Com - Ranelagh	ChIJWbGgziQMZ0gRJ1HqbtHUU08	real_estate_agency|point_of_interest|establishment	53.32620379999999	-6.2556594	False	14 Ranelagh, Dublin 6, D06 A030	real_estate_agency
+54	Herman White Estates	ChIJGQbfPh0MZ0gR2jpMA9eS9Ds	real_estate_agency|point_of_interest|establishment	53.3246367	-6.265543699999999	False	161 Rathmines Rd Lower, Rathmines, Dublin Southside, Co. Dublin	real_estate_agency
+55	GWD Central	ChIJZS58tH0OZ0gR9bT8rg8DbIs	real_estate_agency|point_of_interest|establishment	53.3586792	-6.2619729	False	27 Dorset Street Lower, Rotunda, Dublin 1, D01 PT66	real_estate_agency
+56	Breffnie O'Kelly | Licensed Property Finding Agent	ChIJAZq8-VIPZ0gR0NFEKpye8Kc	real_estate_agency|point_of_interest|establishment	53.3326416	-6.2390479	False	68 Pembroke Rd, Ballsbridge, Dublin 4, D04 A3T6	real_estate_agency
+57	Young's Estate Agents	ChIJXw2ck6UOZ0gRYhjp-0qUpNs	real_estate_agency|point_of_interest|establishment	53.3249977	-6.2547125	False	Elmwood House, 35 Ranelagh, Dublin 6, D06 Y2P4	real_estate_agency
+58	Locations Estate Agents	ChIJKwlaLoMOZ0gRTrRydSWbsu0	real_estate_agency|finance|point_of_interest|establishment	53.3342464	-6.2909403	False	Reuben House, First Floor, Reuben St, Rialto, Dublin, D08 Y2Y3	real_estate_agency
+59	Halligan O'Connor Property Consultants	ChIJO7JWBe0OZ0gRP-z4aYCJ0xA	real_estate_agency|local_government_office|point_of_interest|establishment	53.345578	-6.233709999999999	False	1, 77 Sir John Rogerson's Quay, Grand Canal Dock, Dublin, D02 NP08	real_estate_agency

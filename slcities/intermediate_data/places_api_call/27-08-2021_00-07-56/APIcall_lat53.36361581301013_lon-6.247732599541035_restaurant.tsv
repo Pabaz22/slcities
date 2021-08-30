@@ -1,0 +1,56 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+1	Tasty Garden	ChIJpZYZ4F0OZ0gR2nESzri48io	restaurant|meal_delivery|meal_takeaway|food|point_of_interest|establishment	53.36271259999999	-6.242486100000001	True			restaurant
+2	Nico Fairview	ChIJ-TezdV4OZ0gRYDeTuUh2F0s	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.3625736	-6.242055699999999	True	1.0		restaurant
+3	Max’s takeaway	ChIJF9TzVikPZ0gREFqsoQlgJ_Y	restaurant|food|point_of_interest|establishment	53.3610744	-6.2427666	True	1.0		restaurant
+4	Antonio's Fish & Chips Fairview	ChIJ2SMQh2AOZ0gRi__4bQS2bUg	meal_takeaway|restaurant|food|point_of_interest|establishment	53.35999940000001	-6.244131899999999	True			restaurant
+5	New Plaza Chinese Takeaway	ChIJOYlniGAOZ0gRBihvrPWjm1c	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3597953	-6.244488899999999	False	1.0		restaurant
+6	New Plaza	ChIJ7wTIYmAOZ0gRWWVOdnwZLkA	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3597776	-6.2444097				restaurant
+8	Mr Kebab	ChIJ4YU4RWAOZ0gRiMB0UKGuhZk	restaurant|food|point_of_interest|establishment	53.3590457	-6.2458056	True			restaurant
+10	Bombay Pantry Fairview	ChIJ__xdW1wOZ0gRl0kzXTNyzVg	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.364942	-6.2393505	False	2.0		restaurant
+11	Flaming Wok	ChIJo5HcoV4OZ0gRc91THdLNlLQ	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.362588	-6.2388181	True	1.0		restaurant
+12	The Lovely Food Company Drumcondra	ChIJs5AIEGUOZ0gRwY0t_6LpZS0	restaurant|food|point_of_interest|establishment	53.3652677	-6.256759700000001	False	2.0		restaurant
+13	Indian Taste Dublin	ChIJpSu8nGAOZ0gRSRvKgMOAbzo	restaurant|food|point_of_interest|establishment	53.3579175	-6.247682899999999	True	2.0		restaurant
+14	Lin Kee	ChIJj859AF8OZ0gRJJtG6Qm8-AU	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.359935	-6.240049	True	1.0		restaurant
+15	Okayu	ChIJD94kql8OZ0gRHyBWkaMj78k	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.35972599999999	-6.240211	False			restaurant
+16	Mint Leaf	ChIJu86yfW8OZ0gRrdvFj1OUe3c	restaurant|food|point_of_interest|establishment	53.3675958	-6.255209499999999	False	2.0		restaurant
+17	Fragrant River	ChIJDX_Tul8OZ0gRcMMEENG86GE	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3592804	-6.2408244	True	1.0		restaurant
+18	Andersons Creperie	ChIJs4VxQmUOZ0gR9a5vIr9tq0Y	restaurant|food|point_of_interest|establishment	53.36635279999999	-6.2566722	False	2.0		restaurant
+19	Subway	ChIJmc7Dm8YPZ0gRqctjMneFoGo	meal_takeaway|restaurant|food|point_of_interest|establishment	53.36256179999999	-6.2376919	False	1.0		restaurant
+20	Diamond Pizza - Drumcondra	ChIJU-wTe28OZ0gRoHgIkBAc7cA	restaurant|meal_takeaway|food|point_of_interest|establishment	53.3678694	-6.255147	True	1.0	163 Drumcondra Rd Lower, Ballybough, Dublin 9, D09 P2P9	restaurant
+21	Fagans Bar and Restaurant	ChIJpZdmgG8OZ0gR7OW8JsyWphY	bar|restaurant|food|point_of_interest|establishment	53.36745519999999	-6.2559441	False	2.0	146 Drumcondra Rd Lower, Botanic, Dublin 9, D09 YR83	restaurant
+22	Tuk Asian Street Food	ChIJo49C3lsOZ0gRY7-sFRfNWXM	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.362837	-6.237353	False	2.0	9 Fairview Strand, Dublin, D03 R242	restaurant
+23	Wallace’s Asti	ChIJOeqg-2IOZ0gRAreGjuBGphw	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	53.35885769999999	-6.254601099999999	False	2.0	15 Russell St, Drumcondra, Dublin 1, D01 VW02	restaurant
+24	Shouk	ChIJTxc8y2QOZ0gRVPYdqGVXZLI	bar|restaurant|food|point_of_interest|establishment	53.3634284	-6.2582983	False	2.0	40 Drumcondra Rd Lower, Drumcondra, Dublin	restaurant
+25	Kennedy's Food Store Fairview	ChIJN_kqq14OZ0gRhWbjtetjk5Q	cafe|restaurant|food|point_of_interest|establishment	53.362863	-6.237181199999999	False	1.0	5 Fairview Strand, Dublin 3, D03 W5H0	restaurant
+26	Independent Pizza Company	ChIJCXWbz2QOZ0gR11aajvkPqxo	restaurant|food|point_of_interest|establishment	53.3628318	-6.258802800000001	False	2.0	28 Drumcondra Rd Lower, Botanic, Dublin, D09 X034	restaurant
+27	Chai Latte ( Traditional Pakistani takeaway & bakery)	ChIJ-7T46q4PZ0gRNfGBvxjAuh8	meal_takeaway|bakery|restaurant|food|point_of_interest|store|establishment	53.3635215	-6.258886299999999	False		Saint Vincents Centre for the Deaf, Drumcondra Rd Lower, Drumcondra, Dublin 9	restaurant
+28	Yummy Oriental	ChIJQxSUOlkPZ0gRwSQ1Q0wpXu4	restaurant|meal_takeaway|food|point_of_interest|establishment	53.3691972	-6.2542813	False		14 Drumcondra Rd Upper, Drumcondra, Dublin, D09 K6C1	restaurant
+29	Da Mimmo	ChIJ21Xt_18OZ0gR04xMPZPrLV0	restaurant|food|point_of_interest|establishment	53.3573913	-6.2426229	False	2.0	148 N Strand Rd, North Dock, Dublin, D03 FK52	restaurant
+30	Ruposhe Indian Restaurant	ChIJM9WzqHkOZ0gRyKIQld-udaU	restaurant|food|point_of_interest|establishment	53.3619766	-6.2597257	False		1 Whitworth Rd, Drumcondra, Dublin, D09 K7E2	restaurant
+31	Nana's Restaurant African Cuisine	ChIJFZRbY6MPZ0gRLZQB4EcKwG8	restaurant|food|point_of_interest|establishment	53.3588605	-6.2577652	True		482B N Circular Rd, Mountjoy, Dublin 1, D01 P205	restaurant
+32	Johnson Best Food African Takeaway	ChIJZ-eU3YkOZ0gR9hpQVIDNePU	restaurant|food|point_of_interest|establishment	53.3563187	-6.25156	True	1.0	86 Summerhill, Mountjoy, Dublin 1, D01 XY96	restaurant
+33	Laica Catering	ChIJd-hSbRYPZ0gRgVO65zotjf0	restaurant|food|point_of_interest|establishment	53.3608831	-6.259851299999999	False		54b Dorset Street Lower, Dublin, D01 E278	restaurant
+34	Luigis Takeaway	ChIJ6154kV8OZ0gRNjKqRKaKc-U	restaurant|food|point_of_interest|establishment	53.3552976	-6.246266899999999	True		9 N Strand Rd, Dublin, D01 X993	restaurant
+35	San Sab Thai Restaurant	ChIJuwzDym4OZ0gRzZPZXF0AnJc	restaurant|food|point_of_interest|establishment	53.3714538	-6.2530302	False	2.0	84 Drumcondra Rd Upper, Drumcondra, Dublin, D09 C2W0	restaurant
+37	Restaurant 104	ChIJQSLJT2kOZ0gRCH6a3aWV1M0	restaurant|meal_takeaway|bar|liquor_store|food|point_of_interest|store|establishment	53.3721095	-6.25265	False	2.0	104 Drumcondra Rd Upper, Drumcondra, Dublin, D09 FP29	restaurant
+38	The Ivy House - Restaurant & Bar	ChIJC7FXWmkOZ0gRoWRzyrgqSVw	bar|restaurant|food|point_of_interest|establishment	53.37242080000001	-6.2523944	False	2.0	114 Drumcondra Rd Upper, Drumcondra, Dublin 9, D09 CX74	restaurant
+39	Brams Cafe	ChIJd7PHmFAOZ0gRXSwW0Xd_OYk	cafe|restaurant|food|point_of_interest|store|establishment	53.3647535	-6.230135799999999	False	1.0	St Aidan's Park Rd, Dublin 3, D03 X754	restaurant
+40	Tuk Fairview	ChIJo_LuZpIPZ0gRoOWHG-hhOiI	restaurant|food|point_of_interest|establishment	53.3628329	-6.2373571	False		9 Fairview Strand, Clontarf, Dublin 3, D03 R242	restaurant
+41	The Station Restaurant	ChIJn-_aTnsOZ0gRUzd3_kDO4sU	restaurant|food|point_of_interest|establishment	53.3627921	-6.2588288	False		26 Drumcondra Rd Lower, Botanic, Dublin, D09 DYF8	restaurant
+42	BRÚ House Dublin 3	ChIJh1vc5lsOZ0gROeYrX62FUMI	bar|restaurant|food|point_of_interest|establishment	53.3634324	-6.235793	False	2.0	12 Fairview, Clontarf, Dublin 3, D03 C998	restaurant
+43	One Society	ChIJ8XAo-2sPZ0gRp9_TXPpsRcA	restaurant|cafe|food|point_of_interest|store|establishment	53.3540899	-6.256557	False	2.0	1 lower gardiner street, Mountjoy, Dublin 1	restaurant
+44	Benvindo Restaurant	ChIJTQw1gi0PZ0gRK8HVZ0r-RB4	bar|restaurant|food|point_of_interest|establishment	53.3522906	-6.249563900000001	False		39 Amiens St, Mountjoy, Dublin 1, D01 TR70	restaurant
+45	Pasha Restaurant Dublin	ChIJ4cizCX4OZ0gR7J3p_0yRhHw	restaurant|food|point_of_interest|store|establishment	53.3569854	-6.2640908	False	1.0	65 Dorset Street Upper, Rotunda, Dublin 1, D01 RW20	restaurant
+46	Jojo's Chinese Restaurant	ChIJE8o0s4cOZ0gR_bcUETFxzxI	restaurant|food|point_of_interest|establishment	53.3537072	-6.2584822	True	2.0	105 Parnell St, Rotunda, Dublin 1, D01 W448	restaurant
+47	McGettigan's Cookhouse & Bar	ChIJB8ycS4kOZ0gR3Y0qvQ6w58E	bar|restaurant|food|point_of_interest|establishment	53.3516889	-6.2501044	True	2.0	1 Amiens St, Mountjoy, Dublin	restaurant
+48	Fasta	ChIJreuy5JkPZ0gRyzDudqRKdVA	restaurant|food|point_of_interest|establishment	53.3512766	-6.2492937	False		Connolly train station, North Dock, Dublin, D01 V6V6	restaurant
+49	BITES By Kwanghi	ChIJMeglWHkPZ0gRy0XSAhmCJAE	restaurant|food|point_of_interest|establishment	53.353343	-6.259393200000001	False		56 Marlborough St, Rotunda, Dublin 1, D01 X923	restaurant
+51	Thai Spice	ChIJ0yfZ2I4OZ0gR7fNEJrUe0-0	restaurant|food|point_of_interest|establishment	53.35101119999999	-6.2511931	False	1.0	3A Talbot Pl, Mountjoy, Dublin 1, D01 R3W9	restaurant
+52	Old Music Shop Restaurant	ChIJi810tYAOZ0gRgvxyQpgpoV0	restaurant|food|point_of_interest|establishment	53.3548681	-6.263688399999999	False	2.0	3 -5 Frederick St N, Rotunda, Dublin 1	restaurant
+53	Brass Onion Bistro	ChIJJcc_yKAPZ0gRb8S-VhWxiWc	restaurant|food|point_of_interest|establishment	53.37569999999999	-6.2397814	False	2.0	22 Sion Hill Rd, Grace Park, Dublin 9, D09 KX22	restaurant
+54	Admiral Restaurant	ChIJuXZqZ4YOZ0gR0wc87d26J8Q	restaurant|food|point_of_interest|establishment	53.3523036	-6.258917599999999	False	2.0	1 Q-Park Marlborough Street, Dublin	restaurant
+55	Kimchi Hophouse	ChIJ63Hd5YYOZ0gR9tTzRQ_fy5Y	bar|restaurant|food|point_of_interest|establishment	53.3530306	-6.260891699999999	False	2.0	160-161 Parnell St, Rotunda, Dublin, D01 Y4A7	restaurant
+56	Anatolia	ChIJBxT7noAOZ0gRsdHvnY3NjT8	restaurant|food|point_of_interest|establishment	53.3558329	-6.2656919	False		Dorset Street Upper, Inns Quay, Dublin 1	restaurant
+57	Pho Kim	ChIJmeQzo4IPZ0gREQp3MnpubT4	restaurant|food|point_of_interest|establishment	53.352949	-6.2609841	False		162 Parnell St, Rotunda, Dublin, D01 F5F3	restaurant
+58	Chapter One Restaurant	ChIJa7Nrz4AOZ0gRptxMf68t1Qk	restaurant|food|point_of_interest|establishment	53.354415	-6.2639496	False	4.0	18-19 Parnell Square N, Rotunda, Dublin 1, D01 T3V8	restaurant
+59	Restaurant SIX	ChIJ7a8v3IYOZ0gRugRIY_Azq1g	restaurant|food|point_of_interest|establishment	53.3529816	-6.261364299999999	False		6 Cavendish Row, O'Connell Street Upper, Upper, Dublin 1, D01 V3P6	restaurant

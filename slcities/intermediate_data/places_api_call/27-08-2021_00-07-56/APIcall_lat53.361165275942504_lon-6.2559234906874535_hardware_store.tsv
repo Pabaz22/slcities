@@ -1,0 +1,13 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Central Key & Hardware Ltd	ChIJr-mssYAOZ0gRctB2OQyJ3YA	hardware_store|locksmith|point_of_interest|store|establishment	53.3553069	-6.264165200000002	False	hardware_store
+1	Larry's DIY	ChIJ9yS8jmgOZ0gRWTZnfnmJVOQ	hardware_store|point_of_interest|store|establishment	53.3687166	-6.2497884	False	hardware_store
+2	Kellys Homevalue Hardware	ChIJ10_fyF8OZ0gRruXod5jCOAQ	hardware_store|home_goods_store|point_of_interest|store|establishment	53.3594856	-6.2419162	False	hardware_store
+3	Phibsboro Hardware	ChIJn_M1fngOZ0gRr2YUB4FkW1c	hardware_store|point_of_interest|store|establishment	53.3638988	-6.2723203	False	hardware_store
+4	O'Briens Hardware	ChIJbWMmKo8OZ0gRtC8Jgi1a8F0	hardware_store|point_of_interest|store|establishment	53.35102939999999	-6.2519916	False	hardware_store
+5	Valu Mart	ChIJKXgOVEEPZ0gRmXBC3AhPCvc	hardware_store|point_of_interest|store|establishment	53.35084380000001	-6.253271099999999	False	hardware_store
+6	Edge & Sons Hardware Store	ChIJH8JcU1kOZ0gR8673vXPbdNs	hardware_store|point_of_interest|store|establishment	53.36264809999999	-6.236980900000001	False	hardware_store
+7	Marino Hardware Stores	ChIJ0eXhh0QOZ0gR5kMnY5yIszQ	hardware_store|point_of_interest|store|establishment	53.37080139999999	-6.238870399999999	False	hardware_store
+8	Keys Cut, Electrical and DIY tools	ChIJv3c-b4IOZ0gRqbYzxqghm_g	hardware_store|point_of_interest|store|establishment	53.34852830000001	-6.2678914	False	hardware_store
+9	Lenehans	ChIJMYk3doIOZ0gRi6xOAGJOWEE	hardware_store|home_goods_store|point_of_interest|store|establishment	53.3486058	-6.268931700000001	False	hardware_store
+10	McQuillan Tools	ChIJlzmxfoIOZ0gRd5MoHTMW1uU	hardware_store|point_of_interest|store|establishment	53.3480919	-6.268435699999999	False	hardware_store
+11	LOCKSMITH	ChIJp3sfj9ENZ0gRvA0R3UQQ_Es	locksmith|hardware_store|point_of_interest|store|establishment	53.36094199999999	-6.283518	False	hardware_store

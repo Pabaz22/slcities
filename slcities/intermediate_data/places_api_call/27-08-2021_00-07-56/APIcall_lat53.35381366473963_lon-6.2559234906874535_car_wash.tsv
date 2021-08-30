@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Crystal Valet - The Spire Car Park	ChIJQ2Z8Z4YOZ0gRgV-dYNuSeSI	car_wash|parking|point_of_interest|establishment	53.3523111	-6.258429100000001	False		car_wash
+1	C.N.S VALETING	ChIJ8RX-6tUPZ0gRKuHxTQ_E6pQ	car_wash|point_of_interest|establishment	53.3498053	-6.260309700000001			car_wash
+2	No-H2o--Red Long Term Car Park, Dublin Airport	ChIJ_adyR3YPZ0gRU4LX7WpfyIk	car_wash|parking|point_of_interest|establishment	53.3498053	-6.260309700000001	False		car_wash
+3	AutoSpa	ChIJfwiNwqwPZ0gR-LhqbjQ3MvQ	car_wash|parking|car_repair|point_of_interest|establishment	53.35345959999999	-6.247492799999999	False		car_wash
+4	No-H2o--Ilac Shopping Centre	ChIJz74I27IPZ0gRN392Moet0P4	car_wash|point_of_interest|establishment	53.34981149999999	-6.262724700000001	False		car_wash
+5	No-H2O car wash	ChIJDflq4IMOZ0gRjGbypcUn0jw	car_wash|point_of_interest|establishment	53.350608	-6.26414	False		car_wash
+6	Express Car Wash Arnotts Car Park	ChIJcY7dq78PZ0gRCsn95_HTk2I	car_wash|point_of_interest|establishment	53.3487891	-6.262352400000001	False		car_wash
+7	Shine Xpress	ChIJfeucooEOZ0gREHQDSEBSUr0	car_wash|point_of_interest|establishment	53.35192050000001	-6.2670196	False		car_wash
+8	BC Cleaning & Maintenance Services	ChIJXe6PLn4OZ0gR7LJrEVQpxJM	car_wash|laundry|point_of_interest|establishment	53.35641210000001	-6.2669353			car_wash
+9	Eco Car Wash	ChIJW_mMAoIOZ0gREDv76fvu_3o	car_wash|point_of_interest|establishment	53.35038230000001	-6.268763900000001	False		car_wash
+10	Car Wash Jervis Shopping Centre Car Park level 2	ChIJ1enAVIwPZ0gRuWNz4jklbjY	car_wash|point_of_interest|establishment	53.34800609999999	-6.266233199999999	False		car_wash
+11	Provalet Dublin	ChIJI4Zb4MUPZ0gRO7eBTtofco0	car_wash|point_of_interest|establishment	53.3473878	-6.2661279			car_wash
+12	Crystal Valet - Jervis Street	ChIJNTgcEOYPZ0gRGIlESmxinC4	car_wash|parking|point_of_interest|establishment	53.3473033	-6.266194200000001	False		car_wash
+13	Car Park Jervis Street | APCOA	ChIJtRUY8IIOZ0gRsMvOXLA6FHo	car_wash|parking|point_of_interest|establishment	53.3472386	-6.2661928	False		car_wash
+14	Crystal Clean	ChIJ5SF_U4IOZ0gREDm_okGiqXU	car_wash|point_of_interest|establishment	53.3472142	-6.2664431	False		car_wash
+15	Elite Auto Clean	ChIJLYh0kl8OZ0gRDW-Hw_McTTc	car_wash|point_of_interest|establishment	53.3580292	-6.241027			car_wash
+16	Car valeting Crystalvalet Stephen's green	ChIJN9xxE80PZ0gRmgR84u8FBck	car_wash|point_of_interest|establishment	53.3439	-6.262027499999999			car_wash
+17	Crystal Valet - Trinity Street Dublin 2	ChIJeRgmJ0EPZ0gRmPVT8U_srNs	car_wash|parking|point_of_interest|establishment	53.34382179999999	-6.262444699999999	False		car_wash
+18	Reel Car Care	ChIJf5yybF8OZ0gRhHFtXsakmWQ	car_wash|point_of_interest|establishment	53.35881209999999	-6.238490899999999			car_wash
+19	ALL VALET CAR VALETING Car Cleaning Centre	ChIJMaaalNUNZ0gR3N07gXXEgH4	car_wash|point_of_interest|establishment	53.360335	-6.272823799999999	False		car_wash
+20	CWS Carwashsolutions	ChIJA8Q7sGcOZ0gRRs89BBJrLnE	car_wash|laundry|car_repair|point_of_interest|establishment	53.365848	-6.247658	False	157 Richmond Rd, Ballybough, Dublin	car_wash
+21	Express Car Wash Drury Street	ChIJnxUD95wOZ0gRr0HVphQ-wmU	car_wash|point_of_interest|establishment	53.341668	-6.263891	False	Park Rite Drury St Multi-Storey Car Park, Drury St, Dublin, D02 V261	car_wash
+22	No-H2O Car Wash Dawson Carpark	ChIJy_d6gZkOZ0gRxVhHnjvSt9Y	car_wash|point_of_interest|establishment	53.340283	-6.256616999999999	False	Dawson Street Car Park, 2 School House Ln E, Dublin 2, D02 X295	car_wash
+23	Samba Car Wash	ChIJKSVkxzIMZ0gRMKsjNMpBt_s	car_wash|point_of_interest|establishment	53.3540349	-6.286122499999999		8 Prussia St, Stoneybatter, Dublin 8	car_wash
+24	Shine On Car Wash	ChIJXzDNtDIMZ0gRpTUzE029PiM	car_wash|point_of_interest|establishment	53.3549394	-6.2871101		27 Prussia St, Stoneybatter, Dublin 7, D07 PAF1	car_wash
+25	Saram Car Wash	ChIJaaZbY-UNZ0gR-KSoN_tSIDU	car_wash|point_of_interest|establishment	53.3564279	-6.287139199999999	False	Park Shopping Center, 7 Prussia St, Arran Quay, Dublin, D07 TA4V	car_wash
+26	Clontarf car wash	ChIJrcM4N_cPZ0gRVCuIBd0daJQ	car_wash|point_of_interest|establishment	53.364299	-6.225637	False	3, 5 Charlemont Rd, Clontarf, Dublin, D03 KR44	car_wash
+27	GLANTOÍRÍ CAR WASH	ChIJu2Q-jo8NZ0gR2qHZBAI7I4s	car_wash|point_of_interest|establishment	53.3398426	-6.2861666	False	40 Marrowbone Ln, Saint Catherine's, Dublin 8, D08 DH95	car_wash
+28	Crystal Clean	ChIJP5TCzEcNZ0gRc9-_qyaEskA	car_wash|point_of_interest|establishment	53.37108989999999	-6.280929599999999		Cabra East, Dublin	car_wash
+29	Car wash Crystal clean	ChIJV9_e5n4NZ0gR9R-4JB7mauI	car_wash|point_of_interest|establishment	53.3729894	-6.284365999999999	False	Slaney Rd, Glasnevin, Dublin	car_wash
+30	tiger wash	ChIJdf-RXtwNZ0gRtNT28Q6z_lQ	car_wash|point_of_interest|establishment	53.37285199999999	-6.284815999999999		Cabra East, Dublin	car_wash
+31	Car wash & valet	ChIJST4zdlANZ0gREsUMyfx5Df8	car_wash|point_of_interest|establishment	53.3729976	-6.2845952		stop 1509, Slaney Rd, Cabra East, Dublin	car_wash
+32	Best Cabra Car Wash	ChIJSd6D48kNZ0gRGEep46QKMDE	car_wash|point_of_interest|establishment	53.3605341	-6.2995206	False	Cabra West, Dublin	car_wash
+33	Auto Spa	ChIJdZLAl0cMZ0gRdC0oe4oaZ-g	car_wash|point_of_interest|establishment	53.3416082	-6.297224399999999		Saint James' (part of Phoenix Park), Dublin 8	car_wash
+34	tiger wash	ChIJ06HSSgwOZ0gRBaexheSXR2E	car_wash|point_of_interest|establishment	53.3819082	-6.2660857		Ballygall, Dublin	car_wash
+35	POSH WASH	ChIJbaPkA1oNZ0gRINBpkHJ42QQ	car_wash|point_of_interest|establishment	53.3252467	-6.2672107		Williams Park, Rathmines, Dublin	car_wash
+36	Jet Crystal Car Wash Rathmines	ChIJKf2a5QIMZ0gRdahMAlvXGt8	car_wash|point_of_interest|establishment	53.3231891	-6.2639917	False	Swan Shopping Centre, Underground Carpark, Rathmines, Dublin	car_wash
+37	Eco Car Wash - Artane Castle Shopping Centre	ChIJx242MUkPZ0gRuTP1q5s5AB4	car_wash|point_of_interest|establishment	53.38320419999999	-6.216910899999999	False	Beaumont, Dublin	car_wash
+38	Car Wash	ChIJZyuL3MsPZ0gRPo8_LO5HlC4	car_wash|point_of_interest|establishment	53.3841966	-6.214572299999999		Beaumont, Dublin	car_wash
+39	Circle K Car Wash	ChIJd9usuSMOZ0gR4bNQP9ZwUbM	car_wash|point_of_interest|establishment	53.393564	-6.2478663		Santry, Dublin	car_wash
+40	Crystal Valet - St Stephens Green	ChIJUTQv5l0PZ0gRRFPQSpoPIlA	car_wash|parking|point_of_interest|establishment	53.3398649	-6.2632316	False	Mercer Street Lower, Dublin	car_wash
+41	Jet Crystal Car Wash St Stephen's Green Shopping Centre	ChIJ36dG82kPZ0gRZtJ8wN5_yig	car_wash|point_of_interest|establishment	53.3398747	-6.263785100000001	False	St Stephen's Green Shopping Centre Glover's Alley, Dublin 2, D02 TW61	car_wash
+42	Lux Car Care	ChIJlb-CycoNZ0gRHQqIU9AxzIs	car_wash|point_of_interest|establishment	53.362025	-6.276549500000001	True	St Peter's Rd, Cabra East, Dublin 12, D07 P891	car_wash
+43	Crystal Valet - RCSI St. Stephens Green	ChIJj7qjKZwOZ0gRnq7TbSnpWwE	car_wash|parking|point_of_interest|establishment	53.3392862	-6.2624359	True	RCSI side St. Stephens Green Level 1 Zone C Entrance: Glovers Alley and, York St, Dublin 2	car_wash
+44	Posh wash	ChIJX-2hixMNZ0gRnMbjpo6_CHI	car_wash|point_of_interest|establishment	53.3254087	-6.2656471	False	Rathmines, Dublin, D06 W5Y2	car_wash
+45	No-H2O Car Wash Merrion Shopping Centre	ChIJ19uShdMOZ0gRmd4T8Ac1uEE	car_wash|point_of_interest|establishment	53.318771	-6.213626	False	Merrion Shopping Centre, Nutley Ln, Dublin Southside, Dublin, Dublin	car_wash
+46	DH AUTOCARE Car Valeting & Detailing Services	ChIJqYyo1lVtZ0gReR9Kbju82Rg	car_wash|point_of_interest|establishment	53.3845196	-6.204314999999999	False	Mount Dillon Business Park, Brookville Park, Malahide Rd, Beaumont, Dublin 5	car_wash
+47	Platinum Valeting/Detailing Dublin	ChIJr2CNnisOZ0gRod_MvpQl1Qg	car_wash|point_of_interest|establishment	53.39698019999999	-6.2278752	False	The Coaching Centre, Oscar Traynor Rd, Kilmore, Dublin, D17 N925	car_wash
+48	Posh Wash Ireland	ChIJXw0I3pQPZ0gRyelCMXwDcfw	car_wash|point_of_interest|establishment	53.3804588	-6.1880107	False	Brookwood House, Harmonstown Rd, Donaghmede, Dublin	car_wash
+49	Ben Dunne Carlisle Car Wash & Valeting	ChIJVzBawHkMZ0gRB7Xhm2ltIdk	car_wash|point_of_interest|establishment	53.314572	-6.3050023	False	52-54 Kimmage Rd W, Terenure, Kimmage, Dublin 12, D12 X379	car_wash
+50	Posh Wash	ChIJlTqSQvENZ0gR_JZhZN46Tik	car_wash|point_of_interest|establishment	53.3965347	-6.3040072	False	11 St Margaret's Rd, Finglas North, Dublin, D11 YY11	car_wash
+51	Churchtown Carwash & Valet	ChIJZZ1XTPsLZ0gROe_9H6E92lo	car_wash|point_of_interest|establishment	53.30204130000001	-6.2665473	False	14 Braemor Rd, Newtown Little, Dublin 14	car_wash
+52	Posh Wash Ireland	ChIJ_3b6KN4JZ0gRZ6oZ_XxdNNY	car_wash|point_of_interest|establishment	53.3014466	-6.2461258	False	Windy Arbour, Dundrum Rd, Dundrum, Dublin	car_wash
+53	Wash World Eco Car Wash - Texaco Rathfarnham	ChIJtY8oXu0LZ0gRl1YIAOlWAOE	car_wash|point_of_interest|establishment	53.3006936	-6.2843236	False	Rathfarnham Rd, Rathfarnham, Dublin, D14 V2P4	car_wash
+54	Car Wash, Car Detail Longmile Road	ChIJgTAANcsNZ0gRVo-WUTZ0Q0Q	car_wash|point_of_interest|establishment	53.3239971	-6.338671799999999	False	Long Mile Road Finches Industrial Park Walkinstown, D12, Dublin, D12 VKE3	car_wash
+55	Eco Steam Clean	ChIJraPbbfENZ0gRYbPTD5l7RAk	car_wash|point_of_interest|establishment	53.4066872	-6.2954886	False	40 Seagrave Way, Finglas, Dublin	car_wash
+56	Fast Car Wash	ChIJMZHYw5QMZ0gRhkY97B2bIiQ	car_wash|point_of_interest|establishment	53.3290929	-6.3441173		Kylemore Rd Kylemore Rd, Inchicore, Dublin 10	car_wash
+57	Auto Spa	ChIJ48qH2pQMZ0gR1SgK7vhk-ms	car_wash|point_of_interest|establishment	53.3290539	-6.3445161	False	Kylemore Rd Kylemore Rd, Inchicore, Dublin 10	car_wash
+58	Wash World	ChIJjTjf4moPZ0gRLWz98DJKUDQ	car_wash|point_of_interest|establishment	53.3960953	-6.188097900000001		501 Malahide Rd, Priorswood, Dublin	car_wash
+59	Arnie's Car Wash	ChIJFy-VJCkNZ0gR61GH2gUOSOI	car_wash|point_of_interest|establishment	53.32786369999999	-6.3442208	False	7A Old Naas Rd, Bluebell, Dublin, D12 P820	car_wash

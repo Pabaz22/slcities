@@ -1,0 +1,13 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	City Saw Services Ltd	ChIJR0uTkzIMZ0gRk--1TD5nt8A	hardware_store|point_of_interest|store|establishment	53.3535351	-6.288550400000001	False	hardware_store
+1	Points & Plugs Motor Factors	ChIJuXtBP80NZ0gR_X9oMfGr-IM	hardware_store|point_of_interest|store|establishment	53.3563261	-6.286831099999999	False	hardware_store
+2	Manor DIY	ChIJqfgzgDIMZ0gRMr4HuK93Rvg	hardware_store|point_of_interest|store|establishment	53.3511227	-6.2828926	False	hardware_store
+3	LOCKSMITH	ChIJp3sfj9ENZ0gRvA0R3UQQ_Es	locksmith|hardware_store|point_of_interest|store|establishment	53.36094199999999	-6.283518	False	hardware_store
+4	Dereks Hardware	ChIJkZCPRigNZ0gRdWSTNOaXlcs	hardware_store|point_of_interest|store|establishment	53.3619514	-6.290782899999999	False	hardware_store
+5	Alfa Bargains	ChIJl6ZfEyUMZ0gR8kR_o0x_MfM	hardware_store|point_of_interest|store|establishment	53.3430408	-6.279630399999999	False	hardware_store
+6	Lenehans	ChIJMYk3doIOZ0gRi6xOAGJOWEE	hardware_store|home_goods_store|point_of_interest|store|establishment	53.3486058	-6.268931700000001	False	hardware_store
+7	McQuillan Tools	ChIJlzmxfoIOZ0gRd5MoHTMW1uU	hardware_store|point_of_interest|store|establishment	53.3480919	-6.268435699999999	False	hardware_store
+8	Keys Cut, Electrical and DIY tools	ChIJv3c-b4IOZ0gRqbYzxqghm_g	hardware_store|point_of_interest|store|establishment	53.34852830000001	-6.2678914	False	hardware_store
+9	Phibsboro Hardware	ChIJn_M1fngOZ0gRr2YUB4FkW1c	hardware_store|point_of_interest|store|establishment	53.3638988	-6.2723203	False	hardware_store
+10	Central Key & Hardware Ltd	ChIJr-mssYAOZ0gRctB2OQyJ3YA	hardware_store|locksmith|point_of_interest|store|establishment	53.3553069	-6.264165200000002	False	hardware_store
+11	Fogarty Lock & Safe Co Ltd.	ChIJPVAFRJ0OZ0gRVrRToTE7HRk	hardware_store|locksmith|point_of_interest|store|establishment	53.344253	-6.2667895	False	hardware_store

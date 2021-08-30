@@ -1,0 +1,18 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Webb Motors	ChIJHf0XlD8MZ0gRmdJBnqCzSr0	car_dealer|point_of_interest|store|establishment	53.3345888	-6.292613800000001	False	car_dealer
+1	Bright Ford Rialto	ChIJTf7MoOGZXUgR-oZO1l6oELU	car_dealer|car_repair|point_of_interest|store|establishment	53.3331951	-6.298402299999999	False	car_dealer
+2	Irish Rides Ltd	ChIJhX6uGyQMZ0gRtGAoAGPCmIE	car_dealer|point_of_interest|store|establishment	53.3402517	-6.274962	False	car_dealer
+3	Ken Lawford Motors	ChIJt7PBChkMZ0gR8WayV7c6nSE	car_dealer|point_of_interest|store|establishment	53.3298849	-6.275252599999999	False	car_dealer
+4	Grattan Motors Nissan	ChIJtcUXVWkNZ0gRouyZdFCHp9A	car_dealer|point_of_interest|store|establishment	53.32988559999999	-6.2746907	False	car_dealer
+5	Bloomfield Garage ( Service Department)	ChIJ22xQLB8MZ0gRbAx8jg2nQ0k	car_repair|car_dealer|point_of_interest|store|establishment	53.3318256	-6.2719697	False	car_dealer
+6	MD Motors Ltd	ChIJZVWAPBoMZ0gR9GeM-D99g4I	car_dealer|point_of_interest|store|establishment	53.32763929999999	-6.2758373	False	car_dealer
+7	Westbrook Motors - Mitsubishi Car Sales & Service Centre	ChIJ7-n6-YYOZ0gR_rwIeemXOQM	car_dealer|car_repair|point_of_interest|store|establishment	53.34824199999999	-6.292965	False	car_dealer
+8	Sarsfield Motor Company	ChIJz4FxPEUMZ0gRD372V-dE7Qs	car_dealer|point_of_interest|store|establishment	53.341205	-6.3082669	False	car_dealer
+9	Mulligan's Garage	ChIJF_bwth8MZ0gRInQTh1ay6A0	car_repair|car_dealer|point_of_interest|store|establishment	53.33204540000001	-6.2673678	False	car_dealer
+10	Michael Grant Motors	ChIJXQhaFGYNZ0gR1EvF9wKPSSc	car_dealer|point_of_interest|store|establishment	53.32394060000001	-6.278194699999999	False	car_dealer
+11	Cambridge Motor Company	ChIJ1ZsGnG0MZ0gRVDEeV285raE	car_dealer|point_of_interest|store|establishment	53.3229458	-6.295235699999998	False	car_dealer
+12	Graham Walker Cars	ChIJhX4N2g8MZ0gRyf3SeVCe45o	car_wash|car_dealer|car_repair|point_of_interest|store|establishment	53.322428	-6.279617000000001	False	car_dealer
+13	WesternLHD	ChIJGSM2KYcOZ0gRPeozeSoB6GM	car_dealer|point_of_interest|store|establishment	53.3470357	-6.268857599999999	False	car_dealer
+14	Mr 500 FIAT 500 Sales, Servicing, Parts & Repair	ChIJOxx2wo4NZ0gREuZHMdcnlqU	car_dealer|car_repair|point_of_interest|store|establishment	53.3209042	-6.279266199999999	False	car_dealer
+15	Cars Bought For Cash - Cash for Cars Dublin - We Buy Any Car in Ireland - Sell Your Car	ChIJKd9rl5wOZ0gRyK8gzdafZhs	car_dealer|point_of_interest|store|establishment	53.3438106	-6.261885299999999	False	car_dealer
+16	Volvo Pop Up Shop	ChIJ3TZg9ZsOZ0gRgn2n5jDXA3s	car_dealer|point_of_interest|store|establishment	53.34133159999999	-6.260348	False	car_dealer

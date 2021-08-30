@@ -1,0 +1,19 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	An Post Cork St	ChIJAwBgHzwMZ0gRHGdMhAF02Eg	post_office|finance|point_of_interest|establishment	53.33721739999999	-6.286745199999999	False	post_office
+1	James's Street Post Office	ChIJTexkmzKDY0ERx_G2gJkTmq0	post_office|finance|point_of_interest|establishment	53.3425322	-6.2941064	False	post_office
+2	An Post Dolphin's Barn	ChIJw6ueyD8MZ0gR6dG1IEkD0FE	post_office|finance|point_of_interest|establishment	53.3340174	-6.2909532	False	post_office
+3	Rialto Post Office	ChIJbU2hGkEMZ0gRWqDFv60yvF4	post_office|finance|point_of_interest|establishment	53.3360442	-6.2984681	False	post_office
+4	An Post Dublin 8 Delivery Office	ChIJY0EgcRUMZ0gRPqojBqhW2hI	post_office|finance|point_of_interest|establishment	53.33197639999999	-6.289499	False	post_office
+5	Post Office	ChIJwZTNWhUMZ0gR-DqFfTNd8OE	post_office|finance|point_of_interest|establishment	53.331928	-6.289505800000001	False	post_office
+6	anpostdelivery	ChIJ9diP4z4NZ0gRVBjyYjmncwg	post_office|finance|point_of_interest|establishment	53.33596719999999	-6.276641099999998	True	post_office
+7	An Post Usher's Quay	ChIJIz87RS8MZ0gRhUw3i27CoGo	post_office|finance|point_of_interest|establishment	53.3453252	-6.2764199	False	post_office
+8	An Post Kevin Street Upper	ChIJ_____yAMZ0gRX_TCrsmgAe4	post_office|finance|point_of_interest|establishment	53.3373098	-6.272845799999999	False	post_office
+9	Post Office	ChIJdxUvbzYMZ0gRWg76FkOlDRA	post_office|finance|point_of_interest|establishment	53.34821669999999	-6.294479000000001	False	post_office
+10	An Post Leonard's Corner	ChIJvTns8RgMZ0gRi1Cq_qD8NKc	post_office|finance|point_of_interest|establishment	53.3321318	-6.2750254	False	post_office
+11	Creighans Post Office	ChIJkTih3kQMZ0gR5VwDLFf6Dd4	post_office|finance|point_of_interest|establishment	53.3399168	-6.307847999999999	False	post_office
+12	An Post Post Box	ChIJzUpVwhINZ0gRHtfM98MZLPc	post_office|finance|point_of_interest|establishment	53.3505492	-6.2817146		post_office
+13	Harold's Cross Post Office	ChIJVQwhcxoMZ0gRObRH-6qCSiM	post_office|finance|point_of_interest|establishment	53.3269087	-6.277491100000001	False	post_office
+14	Post Office	ChIJUwXIr2gMZ0gR3dfD4R1Uw-c	post_office|finance|point_of_interest|establishment	53.327397	-6.305580399999999	False	post_office
+15	An Post	ChIJebysQYQOZ0gR-8it5ybY82M	post_office|finance|point_of_interest|establishment	53.3510283	-6.2703071	False	post_office
+16	St. Andrew's St. Post Office	ChIJXTLrjpwOZ0gR7eosBKKEqew	post_office|finance|point_of_interest|establishment	53.34381639999999	-6.2614242	False	post_office
+17	An Post	ChIJuXtBP80NZ0gRVwnQkiLvFlU	post_office|finance|point_of_interest|establishment	53.3560323	-6.286692	False	post_office

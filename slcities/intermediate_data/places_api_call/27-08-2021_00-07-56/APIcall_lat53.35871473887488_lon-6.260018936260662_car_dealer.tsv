@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Wellington Cars	ChIJn6iFDCEGZ0gR33o-wf0GSZ0	car_dealer|point_of_interest|store|establishment	53.355965	-6.2670345	False			car_dealer
+1	E.T.S. scammers	ChIJqQO3HmIOZ0gRk_4PD7o4v8A	car_dealer|point_of_interest|store|establishment	53.3579002	-6.2505308				car_dealer
+2	Premium Automotive	ChIJrwIr9LoPZ0gRZ2kI2a9ItPc	car_dealer|point_of_interest|store|establishment	53.3581003	-6.2479726	False			car_dealer
+3	McKenna O'neill	ChIJCYMBvyoMZ0gR0jZY9ZbQ49A	car_dealer|point_of_interest|store|establishment	53.3545482	-6.271946	False			car_dealer
+4	QuitutesdaGui	ChIJg3UBCycPZ0gR5ESmHJsrsAo	car_dealer|point_of_interest|store|establishment	53.35452599999999	-6.248076799999999	True			car_dealer
+5	Prospect Motors	ChIJVRO8YGUOZ0gRNbf1lNN4YM0	car_dealer|point_of_interest|store|establishment	53.3669472	-6.257576200000001	False			car_dealer
+6	Carole Nash Insurance Consultants	ChIJBXPUL4kOZ0gRFXkj13Ztp7A	insurance_agency|car_dealer|point_of_interest|store|establishment	53.3519152	-6.2508812	False			car_dealer
+7	Cash for cars Dublin	ChIJey0VamcOZ0gRGzbuDurfBnQ	car_dealer|point_of_interest|store|establishment	53.36459259999999	-6.2456341	False			car_dealer
+8	Fine Motors Ltd	ChIJXbf_sooOZ0gR2SRkLRDHy0g	car_dealer|point_of_interest|store|establishment	53.3563927	-6.2429237	False			car_dealer
+9	German Auto	ChIJW0v8YGcOZ0gRaKBwQx7c_y8	car_dealer|car_repair|point_of_interest|store|establishment	53.36406900000001	-6.244723899999999	False			car_dealer
+10	Hertz Car Sales	ChIJL9DsEtQNZ0gRm70IDC7HBUs	car_dealer|point_of_interest|store|establishment	53.35978110000001	-6.277706700000001	False	2.0		car_dealer
+11	Derick Ready Motors	ChIJl6OGNPUOZ0gRfg26eiNHfRo	car_dealer|point_of_interest|store|establishment	53.3558774	-6.2420042	False			car_dealer
+12	CD Motors	ChIJT6vI7F0OZ0gRkFXl2rnk9nM	car_dealer|point_of_interest|store|establishment	53.36373159999999	-6.243385700000001	False			car_dealer
+13	Seville Motors	ChIJyxvWAosOZ0gRC0my9wzUdTI	car_dealer|point_of_interest|store|establishment	53.3527492	-6.2442063				car_dealer
+14	Bright Ford Phibsborough	ChIJPdYz9tMNZ0gRVTE5-bISPFU	car_dealer|point_of_interest|store|establishment	53.3600135	-6.278857700000001	False			car_dealer
+15	Montpellier Motors Ltd	ChIJRfw1iRoNZ0gRCw_00WmVwrM	finance|car_dealer|point_of_interest|store|establishment	53.3580158	-6.2813011	False			car_dealer
+16	WesternLHD	ChIJGSM2KYcOZ0gRPeozeSoB6GM	car_dealer|point_of_interest|store|establishment	53.3470357	-6.268857599999999	False			car_dealer
+17	Terrific.ie	ChIJbaPpu44PZ0gRewZCvM2tyUo	car_dealer|point_of_interest|store|establishment	53.34582879999999	-6.2585484	False			car_dealer
+18	Looplow | Car Dealers Dublin	ChIJi8o5JY4OZ0gR3m6KmUou6AQ	car_dealer|point_of_interest|store|establishment	53.34665789999999	-6.250036499999998	False			car_dealer
+19	Cars Bought For Cash - Cash for Cars Dublin - We Buy Any Car in Ireland - Sell Your Car	ChIJKd9rl5wOZ0gRyK8gzdafZhs	car_dealer|point_of_interest|store|establishment	53.3438106	-6.261885299999999	False			car_dealer
+20	Fairview Motors	ChIJtSEhzlsOZ0gRMBupamvposs	car_dealer|car_repair|point_of_interest|store|establishment	53.363764	-6.234444000000001	False		4-5 Merville Ave, Fairview, Dublin 3, D03 YA26	car_dealer
+21	Moore & Farrell Car Sales	ChIJPUHtDFoOZ0gRjmnRqUoYmkQ	car_dealer|point_of_interest|store|establishment	53.3645906	-6.2308629	False		25, 3 Marino Mart, Fairview, Co. Dublin, D03 NY75	car_dealer
+22	Cameron Cars	ChIJO8MASsMNZ0gRazwTcDl-ITs	car_dealer|point_of_interest|store|establishment	53.37254249999999	-6.2886288	False		3 Lee Rd, Dublin Industrial Estate, Dublin	car_dealer
+23	Westbrook Motors - Mitsubishi Car Sales & Service Centre	ChIJ7-n6-YYOZ0gR_rwIeemXOQM	car_dealer|car_repair|point_of_interest|store|establishment	53.348242	-6.292965	False		24 Parkgate St, Stoneybatter, Dublin 8, D08 WF6W	car_dealer
+24	Clonfin Car Sales	ChIJfYX2T38PZ0gR9lTeqVfT7Dk	car_dealer|point_of_interest|store|establishment	53.33514599999999	-6.2504329	True		5 Fitzwilliam Square E, Dublin, D02 R744	car_dealer
+25	JOC Auto Sales	ChIJJwKjfugNZ0gRE6L6WwcdIEk	car_dealer|point_of_interest|store|establishment	53.37888	-6.2903709	False		Finglas Business Park, Unit 4, Tolka Valley Rd, Finglas Rd, Dublin, D11 EH00	car_dealer
+26	Ken Lawford Motors	ChIJt7PBChkMZ0gR8WayV7c6nSE	car_dealer|point_of_interest|store|establishment	53.3298849	-6.2752526	False		28 Windsor Terrace, Harold's Cross, Dublin, D08 E923	car_dealer
+27	Webb Motors	ChIJHf0XlD8MZ0gRmdJBnqCzSr0	car_dealer|point_of_interest|store|establishment	53.3345888	-6.2926138	False		436-440 S Circular Rd, Rialto, Dublin 8, D08 T8PH	car_dealer
+28	Linders MG, Opel And Citroen Finglas	ChIJCzql6_MNZ0gRKBxxDt6ql8E	car_dealer|point_of_interest|store|establishment	53.38469079999999	-6.2956048	False		Clearwater Industrial Park, 3, Finglas Rd, Dublin 11	car_dealer
+29	Bright Ford Rialto	ChIJTf7MoOGZXUgR-oZO1l6oELU	car_dealer|car_repair|point_of_interest|store|establishment	53.3331951	-6.298402299999999	False		Herberton Rd, Rialto, Drimnagh, Dublin, D12 HT99	car_dealer
+30	GPS Car Sales	ChIJTemIEbAPZ0gR2arLj0oFIv4	car_dealer|point_of_interest|store|establishment	53.3709441	-6.204669300000001			191 Howth Rd, Clontarf East, Killester, Co. Dublin, D03 A3V7	car_dealer
+31	Michael Grant Motors	ChIJXQhaFGYNZ0gR1EvF9wKPSSc	car_dealer|point_of_interest|store|establishment	53.32394060000001	-6.278194699999999	False		153-155 Harold's Cross Rd, Rathmines, Dublin 6W, Co. Dublin, D6W HP44	car_dealer
+32	John Hayes Cars	ChIJdzP61qkOZ0gRc0rKfrNNDOU	car_dealer|point_of_interest|store|establishment	53.32004329999999	-6.2637712	False		6-8, Church Ave, Rathmines, Dublin, D06 P2T7	car_dealer
+33	Cambridge Motor Company	ChIJ1ZsGnG0MZ0gRVDEeV285raE	car_dealer|point_of_interest|store|establishment	53.32294580000001	-6.2952357	False		108 Sundrive Rd, Kimmage, Dublin, D12 TW22	car_dealer
+34	David Golding Cars	ChIJyd08bQYMZ0gRmt1TK15Fl6E	car_dealer|point_of_interest|store|establishment	53.3161906	-6.276013300000001	False		48 Garville Ln, Rathmines, Dublin 6, DO6 E447	car_dealer
+35	Barnes AutoHouse	ChIJK8LiqwcMZ0gRtra6_uNBBTI	car_dealer|point_of_interest|store|establishment	53.3147753	-6.2723096	False		74 Rathgar Rd, Rathfarnham, Dublin, D06 XT68	car_dealer
+36	Redcastle Motors	ChIJJfWCfpUPZ0gRa-OSXOeMDpo	car_dealer|car_repair|point_of_interest|store|establishment	53.3791046	-6.1912717	False		134 Harmonstown Rd, Harmonstown, Dublin	car_dealer
+37	North Road Motor Company	ChIJWwq0gvUNZ0gR-QkKyHhTuUc	car_dealer|point_of_interest|store|establishment	53.3965914	-6.3044544	False		1 St Margaret's Rd, Dublin Northside, Dublin, D11 PX63	car_dealer
+38	Declan Gill Motors	ChIJLU-Ykz4OZ0gReNiNwu-HF7I	car_dealer|point_of_interest|store|establishment	53.4049263	-6.240508999999999	False		Airport Business Campus, Swords Rd, Santry, Dublin 9	car_dealer
+39	Joe Duffy Select (North Dublin)	ChIJRadZ7AoSZ0gRlaE6jYXYemw	car_dealer|car_repair|point_of_interest|store|establishment	53.398378	-6.30613	False		Exit 5 M50 North Road, Finglas, Dublin, Co. Dublin 11	car_dealer
+40	MSL Park Motors Skoda	ChIJAyDDKrYNZ0gR8bIocg9ct84	car_dealer|point_of_interest|store|establishment	53.3619254	-6.3005854	False		Navan Rd, Cabra West, Dublin	car_dealer
+41	Beacon Motors	ChIJBUOMmgkJZ0gRwZy7rFyY5vs	car_dealer|point_of_interest|store|establishment	53.3951131	-6.249398299999999	False		Unit 5A, Santry Hall Industrial Estate, Swords Rd, Whitehall, Dublin 9, D09 NX07	car_dealer
+42	Mr 500 FIAT 500 Sales, Servicing, Parts & Repair	ChIJOxx2wo4NZ0gREuZHMdcnlqU	car_dealer|car_repair|point_of_interest|store|establishment	53.3209042	-6.279266199999999	False		260 Harold's Cross Rd, Harold's Cross, Terenure, Dublin, D6W VN50	car_dealer
+43	Fine Motors Ltd	ChIJccWSoA8MZ0gRWLMVnev1TqA	car_dealer|point_of_interest|store|establishment	53.3990291	-6.239007	False		Lilmar Industrial Estate, Unit 3 Barclay House, Santry, Dublin	car_dealer
+44	Linders The Car People	ChIJ6ZLXFOMMZ0gRa-pX6xYuZjk	car_dealer|point_of_interest|store|establishment	53.348195	-6.341099	False		Quadrant House, Chapelizod Rd, Chapelizod, Dublin 20, D20 C527	car_dealer
+45	Joe Duffy Mazda	ChIJn_jBOAsSZ0gR7kuLN4Q_Elw	car_dealer|car_repair|point_of_interest|store|establishment	53.3998211	-6.3068013	False		North Rd, Finglas North, Dublin, D11 V21K	car_dealer
+46	Terenure Motor Company	ChIJIb-0944LZ0gRYG_G917l9L0	car_dealer|point_of_interest|store|establishment	53.3096876	-6.2849454	False		1 Terenure Rd W, Terenure, Dublin 6W, Co. Dublin, D6W CA34	car_dealer
+47	Bill Sheehan and Sons Mitsubishi	ChIJTf7MoOGZXUgRu0f9wB9l4zY	car_dealer|point_of_interest|store|establishment	53.3093926	-6.285459599999999	False		1-5 Templeogue Rd, Terenure, Dublin 6W, Co. Dublin, D6W YE27	car_dealer
+48	Francis McCann Car Sales	ChIJoyk2O40MZ0gRyUn02AkFSqg	car_dealer|point_of_interest|store|establishment	53.32991029999999	-6.3324699	False		Unit 2, Car Auctions, Naas Rd, Inchicore, Dublin	car_dealer
+49	Carland Dublin - SsangYong Isuzu LDV-Maxus Sales Service & Parts	ChIJuaEHH9ARZ0gRChouybJS2M4	car_dealer|point_of_interest|store|establishment	53.41121159999999	-6.2396707	False		Harris Park, Old Airport Road, Cloghran, Co. Dublin	car_dealer
+50	Joe Duffy BMW Dublin	ChIJibl1sQwSZ0gRUEGU1JOwXW4	car_dealer|finance|car_repair|point_of_interest|store|establishment	53.40480609999999	-6.307156	False		M50, Exit 5, Charlestown Dr, Dublin 11, D11 NA00	car_dealer
+51	Airport Cars	ChIJ2YZRPWQJZ0gR6rt0NVjyXfc	car_dealer|point_of_interest|store|establishment	53.41167549999999	-6.240456399999999	False		Swords Rd, Turnapin Little, Santry, Co. Dublin	car_dealer
+52	PJ McKenna Trade Car Sales	ChIJN5tIJ5MMZ0gREyWOuNwTeq0	car_dealer|point_of_interest|store|establishment	53.3295401	-6.338592999999999	False		Old Naas Rd, Inchicore, Dublin	car_dealer
+53	Windsor Raheny Nissan	ChIJ35lx44wPZ0gRq6IRTRnUxp4	car_dealer|point_of_interest|store|establishment	53.3807787	-6.1740308	False		540 / 544 Howth Rd, Donaghmede, Dublin 5, D05 W304	car_dealer
+54	Kylemore Cars	ChIJyWTkZ5MMZ0gRR14aaMSYBio	car_dealer|point_of_interest|store|establishment	53.3276839	-6.3400143	False		Royal Liver, Bluebell Business Park, Old Naas Rd, Inchicore, Dublin 12	car_dealer
+55	AutoCity	ChIJC4K1J-sMZ0gRFEQgBFr1qLM	car_dealer|point_of_interest|store|establishment	53.331992	-6.344596	False		Bluebell Ave, Inchicore, Dublin 12	car_dealer
+56	KEARYS CARSTORE DUBLIN	ChIJoWVX-icNZ0gRW3J5XqV59vg	car_dealer|point_of_interest|store|establishment	53.3307037	-6.343603	False		Kylemore Rd, Inchicore, DUBLIN 12, D12 C959	car_dealer
+57	Right Price Cars	ChIJ20j2zzIMZ0gR_xzYwZBdROs	car_dealer|point_of_interest|store|establishment	53.3308639	-6.3437623	False		12 Bluebell Ave, Inchicore, Dublin	car_dealer
+59	Used Car Store Dublin	ChIJvVvfLMkRZ0gRfcqtD8X-5mI	car_dealer|point_of_interest|store|establishment	53.416712	-6.238368899999999	False		Collinstown Cross Industrial, Old Airport Road, Santry, Co. Dublin	car_dealer

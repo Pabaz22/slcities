@@ -1,0 +1,58 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Centra Cork Street	ChIJe2HxIjwMZ0gR__OrcnH_0co	convenience_store|atm|finance|liquor_store|food|point_of_interest|store|establishment	53.3373687	-6.287077	True		atm
+1	Ulster Bank ATM (Heuston Station)	ChIJsZU4OAENZ0gRo9MyU6QfhnM	atm|finance|point_of_interest|establishment	53.3466169	-6.292432499999999	True		atm
+2	AIB ATM Kilmainham	ChIJ54raJEgMZ0gReI1-MezOR30	atm|bank|finance|point_of_interest|establishment	53.3445839	-6.296847899999999	True		atm
+3	Centra Thomas St	ChIJe431wgIMZ0gReoq7ZaE1rKA	convenience_store|atm|meal_takeaway|finance|liquor_store|restaurant|food|point_of_interest|store|establishment	53.3426415	-6.278734699999998	True		atm
+4	YourMoneyKiosk ATM	ChIJs4NC0y8MZ0gRP1lspiKVyY8	atm|finance|point_of_interest|establishment	53.34695749999999	-6.282231	True		atm
+6	AIB ATM Heuston Station	ChIJFZlG10kMZ0gRTeb0NBT5OXI	atm|bank|finance|point_of_interest|establishment	53.346866	-6.297147	True		atm
+7	ATM in Londis	ChIJObSiZTYMZ0gRNtSD2KXe2Xc	atm|finance|point_of_interest|establishment	53.34822310000001	-6.294341	True		atm
+8	Bank of Ireland	ChIJG9yWpy8MZ0gR2Bae2nlhfBU	atm|finance|point_of_interest|establishment	53.3465935	-6.2791862	False		atm
+9	YourMoneyKiosk ATM	ChIJgwsdxj8MZ0gRoFO_nsFhlFo	atm|finance|point_of_interest|establishment	53.3340924	-6.291206799999999			atm
+10	ATM Spar	ChIJwfsUzz8MZ0gRTZlkFyFSDFo	atm|finance|point_of_interest|establishment	53.33395229999999	-6.2910453	True		atm
+11	ATM	ChIJz1PNGkEMZ0gR2eG5YA9cZMY	atm|finance|point_of_interest|establishment	53.33602800000001	-6.2985178	False		atm
+12	Centra Rialto	ChIJg0eiGkEMZ0gRWBUOHq7psig	convenience_store|atm|finance|liquor_store|food|point_of_interest|store|establishment	53.33602800000001	-6.2985178	True		atm
+13	Fresh ATM	ChIJJxROly4MZ0gR-EBeg466zGY	atm|finance|point_of_interest|establishment	53.3492303	-6.278379900000002	True		atm
+14	Centra ATM	ChIJaaPzwi0MZ0gRe1lvBSzY5YA	atm|finance|point_of_interest|establishment	53.3506908	-6.281841899999999	True		atm
+15	Centra Stoneybatter	ChIJoyKawi0MZ0gRDe8DFvuxOyM	convenience_store|atm|meal_takeaway|finance|liquor_store|restaurant|food|point_of_interest|store|establishment	53.3507249	-6.281865599999999	True		atm
+16	Spar ATM	ChIJSxc_SSEMZ0gRfMikCQZrA_s	atm|finance|point_of_interest|establishment	53.3390522	-6.272304200000001	True		atm
+18	BOI ATM Stoneybatter	ChIJhZK1fP0NZ0gR3uQ3NKlkksg	atm|finance|point_of_interest|establishment	53.3511852	-6.282561500000001	True		atm
+19	ATM	ChIJS42_uicMZ0gRB4OvFcyoObA	atm|finance|point_of_interest|establishment	53.3431225	-6.2701162	True		atm
+20	YourMoneyKiosk ATM	ChIJk1LLJxgMZ0gRjOYp13gc_rQ	atm|finance|point_of_interest|establishment	53.331705	-6.2790129		S Circular Rd S Circular Rd, Merchants Quay, Dublin 8, D08 EH64	atm
+21	CashZone ATM	ChIJjWX-PUUMZ0gR8UsRnTiUKQw	atm|finance|point_of_interest|establishment	53.34128	-6.3078257		Kilmainham, Dublin	atm
+22	YourMoneyKiosk ATM	ChIJ5xs-3EQMZ0gRJJfJ4APxjrc	atm|finance|point_of_interest|establishment	53.3398682	-6.307802700000001		627 S Circular Rd, Kilmainham, Dublin	atm
+23	AIB ATM D.I.T Bishops Street	ChIJNZiTH54OZ0gR975NUAZcVJ0	atm|bank|finance|point_of_interest|establishment	53.3382611	-6.2674698	True	Dublin Institute of Technology, Bishops Street, Dublin 2, Dublin	atm
+24	AIB ATM Garda HQ Glasnevin	ChIJ55TsLrUNZ0gRsyiciLHZ8j4	atm|bank|finance|point_of_interest|establishment	53.3535526	-6.298286399999999	True	Garda HQ, Phoenix Park, Dublin 8	atm
+25	YourMoneyKiosk ATM	ChIJa_NihoIOZ0gRfw_yfp0OIHk	atm|finance|point_of_interest|establishment	53.3474973	-6.2681325	True	SPAR, Dublin 1, D01 Y6H2, 21-24 Capel St, North City, Dublin 1, D01 Y6H2	atm
+26	AIB ATM Capel Street	ChIJh3c62CkMZ0gRKOz6dSge9p8	atm|bank|finance|point_of_interest|establishment	53.348423	-6.2688739	True	AIB Bank Exterior Wall, 126 Capel Street, Dublin 1, Dublin, D01 VW89	atm
+27	AIB ATM Dame Street	ChIJ3a2_Pp0OZ0gRoqFfYS93PyQ	atm|bank|finance|point_of_interest|establishment	53.34390149999999	-6.2659972	True	AIB Bank Exterior Wall, 7-12 Dame Street, Opposite Olympia Theatre, Dublin 2, Dublin, D02 KX20	atm
+28	ATM CENTRA	ChIJ0aIdCgINZ0gRb6c6mW3NIbw	atm|finance|point_of_interest|establishment	53.3509936	-6.2703963		61-59 R132, Rotunda, Dublin	atm
+29	AIB ATM South Great Georges Street	ChIJ3XQvAJ0OZ0gRTGaoJNmQ2Rw	atm|bank|finance|point_of_interest|establishment	53.342761	-6.264261299999999	True	Next to Dunnes Stores, South Great George's Street, Dublin	atm
+30	ATM Cash Zone	ChIJsZ7IBIIOZ0gR7ZULEasbqGI	atm|finance|point_of_interest|establishment	53.35009429999999	-6.2684096	True	5 Ryder's Row, Rotunda, Dublin	atm
+31	ATM	ChIJVXq3-YIOZ0gRsznj2CqMiOM	atm|finance|point_of_interest|establishment	53.3476823	-6.2660781		23 Jervis St, North City, Dublin 1	atm
+32	YourMoneyKiosk ATM	ChIJ7xfJCB8MZ0gR8n09ioAxf7g	atm|finance|point_of_interest|establishment	53.3322586	-6.269209699999999		SPAR, 8, D08 R6K0, 13 S Circular Rd, Wood Quay, Dublin 8, D08 R6K0	atm
+33	AIB ATM Stephens Street Dublin	ChIJH9RBNZwOZ0gRCfMDzf3wA0c	atm|bank|finance|point_of_interest|establishment	53.3411706	-6.2637208	True	Outside Break For The Border, 39 Stephen Street Lower, Dublin, D02 EP92	atm
+34	ATM Spar	ChIJF6weCR8MZ0gRhEg_nQYc9YA	atm|finance|point_of_interest|establishment	53.3319967	-6.2692777		1 Kingsland Park Ave, Wood Quay, Dublin 8, D08 F2C6	atm
+35	ATM Bank Of Ireland	ChIJy6ZX3Z8OZ0gR2O5DbsqhUXE	atm|finance|point_of_interest|establishment	53.33575339999999	-6.2653777	True	78-82 Camden Street Lower, Saint Kevin's, Dublin	atm
+36	Spar ATM	ChIJz6-HAoMOZ0gRHDw6X1-M9SQ	atm|finance|point_of_interest|establishment	53.3474207	-6.2652212	True	1 Middle Abbey St, North City, Dublin	atm
+37	YourMoneyKiosk ATM	ChIJ9eMJAoMOZ0gRIYhTIufI96c	atm|finance|point_of_interest|establishment	53.347535	-6.265289999999999		SPAR, 26-30 Abbey Street Upper, Millennium Walkway, North City, Dublin	atm
+38	Ulster Bank	ChIJqxPJqoMOZ0gR7azfKcQvmyc	atm|finance|point_of_interest|establishment	53.3480281	-6.2653693		125 Abbey Street Upper, North City, Dublin 1, D01 W3X5	atm
+40	Bitcoin ATM - Boinnex	ChIJd6YO9DoNZ0gR1MHQwyaW-og	atm|finance|point_of_interest|establishment	53.3499614	-6.274089099999999	True	Daybreak, Chancery Hall, Church St, Dublin 7, D07 X9YF	atm
+41	ATM QUIK PICK	ChIJueB8G4IOZ0gROxcHpMMpc1Y	atm|finance|point_of_interest|establishment	53.35012889999999	-6.2683532	True	Rotunda, Dublin	atm
+42	Ulster Bank ATM (Lr. Camden Street)	ChIJKeMYZzEPZ0gRdvE4lePvSGY	atm|finance|point_of_interest|establishment	53.3356346	-6.2655115	True	79-80 Camden Street Lower, Saint Kevin's, Dublin, D02 HA29	atm
+43	AIB ATM Jervis Street S.C	ChIJtaidVIIOZ0gRLHba7kex8QE	atm|bank|finance|point_of_interest|establishment	53.3482472	-6.2656043	True	Jervis Street Shopping Centre, 125 Abbey Street Upper, North City, Entrance, Co. Dublin, D01 W3X5	atm
+44	ATM AIB	ChIJTa8DtcQPZ0gR6SdiR1UXMUQ	atm|finance|point_of_interest|establishment	53.3454369	-6.2637005	True	43-44 Temple Bar, Dublin, D02 KF86	atm
+45	YourMoneyKiosk ATM	ChIJu0UI3IEOZ0gRYZKGUo5D4mw	atm|finance|point_of_interest|establishment	53.3521139	-6.2693531		SPAR, Bolton St, 1, D01 HX62, Inns Quay, Dublin	atm
+46	Ulster Bank ATM (Tesco Camden St.)	ChIJs5K4hO0PZ0gR3QjJTgIq8AM	atm|finance|point_of_interest|establishment	53.33412140000001	-6.265068299999999	True	41 Camden Street Lower, Saint Kevin's, Dublin 2, D02 FX46	atm
+47	ATM, Keoghs Cafe	ChIJAXjUOPcPZ0gRdJ5vz8rjw_k	atm|finance|point_of_interest|establishment	53.3441555	-6.2621951	True	13a R137, Dublin	atm
+48	AIB ATM	ChIJ-bPe-vAPZ0gRhF1N4wKIXhk	atm|finance|point_of_interest|establishment	53.3479821	-6.2640255		Abbey Street Upper, North City, Dublin 1	atm
+49	AIB ATM Harrington Street	ChIJTRXGeaAOZ0gROgiygWXOKfw	atm|bank|finance|point_of_interest|establishment	53.3323066	-6.2650339	False	AIB Bank External Wall, Harrington Street, Saint Kevin's, Dublin 8, Dublin	atm
+50	Ulster Bank ATM (College Green)	ChIJM2-tJP4PZ0gRNNzhs90CS4c	atm|finance|point_of_interest|establishment	53.3441902	-6.260578199999999	True	33 College Green, Dublin, D02 DD76	atm
+51	YourMoneyKiosk ATM	ChIJ_RNgcKAOZ0gRHEVWwICAUoI	atm|finance|point_of_interest|establishment	53.3324839	-6.2645401		SPAR, Saint Kevin's, 52-58 Richmond St S, Dublin 2	atm
+52	AIB ATM Wicklow Street	ChIJ0x6ueJsOZ0gRuROTXmiuXXA	atm|bank|finance|point_of_interest|establishment	53.3428248	-6.2602204	True	AIB Bank Exterior Wall, Wicklow Street, Dublin 2, Dublin	atm
+53	ATM	ChIJS7gbdJsOZ0gRZiaCWM-SOVs	atm|finance|point_of_interest|establishment	53.3429647	-6.2596338	True	101 Grafton Street, Dublin 2	atm
+54	Ulster Bank ATM (Grafton Street)	ChIJ129PcZsOZ0gRXbzrOzG92TE	atm|finance|point_of_interest|establishment	53.3431976	-6.2595326	True	Ulster Bank Mortgage Centre, 105 Grafton Street, Dublin, D02 HN59	atm
+55	AIB ATM Grafton Street	ChIJzbP5dZsOZ0gRq2v9MYnpcjE	atm|finance|point_of_interest|establishment	53.3429146	-6.2593402	True	100, AIB Bank External Wall, 101 Grafton Street, Dublin 2, D02 HX31	atm
+56	UB ATM Centra	ChIJCR_8WoEOZ0gRtsGYQcQQNcs	atm|finance|point_of_interest|establishment	53.3512548	-6.263706399999999		North City, Dublin	atm
+57	AIB ATM	ChIJL0bTFmYMZ0gROJIkc4Nh1Hc	atm|finance|point_of_interest|establishment	53.32775909999999	-6.30758	True	244 Crumlin Rd, Drimnagh, Dublin Southside, Co. Dublin	atm
+58	UB ATM Tesco	ChIJEWJcT4EOZ0gRVFZtcAK9yX0	atm|finance|point_of_interest|establishment	53.351681	-6.2635646		168 Parnell St, Rotunda, Dublin 1, D01 R6K0	atm
+59	AIB ATM O'Connell Street Upper	ChIJJ0pmF4QOZ0gRvHFGaJLRAKE	atm|bank|finance|point_of_interest|establishment	53.3501573	-6.2609292	True	Spar External Wall, 63-64 O'Connell Street Upper, Dublin, D01 X8C3	atm

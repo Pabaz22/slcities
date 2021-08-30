@@ -1,0 +1,8 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Park Shopping Centre	ChIJcRKXHs0NZ0gRcodFeUUsmZQ	shopping_mall|point_of_interest|establishment	53.3562124	-6.2871766	False	shopping_mall
+1	Londis	ChIJeVjY3sUNZ0gRpCPj7_hZllI	convenience_store|shopping_mall|food|point_of_interest|store|establishment	53.367143	-6.293929599999998	False	shopping_mall
+2	Stoneybatter Farmers Market at Pender's Yard	ChIJzz7p7i0MZ0gRtzNrQVvK0GM	shopping_mall|point_of_interest|establishment	53.35069430000001	-6.282315599999999	False	shopping_mall
+3	Loja De Tecidos	ChIJj7wdZcQNZ0gRusOTpL12tt8	shopping_mall|point_of_interest|establishment	53.3499194	-6.280987800000001		shopping_mall
+4	Glasnevin	ChIJ1wpeikkNZ0gRc7VMXEAzSwQ	shopping_mall|point_of_interest|establishment	53.37516110000001	-6.295096099999999	False	shopping_mall
+5	Dublin Beer Factory	ChIJS88xb3sPZ0gRE245f6a5Fm0	shopping_mall|point_of_interest|establishment	53.3508332	-6.266870699999999	False	shopping_mall
+6	Dublino	ChIJv9RHPocOZ0gRwPOpxHPHMXg	shopping_mall|point_of_interest|establishment	53.3546269	-6.261827399999999	False	shopping_mall

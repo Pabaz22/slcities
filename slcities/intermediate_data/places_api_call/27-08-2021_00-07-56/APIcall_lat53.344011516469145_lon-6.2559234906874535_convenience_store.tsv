@@ -1,0 +1,61 @@
+	name	place_id	price_level	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Spar	ChIJKc5ya5sOZ0gRS3eDRdkkbOY	1.0	convenience_store|food|point_of_interest|store|establishment	53.34419919999999	-6.259758799999999	True		convenience_store
+1	Bus Stop Newsagents	ChIJzbP5dZsOZ0gRyZAEKFPyUvE		convenience_store|food|point_of_interest|store|establishment	53.3428413	-6.259338099999999	True		convenience_store
+2	Mobile Phone Repair in Temple Express	ChIJT3OmyoQOZ0gRagsB0CHE-zU		convenience_store|food|point_of_interest|store|establishment	53.3455747	-6.2595449	True		convenience_store
+3	Marks and Spencer	ChIJERvGmpsOZ0gR2DQz5W_YgYw	2.0	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	53.3422196	-6.2594935	True		convenience_store
+4	Centra Wicklow Street	ChIJ21Kwf5sOZ0gRRityU_tCpcM		convenience_store|atm|finance|liquor_store|food|point_of_interest|store|establishment	53.3429078	-6.260538599999999	True		convenience_store
+5	SPAR	ChIJtTu12IQOZ0gRm3haicO4_Q0	1.0	convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3467557	-6.258066700000001	True		convenience_store
+6	Tesco Express	ChIJqyBus4QOZ0gRLuu_eTQNEaU	1.0	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3456365	-6.2602235	True		convenience_store
+7	ampm	ChIJY0M-FIUOZ0gR7AER9qZ2JU8		convenience_store|cafe|food|point_of_interest|store|establishment	53.3472843	-6.2564983	True		convenience_store
+8	Londis Westmoreland Street	ChIJ_V19wYQOZ0gRz_WO4XnwojM	2.0	convenience_store|food|point_of_interest|store|establishment	53.346683	-6.259386699999999	True		convenience_store
+9	Londis	ChIJfa1kpJwOZ0gR3ZPVrlOzQvA	2.0	convenience_store|food|point_of_interest|store|establishment	53.3444412	-6.261696100000001	True		convenience_store
+10	Tesco Express	ChIJJ5CUopwOZ0gRc8XUJDFf8jQ	1.0	supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3441575	-6.261749600000001	True		convenience_store
+11	Centra Westland Row	ChIJgcaZA5EOZ0gR2cmTaBYI8Ow		convenience_store|atm|meal_takeaway|finance|liquor_store|restaurant|food|point_of_interest|store|establishment	53.34283180000001	-6.249769399999999	True		convenience_store
+12	Bubble Love: Bubble Waffle & Bubble Tea	ChIJHUlHKwQPZ0gRUHgL7rDqapw		convenience_store|cafe|food|point_of_interest|store|establishment	53.3462055	-6.2617045	True		convenience_store
+13	Daybreak	ChIJ3f2HYnEPZ0gRWERN7lLNz9E		convenience_store|food|point_of_interest|store|establishment	53.3462055	-6.2617045	True		convenience_store
+14	Daybreak	ChIJTat5_IQOZ0gRsogovV-cZsM		convenience_store|food|point_of_interest|store|establishment	53.3478022	-6.258748700000001	True		convenience_store
+15	Centra Wellington Quay	ChIJxW__SYMOZ0gRtIWFihfFqWc		convenience_store|atm|finance|liquor_store|food|point_of_interest|store|establishment	53.34583620000001	-6.263094199999999	True		convenience_store
+16	Spar Foodhall Abbey Street	ChIJUxicVYQOZ0gR0tJFsVIm7uE		convenience_store|food|point_of_interest|store|establishment	53.3484565	-6.258436899999999	True		convenience_store
+17	SPAR Trabajo	ChIJc9AwUYQOZ0gRyWRVsLR5-LU	1.0	convenience_store|food|point_of_interest|store|establishment	53.3484625	-6.258459899999999	True		convenience_store
+18	Gala Express	ChIJ31rxpIUOZ0gRoenMWscm__c		convenience_store|food|point_of_interest|store|establishment	53.3488806	-6.2573925	True		convenience_store
+19	Centra Dame Street	ChIJr4Cn2JwOZ0gRfoQ6AmFgCEo		convenience_store|atm|meal_takeaway|finance|liquor_store|restaurant|food|point_of_interest|store|establishment	53.3442673	-6.2645161	True		convenience_store
+20	Londis O'Connell Street Lower	ChIJqY-aUIQOZ0gR-eMMpgIUEz4	2.0	convenience_store|food|point_of_interest|store|establishment	53.3487366	-6.259417	True	15 O'Connell Street Lower, North City, Dublin 1, D01 R2R6	convenience_store
+21	Spar	ChIJw4fLx5kOZ0gRVF_abd9y6GM	1.0	convenience_store|food|point_of_interest|store|establishment	53.3384071	-6.254052799999999	False	2-4 Merrion Row, Dublin 2	convenience_store
+22	Londis	ChIJh2p_FoQOZ0gRqbWljINI63U	2.0	convenience_store|food|point_of_interest|store|establishment	53.3498695	-6.2607484	True	68 O'Connell Street Upper, North City, Dublin, D01 P8Y9	convenience_store
+23	Link Express	ChIJGXIL3Y4OZ0gReojrSm7twQ4		convenience_store|food|point_of_interest|store|establishment	53.35011919999999	-6.2511513	True	2 Store St, Mountjoy, Dublin 1, D01 H592	convenience_store
+24	Spar	ChIJxwApTp0OZ0gR5oAhUb8gcXA	1.0	convenience_store|food|point_of_interest|store|establishment	53.3446447	-6.267251000000001	True	10 Parliament St, Temple Bar, Dublin 2, D02 N562	convenience_store
+25	Kavanagh's Costcutter Express	ChIJ4Scjwp0OZ0gR2VMFFZjI3yo		convenience_store|food|point_of_interest|store|establishment	53.34060299999999	-6.2658041	True	70 Aungier St, Dublin, D02 DW30	convenience_store
+26	Centra Pearse St	ChIJ7S4PrpMOZ0gRKmbgWM_G1z8		convenience_store|atm|finance|liquor_store|food|point_of_interest|store|establishment	53.3432762	-6.2441105	True	97/98 Pearse St, Dublin Docklands, Dublin 2, D02 W674	convenience_store
+27	SPAR	ChIJH-5UKY8OZ0gRUHtvwUU2Eeg	1.0	convenience_store|food|point_of_interest|store|establishment	53.3509568	-6.2524478	True	1, 70-72 Talbot St, Spencer Row, Mountjoy, Dublin	convenience_store
+28	All Season Grocery	ChIJia_XD54OZ0gRoz-9pkzGSEg		convenience_store|food|point_of_interest|store|establishment	53.33911879999999	-6.2658168	True	31 Aungier St, Dublin 2, D02 TX80	convenience_store
+29	MACE James' Street	ChIJyTh4VmUPZ0gRXEIPtF2ASR8		convenience_store|food|point_of_interest|store|establishment	53.3517217	-6.2534006	True	James Joyce Street, Mountjoy, Dublin 8, D08 459A	convenience_store
+30	Spar	ChIJi1v8SokOZ0gRREDgUpDKpCw	1.0	convenience_store|food|point_of_interest|store|establishment	53.3515703	-6.250205299999999	True	Amiens St, Mountjoy, Dublin	convenience_store
+31	Centra Parnell Street	ChIJz9JEWYEOZ0gRayyKaCxIkGQ		convenience_store|atm|meal_takeaway|finance|liquor_store|restaurant|food|point_of_interest|store|establishment	53.3511829	-6.2636618	True	Greeg Court, Unit 5, Parnell St, Dublin 1, D01 XV21	convenience_store
+32	Centra Cathal Brugha Street	ChIJ9d2bXoYOZ0gRdXRjWaqUZ6Y		convenience_store|liquor_store|food|point_of_interest|store|establishment	53.3525186	-6.2590582	True	Gresham House, Unit 1-3, Cathal Brugha St, Dublin 1, D01 X6W8	convenience_store
+33	Pats convenience store & print scan	ChIJb2FnmmANZ0gRxnPlpk8F5Mc		convenience_store|food|point_of_interest|store|establishment	53.3414046	-6.270231	True	27/28 Bride St, Dublin, D08 N525	convenience_store
+34	Pat's Corner News agents & Print/Scan/copy	ChIJsTyLGicMZ0gRR2exj8amwos		convenience_store|food|point_of_interest|store|establishment	53.3414046	-6.270231	True	27 Bride St, Dublin	convenience_store
+35	Centra Capel Street	ChIJyxVneYIOZ0gRU3XhBIJuv28		convenience_store|atm|finance|liquor_store|food|point_of_interest|store|establishment	53.3487927	-6.2691002	True	121 Capel St, North City, Dublin 1, D01 V3P0	convenience_store
+36	QUIK PICK CONVENIENCE STORE	ChIJ__9LA4IOZ0gRA76tEM82434		supermarket|convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.350093	-6.2684012	True	unit 3, Stewart Hall, Ryder's Row, dublin1, Dublin 1	convenience_store
+37	Asian store	ChIJFfeTuHAPZ0gRiWLVj7JqcEM		convenience_store|food|point_of_interest|store|establishment	53.3497991	-6.2688291		3 Ryder's Row, Rotunda, Dublin	convenience_store
+38	O'Dwyer's Daybreak	ChIJa1M07SYMZ0gRwCvwRvIbugg		convenience_store|food|point_of_interest|store|establishment	53.3413571	-6.2726462	True	Patrick St, The Liberties, Dublin	convenience_store
+39	Spar Mount Street	ChIJ0UIhBJUOZ0gRNI2_lSzqkY8	1.0	convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.33777	-6.2414913	False	Ferry House, Mount Street Lower, Dublin	convenience_store
+40	SPAR IFSC	ChIJLzqvnI4OZ0gR0MQ4S7hxm40	1.0	convenience_store|food|point_of_interest|store|establishment	53.3494754	-6.248543799999999	False	Irish Financial Services Centre, George's Dock, North Dock, Dublin 1	convenience_store
+41	Green Island Supermarket	ChIJPfJnu4YOZ0gRhdZy_SVP5u0		convenience_store|food|point_of_interest|store|establishment	53.3514358	-6.261374399999999	True	O'Connell Street Upper, North City, Dublin	convenience_store
+42	Spar Custom House Square	ChIJd6ee-IwOZ0gRhcQjJzaLMS0	1.0	convenience_store|food|point_of_interest|store|establishment	53.3494397	-6.2445936	True	Custom House Square, Gandon House, Mayor Street Lower, North Dock, Dublin 1	convenience_store
+43	Quinn's Centra	ChIJlTyrSIYOZ0gRJN3VNARXPv4		convenience_store|food|point_of_interest|store|establishment	53.3525183	-6.2590366		Rotunda, Dublin 1	convenience_store
+44	XL Shop	ChIJg-aNfIEOZ0gRH6pIpHtBX78		convenience_store|food|point_of_interest|store|establishment	53.3509131	-6.265355500000001	True	187-188 Parnell St, Rotunda, Dublin, D01 W5Y3	convenience_store
+45	print, Copy & Scan 7 Days available	ChIJj64ShRAPZ0gR9Yo3zklX5Ww		convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3500643	-6.2683193	True	Stewart Hall, 3Ryder's Row, Dublin, D01 FK46	convenience_store
+46	Daybreak Parnell Street	ChIJQSpNU4YOZ0gRkRZFm_Os7Cc		convenience_store|food|point_of_interest|store|establishment	53.3536746	-6.2592222	True	Parnell St, Rotunda, Dublin 1, D01 TF70	convenience_store
+47	Centra Camden St	ChIJEe-NAqAOZ0gRaSVuDSzq1s0		convenience_store|atm|finance|liquor_store|food|point_of_interest|store|establishment	53.33439809999999	-6.265063199999999	True	38 Camden Street Lower, Saint Kevin's, Dublin 2, D02 WC92	convenience_store
+48	Centra North King Street	ChIJJ51yBSoMZ0gRR6S_CG9Ir3U		convenience_store|atm|finance|liquor_store|food|point_of_interest|store|establishment	53.3507443	-6.2708726	True	4 - 6 King St N, Dublin 7, D07 W65T	convenience_store
+49	European Market	ChIJBZotHyoMZ0gRYTmgkSB2m-o		convenience_store|food|point_of_interest|store|establishment	53.3506862	-6.2710726	False	8 King St N, Dublin 7, D07 X704	convenience_store
+50	Sherry' s Euro Store	ChIJmVUgISoMZ0gR8p23iauF52E		convenience_store|food|point_of_interest|store|establishment	53.3505698	-6.2715405		King Street North, R804, Dublin Northside, Dublin	convenience_store
+51	Spar	ChIJLVKE3CUMZ0gRLl6J4RzsdCQ	1.0	convenience_store|food|point_of_interest|store|establishment	53.34300340000001	-6.275382599999999	True	Bertram Court, 1 Christchurch Pl, The Liberties, Dublin 8	convenience_store
+52	Spar	ChIJl9qceyEMZ0gR3BR3Qywx-Fo	1.0	convenience_store|food|point_of_interest|store|establishment	53.3373195	-6.272840899999999	True	2-3, Cathedral Court, New St S, The Liberties, Dublin 8	convenience_store
+53	Daybreak	ChIJ0Uk02nkNZ0gRkgM4GwqvEeg		convenience_store|food|point_of_interest|store|establishment	53.3500013	-6.2744038	True	King St N, Dublin	convenience_store
+54	Centra Charlemount Street	ChIJm_PPBKEOZ0gRiF-VcfwSHf0		convenience_store|atm|finance|liquor_store|food|point_of_interest|store|establishment	53.3312623	-6.261048799999999	True	Unit 1 Harcourt Green, Charlemont St, Dublin 2, D02 HE17	convenience_store
+55	Centra Thomas St	ChIJe431wgIMZ0gReoq7ZaE1rKA		convenience_store|atm|meal_takeaway|finance|liquor_store|restaurant|food|point_of_interest|store|establishment	53.3426415	-6.278734699999999	True	50 Thomas St, The Liberties, Dublin 8, D08 E89T	convenience_store
+56	SPAR	ChIJad0gTp0OZ0gRMy3Y65gqyKU	1.0	convenience_store|supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	53.3431703	-6.2804157	True	119 Thomas St, The Liberties, Dublin, D08 Y76R	convenience_store
+57	Spar Portland Street	ChIJP-yK1mIOZ0gRuXVCdu9rDW8	1.0	convenience_store|food|point_of_interest|store|establishment	53.3590423	-6.2568394	True	1-3 Portland St N, Dublin 1, D01 EY00	convenience_store
+58	Costcutter	ChIJ71VLqooOZ0gRxjWLrwEGY3M	1.0	convenience_store|food|point_of_interest|store|establishment	53.35711629999999	-6.2429562	True	149 N Strand Rd, North Strand, Dublin	convenience_store
+59	Spar Ellis Quay	ChIJb9Bn0y8MZ0gRfEMySeEt3oo	1.0	convenience_store|food|point_of_interest|store|establishment	53.3469336	-6.2822857	True	14 -17 Ellis Quay, Smithfield, Dublin 7, D07 VW67	convenience_store

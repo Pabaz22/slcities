@@ -1,0 +1,52 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+1	Old Eircom Phone Box	ChIJG1Tjez8PZ0gRk-y494S9fp0	museum|point_of_interest|establishment	53.362563	-6.251870500000002			museum
+2	GAA Museum & Tours	ChIJy5wwP2EOZ0gRZvNMPI1WHfc	museum|tourist_attraction|point_of_interest|establishment	53.3606949	-6.249427499999998	False		museum
+3	Irish Prison Services Museum, Mountjoy Prison	ChIJK1pn0sYPZ0gR_RDLKrAvIhc	museum|point_of_interest|establishment	53.3613428	-6.2694204			museum
+5	Irish Photo Archive	ChIJwUsGxV8OZ0gRv0FbeOMiH7c	museum|point_of_interest|establishment	53.3591385	-6.242275500000001	False		museum
+6	James Joyce Centre	ChIJV2soBIcOZ0gRPPBrxva2Twg	museum|tourist_attraction|point_of_interest|establishment	53.3541941	-6.259980499999998	False		museum
+7	Fairview Church	ChIJg7NJnl4OZ0gRp9GqerwCyNk	museum|point_of_interest|establishment	53.3627563	-6.239155299999999			museum
+8	Scots Presbyterian Church	ChIJR07CdYkOZ0gRQ_4l6-2ZVrs	museum|point_of_interest|establishment	53.3540272	-6.2506024			museum
+9	PADDY MEEHANS	ChIJLSczlF8OZ0gRlCBdXKjvNfk	museum|point_of_interest|establishment	53.3585101	-6.241068399999999			museum
+11	The Hugh Lane	ChIJE42FqWAMZ0gRhDMWDRn7ksw	art_gallery|tourist_attraction|museum|point_of_interest|establishment	53.35417629999999	-6.2646519	False		museum
+12	Thomas Clarke 1916 Rebel Leaders Old Tobacconist Shop	ChIJS0aS2osOZ0gRxSwDHD8fYBo	museum|point_of_interest|establishment	53.3534928	-6.2483575			museum
+13	garda national immigration bureau	ChIJ_U0QfhgPZ0gRz2FwYlIgbn0	museum|point_of_interest|establishment	53.353373	-6.248450099999999			museum
+14	Memorial Eugene Lawlor	ChIJx4MSHzYPZ0gRr4F5UIGduug	museum|point_of_interest|establishment	53.35222779999999	-6.2606816			museum
+16	Votanic Garden	ChIJWQ1qISoNZ0gRkyV8xSFfs9M	museum|point_of_interest|establishment	53.3604464	-6.2764147			museum
+17	mckee barracks	ChIJW-sm1U8NZ0gRmkjBZe1XlVI	museum|point_of_interest|establishment	53.36026559999999	-6.2767753			museum
+18	Dernek	ChIJ0XsAFTEPZ0gRuy_pUtApNq0	museum|point_of_interest|establishment	53.34995099999999	-6.257892799999999			museum
+19	Milestone Gallery	ChIJYxSzxzgNZ0gRp6m5PrK04tM	museum|point_of_interest|establishment	53.3695621	-6.276853700000001			museum
+21	Weingreen Museum of Biblical Antiquities	ChIJzc-KPoQOZ0gRJXSvm80B17o	museum|point_of_interest|establishment	53.3498053	-6.2603097		Arts and Social Sciences Building, Trinity College, Dublin	museum
+23	GPO Museum	ChIJN2VMFYQOZ0gRJOGvwqfeTjQ	museum|tourist_attraction|cafe|food|point_of_interest|store|establishment	53.3495524	-6.2605065	False	O'Connell Street Lower, North City, Dublin 1, D01 F5P2	museum
+24	EPIC The Irish Emigration Museum	ChIJvwEAK4wOZ0gRZ-4HLJnKYZk	museum|tourist_attraction|travel_agency|point_of_interest|establishment	53.3484453	-6.2479893	False	The Chq Building, Unit 32 /33, Custom House Quay, Dublin 1	museum
+25	Kurb Junki Inception Museum	ChIJ13BlUkgPZ0gRSzVTBvH23v8	museum|point_of_interest|establishment	53.34723	-6.2517673	True	City Quay, Dublin Docklands, Dublin	museum
+26	The Jeanie Johnston: An Irish Famine Story	ChIJC2l_v40OZ0gR-I15fFCUYCk	museum|tourist_attraction|point_of_interest|establishment	53.3478098	-6.2460984	False	Custom House Quay, North Dock, Dublin 1, D01 KF84	museum
+27	“Outside In” Art Gallery and Exhibition Space	ChIJGXzUDo0OZ0gR7SpcXHMWoLA	museum|point_of_interest|establishment	53.3476291	-6.2456912	False	N Wall Quay, North Dock, Dublin	museum
+28	The National Wax Museum Plus	ChIJR9mP8ScMZ0gRZBrWwuS3qPg	tourist_attraction|museum|point_of_interest|establishment	53.3465858	-6.2587875	False	The Lafayette Building, 22-25 Westmoreland St, Temple Bar, Dublin 2, D02 EH29	museum
+29	National Leprechaun Museum of Ireland	ChIJLyAohZsOZ0gRqOeJtavVfXY	museum|tourist_attraction|point_of_interest|establishment	53.347611	-6.266348	False	Twilfit House, Jervis St, Dublin	museum
+30	St Marys Abbey	ChIJ03bHpukNZ0gR3cy_wI5ktOg	museum|point_of_interest|establishment	53.3475126	-6.269457099999999		4 Meetinghouse Ln, Smithfield, Dublin 7, D07 VY06	museum
+31	Seamus Heaney: Listen Now Again	ChIJa3Db92UPZ0gRfGInciQxGm4	museum|point_of_interest|establishment	53.3450832	-6.259412699999999	False	Seamus Heaney: Listen Now Again Bank of Ireland Cultural & Heritage Centre, Westmoreland St, Dublin, D02 VR66	museum
+32	From Ballots to Bullets	ChIJ9aaPgrUPZ0gRYs3huyYfXY8	museum|point_of_interest|establishment	53.3451892	-6.2654213		Temple Bar, Dublin	museum
+33	Mur de la fama del museu del rock irlandes	ChIJpdu2_RsPZ0gRu-GY3mb7BaQ	museum|point_of_interest|establishment	53.3449889	-6.2643113		Temple Bar Music Centre, Curved St, Temple Bar, Dublin 2	museum
+35	Apples and Atoms by Eilís O'Connell RHA	ChIJxaXIZpAOZ0gR2B8jif-_t9Q	museum|point_of_interest|establishment	53.3435737	-6.2523901		Trinity College Dublin, Dublin	museum
+36	Trinity College Zoological Museum	ChIJ6aJ69ZAOZ0gRBf2rIh2NK0o	tourist_attraction|museum|point_of_interest|establishment	53.34320049999999	-6.251796	False	College Green, Dublin 2	museum
+37	The Garda Museum	ChIJhxlJcp0OZ0gRf2vHR-DpqLM	museum|tourist_attraction|point_of_interest|establishment	53.34361200000001	-6.266636999999999	False	Dublin Castle, Dublin 2	museum
+38	Ecological Museum At Trinity College	ChIJjaWPipAOZ0gRAtFLOtbrT5g	museum|point_of_interest|establishment	53.342633	-6.2508652		25 Westland Row, Dublin 2	museum
+39	The Revenue Museum	ChIJdbRscp0OZ0gRNMADWrqANR4	museum|tourist_attraction|point_of_interest|establishment	53.34307829999999	-6.2663557	False	Chapel Royal, Dublin Castle, Dublin 2	museum
+40	The round tower	ChIJjymWfZUNZ0gRpA8ZimPc7Bk	museum|point_of_interest|establishment	53.3702336	-6.2771298		Finglas Rd, Botanic, Dublin	museum
+41	Abbey Street Church	ChIJ1wDhKr0PZ0gREqgRn40JogI	museum|point_of_interest|establishment	53.3487087	-6.256035199999999		Vhi House, Abbey Street Lower, North City, Dublin, 1	museum
+42	Bedford Lane	ChIJRcm_TwYPZ0gRtbe7YeYao-Y	museum|point_of_interest|establishment	53.3460701	-6.2615235		Bedford Ln, Temple Bar, Dublin	museum
+43	Chester Beatty	ChIJwdmRcp0OZ0gRqwweUr4wWKE	museum|art_gallery|point_of_interest|establishment	53.3423167	-6.2675008	False	Dublin Castle, Dublin 2, D02 AD92	museum
+44	Saint Audoen's Visitor Centre	ChIJV6uRlA4NZ0gRonHvhEz3uHc	museum|point_of_interest|establishment	53.343658	-6.2737323	False	Saint Audoen's, 14 an tSráid Ard, Merchants Quay, Dublin 8, D08 A3C2	museum
+45	Dublinia	ChIJGerRTiYMZ0gRuVDCYtqFU50	museum|tourist_attraction|point_of_interest|establishment	53.343149	-6.2720614	False	St Michaels Hill Christ Church, Dublin 8	museum
+46	Oscar Wilde House	ChIJVdQz0JAOZ0gRyz_BqKKid6s	tourist_attraction|museum|point_of_interest|establishment	53.341214	-6.2503741		American College, 1 Merrion Square W, Dublin, D02 NH98	museum
+47	Dublin shuttle bus	ChIJ27IpQYwPZ0gRwdVqmCjNjww	museum|point_of_interest|establishment	53.3409603	-6.2496238		8 Merrion Square S, Dublin, D02 YE68	museum
+48	National Museum of Ireland - Archaeology	ChIJS7Q-vDEMZ0gRWoYY0_5aAVY	museum|tourist_attraction|point_of_interest|establishment	53.3402225	-6.2549209	False	Kildare St, Dublin 2	museum
+50	National Museum of Ireland - Decorative Arts & History	ChIJS7Q-vDEMZ0gRSvVL0e06s1k	tourist_attraction|museum|point_of_interest|establishment	53.34878029999999	-6.287363099999999	False	Collins Barracks, Benburb St, Stoneybatter, Dublin, D07 XKV4	museum
+51	The Little Museum of Dublin	ChIJhXEoXZkOZ0gRcckcHQttuXY	museum|tourist_attraction|point_of_interest|establishment	53.339612	-6.258325999999999	False	15 St Stephen's Green, Dublin 2	museum
+52	Guinness Museum Neighbour	ChIJB96LQCUMZ0gRygg9-RtzWms	museum|point_of_interest|establishment	53.3431432	-6.2803425		119 Thomas St, The Liberties, Dublin, D08 Y76R	museum
+53	Mariusz Praca	ChIJobH4esENZ0gROgZxRgrhXx8	museum|point_of_interest|establishment	53.3728703	-6.296426299999999		Cabra East, Dublin	museum
+54	jameson brewery	ChIJaXh1UFYNZ0gRGdjil3_hCm8	museum|point_of_interest|establishment	53.3481292	-6.2908908		Parkgate St, Stoneybatter, Dublin 8, D08 K8P5	museum
+55	Derrynane House	ChIJf9d144MPZ0gRE6TOgFnjahg	museum|point_of_interest|establishment	53.3371193	-6.2505429		122 Baggot Street Lower, Fino, Dublin, D02 NF72	museum
+56	UCD Newman House	ChIJOVbDaJkOZ0gR0cHYAkbj0q4	tourist_attraction|museum|point_of_interest|establishment	53.3368023	-6.260288399999999		86 Newman House, St Stephen's Green, Dublin 2, D02 CC99	museum
+57	MoLI – Museum of Literature Ireland	ChIJofOaL58OZ0gRD8SCnNbYPgA	museum|tourist_attraction|point_of_interest|establishment	53.3367903	-6.2601607	False	UCD Naughton Joyce Centre, 86 St Stephen's Green, Saint Kevin's, Dublin, D02 XY43	museum
+58	Dublin Castle	ChIJEYFGi6cNZ0gRMJFKJ2Tg0zg	museum|point_of_interest|establishment	53.3423792	-6.2866002		Portland St W, Ushers, Dublin	museum

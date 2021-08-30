@@ -1,0 +1,12 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
+0	Circle K Express Usher's Quay	ChIJfWFaZS8MZ0gRi-i4TadkgQs	gas_station|point_of_interest|establishment	53.3454437	-6.277834100000001	True		gas_station
+1	Emo Dublin	ChIJ6bBDlkcMZ0gRxhRHipb4xDw	gas_station|point_of_interest|establishment	53.3418859	-6.297070600000001	True		gas_station
+2	MB Service Station	ChIJb04LW0YMZ0gR9QBwQ0u8ovU	gas_station|point_of_interest|establishment	53.34186099999999	-6.297073099999999	True		gas_station
+3	Maxol Service Station Dolphins Barn	ChIJjTcQpWoMZ0gR5Yt78kwcCZo	gas_station|point_of_interest|store|establishment	53.3320416	-6.294029699999999	True		gas_station
+4	Topaz	ChIJcWWuP0UMZ0gRvqat2plzbmU	gas_station|point_of_interest|establishment	53.34147119999999	-6.308023099999999			gas_station
+5	Circle K Kilmainham	ChIJOzVzPkUMZ0gRVF-eyRDuI9g	gas_station|convenience_store|food|point_of_interest|store|establishment	53.3413155	-6.308033	True	1.0	gas_station
+6	Kilmainham Self Serve	ChIJn0-APkUMZ0gR-FMD950XRlg	gas_station|point_of_interest|establishment	53.34128430000001	-6.308034999999999			gas_station
+7	Applegreen	ChIJF6dBaRcMZ0gRhCc3SToIdQE	gas_station|point_of_interest|establishment	53.3298958	-6.2800786	True		gas_station
+8	Pitstop R111	ChIJh4TzaxcMZ0gRMN_It65edvY	gas_station|point_of_interest|establishment	53.3298613	-6.280215800000001			gas_station
+9	Go Station	ChIJcaN6A-kNZ0gR-ck55h9l6nM	gas_station|point_of_interest|establishment	53.3603478	-6.2953021			gas_station
+10	Circle K Cabra	ChIJG3EKvM4NZ0gRw_aRQzmp4NY	gas_station|convenience_store|food|point_of_interest|store|establishment	53.3612057	-6.291479	True	1.0	gas_station

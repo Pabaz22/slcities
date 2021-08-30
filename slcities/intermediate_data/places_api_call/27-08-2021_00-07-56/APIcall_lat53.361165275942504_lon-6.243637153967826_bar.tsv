@@ -1,0 +1,50 @@
+	name	place_id	price_level	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Clonliffe House	ChIJgdmzPV4OZ0gR4UE58JF8vUU	1.0	bar|point_of_interest|establishment	53.3611618	-6.2426326	False		bar
+1	Meaghers Pub	ChIJuwZNdV4OZ0gRoN0PGndWTTc	1.0	bar|point_of_interest|establishment	53.3626813	-6.2422983	True		bar
+2	The Ref Pub	ChIJudAoYWAOZ0gRClsW6uti6bw		bar|point_of_interest|establishment	53.3595303	-6.2449448	False		bar
+3	Annesley House	ChIJYQE6r18OZ0gRRuyl379FmsI	1.0	bar|point_of_interest|establishment	53.3596391	-6.2403202	False		bar
+4	Cusack's	ChIJuYJO-V8OZ0gRDJFcwOPZre0	1.0	bar|point_of_interest|establishment	53.3575154	-6.242467300000001	False		bar
+7	Gaffney's Pub	ChIJsTGQ4FsOZ0gRhhQjPmuk4Y4	1.0	bar|point_of_interest|establishment	53.36300899999999	-6.236493999999999	False		bar
+10	BRÚ House Dublin 3	ChIJh1vc5lsOZ0gROeYrX62FUMI	2.0	bar|restaurant|food|point_of_interest|establishment	53.3634324	-6.235792999999999	False		bar
+11	Casa Guga e Ingrid	ChIJGYVTzB0PZ0gRP7muYuTBpH0		bar|point_of_interest|establishment	53.3563522	-6.247307699999999	False		bar
+15	James Gill's Corner House	ChIJv2MB8WIOZ0gRnW80d7cmxTw	2.0	bar|point_of_interest|establishment	53.35846	-6.254273899999999	False		bar
+16	Phil Ryan's Hogan Stand	ChIJv29-xGIOZ0gRKH2xZCYfa7U	1.0	bar|point_of_interest|establishment	53.35840489999999	-6.255940799999999	False		bar
+17	The Hideout House	ChIJ6R9cLmMOZ0gRENGNtZ62v4A	1.0	bar|point_of_interest|establishment	53.35973420000001	-6.256969700000001	False		bar
+18	Shouk	ChIJTxc8y2QOZ0gRVPYdqGVXZLI	2.0	bar|restaurant|food|point_of_interest|establishment	53.3634284	-6.2582983	False		bar
+19	Lloyd's Bar & Lounge	ChIJU9eHXokOZ0gRTORYqIhdUyM	1.0	bar|restaurant|food|point_of_interest|establishment	53.35269960000002	-6.249106100000001	False		bar
+21	Fagans Bar and Restaurant	ChIJpZdmgG8OZ0gR7OW8JsyWphY	2.0	bar|restaurant|food|point_of_interest|establishment	53.36745519999999	-6.2559441	False	146 Drumcondra Rd Lower, Botanic, Dublin 9, D09 YR83	bar
+23	McGettigan's Cookhouse & Bar	ChIJB8ycS4kOZ0gR3Y0qvQ6w58E	2.0	bar|restaurant|food|point_of_interest|establishment	53.3516889	-6.2501044	False	1 Amiens St, Mountjoy, Dublin	bar
+24	Grainger's Cafe Bar	ChIJg-AutI4OZ0gRw8d1iUjjq0A	2.0	cafe|bar|restaurant|food|point_of_interest|establishment	53.3513038	-6.250324	False	51 Talbot St, Mountjoy, Dublin, D01 P6K1	bar
+25	ELY BAR & GRILL	ChIJf-LEgo4OZ0gR9TS8emSIF_k	3.0	bar|restaurant|food|point_of_interest|establishment	53.3493537	-6.248218		CHQ Building ISFC Georges Dock, Dublin 1 Co. Dublin IE, George's Dock, North Dock, Dublin	bar
+26	Ryan's Bar	ChIJzeeBPI8OZ0gRQ696vb_3d_A	2.0	bar|restaurant|food|point_of_interest|establishment	53.3503066	-6.252816999999999	False	19 Store St, Mountjoy, Dublin 1, D01 NY02	bar
+27	The Ivy House - Restaurant & Bar	ChIJC7FXWmkOZ0gRoWRzyrgqSVw	2.0	bar|restaurant|food|point_of_interest|establishment	53.37242080000001	-6.2523944	False	114 Drumcondra Rd Upper, Drumcondra, Dublin 9, D09 CX74	bar
+28	O'Reilly's Bar & Lounge	ChIJ4acA_IYOZ0gRbkVCP1ad8MQ	1.0	bar|point_of_interest|establishment	53.35335809999999	-6.260169599999999	False	151 Parnell St, Rotunda, Dublin, D01 XW93	bar
+29	Bleecker Street Cafe Bar	ChIJkQxwCn4OZ0gRtI4y2o08FuA	2.0	bar|cafe|restaurant|food|point_of_interest|establishment	53.3571801	-6.2639138	False	68 Dorset Street Upper, Rotunda, Dublin 1, D01 KT22	bar
+30	Skylon Bar and Grill	ChIJEeIhUmkOZ0gR-HyQtPE0hhM	2.0	bar|restaurant|food|point_of_interest|establishment	53.3727341	-6.253208700000001	False	27 Drumcondra Rd Upper, Drumcondra, Dublin 9, D09 FP84	bar
+31	The Living Room	ChIJbV4GlYYOZ0gRaGe3lJppVYw	2.0	bar|point_of_interest|establishment	53.3523443	-6.260340600000001	False	Cathal Brugha St, Rotunda, Dublin 1	bar
+32	Murray’s Pub	ChIJsx8N6oYOZ0gR013MeLYyxAs	2.0	night_club|bar|restaurant|food|point_of_interest|establishment	53.35246	-6.260899999999999	False	33-34 O'Connell Street Upper, Rotunda, Dublin 1, D01 E0W2	bar
+33	Toddys Bar & Brasserie	ChIJzRHjlYYOZ0gR15qh6P3KGF0	2.0	bar|restaurant|food|point_of_interest|establishment	53.3519052	-6.2607791	False	23 O'Connell Street Upper, North City, Dublin, D01 C3W7	bar
+34	The Green Room Bar	ChIJcSAxWfAOZ0gRmebpKRr0840	2.0	bar|restaurant|food|point_of_interest|establishment	53.3498302	-6.230375899999999	False	N Wall Ave, North Dock, Dublin	bar
+35	The Parnell Heritage Pub & Grill	ChIJ1wjst4YOZ0gR_pg-hMy3dhM	2.0	bar|restaurant|food|point_of_interest|establishment	53.35220770000001	-6.2619741	False	72-74 Parnell St, North City, Dublin 1, D01 ND00	bar
+36	Brannigans	ChIJVQ-AJYQOZ0gR1BjChczzOcM	2.0	bar|restaurant|food|point_of_interest|establishment	53.3504221	-6.259747	False	9 Cathedral St, North City, Dublin, D01 FH29	bar
+37	Hemi Bar	ChIJ_Xgma_AOZ0gRki0YSLdtXos		bar|restaurant|food|point_of_interest|establishment	53.3485685	-6.228746800000001	False	North Dock, Dublin	bar
+38	The Oval Bar Dublin	ChIJW--8YIQOZ0gRi_8uV6kItkI	2.0	bar|restaurant|food|point_of_interest|establishment	53.3484586	-6.2603402	False	78 Middle Abbey St, North City, Dublin 1, D01 RW24	bar
+39	River Bar	ChIJH9113oQOZ0gR4vSG0NFAm0M	2.0	bar|point_of_interest|establishment	53.3468528	-6.2584466	False	1 Burgh Quay, Dublin 2	bar
+40	The Big Romance	ChIJufegxdgPZ0gR3Nnd6keYlJs	2.0	bar|liquor_store|point_of_interest|store|establishment	53.3534114	-6.259193799999999	False	98 Parnell St, Rotunda, Dublin, D01 T2T3	bar
+41	The Shakespeare	ChIJDa7F5YYOZ0gRObg_ruHycEc		bar|point_of_interest|establishment	53.3530288	-6.2607667	False	Rotunda, Dublin 1	bar
+42	Delahunty's Bar	ChIJ1yqSmYAOZ0gRjz8jtiPOAIk		bar|restaurant|food|point_of_interest|establishment	53.3556463	-6.2658176	False	99 Dorset Street Upper, Dublin, D01 F5Y8	bar
+43	Chaplins Bar	ChIJp1jnL4UOZ0gRB0UnXOwVsk8	1.0	tourist_attraction|bar|restaurant|food|point_of_interest|establishment	53.3462007	-6.2571756	False	1-2 Hawkins St, Dublin 2, D02 K590	bar
+44	Pillar Bar Dublin	ChIJO4Tl3IQOZ0gRL6MvhjzH3E0		bar|point_of_interest|establishment	53.3466902	-6.2588833	False	25 Westmoreland St, Dublin, D02 XP95	bar
+45	Knightsbridge Bar & Bistro	ChIJF3ZrmoQOZ0gRKqIrkoq3Op0		bar|point_of_interest|establishment	53.3472425	-6.2609182	False	24 Bachelors Walk, North City, Dublin	bar
+46	The Back Page	ChIJ992An9UNZ0gRTRDrApTRN1w	2.0	meal_delivery|meal_takeaway|cafe|bar|restaurant|food|point_of_interest|establishment	53.3585121	-6.2730684	False	199 Phibsborough Rd, Phibsborough, Dublin 7, D07 A0X2	bar
+47	Cafe Bar H	ChIJAUe90OwOZ0gRaXj9fSiDj3M	2.0	restaurant|cafe|bar|food|point_of_interest|establishment	53.34350250000001	-6.2388035	False	1 Grand Canal Square, Grand Canal Dock, Dublin, D02 TP60	bar
+48	The Palace Bar	ChIJY8EByoQOZ0gRSMYJds1CQHU	2.0	bar|restaurant|food|point_of_interest|establishment	53.3458948	-6.2596063	False	21 Fleet St, Temple Bar, Dublin 2, D02 H950	bar
+50	The Lotts Cafe Bar	ChIJ0XdmbYMOZ0gRzhQBeKi5pTU	2.0	cafe|bar|restaurant|food|point_of_interest|establishment	53.3473617	-6.263325	False	9 Liffey St. Lower, North City, Dublin, D01 E3F9	bar
+51	Buskers on the Ball	ChIJR9mP8ScMZ0gRH6LBjSvHjX4	2.0	bar|point_of_interest|establishment	53.3459357	-6.2603281	False	13 - 17 Fleet St, Temple Bar, Dublin, D02 WD51	bar
+52	Riot	ChIJyUV-WIMOZ0gROz2JK9URJQA	2.0	bar|point_of_interest|establishment	53.3462635	-6.261503299999999	False	4 Aston Quay, Temple Bar, Dublin, D02 VP93	bar
+53	The Church Café, Late Bar & Restaurant	ChIJtTOXRIIOZ0gRiLAbrd61jVs	2.0	bar|tourist_attraction|cafe|restaurant|food|point_of_interest|establishment	53.3486388	-6.2667114	False	Junction of Mary St. and, Jervis St, Dublin 1, D01 YX64	bar
+54	Bad Ass Cafe	ChIJYVcctZwOZ0gRJhEhp0WVviM	2.0	cafe|bar|restaurant|food|point_of_interest|establishment	53.3453472	-6.2629	False	9-11 Crown Alley, Temple Bar, Dublin	bar
+55	The Old Storehouse Bar and Restaurant	ChIJiTBhtJwOZ0gRQVe4FWJj5Kg	2.0	bar|restaurant|food|point_of_interest|establishment	53.345176	-6.262646	False	3 Crown Alley, Temple Bar, Dublin, D02 CX67	bar
+57	Vintage Cocktail Club	ChIJJ5P3tZwOZ0gRul-DaLTh-jk	3.0	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.3450546	-6.262910799999999	False	15 Crown Alley, Temple Bar, Dublin 2, D02 E229	bar
+58	BAR 1661	ChIJ5c8zFIsNZ0gRYXrfIxO3Eog	2.0	bar|point_of_interest|establishment	53.3493039	-6.2704026	False	1-5 Green St, Rotunda, Dublin, D07 YT6H	bar
+59	The Temple Bar	ChIJR9mP8ScMZ0gRWDrL2dfqLBA	3.0	bar|restaurant|food|point_of_interest|establishment	53.34547420000001	-6.2641937	True	47-48, Temple Bar, Dublin 2, D02 N725	bar

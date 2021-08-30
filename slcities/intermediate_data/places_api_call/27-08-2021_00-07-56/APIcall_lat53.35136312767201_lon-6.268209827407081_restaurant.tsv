@@ -1,0 +1,57 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	SCHOLARS RESTAURANT	ChIJCSwn-4EOZ0gRp-KWXgY5pqw	restaurant|food|point_of_interest|establishment	53.35109039999999	-6.268939	False			restaurant
+1	Sashimir Sushi Delivery	ChIJ9ZqCCYIOZ0gRKyN08gQGPtY	restaurant|food|point_of_interest|establishment	53.3507101	-6.267351100000001	False			restaurant
+2	Art Flamingo	ChIJXWaIWtgPZ0gRUkZVhOfG10U	restaurant|meal_takeaway|food|point_of_interest|establishment	53.3517508	-6.2697202	False			restaurant
+4	BSkewers BBQ Shop	ChIJp9JahrYPZ0gRv5TrIR5dvSA	restaurant|food|point_of_interest|establishment	53.3519571	-6.269566699999999	False			restaurant
+5	Fabi’s Grill	ChIJMXMvQGoPZ0gR9sVJUxME7vM	restaurant|food|point_of_interest|establishment	53.350451	-6.2673822	False	2.0		restaurant
+6	The Kings Inn	ChIJm7wg24EOZ0gRhvk5QyBT-r0	bar|restaurant|food|point_of_interest|establishment	53.3523	-6.269108699999999	False			restaurant
+7	Boco	ChIJs2dICSoMZ0gRCzVhHbrcffE	meal_takeaway|bar|restaurant|food|point_of_interest|establishment	53.3513315	-6.2700662	False	2.0		restaurant
+9	Sampa Market Brazilian and Portuguese	ChIJkaRpbMANZ0gR5bVCXaL_ckg	grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment	53.3512229	-6.2701554	False			restaurant
+10	Eddie Rocket's	ChIJ_0B-8ZsOZ0gRaw56Nz6XUh8	restaurant|food|point_of_interest|establishment	53.3503152	-6.2673098	False	2.0		restaurant
+11	Woolshed Baa & Grill	ChIJEff8I4IOZ0gRa3Aap96eX9g	bar|restaurant|food|point_of_interest|establishment	53.3502702	-6.267416500000001	False	2.0		restaurant
+12	Paddle & Peel	ChIJgYn7jdENZ0gR9BqqzrrRrqE	bar|restaurant|food|point_of_interest|establishment	53.3508915	-6.2700874	True	2.0		restaurant
+13	WOWBURGER Parnell St.	ChIJxwXVi4EOZ0gRGIWnzETYeo4	meal_takeaway|restaurant|food|point_of_interest|establishment	53.35039010000001	-6.266975400000001	False	1.0		restaurant
+14	Kiosk Brazil	ChIJ_Z3l6wMPZ0gReCUnW2eOXHo	restaurant|food|point_of_interest|establishment	53.35034150000001	-6.2670154	False			restaurant
+15	Koi Sushi	ChIJx2vKAyoMZ0gRs-HOOzOLTaY	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3505757	-6.2700479				restaurant
+16	Rotana City Restaurant	ChIJxYp672QPZ0gRllZOuZUcUvw	restaurant|food|point_of_interest|establishment	53.35072220000001	-6.265971800000001	False			restaurant
+17	Padoca Dublin - Brazilian Food	ChIJB1cz7cEPZ0gRmKGatVjrEPY	restaurant|food|point_of_interest|establishment	53.34991470000001	-6.2691607	False			restaurant
+18	biryani point	ChIJyy0e9IAPZ0gRtF4yL7VkE3M	restaurant|food|point_of_interest|establishment	53.3497992	-6.2688291	False			restaurant
+19	The Black Sheep	ChIJk1IUCIIOZ0gRL4X5sjOjIFQ	bar|restaurant|food|point_of_interest|establishment	53.34979569999999	-6.269089799999999	False	2.0		restaurant
+20	El Patron Mexican street food	ChIJ47f2GyoMZ0gRIxkoJUjKQ9E	restaurant|food|point_of_interest|establishment	53.3507443	-6.2708726	False	1.0	4-6 King St N, Dublin, D07 T932	restaurant
+21	Kopitiam Dublin	ChIJ2bAxC4IOZ0gRQIhoorNME5o	meal_takeaway|restaurant|food|point_of_interest|establishment	53.3491264	-6.268886600000001	False	2.0	53 Capel St, North City, Dublin, D01 E0H2	restaurant
+22	Musashi Sushi Parnell Street	ChIJfST2Z4EOZ0gR-hU0-BaCmig	restaurant|food|point_of_interest|establishment	53.351309	-6.264402	False	2.0	179 Parnell St, Rotunda, Dublin 1, D01 YP60	restaurant
+23	Krewe	ChIJM0gV49UPZ0gRfMO6CZE8s_g	restaurant|food|point_of_interest|establishment	53.3491087	-6.268862899999999	False	2.0	51-52 Capel St, North City, Dublin 1, D01 DA58	restaurant
+24	Wing's World Cuisine	ChIJOXKSbSgPZ0gR57yC_Kb8dDk	restaurant|food|point_of_interest|establishment	53.3489953	-6.2676314	False	2.0	32 Wolfe Tone St, North City, Dublin	restaurant
+25	Arisu Restaurant	ChIJLYuedYIOZ0gROdI2KhAXa-E	restaurant|food|point_of_interest|establishment	53.3488775	-6.2690597	False	2.0	120 Capel St, North City, Dublin, D01 KC63	restaurant
+26	Aobaba	ChIJtaEWdIIOZ0gRCu9emGy2-_A	cafe|restaurant|food|point_of_interest|establishment	53.3488281	-6.268751099999999	False	1.0	46A Capel St, North City, Dublin 1	restaurant
+27	Mr Fox	ChIJI9ohIoEOZ0gReHRyl3GepHw	restaurant|food|point_of_interest|establishment	53.3529271	-6.2648114	False	3.0	38 Parnell Square W, Rotunda, Dublin	restaurant
+28	The Church Café, Late Bar & Restaurant	ChIJtTOXRIIOZ0gRiLAbrd61jVs	bar|tourist_attraction|cafe|restaurant|food|point_of_interest|establishment	53.3486388	-6.2667114	False	2.0	Junction of Mary St. and, Jervis St, Dublin 1, D01 YX64	restaurant
+29	Umi Falafel	ChIJtTzvr_8PZ0gR0VQNNL8bYEE	restaurant|food|point_of_interest|establishment	53.3484638	-6.268170599999999	False	1.0	4 Mary St, North City, Dublin, D01 T0C3	restaurant
+30	Kingfisher Restaurant & Townhouse	ChIJdSdQSYEOZ0gRGGtcaedBc7w	restaurant|meal_takeaway|lodging|food|point_of_interest|establishment	53.3518079	-6.263380499999999	False		166-168 Parnell St, Rotunda, Dublin, D01 DX43	restaurant
+31	Gorące Gary u Barbary Kuchary	ChIJX8aLUYEOZ0gRe8-4ubUHB6I	restaurant|food|point_of_interest|establishment	53.3515142	-6.2632422	False		58 Parnell Street, Moore Street Shopping Mall, Dublin 1	restaurant
+33	Chapter One Restaurant	ChIJa7Nrz4AOZ0gRptxMf68t1Qk	restaurant|food|point_of_interest|establishment	53.354415	-6.2639496	False	4.0	18-19 Parnell Square N, Rotunda, Dublin 1, D01 T3V8	restaurant
+34	Koh Restaurant & Cocktail Lounge	ChIJ-Tf6_IIOZ0gR4WvW49ZFp8I	bar|restaurant|food|point_of_interest|establishment	53.34744629999999	-6.265572	False	2.0	6/7 Jervis St, Millennium Walkway, North City, Dublin 1	restaurant
+35	Brother Hubbard (North)	ChIJY-21nIIOZ0gRnZK9cNnSwww	cafe|bar|restaurant|food|point_of_interest|store|establishment	53.3471139	-6.268372200000001	False	2.0	153 Capel St, North City, Dublin, D01 V9V0	restaurant
+36	Veginity	ChIJUT9BM7QPZ0gRNKlBp7T4VPo	restaurant|food|point_of_interest|establishment	53.3554234	-6.265951500000001	False	2.0	101 Dorset Street Upper, Inns Quay, Dublin, D01 A2F4	restaurant
+38	Lily's Café & Restaurant	ChIJH2Qx3YYOZ0gR9WKJO4VmC5Y	cafe|restaurant|food|point_of_interest|establishment	53.3529008	-6.2613945	False	2.0	3A Cavendish Row, Rae Cavendish, Rotunda, Dublin 1, D01 XY31	restaurant
+39	Restaurant SIX	ChIJ7a8v3IYOZ0gRugRIY_Azq1g	restaurant|food|point_of_interest|establishment	53.3529816	-6.261364299999999	False		6 Cavendish Row, O'Connell Street Upper, Upper, Dublin 1, D01 V3P6	restaurant
+40	Little Dumpling	ChIJgelTTgUNZ0gRa4wc5tBWAog	restaurant|food|point_of_interest|establishment	53.3482759	-6.2691729	False		28 Mary Street Little, Smithfield, Dublin 7, D07 RK73	restaurant
+41	Bullet Duck & Dumplings	ChIJhXU6CAANZ0gRIbDRRKr-XR0	restaurant|food|point_of_interest|establishment	53.3482771	-6.2692536	False		27 Mary Street Little, North City, Dublin 7, D07 HN12	restaurant
+42	Old Music Shop Restaurant	ChIJi810tYAOZ0gRgvxyQpgpoV0	restaurant|food|point_of_interest|establishment	53.3548681	-6.263688399999999	False	2.0	3 -5 Frederick St N, Rotunda, Dublin 1	restaurant
+43	Flanagan's Bar & Restaurant	ChIJ96flGIQOZ0gRSyjEGrX6MDg	meal_delivery|restaurant|food|point_of_interest|establishment	53.35033319999999	-6.2609281	False	2.0	61 O'Connell Street Upper, North City, Dublin 1, D01 Y274	restaurant
+44	Pho Kim	ChIJmeQzo4IPZ0gREQp3MnpubT4	restaurant|food|point_of_interest|establishment	53.352949	-6.2609841	False		162 Parnell St, Rotunda, Dublin, D01 F5F3	restaurant
+45	Eatokyo Asian Restaurant And Sushi Bar	ChIJM1CLiKYPZ0gR2o_dwzTHFRA	restaurant|food|point_of_interest|establishment	53.3467672	-6.267956	False		11 Capel St, North City, Dublin, D01 YX82	restaurant
+46	Kimchi Hophouse	ChIJ63Hd5YYOZ0gR9tTzRQ_fy5Y	bar|restaurant|food|point_of_interest|establishment	53.3530306	-6.260891699999999	False	2.0	160-161 Parnell St, Rotunda, Dublin, D01 Y4A7	restaurant
+47	Cafe Oasis	ChIJicEuVikMZ0gRA8dMc0eWQ68	restaurant|food|point_of_interest|establishment	53.3500187	-6.2757233	False	1.0	48, 59 7 King St N, Smithfield, Dublin, D07 EE76	restaurant
+48	Fujiyama Sushi Restaurant	ChIJb4qhJoQOZ0gRxX49GuziV2w	restaurant|food|point_of_interest|establishment	53.3506114	-6.260248700000001	False	2.0	11 O'Connell Street Upper, North City, Dublin	restaurant
+49	Bar Italia ristorante	ChIJD6v4w4IOZ0gRtNMc-036ckg	restaurant|food|point_of_interest|establishment	53.3464835	-6.2649892	False	2.0	26 Ormond Quay Lower, North City, Dublin, D01 CA21	restaurant
+50	Govinda's Restaurant	ChIJO5jqY4QOZ0gRtqEPoGYiCpA	restaurant|food|point_of_interest|establishment	53.3484071	-6.260828300000001	False	1.0	83 Middle Abbey St, North City, Dublin 1, D01 EV91	restaurant
+51	The Winding Stair	ChIJd03hP4MOZ0gRBWcgQzb1GO4	restaurant|food|point_of_interest|establishment	53.3466667	-6.263611099999999	False	2.0	40 Ormond Quay Lower, North City, Dublin 1, D01 R9Y5	restaurant
+52	The Woollen Mills	ChIJXRnkfoIOZ0gRXvx4BukwPoc	restaurant|food|point_of_interest|establishment	53.346645	-6.2634875	False	2.0	42 Ormond Quay Lower, North City, Dublin	restaurant
+53	Admiral Restaurant	ChIJuXZqZ4YOZ0gR0wc87d26J8Q	restaurant|food|point_of_interest|establishment	53.3523036	-6.258917599999999	False	2.0	1 Q-Park Marlborough Street, Dublin	restaurant
+54	Boojum Abbey Street	ChIJ-V9iUYQOZ0gRD69tNxePlRI	restaurant|food|point_of_interest|establishment	53.3486127	-6.2589447	False	1.0	3 Abbey Street Lower, North City, Dublin 1, D01 K6R2	restaurant
+55	Roberta's Restaurant, Bar & Terrace	ChIJi9OsK4MOZ0gRBJgVXatL_8A	bar|restaurant|food|point_of_interest|establishment	53.34510299999999	-6.267157	False	3.0	1 Essex St E, Temple Bar, Dublin	restaurant
+56	The Shack Restaurant Temple Bar	ChIJ6cFsPi6xXUgRg4BVYWK5jzg	restaurant|food|point_of_interest|establishment	53.3454303	-6.2643475	False	2.0	24 Essex St E, Temple Bar, Dublin 2, D02 N297	restaurant
+57	Quays	ChIJB2vyNYMOZ0gRhSTCPEktQxw	restaurant|food|point_of_interest|establishment	53.3456732	-6.263255399999999	False	2.0	10-12 Temple Bar, Dublin 2, D02 EW63	restaurant
+58	Lundy Foot's, Bar & Restaurant Temple Bar	ChIJJ7hgKJYPZ0gRXK79fxx9SH0	bar|restaurant|food|point_of_interest|establishment	53.3449015	-6.2679554	False	2.0	Lundy Foot's Bar and Restaurant, Essex Gate, D2, Dublin	restaurant
+59	The Hungry Mexican Restaurant	ChIJgwi2oIQOZ0gRLHK83QoFX4k	restaurant|food|point_of_interest|establishment	53.3462896	-6.2614074	False	2.0	5 Aston Quay, Temple Bar, Dublin, D02 PN56	restaurant

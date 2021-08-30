@@ -1,0 +1,7 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Mountjoy Garda Station	ChIJ9SKPw34OZ0gRBrNMDL5iTmo	police|point_of_interest|establishment	53.36052890000001	-6.266825099999999	True	police
+1	Garda	ChIJv9wRu4YOZ0gRzSQ4jIU2mNA	police|point_of_interest|establishment	53.35163679999999	-6.261542299999999		police
+3	Store Street Garda Station	ChIJtf6m4I4OZ0gRvh1bG4ObpTE	police|point_of_interest|establishment	53.3504549	-6.252259899999999	True	police
+4	International Police Association	ChIJXXGICXoOZ0gRlAvWX28FV0o	police|point_of_interest|establishment	53.3667908	-6.264880199999999		police
+5	Bridewell Garda Station	ChIJ50sQ3CgMZ0gRdwDCaMXjU8E	police|point_of_interest|establishment	53.3470911	-6.2741155	True	police
+6	Pearse Street Garda Station	ChIJvxx7M4UOZ0gRphQzDC9OOvg	police|point_of_interest|establishment	53.3456887	-6.2561935	True	police
