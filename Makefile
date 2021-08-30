@@ -15,7 +15,7 @@ create_env:
 install_requirements:
 # Update pip (21.2.4)
 	@pip install pip==21.2.4
-	@pip install -r requierements_slcities.txt
+	@pip install -r requirements_slcities.txt
 
 check_code:
 	@flake8 scripts/* slcities/*.py
