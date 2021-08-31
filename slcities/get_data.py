@@ -4,6 +4,97 @@ import pandas as pd
 from slcities.utils import list_files_in_dir, filter_filenames, get_files_absolute_path, open_file_as_pandas_dataframe, dataframe_to_geopandas, open_file_as_geopandas
 from slcities.params import PLACES_TYPES_DISCRIMINANT_SET
 
+class DataMerger():
+    def __init__(self):
+        self.poly_df = pd.DataFrame()
+        self.places_df = pd.DataFrame()
+        self.pop_df = pd.DataFrame()
+        self.light_df = pd.DataFrame()
+        self.sensors_df = pd.DataFrame()
+
+    def count_places(self, df, ED_ID_col='ED_ID', place_col='place'):
+        self.places_df = df.groupby(by=[ED_ID_col, place_col]).size().unstack().fillna(
+            0).reset_index()
+
+    def count_pop(self, df, ED_ID_col='ED_ID', pop_col='pop'):
+        self.pop_df = df[[ED_ID_col, pop_col]]
+
+    def count_light(self, df, ED_ID_col='ED_ID'):
+        light_cnt = df.groupby(ED_ID_col)[ED_ID_col].count()
+        self.light_df = pd.DataFrame({
+            ED_ID_col: light_cnt.index,
+            'light': light_cnt.values
+        })
+
+    def count_sensors(self, df, ED_ID_col='ED_ID'):
+        sensors_cnt = df.groupby(ED_ID_col)[ED_ID_col].count()
+        self.sensors_df = pd.DataFrame({
+            ED_ID_col: sensors_cnt.index,
+            'sensors': sensors_cnt.values
+        })
+
+    def merge_df(self, df_poly, ED_ID_col='ED_ID',
+                 geometry_col='geometry',
+                 area_col='Shape__Area'):
+        self.ED_ID_col = ED_ID_col
+        self.geometry_col = geometry_col
+        self.area_col = area_col
+        self.poly_df = df_poly[[ED_ID_col, area_col, geometry_col]]
+        if not self.poly_df.empty:
+            count_df = self.poly_df.copy()
+            for df in [self.places_df, self.pop_df,
+                       self.light_df, self.sensors_df]:
+                if not df.empty:
+                    count_df = count_df.merge(df, on='ED_ID', how='left')
+                    self.count_df = count_df.fillna(0)
+                else:
+                    print('missing information')
+                    sys.exit(0)
+        else:
+            print('missing information')
+            sys.exit(0)
+
+    def get_count_df(self):
+        return self.count_df
+
+    def get_density_df(self):
+        df_density = self.count_df.copy()
+        cols_to_transform = [
+            x for x in df_density.columns.tolist()
+            if x not in [self.ED_ID_col, self.geometry_col, self.area_col]
+        ]
+        df_density[cols_to_transform] = df_density[cols_to_transform].div(
+            df_density[self.area_col], axis=0)
+        df_density = df_density.drop(columns=self.area_col)
+        return df_density
+
+
+# places = pd.read_csv(
+#     '/home/djampa/code/data_project_lewagon/slcities/slcities/data/places.csv')
+# areas = pd.read_csv(
+#     '/home/djampa/code/data_project_lewagon/slcities/slcities/data/areas.csv')
+# lights = pd.read_csv(
+#     '/home/djampa/code/data_project_lewagon/slcities/slcities/data/lights.csv')
+# sensors = pd.read_csv(
+#     '/home/djampa/code/data_project_lewagon/slcities/slcities/data/sensors.csv'
+# )
+# dm = DataMerger()
+# dm.count_places(places, place_col='type')
+# dm.count_pop(areas)
+# dm.count_light(lights)
+# dm.count_sensors(sensors)
+# dm.merge_df(areas)
+# global_cnt_df = dm.get_count_df()
+# global_density_df = dm.get_density_df()
+# dir_path = ''
+# global_cnt_df.to_csv(os.path.join(dir_path, 'global_cnt_df.csv'), index=False)
+# global_density_df.to_csv(os.path.join(dir_path, 'global_density_df.csv'), index=False
+
+
+
+
+
+
 
 class StreetLigthsPreProcessing():
     def __init__(self):
@@ -27,6 +118,8 @@ class StreetLigthsPreProcessing():
 
     def return_df(self):
         return self.stlights_df
+
+
 
 
 
