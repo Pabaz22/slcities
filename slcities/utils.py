@@ -84,6 +84,29 @@ def dataframe_to_geopandas(df,
                                 df[longitude_col], df[latitude_col]))
 
 
+def dataframe_to_geopandas(df,
+                           longitude_col='longitude',
+                           latitude_col='latitude'):
+    """
+    Turn DataFrame into a geoDataFrame
+    """
+    gdf = df.copy()
+    return gpd.GeoDataFrame(gdf,
+                            geometry=gpd.points_from_xy(
+                                gdf[longitude_col], gdf[latitude_col]))
+
+
+# def write_geodf_from_df(f_path, df):
+#     .to_file("countries.geojson", driver='GeoJSON')
+
+
+
+def format_df_to_geopandas(df, geometry_col='geometry', crs="EPSG:4326"):
+    geo_df = df.copy()
+    geo_df[geometry_col] = gpd.GeoSeries.from_wkt(geo_df[geometry_col])
+    return gpd.GeoDataFrame(geo_df, geometry=geometry_col, crs=crs)
+
+
 def open_file_as_geopandas(f_path,
                            longitude_col='longitude',
                            latitude_col='latitude'):

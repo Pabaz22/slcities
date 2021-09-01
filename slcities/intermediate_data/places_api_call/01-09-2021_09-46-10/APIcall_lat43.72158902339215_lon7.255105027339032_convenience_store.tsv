@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Station Service Eni	ChIJpSj15CfPzRIRsLUrk4-LzeA	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.723886	7.255783099999999	True			convenience_store
+1	Vival	ChIJ-1duMFjPzRIRX6n5_rIKIpc	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7208181	7.2515652	True			convenience_store
+2	MONOPRIX NICE GORBELLA	ChIJ-fm9DPvPzRIR1WEhNx85PaI	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	43.7192716	7.257145700000001	True			convenience_store
+3	L'oliveraie	ChIJtRx0dubPzRIRLVEVliRIFFc	convenience_store|food|point_of_interest|store|establishment	43.7220007	7.248999400000001	True			convenience_store
+4	Casino Shop	ChIJB33ePOPPzRIR8WCe5klh684	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7167819	7.2534438	True			convenience_store
+5	Vival	ChIJfXBQGO_PzRIRa3HDFItJQww	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7253215	7.2505508	True			convenience_store
+6	SPAR	ChIJQZpy5qbazRIRuYxYr-x8EjY	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7198692	7.262145599999998	True	1.0		convenience_store
+7	SPAR	ChIJyxGMLe_PzRIRBKQUvfMUgyI	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.72496399999999	7.248362099999999	True	1.0		convenience_store
+8	STATION BP NICE FALICON	ChIJZ6TvoPrPzRIRSF5rxcLaS1M	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.72754810000001	7.255792499999999	True			convenience_store
+9	monop' NICE BORRIGLIONE	ChIJR7BSZ_7PzRIRQAXAOp2N6hw	supermarket|convenience_store|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment	43.71525130000001	7.2611135	True			convenience_store
+10	Vival	ChIJrQesjP3PzRIRTVUpFgZvKCI	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.713608	7.258572000000001	True			convenience_store
+11	Anelo France	ChIJQ_r79R3QzRIRXE-9C2W_78o	convenience_store|food|point_of_interest|store|establishment	43.7138027	7.250220300000001	True			convenience_store
+12	Super K Nice Distribution	ChIJC58AIgLQzRIRdk5z6eZ3Ws4	convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7120533	7.259575300000001	True			convenience_store
+13	Vival	ChIJvXvpGAPQzRIRDZF9X8kXfMo	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.710877	7.255962999999999	True			convenience_store
+14	Le Petit Casino	ChIJURg2pgHQzRIR7LD3oThBEU0	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.71094129999999	7.262124899999998	True			convenience_store
+15	Utile	ChIJ8UzVcxvQzRIRu_NZqGpQqPw	convenience_store|food|point_of_interest|store|establishment	43.7081024	7.2523252	True			convenience_store
+16	STATION BP NICE GAMBETTA	ChIJV-3xvwTQzRIRAP1YD8OqEtE	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.7076107	7.255845699999999	True			convenience_store
+17	TotalEnergies	ChIJ7Z7ZdRvQzRIRhBxezgaRaxg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7077828	7.251587900000001	True			convenience_store
+18	MONOPRIX NICE CIMIEZ	ChIJRW8ZCFDFzRIRI-36Fc2DuCs	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	43.7218841	7.275654499999998	True			convenience_store
+19	Kosher Factory	ChIJMdT15ATQzRIRuEW-kThTpEw	convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7066433	7.256647499999998	True			convenience_store
+20	Le Petit Casino	ChIJ62-t2AbQzRIRvIozi7ea6Kc	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7074972	7.262693899999999	True		4 Bis Rue Vernier, 06000 Nice	convenience_store
+21	Vival Cimiez	ChIJSVKO81LFzRIRkgWnYIZ2xq4	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7144293	7.274486599999999	True		91 Av. des Arènes de Cimiez, 06000 Nice	convenience_store
+22	Vival	ChIJkUNGstXbzRIRK4t5xK-4724	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7059197	7.265625999999999	True		31 Bd Raimbaldi, 06000 Nice	convenience_store
+23	Vival	ChIJlycf_2fFzRIR1-k-KA5Kv4g	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.731568	7.275894199999999	True		56 Av. Cap-de-Croix, 06100 Nice	convenience_store
+24	Proxy super	ChIJb5lfjAzRzRIReWwQCHkE6WE	convenience_store|food|point_of_interest|store|establishment	43.7033801	7.259721900000001	True		16Avenue Thiers, 06000 Nice	convenience_store
+25	Alimentation Libre Service clémenceau	ChIJLUvuHA_QzRIRTiJgNiy6Ycw	convenience_store|food|point_of_interest|store|establishment	43.7021402	7.258105500000001	True		34 Rue Guiglia, 06000 Nice	convenience_store
+26	SPAR	ChIJL_Zj5UjFzRIR2jDoT8tdVXE	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.719635	7.283391000000001	True	1.0	141 Av. du Maréchal Lyautey, 06300 Nice	convenience_store
+27	Casino Shop	ChIJd-JFRg7QzRIR3KHax1I9W4A	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7009176	7.2560357	True		59-61 Bd Gambetta, 06000 Nice	convenience_store
+28	Vival	ChIJiWf_oJ_RzRIRBO9SY_8hA58	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7007144	7.253380600000001	True		24 Rue Châteauneuf, 06000 Nice	convenience_store
+29	Proxi services	ChIJD28F9BbQzRIRM3xFfmlAa1U	convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7012549	7.2466904	True		64 Av. d'Estienne d'Orves, 06000 Nice	convenience_store
+30	Le Petit Casino	ChIJIZuM-ofRzRIRhAB3AbXtGiQ	convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	43.698701	7.251062999999999	True		65 Bd François Grosso, 06000 Nice	convenience_store
+31	Spar Market	ChIJDzh2w7zPzRIRAA7SW3yfLBw	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7421197	7.240213600000001	True	1.0	18 Rte de Saint-Pancrace, 06100 Nice	convenience_store
+32	Le Petit Casino	ChIJNTa4M_nbzRIR5Gqo29lvu_I	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7011401	7.273610199999999	True		10 Rue Foncet, 06000 Nice	convenience_store
+33	Utile	ChIJsafOBaXazRIRFi4D_0LFxnY	convenience_store|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7010067	7.2738076	True		8 Rue Foncet, 06000 Nice	convenience_store
+34	7 À Huit	ChIJ621jSwrQzRIRju0pYH1-B2s	convenience_store|food|point_of_interest|store|establishment	43.6973233	7.2627074			06000 Nice	convenience_store
+35	SPAR	ChIJt6jkRaTazRIRCwOIjqcCtyk	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7000114	7.2723246	True	1.0	22 Rue de l'Hôtel des Postes, 06000 Nice	convenience_store
+36	Momo alimentation	ChIJQfB-Mm_bzRIRG5dbhVNC9nk	convenience_store|food|point_of_interest|store|establishment	43.7073708	7.2843908	True		3 Rue Thaon de Revel, 06300 Nice	convenience_store
+37	Cortese Jean-Pierre	ChIJ29jAwrbazRIREWaO5B0Lff8	convenience_store|food|point_of_interest|store|establishment	43.7056553	7.2831159	True		7 Av. de la République, 06300 Nice	convenience_store
+38	Le Petit Casino	ChIJKYe_YmzbzRIR7bXFqCTEg0E	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.70327899999999	7.282516	True		6 Rue Scaliero, 06300 Nice	convenience_store
+39	Vival	ChIJiQAsVVTFzRIRFnydcheC3CI	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.71512	7.2926135	True		64 Av. Denis Semeria, 06300 Nice	convenience_store
+40	A.m.d Azur Sarl	ChIJKX_RNKjazRIRQYqXNxlTSQM	convenience_store|food|point_of_interest|store|establishment	43.7056691	7.266569699999999	True		23 Rue Assalit, 06300 Nice	convenience_store
+41	Miniprix	ChIJBzN9JRDQzRIRRR8RVwd0gB0	convenience_store|food|point_of_interest|store|establishment	43.7023513	7.253931199999999	True		2 Rue Cluvier, 06000 Nice	convenience_store
+42	Italian Discount Market	ChIJKZphjzfRzRIRohMT_yoOgpc	convenience_store|food|point_of_interest|store|establishment	43.6971242	7.2563909			26 Bd Gambetta, 06000 Nice	convenience_store
+43	SPAR	ChIJQ7vxLQXbzRIRc1X6H9a6108	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.6966114	7.2732009	True	1.0	2 Bis Rue Raoul Bosio, 06300 Nice	convenience_store
+44	Alimentation Générale 7j/7 Red Mood	ChIJnZf_rqPazRIRagUoD4jz3ck	convenience_store|food|point_of_interest|store|establishment	43.6962068	7.2728772	False		7 Rue Raoul Bosio, 06300 Nice	convenience_store
+45	Vival	ChIJe-FxVNrbzRIR4J34GmFCtd4	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7106118	7.291540299999999	False		7 Rue Sorgentino, 06300 Nice	convenience_store
+46	Vival	ChIJ__-TrrzazRIRMAk37hG7zM4	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.6975251	7.2764434	False		8 Rue Mascoinat, 06300 Nice	convenience_store
+47	SUPERETTE VIVAL	ChIJ__1nAaPazRIRQjypt-HTK84	convenience_store|supermarket|grocery_or_supermarket|food|point_of_interest|store|establishment	43.696127	7.2739756	True		2 Rue Louis Gassin, 06300 Nice	convenience_store
+48	Alimentation Express Market	ChIJl0ZXpsnazRIRlUxuTkKRSTg	convenience_store|food|point_of_interest|store|establishment	43.7049804	7.2893596			66 Rue Arson, 06300 Nice	convenience_store
+49	Vival	ChIJD43ScLnazRIRrAGsXuG2utM	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.69938	7.2828765	True	1.0	16-20 Rue Cassini, 06300 Nice	convenience_store
+50	Vival	ChIJBX3_v1zRzRIRlE70bwox-io	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.6939358	7.239085999999999	True		52 Bd Carlone, 06000 Nice	convenience_store
+51	Monop'station GARE NICE RIQUIER	ChIJi0IDDcnazRIR2Qbc9hiXLbw	convenience_store|food|point_of_interest|store|establishment	43.70556209999999	7.290256299999998	True		Pl. Auguste Blanqui, 06300 Nice	convenience_store
+52	Libre Service Riquier	ChIJC-rvHMnazRIRNuK6eZjdiBk	convenience_store|food|point_of_interest|store|establishment	43.7045785	7.290370599999999	True		35 Bd de Riquier, 06300 Nice	convenience_store
+53	Bonjour	ChIJcTxPD8zazRIRLhUm-UaoYKs	convenience_store|food|point_of_interest|store|establishment	43.7070734	7.2926371			06300 Nice	convenience_store
+54	Libre Service de la Corniche	ChIJ9VWFucXazRIRXhGAeisut7o	convenience_store|food|point_of_interest|store|establishment	43.7006594	7.294653999999999	True		21 Bis Cor André de Joly, 06300 Nice	convenience_store
+55	Casino Shop	ChIJpUAkedHazRIRqbNOpM0oalc	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7054474	7.3004111	True		115 Cor André de Joly, 06300 Nice	convenience_store
+56	Vival	ChIJc78Rh47RzRIR2yvHReZbrYY	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.68604	7.2358216	True		124 Av. de la Californie 126, 06200 Nice	convenience_store
+57	casino shop	ChIJlUj5lNfazRIRM-VUtUnrqUs	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.70180269999999	7.3069599	True		16 Av. du Maréchal Foch, 06230 Villefranche-sur-Mer	convenience_store
+58	Casino Shop	ChIJfyLoDinbzRIRs_sRR62fE_Q	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7036604	7.311683400000001	True		10 Rue du Poilu, 06230 Villefranche-sur-Mer	convenience_store

@@ -1,0 +1,51 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Police Municipale	ChIJA5n5GwHQzRIRozzckhDwI0I	police|point_of_interest|establishment	43.71045549999999	7.2618281			police
+1	Police Municipale Territoire Nord	ChIJaTc8W-7PzRIRIo1lUiPIG24	police|point_of_interest|establishment	43.7264865	7.252397999999999	True		police
+2	Municipal Police - lost and found	ChIJaUuRiwTQzRIRCnJXXMRtuGY	police|point_of_interest|establishment	43.707677	7.257063899999999	True		police
+3	Gendarmerie Nationale	ChIJyTLYrjXFzRIR87Zsfr2K0ZE	police|point_of_interest|establishment	43.7136588	7.288872500000001	True		police
+4	Police Municipale Centre Saétone	ChIJLUBP5QfQzRIRwAJuSeLCuz4	police|point_of_interest|establishment	43.7041271	7.2647584			police
+5	Commissariat	ChIJVQ2nUYLbzRIRI2gZnvQmPKI	police|point_of_interest|establishment	43.7043053	7.273438400000003			police
+6	Police Nationale, Caserne Auvare	ChIJgzSPNzXFzRIRw98vnRg-8xU	police|point_of_interest|establishment	43.71185680000001	7.288322599999999	True		police
+7	Police Nationale	ChIJ5fF4b6_azRIRYhxBYhHXsSE	police|point_of_interest|establishment	43.703597	7.272728900000002	True		police
+8	Hôtel De Police	ChIJ5fF4b6_azRIR6dl4PN2PXcs	police|point_of_interest|establishment	43.70356280000001	7.272528500000001			police
+9	Service Régional de la Police Judiciaire de Marseille	ChIJ2VKybq_azRIRxzSgjtOFOKQ	police|point_of_interest|establishment	43.70356280000001	7.272528500000001			police
+10	House to Home Victims	ChIJmW7fkaTazRIR4MBPEsiQ5A4	police|point_of_interest|establishment	43.69888270000001	7.274056600000001	True		police
+11	Gendarmerie Nationale	ChIJNcmMRQ3FzRIR8QyNvSz7doU	police|local_government_office|point_of_interest|establishment	43.74092529999999	7.287556899999998	False		police
+12	Police Municipale	ChIJ1ywBsKPazRIRgYOLqY0bweg	police|point_of_interest|establishment	43.6959099	7.265936	True		police
+13	Police Municipale	ChIJST_cfpjFzRIRTgYDc4DMs10	police|point_of_interest|establishment	43.7450552	7.288108900000001	True		police
+14	Commissariat de Police	ChIJl5ewjRzFzRIRYUR48u3ZtsY	police|point_of_interest|establishment	43.7378546	7.3048296			police
+15	Commissariat de Police	ChIJB2sapSnbzRIROoYcsNm8otQ	police|point_of_interest|establishment	43.7053759	7.309935599999999	True		police
+16	Police Municipale	ChIJBeGnEinbzRIRGQ0WKngg858	police|point_of_interest|establishment	43.7039666	7.311835499999998			police
+17	Gendarmerie Nationale	ChIJtau6HfzEzRIRWIX5K0tVRII	police|local_government_office|point_of_interest|establishment	43.7416868	7.311198399999999	True		police
+18	Police Municipale	ChIJw41OnCv1zBIR7w6z_cYFNjs	police|point_of_interest|establishment	43.743577	7.3140182	True		police
+19	Police Municipale de Saint Jean Cap Ferrat	ChIJUS54EDfbzRIRew_eH9c_q-w	police|point_of_interest|establishment	43.7013413	7.3266577	True		police
+20	Gendarmerie Nationale	ChIJgYXuZErbzRIRzkt5caHZuzY	police|local_government_office|point_of_interest|establishment	43.7059669	7.330842100000001	True	3 Rue Marius Maiffret, 06310 Beaulieu-sur-Mer	police
+21	Police Municipale	ChIJ88uzhLPEzRIRgZLvRp2s8NI	police|point_of_interest|establishment	43.7111217	7.336056699999999		06310 Beaulieu-sur-Mer	police
+22	Police Municipale	ChIJYd-NvfjQzRIRYEr6IVyCLiw	police|point_of_interest|establishment	43.6763	7.228845600000001		06200 Nice	police
+23	Gendarmerie Nationale	ChIJP4yJAfLRzRIR_IoZYG4TTsA	police|local_government_office|point_of_interest|establishment	43.7036232	7.1894505	True	420 Route de Grenoble, Echangeur, 06200 Nice	police
+24	Gendarmerie Nationale	ChIJSemj-bXRzRIRYiRmxwN4eK0	police|local_government_office|point_of_interest|establishment	43.6808556	7.207990799999999		168 Av. Sainte-Marguerite, 06200 Nice	police
+25	Police Municipale	ChIJFR-pOYrDzRIRP1ol-VjjMdY	police|point_of_interest|establishment	43.7203051	7.352768699999999		22 Av. de la Liberté, 06360 Èze	police
+26	Commissariat de Police Subdivisionnaire de Nice-Ouest	ChIJsRt2bQrRzRIR544SQia_vtE	police|point_of_interest|establishment	43.6779795	7.204638200000001	True	266 Trav. de la Digue des Français, 06200 Nice	police
+27	Gendarmerie Nationale	ChIJ4Q9ZZWTDzRIR5CpuBkQklqk	police|local_government_office|point_of_interest|establishment	43.7325045	7.3577207	True	395 Bd du Maréchal Leclerc, 06360 Èze	police
+28	la fourrière	ChIJTZeDXg7RzRIR5T5LhvMn88U	police|point_of_interest|establishment	43.670389	7.206029299999999	True	61 Rte de Grenoble, 06200 Nice	police
+29	Ilôt de Police Municipale	ChIJB2MhHXrRzRIRTH69rLp8OXI	local_government_office|police|point_of_interest|establishment	43.6872676	7.1829407		154 Rue Alphonse Daudet, 06700 Saint-Laurent-du-Var	police
+30	Police Municipale	ChIJgc9gF3fRzRIR-sDIX0bTFxE	police|point_of_interest|establishment	43.67518279999999	7.191827900000001		Hôtel de Ville, 222 Esp. du Levant, 06700 Saint-Laurent-du-Var	police
+31	Police Nationale	ChIJP3JB73HRzRIRIxkECIpASTg	police|point_of_interest|establishment	43.6717626	7.193002099999999	True	475 Contre-Allée Georges Pompidou, 06700 Saint-Laurent-du-Var	police
+32	Departmental Directorate of Border Police	ChIJmZUG3BnRzRIRWSeCwa5qahs	police|point_of_interest|establishment	43.6588534	7.205307899999999	True	06200 Nice	police
+33	Police Municipale	ChIJg8uxgmnRzRIRrexpGmBN-Q8	police|point_of_interest|establishment	43.6625278	7.194548599999999		40A Rue Léonard Anfossi, 06700 Saint-Laurent-du-Var	police
+34	Police Municipale	ChIJp5Y2n4nNzRIRAOVpMvJkxhw	police|point_of_interest|establishment	43.7222745	7.150844999999999		1 Rue Louis Michel Féraud, 06610 La Gaude	police
+35	Police Municipale	ChIJ0fHqt73TzRIR5YNw96VKNrA	police|point_of_interest|establishment	43.6647983	7.1505171	True	21 Sq. Maurice Bourdet, 06800 Cagnes-sur-Mer	police
+36	Police station	ChIJ_8pCF5HTzRIR4c-4no5iHv0	police|point_of_interest|establishment	43.6558918	7.1503885	True	20 Bis Chem. des Grands Plans, 06800 Cagnes-sur-Mer	police
+37	Police de Monaco	ChIJEUwgbpPCzRIRKJWV-HXnSQ0	police|point_of_interest|establishment	43.7345176	7.420448299999999		9 Rue Suffren Reymond, 98000 Monaco	police
+38	Bureau de Police Nationale Beausoleil	ChIJy6yJ-2LCzRIRhDLV-iKuLGI	police|point_of_interest|establishment	43.7429212	7.4250736	True	25 Bd de la République, 06240 Beausoleil	police
+39	Syndicat France Police	ChIJq6pevlfNzRIRGf3kmxC_7R0	police|point_of_interest|establishment	43.72460479999999	7.102147		418 Av. Rhin et Danube, 06140 Vence	police
+40	Gendarmerie Nationale	ChIJjaBZyJfOzRIRoz8QHJ1TJ0A	police|local_government_office|point_of_interest|establishment	43.7718783	7.1950446	True	7 Bd de la Colle Belle, 06510 Carros	police
+41	Gendarmerie Nationale	ChIJGzVSI5PGzRIRDcC833yy0VU	police|local_government_office|point_of_interest|establishment	43.803598	7.3226123	True	9 Rue Christian Mangiapan, 06390 Contes	police
+42	Gendarmerie Nationale	ChIJE_4epVbCzRIRymgXjQVccMo	police|local_government_office|point_of_interest|establishment	43.7465843	7.4003361	False	31 Chem. du Moulin, 06320 La Turbie	police
+43	Police Municipale	ChIJzcqpV-nCzRIR_H9uIWlnDX0	police|point_of_interest|establishment	43.7269228	7.4109347		06320 Cap-d'Ail	police
+44	Gendarmerie Nationale	ChIJKzoR26HSzRIR6QL2H25ES5M	police|local_government_office|point_of_interest|establishment	43.7193771	7.1140254	True	669 Av. Emile Hugues, 06140 Vence	police
+45	Police Maritime	ChIJt6l_lpDDzRIRxxFDFgOQnn8	police|local_government_office|point_of_interest|establishment	43.7331686	7.4269548		14 Quai Antoine 1er, 98000 Monaco	police
+46	Commissariat De Police	ChIJece7VerDzRIRkM1FzoW6PV8	police|point_of_interest|establishment	43.7400245	7.427358000000001		98000 Monaco	police
+47	Poste de Police - Monte Carlo	ChIJJ9ydah_DzRIRpyp8gkSvqNk	police|point_of_interest|establishment	43.740025	7.4273747		98000 Monaco	police
+48	Police Municipale de Villeneuve Loubet	ChIJOZJeVW7TzRIRHZF6rpeNex0	police|point_of_interest|establishment	43.6576157	7.1222499		2 Av. de la Libération, 06270 Villeneuve-Loubet	police
+49	Central Police Station Commissioner	ChIJL6foSm_VzRIRdn9v3MNAX10	police|point_of_interest|establishment	43.5798484	7.119773299999999	True	5 Av. des Frères Olivier, 06600 Antibes Juan-les-Pins	police

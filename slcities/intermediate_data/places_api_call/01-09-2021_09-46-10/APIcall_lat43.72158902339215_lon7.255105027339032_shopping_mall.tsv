@@ -1,0 +1,6 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	main_type
+0	Jeuclub	ChIJDzFBdqPPzRIRevyS_l-YZDc	shopping_mall|point_of_interest|establishment	43.72403569999999	7.2491398	shopping_mall
+1	Primarks	ChIJ2aem0NjRzRIRhdid_dV_f8M	shopping_mall|point_of_interest|establishment	43.7101728	7.261953200000002	shopping_mall
+2	Shampooing à l'ail	ChIJfYWyS5_RzRIRrFlT9BG9yqM	shopping_mall|point_of_interest|establishment	43.7101728	7.261953200000002	shopping_mall
+3	Clé	ChIJQ6B8UsPRzRIRAwWPaMjmF-o	shopping_mall|point_of_interest|establishment	43.7071736	7.259611700000001	shopping_mall
+4	Projet Iconic	ChIJBYR6cpLRzRIRyOnmVHhdOzc	shopping_mall|point_of_interest|establishment	43.7046962	7.263020999999999	shopping_mall

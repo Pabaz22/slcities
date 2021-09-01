@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Agip	ChIJQYTVFPDPzRIR-v7u7CCZDk4	gas_station|point_of_interest|establishment	43.72396020000001	7.255850700000002			gas_station
+1	Station Service Eni	ChIJpSj15CfPzRIRsLUrk4-LzeA	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.723886	7.255783099999999	True		gas_station
+2	STATION BP NICE FALICON	ChIJZ6TvoPrPzRIRSF5rxcLaS1M	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.72754810000001	7.255792499999999	True		gas_station
+3	A8	ChIJDd5WrdfPzRIRgeg4r0SFo1M	gas_station|point_of_interest|establishment	43.7297275	7.256161000000001			gas_station
+4	TotalEnergies	ChIJPzZs_0vFzRIRRqyU9i8aIZo	gas_station|point_of_interest|establishment	43.71655719999999	7.282346299999999			gas_station
+5	Total Petrol Station Access	ChIJ85l7LEfFzRIRgx8STkEQlPg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.72699790000001	7.282743100000001	True		gas_station
+6	Cagnol Pneus	ChIJISn9QQHQzRIRGlZOG_A3VYo	gas_station|point_of_interest|establishment	43.7096301	7.260942999999999	True		gas_station
+7	Station Service Gaz	ChIJJQ9UVAfQzRIR4eyPVeRvEwE	gas_station|point_of_interest|establishment	43.7079577	7.265069899999999			gas_station
+8	Total Petrol Station Access	ChIJ-bY94jfFzRIR_457ZbcecqI	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7202375	7.2869669	True		gas_station
+9	STATION BP NICE GAMBETTA	ChIJV-3xvwTQzRIRAP1YD8OqEtE	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.7076107	7.255845699999999	True		gas_station
+10	Relais Garigliano	ChIJbdkAtmrFzRIRp-_WBnObJAs	gas_station|point_of_interest|establishment	43.7320155	7.286320499999997	True		gas_station
+11	TotalEnergies	ChIJXZV1q2rFzRIRRUy2eh1P2Yg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.73187220000001	7.2865821	True		gas_station
+12	TotalEnergies	ChIJ-_3wLTTFzRIRgVxhQpuIgRY	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.71559509999999	7.290018599999999	True		gas_station
+13	ESSO EXPRESS SAINT ROCH	ChIJDzu_UzfFzRIRlaZe8NgtgOY	gas_station|point_of_interest|establishment	43.7204343	7.292023100000001	True		gas_station
+14	TotalEnergies	ChIJ7Z7ZdRvQzRIRhBxezgaRaxg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7077828	7.251587900000001	True		gas_station
+15	Avia	ChIJFUcuHgbQzRIRmrF-Q_h9JUk	gas_station|point_of_interest|establishment	43.7026293	7.2555204	True		gas_station
+16	Sarl Terrin	ChIJb47awA_QzRIRVatqiQ0uYIw	gas_station|point_of_interest|establishment	43.7025624	7.255711			gas_station
+17	TotalEnergies	ChIJbUn1BszazRIRby9I53YeZtU	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.70694679999999	7.2926166	True		gas_station
+18	STATION BP NICE FRANKLIN	ChIJbWhzeg7QzRIRywS5KtQoz2w	gas_station|car_wash|point_of_interest|establishment	43.6993741	7.256511999999999	True		gas_station
+19	Marchés filima	ChIJy0lILZHbzRIRdKxOF2E8HO0	gas_station|point_of_interest|establishment	43.7001496	7.281422100000001			gas_station
+20	I.p	ChIJq6pWYbvazRIR_EAfbIoRLBw	gas_station|point_of_interest|establishment	43.69812	7.2777411		4 Rue Droite, 06300 Nice	gas_station
+21	Gatto Mazout	ChIJW2fxjMfazRIRkAgATg6eZAU	gas_station|point_of_interest|establishment	43.7003753	7.287839	True	1 Pl. Max Barel, 06300 Nice	gas_station
+22	Avia Boutique	ChIJ-ZbMlsfazRIRpJ_OATDaqj4	gas_station|point_of_interest|establishment	43.70037500000001	7.287885800000001		1 Pl. Max Barel, 06300 Nice	gas_station
+23	Bavastro Auto	ChIJq6paf8fazRIRWQGHOp1BRbg	gas_station|point_of_interest|establishment	43.6994931	7.2872415		8 Bd Lech Walesa, 06300 Nice	gas_station
+24	Station des Oliviers	ChIJ_b8Pbs_azRIRBVZAE6ANxtA	gas_station|point_of_interest|establishment	43.7021183	7.2943211	True	10 Cor André de Joly, 06300 Nice	gas_station
+25	Le Gall Philippe	ChIJ_b8Pbs_azRIRRbpjqSm3MCg	gas_station|point_of_interest|establishment	43.702131	7.294359699999999	True	10 Cor André de Joly, 06300 Nice	gas_station
+26	Esso	ChIJvy8T2tPazRIR3PCc-omDOHM	gas_station|point_of_interest|establishment	43.70619869999999	7.300916099999999	True	1 Bd de la Corne d'Or, 06230 Villefranche-sur-Mer	gas_station
+27	Hyris	ChIJ39UU9r7azRIRm6MmNT6v15g	gas_station|point_of_interest|establishment	43.6951794	7.2832315	True	Quai Lunel, 06300 Nice	gas_station
+28	Azur Station Services	ChIJGUiqQxzFzRIRB7DGFhoHKA4	gas_station|car_repair|point_of_interest|establishment	43.7355712	7.3025018	True	103 Bd de l'Ariane, 06300 Nice	gas_station
+29	ELAN	ChIJX1z-gsXazRIR05_Jr1TvTuU	gas_station|point_of_interest|establishment	43.7051807	7.3005369	True	94 Cor André de Joly, 06300 Nice	gas_station
+30	TOTAL	ChIJ3SZxADrbzRIRcvQYaX8_TQ8	gas_station|point_of_interest|establishment	43.7051759	7.3005406		94 Cor André de Joly, 06300 Nice	gas_station
+31	Bmsj	ChIJweT4dtHazRIRG6tvGnpMnEk	gas_station|point_of_interest|establishment	43.7051183	7.3005501		94 Cor André de Joly, 06300 Nice	gas_station
+32	TotalEnergies CARNOT NICE	ChIJwTAezsDazRIRW1B66JyUli0	gas_station|point_of_interest|establishment	43.69671410000001	7.288951399999998	True	34 Bd Carnot, 06300 Nice	gas_station
+33	Location Vespa	ChIJUYpSzcDazRIRWkBi841Fmi8	gas_station|point_of_interest|establishment	43.69664179999999	7.288933800000001	True	34 Bd Carnot, 06300 Nice	gas_station
+34	Terrin	ChIJLbqdYmzQzRIRrWZpxsmZuds	gas_station|point_of_interest|establishment	43.6927204	7.249161600000001		77 Prom. des Anglais, 06000 Nice	gas_station
+35	Avia	ChIJLbqdYmzQzRIRU8BI26eHYl4	gas_station|point_of_interest|establishment	43.692431	7.249959599999999	True	77 Prom. des Anglais, 06000 Nice	gas_station
+36	STATION BP NICE MAGNAN	ChIJI1E2KUDQzRIRk9I-27pL2J4	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.6929945	7.2432474	True	31 Av. de Bellet, 06000 Nice	gas_station
+37	Ship Service	ChIJ_euPkUvbzRIRXiO7xEjEJCw	gas_station|point_of_interest|establishment	43.6989137	7.3091926	True	Port de, La Darse, 06230 Villefranche-sur-Mer	gas_station
+38	MO GARAGE	ChIJkwnQG77RzRIR5dN4Ur5HfSs	gas_station|point_of_interest|establishment	43.6969355	7.222682700000001		92 Chem. de la Madonette de Terron, 06200 Nice	gas_station
+39	Access - TotalEnergies	ChIJWceOOlvQzRIRG24UiUCNcAs	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.685895	7.236438499999999	True	217 Prom. des Anglais, 06200 Nice	gas_station
+40	Station-service Auchan	ChIJYUBqJffEzRIR4LrzGq2FdA0	gas_station|point_of_interest|establishment	43.7433655	7.3213691	True	17 Bd Fuon Santa, 06340 La Trinité	gas_station
+41	AS 24	ChIJaVfE_tvRzRIRv5THFjMC8Po	gas_station|food|point_of_interest|store|establishment	43.7119082	7.2061427	True	Chemin de la Ginestière Parc Logistique, Nice Cremat, 06000 Nice	gas_station
+42	TotalEnergies	ChIJDS4u0TbbzRIR7fwf8nEmZEc	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7020701	7.325187499999999	True	1280 Bd Napoléon III, 06230 Villefranche-sur-Mer	gas_station
+43	STATION BP NICE GRAND SOLEIL	ChIJ54fyHFPQzRIRJT_j9bIJSa0	gas_station|convenience_store|food|point_of_interest|store|establishment	43.6859616	7.226034599999998	True	Bd Napoléon III, 06200 Nice	gas_station
+44	Sarl Station Nice Prom Station Total Pergolas	ChIJi6CsQFfQzRIRE8BeB934mew	gas_station|point_of_interest|establishment	43.6807989	7.2315988		Prom. des Anglais, 06200 Nice	gas_station
+45	TotalEnergies	ChIJWYoTobTEzRIRLQFu29rR41E	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7094229	7.3351506	True	Boulevard du Général Leclerc, Rn.559 Basse Corniche, 06310 Beaulieu-sur-Mer	gas_station
+46	Station YsBlue de Beaulieu sur Mer	ChIJj_-8FI3bzRIRvbJxNyT4tbU	gas_station|point_of_interest|establishment	43.7075206	7.3375401	True	Port de, Quai du Levant, 06310 Beaulieu-sur-Mer	gas_station
+47	Station Service Agip	ChIJaeEBcKrRzRIRyXkm1a3_6PM	gas_station|point_of_interest|establishment	43.6781995	7.2195123	True	61 Av. Sainte-Marguerite, 06200 Nice	gas_station
+48	Station Service Eni	ChIJ6bxWe6rRzRIRcU2OarfN9CA	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.6781656	7.2194999	True	61 Av. Sainte-Marguerite, 06200 Nice	gas_station
+49	Place voiture	ChIJ1UU_-A_RzRIR3UCQiSSIXk8	gas_station|point_of_interest|establishment	43.6771057	7.219353700000001		167 Bd Napoléon III, 06200 Nice	gas_station
+50	Access - TotalEnergies	ChIJ19MBbRvRzRIR1zRPxWHFDNw	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.6732512	7.2260436	True	Square Kirchner, Prom. des Anglais, 06200 Nice	gas_station
+51	Total	ChIJmxHzf2rbzRIRbYmbqBBmcjo	gas_station|point_of_interest|establishment	43.6911719	7.3344897		Port de Plaisance, 06230 Saint-Jean-Cap-Ferrat	gas_station
+52	E-Leclerc service station in Nice Cedex 3	ChIJm0qYVuXRzRIRF84Kpm-xDyE	gas_station|car_wash|grocery_or_supermarket|cafe|food|point_of_interest|store|establishment	43.708656	7.189645199999999	True	Rd 6202 Quartier, 06201 Nice	gas_station
+53	Station Service Carrefour - Nice Lingostière	ChIJPUKqIQ_OzRIRRKxLp7oxDho	gas_station|point_of_interest|establishment	43.72973	7.185623199999998	True	606 Bd du Mercantour, 06200 Nice	gas_station
+54	Total Petrol Station Access	ChIJUZ7GyJnRzRIRaC2wmKOw3V0	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.6875601	7.197359899999999	True	280 Rte de Grenoble, 06200 Nice	gas_station
+55	Esso	ChIJBw__OovOzRIRdJl3AHG10FA	gas_station|point_of_interest|establishment	43.7583262	7.199764300000001	True	906 Rte de Grenoble, 06200 Nice	gas_station
+56	Access - TotalEnergies	ChIJ7_IUXPPOzRIRink3TEqQeaM	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7602839	7.201829	True	2 Rte de Grenoble, 06670 Colomars	gas_station
+57	Station Service Eni	ChIJoSsnBvPOzRIRUjxkTQVVKZ4	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.7615637	7.2030747	True	Route de Grenoble, N202, 06670 Colomars	gas_station
+58	STATION BP NICE ARENAS	ChIJBS75axDRzRIR9HNAeFzKadc	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.66952999999999	7.216730999999999	True	123-127 Bd René Cassin Zac, 06200 Nice	gas_station
+59	Intermarche Gattieres	ChIJZ9x8aY3OzRIRxNpXX6Rovvg	gas_station|point_of_interest|establishment	43.7629953	7.198615399999999	True	345 Av. de la Tourre, 06510 Gattières	gas_station

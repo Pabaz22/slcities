@@ -1,0 +1,4 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Vella Jean-Michel	ChIJm6VU7v_PzRIRDX5HxFI0W78	movie_theater|point_of_interest|establishment	43.7138123	7.264443200000001		movie_theater
+1	Pathé Gare du Sud	ChIJM_mafqDazRIRyk5PFFL415g	movie_theater|restaurant|food|point_of_interest|store|establishment	43.7092937	7.2606848	False	movie_theater
+2	Cinemau Sarl	ChIJ48l-9ATQzRIR2uIjKh6dm0I	movie_theater|point_of_interest|establishment	43.7073464	7.2570392		movie_theater

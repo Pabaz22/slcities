@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Bar La Virgule	ChIJSR6ZBvnPzRIRseBgowNL_Do	bar|point_of_interest|establishment	43.7200127	7.262156099999999				bar
+1	Brasserie Le Saint Maurice - Persian Food	ChIJkdh8-_jPzRIRFhvB3HgtAGs	restaurant|bar|food|point_of_interest|establishment	43.7197539	7.262940300000001	True			bar
+2	Lili Tabac Pizzeria	ChIJkeKTTAnPzRIR__4RYUZjkTU	bar|point_of_interest|establishment	43.7259191	7.264891899999999	True			bar
+3	Briciola	ChIJNdKWavDPzRIRRZiL7-iZ2rY	bar|restaurant|food|point_of_interest|establishment	43.7230593	7.255883099999999	True			bar
+4	Le Ray	ChIJ6Sg_rfHPzRIRZrdueLOgv1M	bar|point_of_interest|establishment	43.7256433	7.2566604	True			bar
+5	Bar Le 115	ChIJbc_uW_7PzRIRQXiaAQVN_PI	restaurant|bar|food|point_of_interest|establishment	43.7152055	7.2616379	True			bar
+6	le bar arrosé	ChIJ0Y9MSvHPzRIRGlkT1eFp0ko	bar|restaurant|food|point_of_interest|establishment	43.7156027	7.259683400000001	True			bar
+7	Brasserie Nissarda	ChIJwfzESfDPzRIRUUb7CDmzElw	bar|restaurant|food|point_of_interest|establishment	43.7250579	7.255635099999999	False			bar
+8	Patoch's Family Restaurant	ChIJsVhfef7PzRIRoqa4V_Ui3dU	restaurant|bar|food|point_of_interest|establishment	43.7152412	7.2601021	True			bar
+9	Brasserie L'Union	ChIJ-SvgQf7PzRIRycJtlTwTTtQ	restaurant|bar|food|point_of_interest|establishment	43.7146296	7.261303500000001	False	2.0		bar
+10	Bang Bang	ChIJKRrQSCnPzRIRy-bEmpEV_1k	restaurant|bar|food|point_of_interest|establishment	43.7139715	7.2614204	True			bar
+11	Brasserie Borriglione	ChIJWy-_pffPzRIRjr1mMfc_NLQ	bar|restaurant|food|point_of_interest|establishment	43.7134708	7.2618312	True	2.0		bar
+12	Snack Mod S Gerard	ChIJWTkpY-PPzRIRdu0l3LkwtZU	restaurant|bar|food|point_of_interest|establishment	43.71811870000001	7.252471999999999	True	1.0		bar
+13	Boulevard De Cessole Casino	ChIJ4-7xPOPPzRIRvp8xqqLppIU	bar|point_of_interest|establishment	43.71678910000001	7.253377200000002	True			bar
+14	La Coupe d'Argent	ChIJ6cDzCajazRIRjOZYD9ia-Gc	bar|restaurant|food|point_of_interest|establishment	43.7251852	7.274684999999999	True	2.0		bar
+15	Bar Cave St Tropez	ChIJQapRS-TPzRIRkyxsBnUEegI	bar|point_of_interest|establishment	43.7209067	7.250757300000001	False			bar
+16	Jcs	ChIJWTkmvOXPzRIR4MNrFJIRbgY	bar|restaurant|food|point_of_interest|establishment	43.7218644	7.250631899999997	True			bar
+17	Le Nice Nord	ChIJzxv_vuXPzRIRCi9S9tOPPho	bar|point_of_interest|establishment	43.7220543	7.2506349	False	1.0		bar
+18	Bar du Printemps	ChIJDVhrFgLQzRIRQdiDvJhF7Xk	bar|point_of_interest|establishment	43.7122396	7.258967300000001				bar
+19	Le l'avoir	ChIJVUhDaZnRzRIR5Tmcfve1Pyc	bar|point_of_interest|establishment	43.7101794	7.262249400000001				bar
+20	Altra Casa	ChIJWe5zFAHQzRIRVX2njUiUScU	bar|point_of_interest|establishment	43.7098811	7.2614752	True	1.0	2 Pl. de la Gare du S, 06000 Nice	bar
+21	Gain'z Bar	ChIJU8MGIgPQzRIRaB4Tho_G1lw	bar|restaurant|food|point_of_interest|establishment	43.710976	7.2558932	True	1.0	12 Bd de Cessole, 06000 Nice	bar
+22	Ghionda Bar Restaurant Tabac	ChIJ7SvCD4vPzRIRiUtYRqUwqH0	restaurant|bar|food|point_of_interest|establishment	43.7340999	7.261826399999999			139 Av. de Gairaut, 06100 Nice	bar
+23	Beer district libération	ChIJUaNNN5bRzRIRxyib38fXjs4	bar|restaurant|food|point_of_interest|establishment	43.7082123	7.2613228	False	2.0	1 Pl. Philippe Randon, 06000 Nice	bar
+24	Bar Saint-Étienne	ChIJW0NI-ATQzRIRnWWS2HZeur4	bar|restaurant|food|point_of_interest|establishment	43.7067978	7.2571024	True	1.0	45 Rue Vernier, 06000 Nice	bar
+25	Vitis Cafe Bar Lounge	ChIJD2AtS6jazRIR6wjf3967Yp8	bar|point_of_interest|establishment	43.7057456	7.266919199999999	True		48 Rue Lamartine, 06000 Nice	bar
+26	Skylounge Nice Bar & Rooftop	ChIJIcQ0c6jazRIROBgCz2wH690	bar|point_of_interest|establishment	43.7037017	7.266638100000001	True		28 Avenue Notre Dame, 06000 Nice	bar
+27	Blues N' Bar	ChIJkfCHNA_QzRIREhhkbsfQQs4	bar|point_of_interest|establishment	43.70230129999999	7.259724599999999		1.0	40 Rue Berlioz, 06000 Nice	bar
+28	LE MY	ChIJDZxUy1zbzRIRf0VbxK_QY0U	bar|restaurant|food|point_of_interest|establishment	43.7014411	7.273065000000001	False		16 Rue Foncet, 06000 Nice	bar
+30	Yolo Wine Bar	ChIJr7jpO6fazRIRpp6IOR5rSwo	night_club|bar|restaurant|food|point_of_interest|establishment	43.6993006	7.2666615	False		10 Rue du Maréchal Joffre, 06000 Nice	bar
+31	L'Octave	ChIJTb-4aETbzRIRiImI-sQ1Kww	bar|restaurant|food|point_of_interest|establishment	43.7016633	7.279629399999999	False		64 Bd Risso, 06300 Nice	bar
+32	Pub Le Big Ben	ChIJwSgma6TazRIRdr4cz02ab5g	bar|restaurant|food|point_of_interest|establishment	43.69920399999999	7.2719301	False	2.0	9 Rue Alberti, 06000 Nice	bar
+33	Bar de la Victoire	ChIJ-ycIa6TazRIRbbyT_sxFvuw	bar|point_of_interest|establishment	43.699125	7.2722893	True	1.0	8 Rue Alberti, 06000 Nice	bar
+34	moon bar	ChIJ6ZHNd6TazRIRIWikj7qLKLQ	restaurant|bar|food|point_of_interest|establishment	43.6980904	7.272071699999999	False		12 Av. Félix Faure, 06000 Nice	bar
+35	Nomad Bar	ChIJXRCxbLvazRIRfDSGWy5nJJw	bar|restaurant|food|point_of_interest|establishment	43.6989823	7.277595599999999	True	1.0	3 Pl. Saint-François, 06300 Nice	bar
+36	Mori’s bar	ChIJ_7GZZArQzRIR2ephs_fOfiQ	bar|restaurant|food|point_of_interest|establishment	43.6965995	7.264732	True	2.0	5 Rue de France, 06000 Nice	bar
+37	Bazar Cafe	ChIJK8iwfArQzRIR_awOnLXhmWU	bar|point_of_interest|establishment	43.6965771	7.2646208	True		5 Rue de France, 06000 Nice	bar
+38	2.0	ChIJ5UD5RLvazRIRBB_E4N5JI0I	bar|point_of_interest|establishment	43.6984711	7.277183199999999	False	2.0	4 Rue Centrale, 06300 Nice	bar
+39	Le Jonathan's	ChIJuePAWbvazRIR1vv3IimpSPY	bar|point_of_interest|establishment	43.698061	7.276877000000001	False	1.0	1 Rue de la Loge, 06300 Nice	bar
+40	Bar Du Rocher	ChIJa4DN5wTQzRIRh9UWw_M5jwo	bar|restaurant|food|point_of_interest|establishment	43.7069236	7.2559008	True	1.0	111 Bd Gambetta, 06000 Nice	bar
+41	Bar Bagatelle	ChIJ1bjbsajazRIRnDbyBCbp3K8	bar|point_of_interest|establishment	43.7036462	7.2701789		1.0	9 Rue de Lépante, 06000 Nice	bar
+42	Eden Bar	ChIJNZI4nqXazRIRFbCqIJmT3Yc	bar|point_of_interest|establishment	43.7019753	7.2732288	True		34 Rue Tonduti de l'Escarène, 06000 Nice	bar
+43	Bar de la Machine	ChIJ_57CX6XFzRIRcwXeJbg9bjg	bar|point_of_interest|establishment	43.7140057	7.291724199999999			7 Rue Acchiardi de Saint-Léger, 06300 Nice	bar
+44	PERLONE	ChIJQ-8w1o_bzRIRlyJ-D9vKVws	bar|point_of_interest|establishment	43.701593	7.2777477	False		1 Rue Defly, 06000 Nice	bar
+45	New Pub	ChIJPUzsbArQzRIR-flsZ818fu0	bar|point_of_interest|establishment	43.697399	7.2643727			3 Rue de la Buffa, 06000 Nice	bar
+46	Le Ketje	ChIJxXXDkbfazRIRU7DEPLbXTiY	bar|point_of_interest|establishment	43.7027806	7.284970799999999	False	1.0	15 Rue Auguste Gal, 06300 Nice	bar
+47	ORNATO kitchen bar	ChIJWaVxwaPazRIRZysB6NG9y2o	bar|restaurant|food|point_of_interest|establishment	43.6968457	7.271813300000001	False	2.0	Place Massena, 54 Bd Jean Jaurès, 06300 Nice	bar
+48	Red kafé	ChIJRRFsgArQzRIR-RXj3KOaXyc	bar|point_of_interest|establishment	43.6960719	7.265101399999999	False	2.0	9 Rue Halévy, 06000 Nice	bar
+49	Groovin' Bar Nice	ChIJCdeXaaPazRIRCY-ImRQnmFw	bar|point_of_interest|establishment	43.697207	7.274587100000001	False	1.0	1 Rue du Moulin, 06300 Nice	bar
+50	L'Oxford	ChIJI8lNqLzazRIRptsTe9tuXaU	bar|point_of_interest|establishment	43.6977319	7.2765928	False	2.0	4 Rue Mascoinat, 06300 Nice	bar
+51	Diane's	ChIJE4_jRKPazRIRjDP1VmWBpmk	bar|point_of_interest|establishment	43.6973327	7.275240199999999	False	1.0	6 Rue Saint-Vincent, 06300 Nice	bar
+53	Tipsy bar	ChIJtxzxaSXbzRIR_FPGBpN6dzI	bar|restaurant|food|point_of_interest|establishment	43.697663	7.2767294	False		18 Rue Centrale, 06300 Nice	bar
+54	Pub 12	ChIJb4JDprzazRIREWsm5a3_Zdg	bar|point_of_interest|establishment	43.69769000000001	7.276866200000001	False		12 Rue Benoît Bunico, 06300 Nice	bar
+55	Tapas WILD CLUB	ChIJk7ypa6PazRIR__6T1dl0ueI	bar|point_of_interest|establishment	43.6970088	7.274531199999999	False		2 Rue de l'Abbaye, 06300 Nice	bar
+56	BrewDog Nice	ChIJyQoQ5F3bzRIR0Y_8VUvc4Js	bar|restaurant|food|point_of_interest|establishment	43.6960583	7.2693533	False	2.0	4 Av. des Phocéens, 06300 Nice	bar
+57	Bar Méditerranée	ChIJ2VGPggrQzRIRXDgnriP62QM	bar|point_of_interest|establishment	43.6956249	7.2651594	True		3 Rue Halévy, 06000 Nice	bar
+58	Chick’s Bar	ChIJzxNuixPbzRIR8aafwTtSLgs	bar|point_of_interest|establishment	43.69730819999999	7.276649300000001	True		2 Rue Rossetti, 06300 Nice	bar
+59	Wayne's Bar	ChIJEbB7FaPazRIRk5fA9r0OeiM	bar|point_of_interest|establishment	43.696766	7.274610999999998	False	2.0	15 Rue de la Préfecture, 06300 Nice	bar

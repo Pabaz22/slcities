@@ -1,0 +1,35 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Art Collection Care	ChIJhZ4wM_nPzRIRnYW2fy4H-SQ	art_gallery|point_of_interest|establishment	43.7179697	7.261688899999999	False		art_gallery
+2	Favret Anne	ChIJjcwc1f3PzRIRZduIe1ayvW4	art_gallery|point_of_interest|establishment	43.7154558	7.2583853			art_gallery
+3	Villa Arson / National Center Contemporary Art Et National School D'art	ChIJ11Bgv-TPzRIRDSLD1K94Nkc	art_gallery|point_of_interest|establishment	43.7213077	7.2530426	False		art_gallery
+6	Lignon Ludovic	ChIJC6oFKR3QzRIR2D5gKdmjB1E	art_gallery|point_of_interest|establishment	43.711355	7.2539636			art_gallery
+7	GALERIE MARTIN SAUVAGE	ChIJb9yGkwTQzRIRM96PGY9TAQs	art_gallery|point_of_interest|establishment	43.7075511	7.263895000000001	False		art_gallery
+8	Galerie EVA VAUTIER	ChIJOxPIOwfQzRIRE0bMmHaXGbY	art_gallery|book_store|museum|point_of_interest|store|establishment	43.70747650000001	7.262956299999999	False		art_gallery
+9	Espace à Vendre	ChIJJxgaDrfazRIRM1WXekR1mTg	art_gallery|point_of_interest|establishment	43.706389	7.268014000000001	False		art_gallery
+12	BLANCHARD Stéphane	ChIJr2X506jazRIROiXsSgHrE1o	art_gallery|point_of_interest|establishment	43.70515109999999	7.2703667			art_gallery
+14	Space Soardi - Art Framing	ChIJAXqv1qTazRIR95zMcuCoXb4	art_gallery|point_of_interest|store|establishment	43.705021	7.271921	False		art_gallery
+19	Quadrige	ChIJfcSo4rDazRIRQP58jyMRne4	art_gallery|point_of_interest|establishment	43.7048752	7.2794457	False		art_gallery
+20	Galerie d'art 21 Contemporary	ChIJTyB4pATbzRIRzB2j1YCP1AM	art_gallery|point_of_interest|establishment	43.7020175	7.272408899999999	False	21 Bd Dubouchage, 06000 Nice	art_gallery
+21	Galerie 32	ChIJE28hw_bbzRIRIIFjGh72D6I	art_gallery|home_goods_store|point_of_interest|store|establishment	43.7018493	7.2736816		32 Rue Tonduti de l'Escarène, 06000 Nice	art_gallery
+22	LIKES Galerie Café Culturel	ChIJjw_YmijbzRIRxHjGbeTHPE0	art_gallery|point_of_interest|establishment	43.704513	7.282631099999999		4 Rue Beaumont, 06300 Nice	art_gallery
+23	Galerie HELENBECK	ChIJnzK7vLrazRIR2gcofMrZIZM	art_gallery|book_store|point_of_interest|store|establishment	43.70208359999999	7.2772142	False	6 Rue Defly, 06000 Nice	art_gallery
+24	Galerie Jacqueline Perrin	ChIJ10w6hbrazRIR0cey4FTM2J4	art_gallery|point_of_interest|establishment	43.702086	7.278152	False	14 Av. Saint-Jean-Baptiste, 06000 Nice	art_gallery
+27	Gallery 12	ChIJZWdgWKfazRIROJ2CVt7Cecc	art_gallery|point_of_interest|establishment	43.6993667	7.2653649		12 Rue Alphonse Karr, 06000 Nice	art_gallery
+29	Le Carré D'art	ChIJ_aYiLafazRIRxQ5oa--RW8s	art_gallery|point_of_interest|establishment	43.6985475	7.2674328		Rue Joseph Brès, 06000 Nice	art_gallery
+30	YELLOWKORNER NICE 4 RUE BONAPARTE	ChIJzf2ebTjbzRIRM0WloqkOKwY	art_gallery|point_of_interest|establishment	43.7005991	7.281796399999999	False	4 Rue Bonaparte, 06300 Nice	art_gallery
+32	Galerie d'art Carré d'artistes Nice	ChIJIU1faH_bzRIRZFdb4bZGdyI	art_gallery|point_of_interest|store|establishment	43.6978418	7.266137100000001	False	22 Rue de la Liberté, 06000 Nice	art_gallery
+33	GCA Gallery - Galerie d'Art Contemporain & Street Art Nice	ChIJtXOHQcTbzRIRtpbWwEFL0Lw	art_gallery|point_of_interest|establishment	43.6992367	7.281497900000001	False	16 bis Rue Catherine Segurane, 06300 Nice	art_gallery
+34	ARTNICE Editions	ChIJC1vAZrvazRIRKD9hLzswZWw	art_gallery|point_of_interest|establishment	43.6981227	7.277698900000001	False	2 Rue Droite, 06300 Nice	art_gallery
+35	Art Gallery Lepa	ChIJ6T7FrwvQzRIRD7OfBS4oV0Q	art_gallery|point_of_interest|establishment	43.6970122	7.2620345	True	27 Rue de la Buffa, 06000 Nice	art_gallery
+38	Sylvie T.	ChIJj7YkoLzazRIREITwv2Ze0hM	art_gallery|point_of_interest|establishment	43.6976056	7.277367899999999	True	14 Rue Droite, 06300 Nice	art_gallery
+39	Galerie Ferrero	ChIJc446wgrQzRIRh1PntkyHl9U	art_gallery|point_of_interest|establishment	43.6975563	7.277266600000001	False	17 Rue Droite, 06300 Nice	art_gallery
+41	CADRE'n PLUS Art Design	ChIJH3p0caTazRIRRbzwecGxqZo	art_gallery|point_of_interest|store|establishment	43.6981742	7.2763079	False	1 Rue du Pont Vieux, 06300 Nice	art_gallery
+42	Galerie Omar Logang	ChIJqWeKQQbbzRIRT8kBNZYqANI	art_gallery|point_of_interest|establishment	43.698282	7.277243899999998		7 Rue du Collet, 06300 Nice	art_gallery
+45	MIGALE & Les Arts	ChIJVwI9oLzazRIRj8GhMBZf2-k	art_gallery|point_of_interest|establishment	43.6978499	7.2773897	False	11 Rue Droite, 06300 Nice	art_gallery
+48	Gericho Pictures	ChIJY1XD9GrbzRIRhDxj0X-z1S0	art_gallery|point_of_interest|establishment	43.6989612	7.282947300000001		16 Rue Emmanuel Philibert, 06300 Nice	art_gallery
+49	DOBERTH GALLERY / Atelier	ChIJ2T7XXbnazRIRT6vLx9Fxh_4	art_gallery|point_of_interest|establishment	43.6986177	7.282288800000001	False	Village Ségurane, 2 Rue Antoine Gautier, 06300 Nice	art_gallery
+50	galerie bernard b	ChIJifJNFbnazRIRcS6sUk2ct-0	art_gallery|point_of_interest|establishment	43.6987449	7.282792499999999	False	5 Rue Antoine Gautier, 06300 Nice	art_gallery
+51	Galerie Le Container Nice	ChIJ0cMlzxXbzRIRcA0Kl8X_DY0	art_gallery|point_of_interest|establishment	43.6988086	7.283025599999999	False	16 Rue Emmanuel Philibert, 06300 Nice	art_gallery
+52	La Quincaillerie d'Art (VENTART)	ChIJq6p6eQ7QzRIR3bVYP52bDyE	art_gallery|museum|general_contractor|point_of_interest|store|establishment	43.6987421	7.282922300000001	False	5 Rue Antoine Gautier, 06300 Nice	art_gallery
+57	l'atelier Franck Michel	ChIJJwF_XLnazRIRQrI_QpTZbUw	art_gallery|point_of_interest|establishment	43.6981794	7.2823571	False	28 Rue Catherine Segurane, 06300 Nice	art_gallery
+59	Gallery 26	ChIJVTfwDgvQzRIRGsUsfmt-Ufs	art_gallery|point_of_interest|establishment	43.69606539999999	7.261695599999999	False	26 Rue de France, 06000 Nice	art_gallery

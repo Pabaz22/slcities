@@ -1,0 +1,58 @@
+	name	place_id	price_level	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Polly and Cie	ChIJxx48vfnPzRIRTFiOUIoLigQ	1.0	restaurant|cafe|food|point_of_interest|clothing_store|store|establishment	43.7209936	7.261346400000001	True		cafe
+1	café de la station nice bd gorbella	ChIJ9wWKgyHPzRIRVEJID4VFo4A		cafe|food|point_of_interest|store|establishment	43.7172577	7.2567939			cafe
+2	BUONI Coffeeshop, expresso Bar Latte art & sandwicherie	ChIJR-g7Wf7PzRIRhDA_W9s5qLc		cafe|restaurant|food|point_of_interest|establishment	43.7153511	7.261635399999999	True		cafe
+3	Brunch Café	ChIJBzD7Q_7PzRIR_41h3-v00J8	2.0	cafe|food|point_of_interest|establishment	43.7148729	7.2616305	True		cafe
+4	Agreablement Votre	ChIJS-a5mObPzRIR30IiJAPOWkQ		cafe|food|point_of_interest|establishment	43.7199996	7.2486291	True		cafe
+5	Salon De The Tarterie	ChIJ8_JTOf7PzRIRut4lvus-OBE		cafe|food|point_of_interest|establishment	43.7139361	7.261752			cafe
+6	Delights Borriglione	ChIJZaP8CffPzRIRv24NBjMum5w	2.0	bakery|cafe|restaurant|food|point_of_interest|store|establishment	43.713719	7.261787999999997	True		cafe
+7	Au Goût Thé d'Antan	ChIJv7oMJP7PzRIRKCSavGTGfnw	1.0	restaurant|cafe|food|point_of_interest|establishment	43.7135956	7.261511	True		cafe
+8	Capsules Compatibles & Livraison de Café le jour même à Nice - Nice Coffee	ChIJJdT_BW3FzRIRqIGbJ9ijKC8		cafe|food|point_of_interest|establishment	43.7152366	7.270854199999999	True		cafe
+9	Café Maori	ChIJ7X0B3APQzRIRCbvu0ctZmfc		cafe|food|point_of_interest|store|establishment	43.7099467	7.259517400000001	True		cafe
+10	tout'ouvert	ChIJa0ODNwPQzRIRDG7gqz9Iotk		cafe|food|point_of_interest|store|establishment	43.7102094	7.255150400000002			cafe
+11	Cafe Parc Cimiez	ChIJL_clDF3FzRIR75XKnBjiCio		cafe|food|point_of_interest|establishment	43.7204563	7.276214899999999			cafe
+12	Starbucks Coffee	ChIJF8C259_RzRIR-V-5gzzS51A		bakery|cafe|restaurant|food|point_of_interest|store|establishment	43.7091194	7.2609074	False		cafe
+13	Halte de Gairaut	ChIJ6U2_HIvPzRIRVt7KEtNlkuI	2.0	cafe|bar|restaurant|food|point_of_interest|store|establishment	43.7341421	7.2618522	True		cafe
+14	Malongo Atelier Barista - Gare du Sud	ChIJWbOfa1rRzRIRZXbtZ8FMvUg		cafe|food|point_of_interest|store|establishment	43.7088416	7.260801899999998	True		cafe
+15	Bagel Corner - Bagels & Salades	ChIJGUxT2gDQzRIRGKTr0Qguy7M	2.0	bakery|cafe|restaurant|food|point_of_interest|store|establishment	43.7090226	7.262866100000001	True		cafe
+16	Coffe	ChIJ9R41UqrazRIRvD1Rt_ESeGI		cafe|food|point_of_interest|establishment	43.7099954	7.2678035	True		cafe
+17	RéKréa lib	ChIJS1UZaNDRzRIR7rTFnusWgZ0		cafe|book_store|food|point_of_interest|store|establishment	43.7092108	7.251759900000001	True		cafe
+18	French Coffee Shop	ChIJ6ZgQ8PXRzRIR8SPfClSZmrM	1.0	cafe|bakery|food|point_of_interest|store|establishment	43.7080912	7.263056200000001	True		cafe
+19	Malaussena Bistro	ChIJETe5NgfQzRIRusjuJZsO4WA		restaurant|cafe|food|point_of_interest|establishment	43.707912	7.263561500000001	True		cafe
+20	Vegas Cafe Lounge	ChIJO1EJIwTQzRIRJc-IVZSkjE8		cafe|food|point_of_interest|establishment	43.7071516	7.259366299999999	True	30 Rue Vernier, 06000 Nice	cafe
+21	Bar le Vernier	ChIJ2ZjDIATQzRIRB4DAfui-AO8		cafe|food|point_of_interest|establishment	43.707113	7.260047	True	24 Rue Vernier, 06000 Nice	cafe
+22	Atelier Alfred café	ChIJVd4DbI3RzRIRHzC7sSpWytU		cafe|food|point_of_interest|establishment	43.7071699	7.261608799999999	False	13 Rue Vernier, 06000 Nice	cafe
+24	C'est la vie café	ChIJL2y3HhzRzRIRibbdl89b7U0		cafe|food|point_of_interest|establishment	43.7068115	7.2638107	True	7 Av. Malaussena, 06000 Nice	cafe
+25	Central Cafe	ChIJl4WOpwjQzRIRhm0lh9nSx6g		cafe|food|point_of_interest|establishment	43.70366980000001	7.2606734	True	14 Av. Thiers, 06000 Nice	cafe
+27	Le Tanis Cafe	ChIJd020oQjQzRIRF9En9UWZ5eI		cafe|food|point_of_interest|establishment	43.7035054	7.261144499999999		56 Rue Gounod, 06000 Nice	cafe
+28	Malongo Atelier Barista	ChIJBePGBajazRIRV-6KZF4ea24	2.0	cafe|food|point_of_interest|establishment	43.703666	7.265853	True	39 Av. Jean Médecin, 06000 Nice	cafe
+29	HUG Café Nice	ChIJI6GG0YTbzRIRtysfdbx1C3Y		cafe|food|point_of_interest|establishment	43.7036192	7.265686199999999	True	2 Rue de Suisse, 06000 Nice	cafe
+30	Columbus Café & Co	ChIJYRVgCqjazRIRHsIYPZl_Pcg	2.0	cafe|food|point_of_interest|store|establishment	43.7033333	7.266666699999999	True	46 Av. Jean Médecin, 06000 Nice	cafe
+31	A l'Ombre du Caféier : Distributeur café à Nice	ChIJV0uQrczazRIR9d1UPipggUo		cafe|food|point_of_interest|store|establishment	43.717545	7.285435	True	10 Imp. Guidotti, 06300 Nice	cafe
+32	Le Grand Café de Lyon	ChIJeZP6wafazRIRt-b_-b8ClSo	3.0	cafe|bakery|bar|liquor_store|restaurant|food|point_of_interest|store|establishment	43.7022138	7.266710499999999	True	33 Av. Jean Médecin, 06000 Nice	cafe
+33	Urban Café	ChIJh2tC_qbazRIRHTWbV_HgIWk		cafe|restaurant|food|point_of_interest|establishment	43.70156950000001	7.2680119	True	30 Av. Jean Médecin, 06000 Nice	cafe
+34	Café de Max	ChIJBwiMpqfazRIR0BYvPykeL_4	2.0	bakery|cafe|food|point_of_interest|store|establishment	43.7011416	7.2671191	True	4 Rue Paul Déroulède, 06000 Nice	cafe
+35	Coffea, boutique de café et de thé à Nice	ChIJh2tC_qbazRIRdRcbDpzXI6I		cafe|food|point_of_interest|store|establishment	43.70124200000001	7.2681982	False	Centre Commercial Nice Etoile, 24 Av. Jean Médecin, 06000 Nice	cafe
+36	L'Impasse Cafe	ChIJn5h5mbbazRIR9pQEx6DE8sQ		cafe|food|point_of_interest|establishment	43.7065999	7.2831248		06300 Nice	cafe
+37	Simondise's Coffee	ChIJI_3u6phNV0ARkyPDRz0B7sw		cafe|food|point_of_interest|store|establishment	43.702225	7.2767245	True	14 Rue Defly, 06000 Nice	cafe
+38	Le Country Store	ChIJP7LF4bDbzRIRgqpxBoU3f2c		cafe|food|point_of_interest|store|establishment	43.6993456	7.2711025	True	43 Rue de l'Hôtel des Postes, 06000 Nice	cafe
+39	RoXoR Café	ChIJswspcu_bzRIR-_JAHlotpCs		cafe|food|point_of_interest|establishment	43.71005419999999	7.2883014	True	17 Av. François Mitterrand, 06300 Nice	cafe
+40	L'Insolite Cafe Tabac Jeux	ChIJUaoSlLTazRIRI7Ww7NmDvGE		cafe|food|point_of_interest|establishment	43.7103708	7.2825497	True	17 Av. du Maréchal Lyautey, 06000 Nice	cafe
+41	Volupté Anytime	ChIJ8WrcmAnQzRIRJtt7rqNG8Sc	2.0	cafe|restaurant|food|point_of_interest|store|establishment	43.6993777	7.2635578	True	26 Bd Victor Hugo, 06000 Nice	cafe
+42	Café Brindille	ChIJ5Tt5qKvRzRIR_hSCRtUOmxs		restaurant|cafe|food|point_of_interest|establishment	43.6989286	7.264375899999999	True	14 Rue Maccarani, 06000 Nice	cafe
+43	Fleur de Café	ChIJgUa5OafazRIRH2soPtRLPqE		cafe|food|point_of_interest|establishment	43.699163	7.266929500000001		7 Rue du Maréchal Joffre, 06000 Nice	cafe
+44	EDMOND CAFÉ breakfast brunch cakes	ChIJ_fm1H4DRzRIRDI0x8otNUCo		bakery|cafe|restaurant|food|point_of_interest|store|establishment	43.6975476	7.2627792	False	11 bis Rue du Congrès, 06000 Nice	cafe
+45	Emilie and the Cool Kids	ChIJMxTpFKTazRIRnY5hav979hw	2.0	cafe|bakery|food|point_of_interest|store|establishment	43.69920399999999	7.2719301	True	9 Rue Alberti, 06000 Nice	cafe
+46	Palette Cafés	ChIJvx8S19LbzRIReWr3acPlMjc		cafe|food|point_of_interest|store|establishment	43.7008204	7.277309000000001	True	26 Av. Saint-Jean-Baptiste, 06000 Nice	cafe
+47	cafe fino	ChIJN9o6by3bzRIRH5WEZiJf7rk		restaurant|cafe|bar|food|point_of_interest|establishment	43.6990843	7.2730679	True	39 Rue Gioffredo, 06000 Nice	cafe
+48	Café de Nice	ChIJ9b-Jl6DazRIRUfzIXKQBIyA	2.0	restaurant|cafe|food|point_of_interest|establishment	43.6974025	7.2657266	True	2 Rue Maurice Jaubert, 06000 Nice	cafe
+50	Campo Caffe	ChIJ81XTQLrazRIRBQbDtoFsuVM	2.0	cafe|bar|restaurant|food|point_of_interest|establishment	43.701528	7.2796899	True	6 Pl. Garibaldi, 06300 Nice	cafe
+51	Le Grand Café de France - restaurant à Nice	ChIJYXXOf0rRzRIRzqyJbQgxrKc		restaurant|cafe|food|point_of_interest|establishment	43.6964749	7.264158399999999	True	7 Rue de France, 06000 Nice	cafe
+52	Le Petit Café	ChIJwTdWkzrQzRIRFgBdkxSIMOk		cafe|food|point_of_interest|establishment	43.7038539	7.234147099999999	True	155 Bd de la Madeleine, 06000 Nice	cafe
+53	Caffè Vergnano 1882	ChIJlaCzfQrQzRIRLKG6Thfr2ec	2.0	cafe|food|point_of_interest|store|establishment	43.6965225	7.2650099	True	11 Rue Halévy, 06000 Nice	cafe
+54	Sapore Di Pane	ChIJgZcBhKTazRIRMqyGr_3ICpU		cafe|food|point_of_interest|establishment	43.6984225	7.2737278	True	10 Av. Félix Faure, 06000 Nice	cafe
+55	Le Café de Turin	ChIJo0rdT7razRIRn_qJeQf_HKE	2.0	cafe|restaurant|food|point_of_interest|establishment	43.7005556	7.279444400000001	True	5 Pl. Garibaldi, 06300 Nice	cafe
+56	Co-T-Café	ChIJq0dorX7RzRIRwRD6QsVbtMo		cafe|restaurant|food|point_of_interest|establishment	43.6959796	7.2605203	True	11 bis Rue Meyerbeer, 06000 Nice	cafe
+57	Cafe Frei	ChIJteMu6wzQzRIRVLNpdJ2IU_U	2.0	cafe|food|point_of_interest|establishment	43.6957551	7.258640299999999	True	52 Rue de France, 06000 Nice	cafe
+58	Il caffé dai ragazzi	ChIJVV8iYgvQzRIRLTHirLoKt9I	2.0	cafe|food|point_of_interest|establishment	43.6957139	7.259983699999998	True	57 Rue de France, 06000 Nice	cafe
+59	Piccolo Caffe	ChIJnfjeMbrazRIRAsxyd_wLczI		cafe|food|point_of_interest|establishment	43.7004124	7.280785		11 Pl. Garibaldi, 06300 Nice	cafe

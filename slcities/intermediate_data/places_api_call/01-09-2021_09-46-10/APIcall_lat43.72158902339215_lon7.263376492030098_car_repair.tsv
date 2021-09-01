@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	DEKRA Technical Inspection Center	ChIJ3Qg6i_fPzRIRoOisNBUdLK0	car_repair|point_of_interest|establishment	43.72246339999999	7.2636421	True		car_repair
+1	Franck Meca Service	ChIJs4wADfjPzRIRT8_Zl68JeCM	car_repair|point_of_interest|establishment	43.7214562	7.264768			car_repair
+2	Garage Gilly	ChIJG7E-wvjPzRIR-HjNNQFIjjw	car_repair|point_of_interest|establishment	43.7188898	7.263422199999999			car_repair
+3	Sarl Rbcl	ChIJX8D_w_jPzRIRY9na_0pw-4o	car_repair|point_of_interest|establishment	43.7186587	7.263452500000001			car_repair
+4	Garage Gilly - Top Garage	ChIJ-S4N4_jPzRIRfIAVbdza_o4	car_repair|point_of_interest|establishment	43.7186587	7.263452500000001	True		car_repair
+5	Speedy	ChIJG1m9O_nPzRIRCtfI0cg6f8E	car_repair|point_of_interest|store|establishment	43.7187679	7.2619513	True		car_repair
+6	GARAGE CITROEN SEMERIA	ChIJo1VUeVjFzRIRYmZyJ-QKlQs	car_repair|point_of_interest|establishment	43.72448800000001	7.265488800000001			car_repair
+7	Garage Blessig	ChIJo60YfFjFzRIRtUKwIpLKa1U	car_repair|point_of_interest|establishment	43.7244815	7.2656037	True		car_repair
+8	Top Auto Carrosserie	ChIJO-5AgljFzRIRKVhJp34AfZk	car_repair|point_of_interest|establishment	43.7246124	7.265512899999998	True		car_repair
+9	Caillet Jacques	ChIJS0dWQWfFzRIRLoFs2DbvHBs	car_repair|point_of_interest|establishment	43.7246153	7.265525500000001	True		car_repair
+10	BATTERIE à PLAT ? Changement & Dépannage Batterie Voiture CANNES NICE MONACO	ChIJU5mHSKbPzRIRBvbl_t2LfHY	car_repair|point_of_interest|store|establishment	43.7211832	7.258012799999999	True		car_repair
+11	Garage du Patrimoine	ChIJ0-cVm_vPzRIRlX1EiBwHcMM	car_repair|point_of_interest|establishment	43.7190856	7.2579704	True		car_repair
+12	Express Moto	ChIJA00dd_DPzRIRTUAXxiIW3Ts	car_repair|point_of_interest|clothing_store|store|establishment	43.7233627	7.256338599999999	True		car_repair
+13	Carrosserie 202	ChIJDfL4U1_FzRIRR_-6BdoNBHc	car_repair|point_of_interest|establishment	43.7274865	7.2656293			car_repair
+14	Carrosserie Automobile Niçoise	ChIJaw7nLfzPzRIRdRmMQ9_hmSk	car_repair|point_of_interest|establishment	43.7159139	7.259242799999999	True		car_repair
+15	Azur Auto	ChIJdYlKT_zPzRIR9oRGmDbAKd0	car_repair|point_of_interest|establishment	43.71624959999999	7.258222499999998			car_repair
+16	CS LUXURY DETAILING	ChIJUe9aQx3PzRIRzntVvihHo7E	car_repair|point_of_interest|establishment	43.71495069999999	7.2623659	True		car_repair
+17	Secur Pare-brise by Leader Tint Nice	ChIJKzg6DfzPzRIRnp6WVOUgCzI	car_repair|point_of_interest|establishment	43.7149313	7.262630699999998	True		car_repair
+18	Carrosserie Gilly	ChIJ4-MvfFXFzRIRUIpnPShU8Uk	car_repair|point_of_interest|establishment	43.7149452	7.2654331			car_repair
+19	chris moto	ChIJX2nTKb_PzRIRMfIUWGWq6dg	car_repair|point_of_interest|establishment	43.71453029999999	7.262360199999999	True		car_repair
+20	Saint Lambert Auto	ChIJQbZh3_3PzRIR5ifj3IswaqY	car_repair|point_of_interest|establishment	43.7146851	7.2600096	True	14 Rue Michelet, 06100 Nice	car_repair
+21	SARL CARROSSERIE DU RAY	ChIJ55R_K_DPzRIReSDuT26k8s0	car_repair|point_of_interest|establishment	43.7254349	7.254716999999999	True	55 Av. du Ray, 06100 Nice	car_repair
+22	Garage Auto Sprint	ChIJz5fyQePPzRIRcJ1JlsywncI	car_repair|point_of_interest|establishment	43.7176992	7.253473499999999		5 Av. Cagnoli, 06100 Nice	car_repair
+23	Garage Nice Nord	ChIJva19MuPPzRIRgeC8O21nfKQ	car_repair|point_of_interest|establishment	43.7165731	7.254276199999999	True	15 Av. René Boylesve, 06100 Nice	car_repair
+24	Garage Nice Cessole Mécanique Auto	ChIJLT33JuPPzRIRcUfRZ05jl1E	car_repair|point_of_interest|establishment	43.7162475	7.2536855	True	74 Bd de Cessole, 06100 Nice	car_repair
+25	Garage des Fleurs	ChIJeyyvRF7FzRIRb6RuSC9abG4	car_repair|point_of_interest|establishment	43.7301659	7.268805299999999	True	117 Av. Henry Dunant, 06100 Nice	car_repair
+26	Technic Automobile	ChIJhzk7v-XPzRIRxtyRSRiy71k	car_dealer|car_repair|point_of_interest|store|establishment	43.7219155	7.250101600000001	True	4 Av. Fanny, 06000 Nice	car_repair
+27	AD CARROSSERIE NICE NORD S GARNERO (Av DUNANT)	ChIJD6JURV_FzRIRtxQ4KvWxDnc	car_repair|point_of_interest|establishment	43.7304532	7.2696077	True	121 Av. Henry Dunant, 06100 Nice	car_repair
+28	Garage de l'autoroute.	ChIJw7oAZvLPzRIR8c8K49r-EpM	car_repair|point_of_interest|establishment	43.73007459999999	7.256077500000001		22 Bd Comte de Falicon, 06100 Nice	car_repair
+29	Tecnic Auto	ChIJWXVjdgDQzRIRvb5AXBueLCE	car_repair|point_of_interest|establishment	43.7114323	7.265063499999999	True	75 Av. Raymond Comboul, 06000 Nice	car_repair
+30	Garage Pernot	ChIJFcwu30TFzRIRwYCDB4lFMvM	car_repair|point_of_interest|establishment	43.7242863	7.2771114		13 Av. Colombo, 06000 Nice	car_repair
+31	Garage DAVER	ChIJhc_mTh3QzRIRj7hLu0fRvfU	car_repair|point_of_interest|establishment	43.7127023	7.254054799999999		14 Rue Henry de Cessole, 06100 Nice	car_repair
+32	Garage Grand	ChIJEUCpSR3QzRIR8XE23-80P4E	car_repair|point_of_interest|establishment	43.71266689999999	7.2540068		12 Rue Henry de Cessole, 06100 Nice	car_repair
+33	WS MOTORS Autodiag	ChIJ-V7gs0jFzRIRAiaupOKsfMk	car_repair|point_of_interest|establishment	43.720625	7.2818093	True	33 Bd Pasteur, 06000 Nice	car_repair
+34	Garage Perfect Auto 06 SARL	ChIJV7zTBUzFzRIRpuKohjPdgEg	car_repair|point_of_interest|establishment	43.7162059	7.2809027	True	75 Bd Pasteur, 06000 Nice	car_repair
+35	Garage Victoria Automobile - Concessionnaire Lada	ChIJIZJm0-HPzRIRCucOTsq4N3c	car_repair|point_of_interest|establishment	43.7143162	7.246533500000001		111 Av. de Pessicart, 06100 Nice	car_repair
+36	Garage Sainson	ChIJx8DickzFzRIRjH7MSViczOo	car_repair|point_of_interest|establishment	43.7152643	7.280981000000001	True	3 Av. Flores, 06000 Nice	car_repair
+37	Garage De La Mantéga	ChIJZWDYhx7QzRIRKhzBL5VNMv0	car_repair|point_of_interest|establishment	43.7124703	7.2473667	True	73 Av. de Pessicart, 06100 Nice	car_repair
+38	Mécanique Auto Dépannage	ChIJ0ZxaQKnazRIRu8Q6Jkq7Mik	car_repair|point_of_interest|establishment	43.7072619	7.2696068	True	4 Rue d'Urfé, 06000 Nice	car_repair
+39	Garage Désambrois	ChIJh7ZNO6nazRIRtDOHe4q8zaQ	car_repair|point_of_interest|establishment	43.7061133	7.2697204		31 Av. Desambrois, 06000 Nice	car_repair
+40	Garage Grinda	ChIJCzZe8vHPzRIRMWnvVDOdV3w	car_repair|point_of_interest|establishment	43.7275214	7.255775099999999	True	12 Bd Comte de Falicon, 06100 Nice	car_repair
+41	Garage Riviéra Palace	ChIJBfpgmlPFzRIRvFEZZ8zo8MQ	car_repair|point_of_interest|establishment	43.7149892	7.2706115	True	10 Av. Edith Cavell, 06100 Nice	car_repair
+42	AC AUTOS PRESTIGE - Citroën	ChIJVVVZUuTPzRIR8HvklRaHLK8	car_repair|point_of_interest|establishment	43.7208139	7.2512316	True	109 Bd de Cessole, 06100 Nice	car_repair
+43	JSC Auto	ChIJpb0SU8jazRIRI9Y3Q62o8ic	car_dealer|car_repair|point_of_interest|store|establishment	43.7161117	7.2804469	True	82 Bd Pasteur, 06000 Nice	car_repair
+44	Garage Dabray	ChIJj_N98wTQzRIR2u85-TuH4Nw	car_repair|point_of_interest|establishment	43.7074283	7.2567518		23 Rue Dabray, 06000 Nice	car_repair
+45	PRECISIUM Carrosserie AUTORAMA	ChIJ4aYEMUfFzRIRCb2Z7LqnoCI	car_repair|point_of_interest|establishment	43.7262586	7.2835375	True	53 Av. Joseph Raybaud, 06000 Nice	car_repair
+46	Garage Luthringer	ChIJv04ZBwXQzRIR_t0ydwI2qtI	car_repair|point_of_interest|establishment	43.7059919	7.2572738	True	52 Rue Trachel, 06000 Nice	car_repair
+47	Garage Jean Béhra	ChIJAQAAAOvPzRIR8PMd-i21mqg	car_repair|point_of_interest|establishment	43.7174542	7.241293	True	80 Chem. des Sablières, 06100 Nice	car_repair
+48	Garage du XV corps	ChIJcVOh27PazRIR6KINbKRfgt8	car_repair|point_of_interest|establishment	43.7077264	7.2797983	True	9 Av. de l'Arbre Inférieur, 06000 Nice	car_repair
+49	garage apollinaire	ChIJu1PYEq_azRIRbvkCqluE2Ik	car_repair|point_of_interest|establishment	43.70433389999999	7.272601	True	Rue Guillaume Appolinaire, 06000 Nice	car_repair
+50	Oumghar Mohamed	ChIJlSSEHbXazRIR_oglQvTbK3g	car_repair|point_of_interest|establishment	43.71014479999999	7.2842874	True	22 bis Bd Jean-Baptiste Vérany, 06300 Nice	car_repair
+51	Lechene Laurent Garage Expo	ChIJ77_oU7TazRIRuPPeD7QtzRs	car_repair|point_of_interest|establishment	43.7092852	7.2840372	True	16 bis Bd Jean-Baptiste Vérany, 06300 Nice	car_repair
+52	Garage Alberti	ChIJTcQN_a_azRIRutE5L6K4IvQ	car_repair|point_of_interest|establishment	43.70306919999999	7.275994700000001		1 Rue de l'Hôtel des Postes, 06000 Nice	car_repair
+53	Garage Galliéni	ChIJT0b877DazRIRL6ubN5X_DM4	car_repair|point_of_interest|establishment	43.7042043	7.279699700000001	True	38 Av. Gallieni, 06000 Nice	car_repair
+54	Garage L.B Auto	ChIJqw-4fzPFzRIRFj2watHxWB8	car_repair|point_of_interest|establishment	43.7134632	7.2923514		06300 Nice	car_repair
+55	Mécapolis Sarl	ChIJixpKx7razRIRRhlPKTunDjA	car_repair|point_of_interest|establishment	43.701388	7.277069	True	8 Rue Delille, 06000 Nice	car_repair
+56	Garage Avatacar - Répare Express	ChIJV7Q4S8vazRIRTG1SquYFC7o	car_repair|car_dealer|local_government_office|point_of_interest|store|establishment	43.7112449	7.2911571	True	57 Rue Maréchal Vauban, 06300 Nice	car_repair
+57	Garage Avatacar Nice	ChIJPZrNtDTFzRIRKgkN_whT34c	car_repair|point_of_interest|establishment	43.7112459	7.291165599999999	True	57 Rue Maréchal Vauban, 06300 Nice	car_repair
+58	Garage Roux Renault	ChIJhRn9ELfazRIRbBftR9Daklg	car_dealer|car_repair|point_of_interest|store|establishment	43.704069	7.283199999999999	True	11 Rue Smolett, 06300 Nice	car_repair
+59	Garage CENTRAUTO06 BARLA	ChIJV15fRLfazRIRCqk6WmPgkcw	car_repair|point_of_interest|store|establishment	43.7030582	7.2823828	True	5 Rue Cais de Pierlas, 06300 Nice	car_repair

@@ -1,0 +1,4 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Police Municipale Territoire Nord	ChIJaTc8W-7PzRIRIo1lUiPIG24	police|point_of_interest|establishment	43.7264865	7.252397999999999	True	police
+1	Police Municipale	ChIJA5n5GwHQzRIRozzckhDwI0I	police|point_of_interest|establishment	43.71045549999999	7.2618281		police
+2	Municipal Police - lost and found	ChIJaUuRiwTQzRIRCnJXXMRtuGY	police|point_of_interest|establishment	43.707677	7.257063899999999	True	police

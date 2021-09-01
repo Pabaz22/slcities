@@ -1,0 +1,19 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Médical Esthétic Alizé	ChIJAQDw--XPzRIRLsRCQYdDb1s	hospital|health|point_of_interest|establishment	43.7231405	7.249482899999999		hospital
+1	Franceperf	ChIJiaPADWHPzRIRiVB1UHemD1o	hospital|health|point_of_interest|establishment	43.7305923	7.249398599999999	True	hospital
+2	Hospital Center Universitaire De Nice	ChIJcWSiJ1fFzRIRskgJzYufKU0	hospital|health|point_of_interest|establishment	43.71987300000001	7.269867899999998		hospital
+3	Centre Paramédical	ChIJy-2gUlfRzRIRhK-DQRHTtsw	hospital|health|point_of_interest|establishment	43.7102033	7.256456799999998		hospital
+4	Hospital Center Regional	ChIJF6-VlFDFzRIRLSouG_qTVDo	hospital|health|point_of_interest|establishment	43.7209142	7.2722946		hospital
+5	Sarah Berdu	ChIJpeuk1xXRzRIRza-Atq5c8Yg	hospital|health|point_of_interest|establishment	43.7101728	7.261953200000002		hospital
+6	Hospitals	ChIJ3wgDfbbRzRIRk23u5CEN2iM	hospital|health|point_of_interest|establishment	43.7101728	7.261953200000002		hospital
+7	Flag Grand Hotel	ChIJ56JhhFDFzRIRhN1gs7uC_7E	hospital|health|point_of_interest|establishment	43.7215459	7.272491600000001		hospital
+8	Ballon Gastrique Nice Elipse	ChIJES7veODFzRIRuSxhAN6FoIQ	hospital|health|point_of_interest|establishment	43.72236360000001	7.2725142	True	hospital
+9	Cimiez Hospital	ChIJF6-VlFDFzRIR27S-IIuP9Y8	hospital|health|point_of_interest|establishment	43.7212062	7.273304899999999	True	hospital
+10	Cryo Regina	ChIJmeV6HVHFzRIRSjujqQ0AVFo	hospital|health|point_of_interest|establishment	43.7201888	7.273272999999999	True	hospital
+11	Hospital Center Universitaire De Nice	ChIJSRdhfAPFzRIRvuL15xGcocA	hospital|health|point_of_interest|establishment	43.7209925	7.273405100000001		hospital
+12	Centre Regina	ChIJ84TgE1HFzRIRpVyVQlWSor4	hospital|doctor|health|point_of_interest|establishment	43.7201514	7.274272600000001	True	hospital
+13	Dr Antonin Leclercq	ChIJH-tRtR3bzRIRgWWD03Ytsbo	doctor|hospital|health|point_of_interest|establishment	43.7093915	7.264914	False	hospital
+14	Dr Micheline Clavé Centre De Cryolipolyse Et Dermatologie Esthétique À Nice	ChIJpYr_KVvFzRIRAroZJqWnqeI	hospital|health|point_of_interest|establishment	43.7241921	7.2757387		hospital
+15	MiraDry - Miradry : traitement transpiration aisselles	ChIJI4PsCxnFzRIR4T7JCuYsE4g	hospital|health|point_of_interest|establishment	43.7163297	7.2748747	True	hospital
+16	Csapa Malaussena	ChIJTbRNQQfQzRIRMBMZHiAHL_c	hospital|health|point_of_interest|establishment	43.70726239999999	7.264042499999999	True	hospital
+17	Foundation Père Favron	ChIJHZOmX13FzRIRZodqBlDmZbA	hospital|health|point_of_interest|establishment	43.7312908	7.2748795		hospital

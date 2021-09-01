@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	P2TAC	ChIJUf7Bx5LPzRIRtIMTIl_bAEs	car_rental|point_of_interest|establishment	43.7197216	7.262331899999998	True		car_rental
+1	Carrefour Location	ChIJ-5-YnvrPzRIRc6JHskuAKFI	car_rental|point_of_interest|store|establishment	43.7234916	7.2551164	True		car_rental
+2	speed travel	ChIJXYldixXPzRIRLYEQKuYsAOE	car_rental|point_of_interest|establishment	43.7165143	7.253844099999998	True		car_rental
+3	Belage Service Nice	ChIJ31JHfePPzRIRFilb2-poC_E	car_rental|point_of_interest|establishment	43.71831089999999	7.252384200000001	True		car_rental
+4	Hertz - Aéroport Nice Côte d'Azur	ChIJmZUG3BnRzRIR6rm07znW23g	car_rental|point_of_interest|establishment	43.7102227	7.2614902	True		car_rental
+5	Location de voiture	ChIJ-QT0d0fRzRIRYkXKk6p84bE	car_rental|point_of_interest|establishment	43.7101728	7.261953200000002			car_rental
+6	Selectour - Bleu Voyages	ChIJNSGubwHQzRIRFGGx0gaQQ0k	travel_agency|car_rental|real_estate_agency|point_of_interest|establishment	43.71029419999999	7.260673299999999	False		car_rental
+7	MY DRIVER NICE - VTC NICE	ChIJ_QZGtMLPzRIRij2YChcFZGc	car_rental|taxi_stand|local_government_office|point_of_interest|establishment	43.7303644	7.252835399999999	True		car_rental
+8	BUGGY LIFESTYLE TRIP	ChIJbZrrR1rFzRIRd14uLAY42vM	car_rental|point_of_interest|establishment	43.7326437	7.2723349			car_rental
+9	2CVLOC- LOCATION 2CV Événements, Mariages, Tours Scéniques	ChIJE6rKfabazRIRp0EykiPboGc	car_rental|travel_agency|point_of_interest|establishment	43.70787240000001	7.260017800000001	True		car_rental
+10	Rétro Style French Riviera	ChIJjRWNkAbQzRIRMlUK_dssteE	car_rental|point_of_interest|establishment	43.70691	7.260971600000002	True		car_rental
+11	Carrefour Location	ChIJj3c8Z3_RzRIR4-tNUkw41A0	car_rental|point_of_interest|store|establishment	43.71126900000001	7.248410000000002	True		car_rental
+12	Ludo's Travel	ChIJA0-T0qnazRIRRHc1trgHkgw	car_rental|travel_agency|point_of_interest|establishment	43.705737	7.265770499999999	True		car_rental
+13	Locauto	ChIJz3WkswXQzRIRjx6AZ5LAp4Y	car_rental|point_of_interest|establishment	43.7060706	7.258099799999999			car_rental
+14	Oui Voitures Gare de Nice Ville	ChIJiXzJwtjRzRIRQcyrpskES8s	car_rental|point_of_interest|establishment	43.7048774	7.2629402	True		car_rental
+15	Virtuo | Location de Voiture - Nice Gare	ChIJW5pRR7_RzRIRHPeZf0XM6Hk	car_rental|point_of_interest|establishment	43.7046709	7.261745599999999	True		car_rental
+16	A.j Luxury	ChIJIxrIvkDFzRIRgRqTgKJhnKY	car_rental|point_of_interest|establishment	43.7269172	7.285828400000001			car_rental
+17	Carrefour Location	ChIJOzU5LyrbzRIRHs3z6bdBxws	car_rental|point_of_interest|store|establishment	43.7051872	7.2707627	True		car_rental
+18	France CARS - Nice	ChIJ93reagXQzRIR0mFS0H_8ewk	car_rental|point_of_interest|establishment	43.7051323	7.255933299999998	False		car_rental
+19	Europcar Nice Gare	ChIJ0WgwHgbQzRIRCUpqvzFHa8U	car_rental|point_of_interest|establishment	43.70424389999999	7.261724600000001	True		car_rental
+20	Hertz	ChIJ04mGZKDazRIR-_tx6ponUZ8	car_rental|point_of_interest|establishment	43.7040608	7.2612028	True	12 Av. Thiers, 06008 Nice	car_rental
+21	Thrifty Car Rental (Nice Gare)	ChIJnfu2MAbQzRIR0m55QY2Dlig	car_rental|point_of_interest|establishment	43.7040233	7.2611934	True	06000 Nice	car_rental
+22	Avis Location Voiture Nice Gare	ChIJ-8Fg_APQzRIRLJygKn2DLM4	car_rental|point_of_interest|establishment	43.7039757	7.261124700000001	True	Nice Gare Parking Gare Thiers 6eme Etage, Av. Thiers, 06000 Nice	car_rental
+23	Avis	ChIJ6aUVOAbQzRIR_UzGd2xF7aU	car_rental|point_of_interest|establishment	43.7039256	7.2613316	True	Av. Thiers, 06000 Nice	car_rental
+24	ADA | Location voiture et utilitaire Nice Gare	ChIJ4Xbi6gfQzRIRTX3DgS9ezzQ	car_rental|point_of_interest|establishment	43.7038646	7.261839900000001	True	23 Rue de Belgique, 06000 Nice	car_rental
+25	Sixt Nice Gare	ChIJ-wp0vgfQzRIRH7rqX1e0Rjs	car_rental|point_of_interest|establishment	43.7038558	7.2611162	True	12 Av. Thiers, 06000 Nice	car_rental
+26	Rent A Car	ChIJXX_yJgbQzRIRWrrgtKY-xIA	car_rental|point_of_interest|establishment	43.70377879999999	7.261812300000001	True	38 Av. Auber, 06000 Nice	car_rental
+27	Budget Location Voiture	ChIJOx0mDgfRzRIRJyGDF_dfR6U	car_rental|point_of_interest|establishment	43.703643	7.2611288	True	Gare Sncf, Av. Thiers, 06000 Nice	car_rental
+28	Alamo Rent A Car - Gare de Nice-Ville	ChIJLe3MggjQzRIRyAOna4Afoyk	car_rental|point_of_interest|establishment	43.70358179999999	7.2618341	True	34 Av. Auber, 06000 Nice	car_rental
+29	Enterprise Location de voiture - Gare de Nice-Ville	ChIJSysPogfQzRIR6El60T17b2w	car_rental|point_of_interest|establishment	43.7035164	7.261898500000001	True	34 Av. Auber, 06000 Nice	car_rental
+30	Tripndrive	ChIJW3H9qAjQzRIRCS2_ZI57Lk0	car_rental|point_of_interest|establishment	43.7035352	7.260400899999999	True	14 Av. Thiers, 06000 Nice	car_rental
+31	Truche Location Voiture Nice Ville	ChIJI2F2A_3bzRIR_GYxAeKRUXE	car_rental|point_of_interest|establishment	43.7017625	7.269368	True	6bis Rue Lamartine, 06000 Nice	car_rental
+32	Lutam Exception	ChIJnW66_wnQzRIRajVSlM9oWJY	car_rental|point_of_interest|establishment	43.6986529	7.2655808	True	8 Rue Grimaldi, 06000 Nice	car_rental
+33	Hertz - Nice - Avenue Gustave V De Suede	ChIJVXxGh6DazRIRyK2pCzHr0Ps	car_rental|point_of_interest|establishment	43.6962237	7.2660531	True	9 Avenue Gustave V de Suede, 06000 Nice	car_rental
+34	EURLI RENT NICE	ChIJf3S9iwrQzRIRjJwzX7HKd5E	car_rental|point_of_interest|establishment	43.6957535	7.2640377	True	9 Rue Massenet, 06000 Nice	car_rental
+35	Avis Location Voiture	ChIJLwrqcKHazRIRUAO293vYGyA	car_rental|point_of_interest|establishment	43.69614199999999	7.269645	False	Place Massena, 2 Av. des Phocéens, 06300 Nice	car_rental
+36	Budget Location Voiture	ChIJ6TZ-oKHazRIR8vwWZteHAck	car_rental|point_of_interest|establishment	43.696127	7.269608	False	Place Massena, 2 Av. des Phocéens, 06300 Nice	car_rental
+37	Elite Rent-a-car	ChIJHcLsHRDQzRIRhUpiZjC3w8Q	car_rental|point_of_interest|establishment	43.6956436	7.2641888	True	9 Rue Massenet, 06000 Nice	car_rental
+38	ADA I Location voiture et utilitaire Nice	ChIJ_VTDQQvQzRIRjoC_q72TXaQ	car_rental|point_of_interest|establishment	43.6956128	7.2660179	True	3 Av. Gustave V, 06000 Nice	car_rental
+39	Europcar	ChIJT3hJZaDazRIRFSEiUY-EMWA	car_rental|point_of_interest|establishment	43.6956126	7.266018		3 Av. Gustave V, 06000 Nice	car_rental
+40	National Car Rental - Gare de Nice-Ville	ChIJNXt9HQbQzRIRUAinPN_uExI	car_rental|point_of_interest|establishment	43.7035081	7.261872100000001	True	34 Av. Auber, 06000 Nice	car_rental
+41	Réseau Alliance	ChIJU7sbQKbazRIReDj_goTVT1c	car_rental|point_of_interest|establishment	43.7019057	7.269304199999999		6 BIS Rue Lamartine, 06000 Nice	car_rental
+42	Bookyourtesla	ChIJV9td5xbbzRIR5d2ZI6TKgtI	car_rental|point_of_interest|establishment	43.707042	7.2839285		1 Rue Léotardi, 06300 Nice	car_rental
+43	Thrifty	ChIJxfv5kqbazRIR1UM5Etckxdw	car_rental|point_of_interest|establishment	43.6962787	7.2659993	True	9 Av. Gustave V, 06000 Nice	car_rental
+44	Enterprise Rent a car	ChIJ1fSIw5jbzRIR4TCts-pX3E0	car_rental|point_of_interest|establishment	43.6956126	7.266018		3 Av. Gustave V, 06000 Nice	car_rental
+45	Sixt location voiture Nice	ChIJuT_1ZKDazRIRJ8EOzjyVpsE	car_rental|point_of_interest|establishment	43.695447	7.265972799999999	True	3 Av. Gustave V, 06000 Nice	car_rental
+46	Rent A Car	ChIJnxP_0b7azRIR0McSBuHQeXU	car_rental|point_of_interest|establishment	43.69723	7.283388	True	10 Quai Papacino, 06300 Nice	car_rental
+47	ADA I Location voiture Nice Port libre-service 24/7	ChIJb63uSdHbzRIRYwTCDi1dF5g	car_rental|point_of_interest|establishment	43.6935511	7.282259100000001	True	Place Guynemer Parking du Phare, 06300 Nice	car_rental
+48	Mehariviera	ChIJ0wDaKPPRzRIRX7GJgIRKT_U	car_rental|point_of_interest|establishment	43.6934364	7.241985499999999	True	13 Bd Carlone, 06200 Nice	car_rental
+49	Wizyrent	ChIJuY5TGAPFzRIRY25e74TvQ0E	car_rental|point_of_interest|establishment	43.7402786	7.304899699999999		13 Chem. du Cimetière de l'Est, 06300 Nice	car_rental
+50	Clic and Car Location	ChIJQ4IpDljFzRIR3oVvcbWMgfo	car_rental|point_of_interest|establishment	43.7453992	7.3142339	True	ZA ANATOLE FRANCE Impasse numéro 2, 06340 La Trinité	car_rental
+51	Akka Limousine	ChIJZ1tIHCbQzRIRwdubDR1E76c	car_rental|point_of_interest|establishment	43.6804613	7.228398200000001		13 Chem. du Lamparo, 06200 Nice	car_rental
+52	Rental Car Company	ChIJ__8QJzfbzRIRO7Ck-4KAHzk	car_rental|point_of_interest|establishment	43.7018304	7.325549799999999	True	1330 Bd Napoléon III, 06230 Villefranche-sur-Mer	car_rental
+53	ADA | Location voiture et utilitaire Beaulieu sur Mer	ChIJka62oTXbzRIRoqSUieyzV7Y	car_rental|point_of_interest|establishment	43.7067505	7.3310816	True	Gare de Beaulieu, 06310 Beaulieu-sur-Mer	car_rental
+54	Rent A Car	ChIJJ6aa5YUui0cRt2_dYTCtGCk	car_rental|point_of_interest|establishment	43.7520088	7.320308900000001	True	23 Av. Jean Moulin, 06340 Drap	car_rental
+55	ADA | Location voiture et utilitaire Nice Ouest	ChIJDyo_eKrRzRIRl7mxu0EYt5k	car_rental|point_of_interest|establishment	43.6782	7.218910600000001	True	155 Bd Napoléon III, 06200 Nice	car_rental
+56	Carrefour Location	ChIJe_wqC6XPzRIRnMS7BQIWi8k	car_rental|point_of_interest|establishment	43.7277961	7.188568999999999	True	Centre Commercial Lingostière route De Digne, 06200 Nice	car_rental
+57	Enterprise Rent-A-Car - Nice Ouest	ChIJLxYf7qzOzRIR_c9YDWs53Ek	car_rental|point_of_interest|establishment	43.6943657	7.1979703	True	161 Av. Simone Veil, 06200 Nice	car_rental
+58	Hertz - Nice La Plaine Za	ChIJ05essKLRzRIRvsOb5GmZHh8	car_rental|point_of_interest|establishment	43.6894657	7.200252099999999	True	119 Av. Simone Veil, 06200 Nice	car_rental
+59	Hertz - Nice-Nice Hertz Ride - Motorbikes Only	ChIJI4MN55fRzRIRMIFAaAdiB2Q	car_rental|point_of_interest|establishment	43.6895662	7.2001151	True	199 Av. Simone Veil, 06200 Nice	car_rental

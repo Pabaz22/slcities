@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Clementine Caillol	ChIJqykDAyTPzRIR7X2D9blCrSE	doctor|health|point_of_interest|establishment	43.7223187	7.255382200000001	True		doctor
+1	Ivan SASSO-GOURDON	ChIJyQ6F5xjPzRIRWkD9-B76-2o	doctor|health|point_of_interest|establishment	43.7223187	7.255382200000001	True		doctor
+2	Docteur Maud Castelli-Prieto	ChIJ5bRP3MLPzRIRgplNCPLimcM	doctor|health|point_of_interest|establishment	43.7207446	7.255920299999998			doctor
+3	Butori Paul-Jean	ChIJURnQmfrPzRIRxgx74ufuvoE	doctor|health|point_of_interest|establishment	43.7225001	7.256078599999999			doctor
+4	Ducreux Dorothée	ChIJQ0k67PrPzRIRZbsX28Udtd0	doctor|health|point_of_interest|establishment	43.7225001	7.256078599999999			doctor
+5	Cavalié Bernard	ChIJQ0k67PrPzRIRm6m5PscMpBQ	doctor|health|point_of_interest|establishment	43.7225318	7.256073999999999			doctor
+6	Centre d'Imagerie Médicale - AzuRadiologie Gorbella	ChIJ70g67PrPzRIRU3pw1Nfy_uQ	doctor|health|point_of_interest|establishment	43.72259589999999	7.255970899999999	True		doctor
+7	Laboratoire de Prothèses Dentaires Martini Eugène	ChIJWa1eJfvPzRIRBRELmvMlfFI	doctor|health|point_of_interest|establishment	43.7203294	7.255045099999999			doctor
+8	Docteurs Herve et Cedric Jolly	ChIJifoS_frPzRIRMm58IJ8ZWuM	doctor|health|point_of_interest|establishment	43.7208924	7.2567307	True		doctor
+9	Riviera Feet	ChIJr5QZwA_QzRIRPo4IYWWCWI8	shoe_store|doctor|health|point_of_interest|store|establishment	43.7205892	7.256815	True		doctor
+10	Denner Jacques	ChIJJaJt_frPzRIRXRKC7UHdc8A	doctor|health|point_of_interest|establishment	43.7205892	7.256815			doctor
+11	Chauvet-Duchateau Christine	ChIJtwViBPvPzRIRZiF23wUdpLM	doctor|health|point_of_interest|establishment	43.7203457	7.2568563	False		doctor
+12	Nguyen-Van Minh	ChIJHcqEBfvPzRIRiDAIKHxw14I	doctor|health|point_of_interest|establishment	43.7201893	7.256890299999999			doctor
+13	Dr Anne-Marie ZACCONI-CAUVIN	ChIJyTlZcvvPzRIRduXt74jnL-o	doctor|health|point_of_interest|establishment	43.7194143	7.2563133	True		doctor
+14	Cauvin Patrick	ChIJyTlZcvvPzRIR0jGkTwS2Eto	doctor|health|point_of_interest|establishment	43.7194007	7.2563582			doctor
+15	N'Guyen Van Dung	ChIJyTlZcvvPzRIRdRVtEAb_vEc	doctor|health|point_of_interest|establishment	43.7194007	7.2563582			doctor
+16	Dr Alexandre scu	ChIJFYPGCRvPzRIRROtyv5dM65I	doctor|health|point_of_interest|establishment	43.7203668	7.251821499999999			doctor
+17	Clémentine CAILLOL	ChIJZVrtxQTPzRIRHNNyR_A1NCw	doctor|health|point_of_interest|establishment	43.7214588	7.2513369	False		doctor
+18	Ivan SASSO-GOURDON	ChIJVVUFr-XPzRIRSZzbzlkPbNI	doctor|health|point_of_interest|establishment	43.7214581	7.251308599999999	True		doctor
+19	GOBBO Orthopédie	ChIJ2Xz1pErPzRIRrJS1v9i6mEw	shoe_store|doctor|health|point_of_interest|store|establishment	43.719832	7.2520322	False		doctor
+20	Meimoun Claude	ChIJj7x_u-XPzRIRnrIHht3vCZM	doctor|health|point_of_interest|establishment	43.7219031	7.251052		140 Bd de Cessole, 06100 Nice	doctor
+21	Cabinet Médical et Paramédical de Nice Nord	ChIJA48kXOTPzRIRClUr8-K1_tk	doctor|health|point_of_interest|establishment	43.71943720000001	7.2515749	True	93 Av. Cyrille Besset, 06100 Nice	doctor
+22	Mascarello Alain	ChIJA48kXOTPzRIRh-hSnAgs5aw	doctor|health|point_of_interest|establishment	43.71943720000001	7.2515749	True	93 Av. Cyrille Besset, 06100 Nice	doctor
+23	Stoïtchkov Ivo	ChIJj2ypE7oIyRIRHK6Wcnpi67c	doctor|health|point_of_interest|establishment	43.7185431	7.2526853	True	98 Bd de Cessole, 06100 Nice	doctor
+24	Olivesi Rémy	ChIJKRMpY-PPzRIRHc77RdR2QOc	doctor|health|point_of_interest|establishment	43.7183464	7.252263999999999		85 Bd de Cessole, 06100 Nice	doctor
+25	Docteur DYBAL Jean-Luc	ChIJmdRIiPzPzRIRxQT6XAy3YxY	doctor|health|point_of_interest|establishment	43.7176443	7.257176899999999	True	8 Bd Gorbella, 06100 Nice	doctor
+26	Dr Abbyad Richard	ChIJbWiswPzPzRIRTRLmMPxHk9M	doctor|health|point_of_interest|establishment	43.7171047	7.2554968	True	54 Av. Cyrille Besset, 06100 Nice	doctor
+27	Santoul Karine et Jérôme	ChIJL2X6wfzPzRIRqdnkTJWRJrQ	doctor|health|point_of_interest|establishment	43.7170096	7.255719399999999	True	52 Av. Cyrille Besset, 06100 Nice	doctor
+28	Kouji Christiane	ChIJ0_MpSO_PzRIRjGBEXEE7tWs	doctor|health|point_of_interest|establishment	43.7245646	7.2498621	False	166 Bd de Cessole, 06100 Nice	doctor
+29	Benkemoun Jean-Patrick	ChIJrfn8Se_PzRIRP6zBHouOfyg	doctor|health|point_of_interest|establishment	43.7246336	7.2494757	False	153 Bd de Cessole, 06100 Nice	doctor
+30	Nguyen Huy Phan Elisabeth	ChIJkQuYp_nPzRIRifocOtxnUQs	doctor|health|point_of_interest|establishment	43.7202593	7.2618955		1 Av. du Ray, 06100 Nice	doctor
+31	Ceruti Hugues	ChIJdw7UOfzPzRIRzwQSP0sTbXQ	doctor|health|point_of_interest|establishment	43.716547	7.2581913		32 Av. Cyrille Besset, 06100 Nice	doctor
+32	Bezzina Rémy	ChIJQRwLb_LPzRIRvpFV7Web2dU	doctor|health|point_of_interest|establishment	43.7271495	7.255824699999999		8 Bd Comte de Falicon, 06100 Nice	doctor
+33	Mourgues Mathilde	ChIJlxIrUfjPzRIR6Nwr-te1_Nk	doctor|health|point_of_interest|establishment	43.7203202	7.2631961		6 Av. Henry Dunant, 06000 Nice	doctor
+34	Montagne Michel	ChIJO29z_PjPzRIRt0I2mB7rI5Y	doctor|health|point_of_interest|establishment	43.7200828	7.263156599999999		2 Av. Henry Dunant, 06000 Nice	doctor
+35	Dr Henry Chan	ChIJ07uLw-jPzRIR3kFpnssUPT4	doctor|health|point_of_interest|establishment	43.7254477	7.248410499999999	True	30 Av. de Saint-Sylvestre, 06100 Nice	doctor
+36	Dr Mathieu Chabrier	ChIJQTxwxOjPzRIRwbgDAvhYbGY	doctor|health|point_of_interest|establishment	43.7254217	7.248327100000001	True	32 Av. de Saint-Sylvestre, 06100 Nice	doctor
+37	Duretz Jacques	ChIJ2wv9vvjPzRIRUop9Kxq-HSY	doctor|health|point_of_interest|establishment	43.7188392	7.2641268		23 Av. Daviot, 06100 Nice	doctor
+38	Allegrini Philippe	ChIJNyvHgVjFzRIRWozvm9Tajl0	doctor|health|point_of_interest|establishment	43.7247855	7.2651685		1 Av. Alfred de Vigny, 06100 Nice	doctor
+39	Dr Corinne Chapuis - Sicard - Médecin généraliste	ChIJfVRsHDDFzRIRk_Y8QLuUR3k	doctor|health|point_of_interest|establishment	43.7249801	7.265317199999999		1 Av. Alfred de Vigny, 06100 Nice	doctor
+40	Mazigh-Benattar Monica	ChIJj7x_u-XPzRIR0qyExk5dK9U	doctor|health|point_of_interest|establishment	43.7221699	7.250879999999999		142 Bd de Cessole, 06100 Nice	doctor
+41	Barouch Francine	ChIJ______7PzRIRBfXS8csTbyk	doctor|health|point_of_interest|establishment	43.7159244	7.255413		10-12 Av. François Bottau, 06100 Nice	doctor
+42	Docteur Mouchel Claire	ChIJT-TELunPzRIRT7vegJ9G43s	doctor|health|point_of_interest|establishment	43.7261986	7.248752499999999	True	6 Av. de la Vallière, 06100 Nice	doctor
+43	Tiboni Louis	ChIJbUOatwLQzRIRKDm-gzhl-p4	doctor|health|point_of_interest|establishment	43.7125724	7.2551213	False	27 Bd de Cessole, 06000 Nice	doctor
+44	Dr Michael Halioua	ChIJkf9KpQHQzRIRHnsgFAbFOZ0	doctor|health|point_of_interest|establishment	43.712335	7.261854899999999	True	16 B Av. Alfred Borriglione, 06000 Nice	doctor
+45	Docteur Colomb Véronique	ChIJk1n0nPrPzRIRhYGwh7NH_og	doctor|health|point_of_interest|establishment	43.711601	7.262749		7 Av. Romain Rolland, 06100 Nice	doctor
+46	Eymery Alain et Raybaud Michel S.C.M	ChIJZW0S2QPQzRIRNxAXn_iK1pg	doctor|health|point_of_interest|establishment	43.7102303	7.259539899999999		16 Bd Joseph Garnier, 06000 Nice	doctor
+47	Dr Léonardi Dominique	ChIJh3msaQPQzRIRPgvade25OAY	doctor|health|point_of_interest|establishment	43.7096465	7.2557708		147 Bd Gambetta, 06000 Nice	doctor
+48	Becle Frederic	ChIJyWFdvgPQzRIRlYKXS98jC40	doctor|health|point_of_interest|establishment	43.7096232	7.2567939		34 Bd Joseph Garnier, 06000 Nice	doctor
+49	Dre Nathalie Luquet	ChIJg_LdE1HFzRIRRUzFojfPsZE	doctor|health|point_of_interest|establishment	43.7188463	7.271809600000001		1 Av. Reine Victoria, 06000 Nice	doctor
+50	Delhaye Dominique	ChIJXSXdgRvQzRIRpFdJNiIsV8s	doctor|health|point_of_interest|establishment	43.7088297	7.2517516	True	2 Av. du Bois de Cythère, 06000 Nice	doctor
+51	Dr Julia Razafindramora	ChIJJ4GCGqzRzRIRaGBozCK1o7k	doctor|health|point_of_interest|establishment	43.7088219	7.251801499999999	False	2 Av. du Bois de Cythère, 06000 Nice	doctor
+52	Guillamet Alain	ChIJ49SPmATQzRIRCLTA8hWUOio	doctor|health|point_of_interest|establishment	43.7084628	7.2556632		139 Bd Gambetta, 06000 Nice	doctor
+53	Dr Jean-Philippe Christ	ChIJgcJx7BvQzRIReAH6oj95Xug	doctor|health|point_of_interest|establishment	43.7087385	7.251084100000001		2 Av. du Bois de Cythère, 06000 Nice	doctor
+54	Amsellem Joëlle	ChIJwdr4jwTQzRIRw9K5AVez83s	doctor|health|point_of_interest|establishment	43.7081701	7.256590600000001		48 Rue Clément Roassal, 06000 Nice	doctor
+55	Dr Jean Pierre Morand	ChIJ84PLn1PFzRIRe57lUhCkDzw	doctor|health|point_of_interest|establishment	43.7147297	7.2716056		39 Ter Bd de Cimiez, 06000 Nice	doctor
+56	Dr Antonin Leclercq	ChIJH-tRtR3bzRIRgWWD03Ytsbo	doctor|hospital|health|point_of_interest|establishment	43.7093915	7.264914	False	41 Av. Raymond Comboul, 06000 Nice	doctor
+57	Juliani Didier	ChIJ538sPFvFzRIRZjHAzIFYavw	doctor|health|point_of_interest|establishment	43.7248896	7.274369600000001		51 Av. Reine Victoria, 06100 Nice	doctor
+58	Docteur Valérie Le Fèvre	ChIJVVVlK0XFzRIRlwR2xL9Zukc	doctor|health|point_of_interest|establishment	43.723897	7.276202499999999	True	20 Av. de Flirey, 06000 Nice	doctor
+59	Amsellem Gabriel	ChIJkVjX1AXQzRIRWb8dE7odOwk	doctor|health|point_of_interest|establishment	43.7062019	7.2593435		34 Rue Trachel, 06000 Nice	doctor

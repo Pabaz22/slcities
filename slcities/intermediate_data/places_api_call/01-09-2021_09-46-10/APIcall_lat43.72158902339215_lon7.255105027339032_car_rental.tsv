@@ -1,0 +1,19 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Carrefour Location	ChIJ-5-YnvrPzRIRc6JHskuAKFI	car_rental|point_of_interest|store|establishment	43.7234916	7.2551164	True	car_rental
+1	Belage Service Nice	ChIJ31JHfePPzRIRFilb2-poC_E	car_rental|point_of_interest|establishment	43.71831089999999	7.252384200000001	True	car_rental
+2	speed travel	ChIJXYldixXPzRIRLYEQKuYsAOE	car_rental|point_of_interest|establishment	43.7165143	7.253844099999998	True	car_rental
+3	P2TAC	ChIJUf7Bx5LPzRIRtIMTIl_bAEs	car_rental|point_of_interest|establishment	43.7197216	7.262331899999998	True	car_rental
+4	MY DRIVER NICE - VTC NICE	ChIJ_QZGtMLPzRIRij2YChcFZGc	car_rental|taxi_stand|local_government_office|point_of_interest|establishment	43.7303644	7.252835399999999	True	car_rental
+5	Carrefour Location	ChIJj3c8Z3_RzRIR4-tNUkw41A0	car_rental|point_of_interest|store|establishment	43.71126900000001	7.248410000000002	True	car_rental
+6	Selectour - Bleu Voyages	ChIJNSGubwHQzRIRFGGx0gaQQ0k	travel_agency|car_rental|real_estate_agency|point_of_interest|establishment	43.71029419999999	7.260673299999999	False	car_rental
+7	Hertz - Aéroport Nice Côte d'Azur	ChIJmZUG3BnRzRIR6rm07znW23g	car_rental|point_of_interest|establishment	43.7102227	7.2614902	True	car_rental
+8	Location de voiture	ChIJ-QT0d0fRzRIRYkXKk6p84bE	car_rental|point_of_interest|establishment	43.7101728	7.261953200000002		car_rental
+9	2CVLOC- LOCATION 2CV Événements, Mariages, Tours Scéniques	ChIJE6rKfabazRIRp0EykiPboGc	car_rental|travel_agency|point_of_interest|establishment	43.70787240000001	7.260017800000001	True	car_rental
+10	Rétro Style French Riviera	ChIJjRWNkAbQzRIRMlUK_dssteE	car_rental|point_of_interest|establishment	43.70691	7.260971600000002	True	car_rental
+11	Locauto	ChIJz3WkswXQzRIRjx6AZ5LAp4Y	car_rental|point_of_interest|establishment	43.7060706	7.258099799999999		car_rental
+12	France CARS - Nice	ChIJ93reagXQzRIR0mFS0H_8ewk	car_rental|point_of_interest|establishment	43.7051323	7.255933299999998	False	car_rental
+13	BUGGY LIFESTYLE TRIP	ChIJbZrrR1rFzRIRd14uLAY42vM	car_rental|point_of_interest|establishment	43.7326437	7.2723349		car_rental
+14	Virtuo | Location de Voiture - Nice Gare	ChIJW5pRR7_RzRIRHPeZf0XM6Hk	car_rental|point_of_interest|establishment	43.7046709	7.261745599999999	True	car_rental
+15	Ludo's Travel	ChIJA0-T0qnazRIRRHc1trgHkgw	car_rental|travel_agency|point_of_interest|establishment	43.705737	7.265770499999999	True	car_rental
+16	Oui Voitures Gare de Nice Ville	ChIJiXzJwtjRzRIRQcyrpskES8s	car_rental|point_of_interest|establishment	43.7048774	7.2629402	True	car_rental
+17	Europcar Nice Gare	ChIJ0WgwHgbQzRIRCUpqvzFHa8U	car_rental|point_of_interest|establishment	43.70424389999999	7.261724600000001	True	car_rental

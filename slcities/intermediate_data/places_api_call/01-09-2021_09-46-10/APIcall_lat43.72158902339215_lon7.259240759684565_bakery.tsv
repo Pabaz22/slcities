@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Carrefour Market Nice Le Ray	ChIJSyi0m_jPzRIRwKYKh323l4k	supermarket|bakery|grocery_or_supermarket|home_goods_store|food|point_of_interest|store|establishment	43.72299189999999	7.2569971	True			bakery
+1	SPAR	ChIJQZpy5qbazRIRuYxYr-x8EjY	convenience_store|bakery|grocery_or_supermarket|food|point_of_interest|store|establishment	43.7198692	7.262145599999998	True	1.0		bakery
+2	P.l.b	ChIJPzAaGvnPzRIR_xXLY4PUZQE	bakery|food|point_of_interest|store|establishment	43.7194344	7.261974500000002				bakery
+3	Boulangerie Patisserie Bernardi&Co	ChIJORXGG_nPzRIR0cInN6eZQ6k	bakery|food|point_of_interest|store|establishment	43.7194547	7.26213	True			bakery
+4	Carrefour City Nice Borriglione 73	ChIJ39fDxkDPzRIRrk8UdDAffCw	supermarket|bakery|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment	43.71766230000001	7.2611615	True			bakery
+5	Boulangerie Gb	ChIJo075h_zPzRIRi9jgHaFZJKc	bakery|food|point_of_interest|store|establishment	43.7176443	7.257176899999999				bakery
+6	Pain Gourmand	ChIJIUjNhfzPzRIRyEdkEFd4mJI	bakery|food|point_of_interest|store|establishment	43.71776	7.256772199999998	True			bakery
+7	J.Multari	ChIJ9aCTNfDPzRIRCSX11P2ymuA	bakery|food|point_of_interest|store|establishment	43.7252401	7.255673200000001	True	2.0		bakery
+8	sarl A.T.M.B.	ChIJvY2J0PjPzRIRhNGHWyrNsck	bakery|food|point_of_interest|store|establishment	43.71812	7.263525	True			bakery
+9	Springfield Donuts Factory	ChIJe5I8NF3PzRIR2L9IUnC44j8	bakery|food|point_of_interest|store|establishment	43.7172577	7.2567939				bakery
+10	Springfield Donuts Factory - Nice Nord	ChIJIQ-u_KTPzRIRGqmR6TSrq9E	bakery|food|point_of_interest|store|establishment	43.7172577	7.2567939	True			bakery
+11	Boulangerie-patisserie Du Temple	ChIJRSk20O_PzRIRNgALFel6SnM	bakery|food|point_of_interest|store|establishment	43.72484789999999	7.2541075	True			bakery
+12	Casino Shop	ChIJN2jrmfDPzRIRDGB1ICyPGDI	supermarket|bakery|grocery_or_supermarket|home_goods_store|food|point_of_interest|store|establishment	43.72610239999999	7.256101099999999	True			bakery
+13	Carrefour Express	ChIJH0ftkOTPzRIRzPVRDUHxFB0	supermarket|bakery|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment	43.7190957	7.252882299999999	True			bakery
+14	Balbo Accossato Arlette	ChIJGYRO0_bPzRIRvo_o6ytq2cY	bakery|food|point_of_interest|store|establishment	43.7268402	7.259946399999999	True			bakery
+15	Analea	ChIJ3cuIEljFzRIR2KTGWbSZ7mk	bakery|food|point_of_interest|store|establishment	43.7235377	7.2660667	False			bakery
+16	La Madaloun	ChIJ3-re3qDPzRIRHR6n9wluSoY	bakery|food|point_of_interest|store|establishment	43.7163286	7.257654199999999	False			bakery
+17	Fournil Brin D'or	ChIJd35KxvzPzRIRV4F8Yu5vRWo	bakery|food|point_of_interest|store|establishment	43.716992	7.2552571	True			bakery
+18	Palais de la Gourmandise	ChIJaW50V-TPzRIRMt73ZwYTE00	bakery|food|point_of_interest|store|establishment	43.7201988	7.251843599999999	True	2.0		bakery
+19	La Corbeille À Pain	ChIJdSCy9eTPzRIRhc89ilwVNL8	bakery|food|point_of_interest|store|establishment	43.7199355	7.251947899999998				bakery
+20	Les Pains de l'Horloge	ChIJraJ9huTPzRIRWm7OrYMSUjk	bakery|food|point_of_interest|store|establishment	43.7189599	7.252108799999999	True	1.0	95 Bd de Cessole, 06100 Nice	bakery
+21	Boulangerie Quentin	ChIJ12KhuuXPzRIRXsw_2s89VUA	bakery|food|point_of_interest|store|establishment	43.7216588	7.251134899999999	True		138 Bd de Cessole, 06100 Nice	bakery
+22	Boulangerie Romain LAROCHE	ChIJV9LxfGTPzRIRnyn6bZ8V8aU	bakery|food|point_of_interest|store|establishment	43.7216588	7.251134899999999	True		138 Bd de Cessole, 06100 Nice	bakery
+23	Boulangerie Guilbeaud la baguette magique	ChIJZTT7PePPzRIRwu2VHtNIeDs	bakery|food|point_of_interest|store|establishment	43.7171185	7.253220900000001	True	2.0	82 Bd de Cessole, 06100 Nice	bakery
+24	La Boulangerie Du Soleil	ChIJMQnVH_LPzRIRG6aCs1yfupE	bakery|food|point_of_interest|store|establishment	43.7278533	7.2556865	True	1.0	12 Bd Comte de Falicon, 06100 Nice	bakery
+25	Le Fournil d'Antoine	ChIJ7Y5bWO_PzRIRD8ngN5GvcXM	bakery|food|point_of_interest|store|establishment	43.7237121	7.2498554	True		143 Bd de Cessole, 06100 Nice	bakery
+26	Boulangerie Pâtisserie Thibaud	ChIJAQCMIu_PzRIRV3WilNAlQ9U	bakery|food|point_of_interest|store|establishment	43.7253356	7.250388800000001	True		15 Av. de Saint-Sylvestre, 06100 Nice	bakery
+27	Artisan Boulanger Patissier Thiband	ChIJnUFoIu_PzRIR1ptglMKjB14	bakery|food|point_of_interest|store|establishment	43.7253884	7.250374000000001	True		06100 Nice	bakery
+28	Aux Delices de Jeanne D'Arc	ChIJQXieNP7PzRIR1uH7K9qCM6s	bakery|food|point_of_interest|store|establishment	43.7140383	7.2624692	False	1.0	105 Av. Saint-Lambert, 06100 Nice	bakery
+29	Boulangerie Du Vallon	ChIJx0EJFl_FzRIR1KvNP6RdPPg	bakery|food|point_of_interest|store|establishment	43.7283712	7.2669877			112 Av. Henry Dunant, 06100 Nice	bakery
+30	Damiano Sylvie - Bakery	ChIJkZZx6ujPzRIRaj5fszFcOxM	bakery|food|point_of_interest|store|establishment	43.7249145	7.247703800000001	False	2.0	35 Av. de Saint-Sylvestre, 06100 Nice	bakery
+31	La Délicieuse	ChIJkcM1xAHQzRIRu9lSdmUJPxU	bakery|food|point_of_interest|store|establishment	43.7126107	7.2619353	True	2.0	20 Av. Alfred Borriglione, 06100 Nice	bakery
+32	Boulangerie J.Multari Borriglione	ChIJbeoNCAHQzRIRYPh_LKo29H4	bakery|food|point_of_interest|store|establishment	43.710756	7.262047399999998	True	2.0	6 Av. Alfred Borriglione, 06100 Nice	bakery
+33	Pâtisserie Torregano	ChIJDXm5bAHQzRIRSmtRP7sozJg	bakery|food|point_of_interest|store|establishment	43.7099785	7.261186299999999	False		3 Bd Joseph Garnier, 06000 Nice	bakery
+34	Boulangerie les Hauts de Gairaut Pâtisserie Traiteur	ChIJnQ9OEIvPzRIRC8zROlBcD20	bakery|food|point_of_interest|store|establishment	43.7338965	7.261727099999999	True	2.0	142 Av. de Gairaut, 06100 Nice	bakery
+35	L'Atelier de Vincent Mary	ChIJQfGFYQPQzRIRMymUZg9USf0	bakery|food|point_of_interest|store|establishment	43.7089221	7.256151500000001	True		136 Bd Gambetta, 06000 Nice	bakery
+36	Boulangerie	ChIJ32AhM3XRzRIRtN1Ql47KZ_k	bakery|food|point_of_interest|store|establishment	43.7092003	7.253544799999998	True		13 Av. de Pessicart, 06000 Nice	bakery
+37	Le Petit Fournil Artisan Boulanger	ChIJ6bkWFhzQzRIRWCb0PVsk8Qs	bakery|food|point_of_interest|store|establishment	43.7102792	7.250048899999999	True		55 Av. de Pessicart, 06100 Nice	bakery
+38	Zambetti Eric	ChIJGxyz1wDQzRIRScHHF5-GXC8	bakery|food|point_of_interest|store|establishment	43.70866909999999	7.2625815	True		29 Av. Malaussena, 06000 Nice	bakery
+39	Maison de la Boulangerie des Alpes-Maritimes	ChIJ2QI3CKrazRIR45Td7teKjmc	bakery|food|point_of_interest|store|establishment	43.7088821	7.265357099999998	True		13 Av. Mirabeau, 06000 Nice	bakery
+40	La Délicieuse	ChIJW8G9MfzPzRIRv8tODkK3HQc	bakery|food|point_of_interest|store|establishment	43.7159396	7.259140100000001	True		29 Av. Cyrille Besset, 06100 Nice	bakery
+41	Sarl Boulangerie Moreira Dufour	ChIJd8EcFQPQzRIRsCK_nPiuGRE	bakery|food|point_of_interest|store|establishment	43.7097297	7.2558473	True		149 Bd Gambetta, 06000 Nice	bakery
+42	Boulangerie J.Multari Gambetta 128	ChIJ2T-lmQTQzRIRSeAOsQz1Duk	bakery|food|point_of_interest|store|establishment	43.7081781	7.256166199999999	True	2.0	128 Bd Gambetta, 06000 Nice	bakery
+43	André Paul Boulanger Patissier	ChIJ5yueIwfQzRIReO9k3LnlaiY	bakery|cafe|restaurant|food|point_of_interest|store|establishment	43.7072895	7.263031000000001	True		3 Rue Vernier, 06000 Nice	bakery
+44	Pains et Délices	ChIJQXENQAfQzRIRR71AATiokjY	bakery|food|point_of_interest|store|establishment	43.7072624	7.2640425	True		10 Av. Malaussena, 06000 Nice	bakery
+45	Boulangerie J.Multari Cimiez	ChIJbQLQU13FzRIR9iHO6_jWvz0	bakery|meal_takeaway|restaurant|food|point_of_interest|store|establishment	43.7311044	7.2758648	True	2.0	52 Av. Cap-de-Croix, 06100 Nice	bakery
+46	Boulangerie les Etoiles	ChIJP5Z5EAXQzRIR7E_NtXg2DfA	bakery|food|point_of_interest|store|establishment	43.70576930000001	7.256348200000001	True	1.0	43 Rue Trachel, 06000 Nice	bakery
+47	Bakery By Michel Fiori	ChIJ0Tp7u6nazRIRCVfeA8qapUI	bakery|food|point_of_interest|store|establishment	43.7065343	7.2671792	True	2.0	19 Bd Raimbaldi, 06000 Nice	bakery
+48	Boulangerie - Pâtisserie Lamine	ChIJ9UvfCEzFzRIRHC0FM3oRtnc	bakery|food|point_of_interest|store|establishment	43.7159325	7.2811935	True	1.0	79 Av. du Maréchal Lyautey, 06000 Nice	bakery
+49	Boulangerie Pétrie de la gare	ChIJ4_74jwfQzRIR9PXvqOKFBfQ	bakery|cafe|food|point_of_interest|store|establishment	43.7051427	7.264618599999999	True	2.0	1 Av. Thiers, 06000 Nice	bakery
+50	Boulangerie moulin de la gare	ChIJSW3cLADFzRIRRZaTZdFtYZs	bakery|restaurant|food|point_of_interest|store|establishment	43.7196362	7.2833909	True		141 Av. du Maréchal Lyautey, 06000 Nice	bakery
+51	La Royale	ChIJiUix-gfQzRIRLFwlY6jYLR0	bakery|food|point_of_interest|store|establishment	43.7042255	7.265194699999999	True		4 Rue d'Alsace-Lorraine, 06000 Nice	bakery
+52	La Savoyarde	ChIJj-iO3ajazRIRtqYlytqB6Hc	bakery|food|point_of_interest|store|establishment	43.7050257	7.269627000000001	False	2.0	20 Rue de Lépante, 06000 Nice	bakery
+53	Boulangerie L'Impériale	ChIJ91OwIRDQzRIRzSWN-KnriZw	bakery|food|point_of_interest|store|establishment	43.7029477	7.254286599999999	True	2.0	10 Bd du Tzarewitch, 06000 Nice	bakery
+54	Boulangerie Élégance	ChIJi47xGK_azRIRXfnTuo_MOZk	bakery|food|point_of_interest|store|establishment	43.7049498	7.2719874	True	1.0	7 Av. Desambrois, 06000 Nice	bakery
+55	Mama Baker	ChIJGSsRuajazRIROhkEbVTZt34	bakery|grocery_or_supermarket|cafe|food|point_of_interest|store|establishment	43.7041123	7.269774899999999	True	2.0	13 Rue de Lépante, 06000 Nice	bakery
+56	Boulangerie Pâtisserie Albert Planchais	ChIJ-2Y38afazRIRyu5n8mYcvQY	bakery|food|point_of_interest|store|establishment	43.7025723	7.265663300000001	True		18 Rue de Russie, 06000 Nice	bakery
+57	Boulangerie-pâtisserie des musiciens	ChIJX-5w0gjQzRIRue8rfOfKvdw	bakery|meal_takeaway|restaurant|food|point_of_interest|store|establishment	43.7018553	7.2601221	True	1.0	45 Av. Georges Clemenceau, 06000 Nice	bakery
+58	Ma P'tite Boulangerie	ChIJv2sU9a_bzRIREBbe4JGmiIQ	bakery|food|point_of_interest|store|establishment	43.7012842	7.266435100000001	True		4 Rue de Russie, 06000 Nice	bakery
+59	Pains et Pâtisseries Carabacel	ChIJTR4Nd6XazRIRe9gp6dHMGjI	bakery|food|point_of_interest|store|establishment	43.7021933	7.2735797	False		9 Rue Pastorelli, 06000 Nice	bakery

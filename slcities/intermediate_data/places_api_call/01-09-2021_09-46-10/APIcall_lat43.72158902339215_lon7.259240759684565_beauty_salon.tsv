@@ -1,0 +1,49 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+1	Institut de Beauté Bel'à Vie à Nice	ChIJs3xH7vnPzRIR9Jkj7ais7Z4	beauty_salon|hair_care|spa|point_of_interest|establishment	43.72183949999999	7.260523000000001	False		beauty_salon
+3	QIPAO	ChIJTRFS_7jPzRIRNl5C8asSWG0	beauty_salon|point_of_interest|establishment	43.7228112	7.256437	True		beauty_salon
+4	Institut Maria Galland	ChIJifNL6_rPzRIRXuvYNaR1NvM	beauty_salon|point_of_interest|establishment	43.7222644	7.256036699999999	True		beauty_salon
+6	LAPORTE MARINE - Centre Dermo-Esthetic Nice - Maquillage Permanent - MAUD ELITE	ChIJB020FuXPzRIRzKvBm4yiAHY	beauty_salon|point_of_interest|establishment	43.72425839999999	7.260261999999999	True		beauty_salon
+7	Cléopatre	ChIJZ6dDGPnPzRIR9Jz5onxmtDg	beauty_salon|point_of_interest|establishment	43.719138	7.261857499999999	True		beauty_salon
+8	LTB BEAUTY	ChIJscd6D7XPzRIRIPlc5xvhIdA	beauty_salon|point_of_interest|establishment	43.7187287	7.2614372	True		beauty_salon
+9	Hirsch Ivaldi Christine	ChIJa3vTE_fPzRIRm_X00g2WHtI	beauty_salon|point_of_interest|establishment	43.7243117	7.261808499999999			beauty_salon
+10	Alexandra Nail Tech	ChIJdUxvwL3PzRIRoBJshdyK4yU	beauty_salon|point_of_interest|establishment	43.7221066	7.2540338	False		beauty_salon
+11	TINA BEAUTY ZONE	ChIJscICI1vPzRIRf1KF86EaqtM	beauty_salon|point_of_interest|establishment	43.71814060000001	7.2565458	False		beauty_salon
+12	Aurizon Jetpeel & Photomodulation par led	ChIJhxPqcMfPzRIRHZ2xl43vVjs	beauty_salon|point_of_interest|establishment	43.7180605	7.256646500000001	True		beauty_salon
+14	Chrystal ' Nails	ChIJKaLwhfnPzRIRtEuz_abbVGc	beauty_salon|point_of_interest|establishment	43.7176907	7.256203199999999	True		beauty_salon
+16	Peroni Elisabeth	ChIJ13Ojwu_PzRIRzcYuef-_p4A	beauty_salon|health|point_of_interest|establishment	43.7247292	7.2536328	True		beauty_salon
+17	Institut Beaute d'Ange	ChIJBTulUuPPzRIRdZFX2xpfPDs	beauty_salon|point_of_interest|establishment	43.7178347	7.254348	True		beauty_salon
+18	Institut Passion d'Ongles	ChIJQxiNmOTPzRIRcJtt1YnYtBY	beauty_salon|point_of_interest|establishment	43.7189121	7.253081200000002	True		beauty_salon
+20	Institut As de coeur	ChIJ_0j5EOrPzRIRn1tS7ukftfg	beauty_salon|point_of_interest|establishment	43.7194538	7.252256900000001		106 Bd de Cessole, 06100 Nice	beauty_salon
+21	Beau T	ChIJ-zohWuTPzRIRezyv7Xb-i_o	beauty_salon|point_of_interest|establishment	43.7203799	7.2514858	False	103 Bd de Cessole, 06000 Nice	beauty_salon
+23	Lise Rose Institut	ChIJ0xubaePPzRIRFkZFY1vwa50	beauty_salon|hair_care|spa|point_of_interest|establishment	43.7176346	7.253010000000001	False	88 Bd de Cessole, 06100 Nice	beauty_salon
+25	LM BEAUTY	ChIJwefyTQbPzRIRLsrt96c6Qho	beauty_salon|point_of_interest|establishment	43.7171077	7.2532507	False	82 Bd de Cessole, 06100 Nice	beauty_salon
+26	Institut de beauté Estetica Cocoon by Alice et Noemie	ChIJCZrmB1HPzRIR78yT5o4UY5k	beauty_salon|hair_care|spa|health|point_of_interest|establishment	43.7251078	7.2513369	True	L'angkor, 5 Av. de Saint-Sylvestre, 06100 Nice	beauty_salon
+27	VO Marie Christine	ChIJ41zsJe_PzRIRCFB-KVS66aU	beauty_salon|point_of_interest|establishment	43.7253807	7.2498968	True	19 Av. de Saint-Sylvestre, 06100 Nice	beauty_salon
+29	Institut de Beauté SUBLIME	ChIJKeJ23gbPzRIRfWYUudAzyDI	beauty_salon|point_of_interest|establishment	43.7132879	7.2615349	False	27 bis Av. Alfred Borriglione, 06100 Nice	beauty_salon
+30	institut beauté d'ailleurs	ChIJ1ccGqFXFzRIR0vWqdjOyHcw	beauty_salon|hair_care|spa|point_of_interest|establishment	43.715212	7.267324	True	42 avenue caravadossi, Parc Lubonis, 06000 Nice	beauty_salon
+31	Ongles & esthetic by valena	ChIJ24fr6ejPzRIRGmKECdhYbHA	beauty_salon|point_of_interest|establishment	43.7245457	7.2472919	True	161 Av. Cyrille Besset, 06100 Nice	beauty_salon
+32	Beauté Nat'	ChIJiVwigjDPzRIRnqoIpqL7guo	beauty_salon|point_of_interest|establishment	43.7238479	7.24689	True	145 Av. Cyrille Besset, 06100 Nice	beauty_salon
+33	Carol'Esthétique	ChIJA7aZ6PnPzRIRvlN0y64NH6g	beauty_salon|point_of_interest|establishment	43.7113156	7.2613889	True	14 Av. Alfred Borriglione, 06100 Nice	beauty_salon
+34	Virginie Esthetique	ChIJs3j2UF7FzRIRFdhOjLJtWLA	beauty_salon|point_of_interest|establishment	43.7298496	7.268551999999999	True	113B Av. Henry Dunant, 06100 Nice	beauty_salon
+36	Institut De Toute Beauté	ChIJSYTLn1PFzRIRjsjikfb4AH0	beauty_salon|point_of_interest|establishment	43.71476089999999	7.271614899999999	True	39 ter Bd de Cimiez, 06000 Nice	beauty_salon
+37	Tropique Bio	ChIJ802rYwHQzRIRXH5DpruSNfo	beauty_salon|food|health|point_of_interest|store|establishment	43.7102008	7.260151199999999	False	10 Bd Joseph Garnier, 06100 Nice	beauty_salon
+38	New'Beaute Institut - Nice Centre/Nord	ChIJEVPKZQHQzRIRiChHcTPNdHA	beauty_salon|hair_care|spa|health|point_of_interest|store|establishment	43.7099907	7.2604355	True	9 Bd Joseph Garnier, 06000 Nice	beauty_salon
+39	Institut Ange Beauté	ChIJlzq4dwPQzRIRrrO6mzy_Q1I	beauty_salon|point_of_interest|establishment	43.709396	7.257102299999999		06000 Nice	beauty_salon
+40	WISHpro	ChIJf9nkIqvazRIRqOeClrec6f4	beauty_salon|point_of_interest|establishment	43.7116609	7.268534499999999		33 Av. George V, 06000 Nice	beauty_salon
+41	Actuel Institut de Beauté	ChIJO2q9ngTQzRIRNhTsbIzgRs0	beauty_salon|point_of_interest|establishment	43.70870499999999	7.2562174	True	134 Bis Bd Gambetta, 06000 Nice	beauty_salon
+42	L'institut de Cimiez	ChIJz3E-9FLFzRIR84IVLfyOO7A	beauty_salon|point_of_interest|establishment	43.7144617	7.274477		91 Av. des Arènes de Cimiez, 06000 Nice	beauty_salon
+43	Institut Impérial	ChIJ1R2xgRzQzRIR6tSi4SST46c	beauty_salon|point_of_interest|establishment	43.7089923	7.2516892	True	1 Av. du Dom. du Piol, 06000 Nice	beauty_salon
+45	Cybèle' Envie	ChIJE1XSagXQzRIRKncAyte-mQs	beauty_salon|point_of_interest|establishment	43.7052475	7.255969899999999	False	93 Bd Gambetta, 06000 Nice	beauty_salon
+46	Be Well Beauty	ChIJRwQabAXQzRIROy7P9yFgms0	beauty_salon|point_of_interest|establishment	43.7050431	7.2563189	False	86 Bd Gambetta, 06000 Nice	beauty_salon
+47	Lea Make-up Studio/ Beauté/ Esthétique/ Dermo	ChIJYwXvEpvbzRIRnEbFrLkYYxA	beauty_salon|point_of_interest|establishment	43.7063271	7.2695656	True	2 Rue Pertinax, 06000 Nice	beauty_salon
+48	PERLE DE BEAUTE | massage - beauté - minceur	ChIJjy7EqqnazRIRG5bpVZ6vUnQ	beauty_salon|hair_care|spa|health|point_of_interest|store|establishment	43.7056694	7.267875999999999	True	18 Rue Pertinax, 06000 Nice	beauty_salon
+49	Centre De Beaute	ChIJIeopSKjazRIRtesr9dinE7Y	beauty_salon|point_of_interest|establishment	43.7052387	7.2666336		26 Rue Pertinax, 06000 Nice	beauty_salon
+50	Care Institute Nail'Minute Nails	ChIJ_aYnGKjazRIRi7nhCvdoKmM	beauty_salon|point_of_interest|store|establishment	43.7045116	7.2660023	False	28 Rue de Paris, 06000 Nice	beauty_salon
+51	Beauté par Clara dépositaire Guinot	ChIJy7bOIAjQzRIRFQKs97ZiPSs	beauty_salon|spa|point_of_interest|establishment	43.7019639	7.265344	True	9 Av. Georges Clemenceau, 06000 Nice	beauty_salon
+52	Aroma Institut	ChIJ7WqrOqbazRIR3wrfinXtG68	beauty_salon|hair_care|spa|point_of_interest|establishment	43.70259069999999	7.2687846	True	18 Rue Lamartine, 06000 Nice	beauty_salon
+53	PHAM - Institut de Beauté Nice	ChIJm6o2qafazRIRGTHvJReJpIY	beauty_salon|hair_care|spa|point_of_interest|establishment	43.7017139	7.267130099999999	False	Immeuble Europole, 27 Av. Jean Médecin, 06000 Nice	beauty_salon
+55	Dolce Ama - Salon de Beauté	ChIJAQCkdqfazRIRhj3lqaJO28w	beauty_salon|point_of_interest|establishment	43.7007133	7.266276199999999	False	11 Rue Paul Déroulède, 06000 Nice	beauty_salon
+56	Institut de beauté Linda Collins Beauty	ChIJUbDcFAnQzRIRheFHPC--6QQ	beauty_salon|hair_care|spa|health|point_of_interest|establishment	43.7000217	7.261230800000001	True	9 Av. Auber, 06000 Nice	beauty_salon
+57	Institut de beauté Diamant Autour de soi	ChIJ1cTs5wbQzRIRtgG3Lk2NCzI	beauty_salon|point_of_interest|establishment	43.6994482	7.2588332	True	25 Rue Verdi, 06000 Nice	beauty_salon
+58	Paradiso Luxury Institute	ChIJT714WKfazRIRmC5gExJZx8Q	beauty_salon|hair_care|spa|health|point_of_interest|establishment	43.6994198	7.2653063	True	12 Rue Alphonse Karr, 06000 Nice	beauty_salon
+59	Institut Guinot	ChIJH5-PmrbazRIRjayGvhVn5wk	beauty_salon|spa|point_of_interest|store|establishment	43.7061648	7.283000499999999	False	10 Av. de la République, 06300 Nice	beauty_salon

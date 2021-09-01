@@ -1,0 +1,7 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Perin Sophie	ChIJG-NrTPnPzRIRovrV7WNw8Co	drugstore|pharmacy|health|point_of_interest|store|establishment	43.7218138	7.2510657		drugstore
+1	Grande Pharmacie GARNIER	ChIJUxEqxQPQzRIRvtk3F-OGJyY	pharmacy|drugstore|health|point_of_interest|store|establishment	43.7101998	7.2590864	True	drugstore
+2	Pharmacie la Salamandre	ChIJTQ1DEqnazRIRgQVe_xHweVA	drugstore|pharmacy|health|point_of_interest|store|establishment	43.7065882	7.268613200000001	True	drugstore
+3	SELAS pharmacy Lyautey	ChIJRUuD20vFzRIRkjCGlkfyY4g	drugstore|pharmacy|veterinary_care|health|point_of_interest|store|establishment	43.712466	7.282609999999999	True	drugstore
+4	International Pharmacy - International Pharmacy	ChIJz9MGlgfQzRIRUzjTEmiRB5A	pharmacy|drugstore|doctor|veterinary_care|health|point_of_interest|store|establishment	43.7048989	7.2642221	True	drugstore
+5	Pharmacie Saetone	ChIJcdJi5QfQzRIR2Bxk8wZRp1M	pharmacy|drugstore|shoe_store|health|point_of_interest|store|establishment	43.7040684	7.264318	True	drugstore

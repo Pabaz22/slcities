@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Renault	ChIJN84WIfjPzRIRz4QF_Chjc9U	car_dealer|point_of_interest|store|establishment	43.72246339999999	7.2636421	True		car_dealer
+1	Azur Motors Sarl	ChIJ538sPFvFzRIRxWax1PMnS-o	car_dealer|car_repair|point_of_interest|store|establishment	43.7246718	7.273924299999998	True		car_dealer
+2	Master Cars	ChIJ69izUv7PzRIRJZoVjTcpNL8	car_dealer|point_of_interest|store|establishment	43.71494329999999	7.262573799999998			car_dealer
+3	Auto Service Gorbella	ChIJXRJMifzPzRIRBfQ3xbcWpys	car_dealer|point_of_interest|store|establishment	43.7175456	7.2568022	True		car_dealer
+4	Renault	ChIJ7RZJj_zPzRIRDvgjEPfwbfw	car_dealer|point_of_interest|store|establishment	43.7175554	7.256669599999999			car_dealer
+5	ENJOY AUTO 06	ChIJ6RjkKEzFzRIRd-tTpUmdJU4	car_dealer|point_of_interest|store|establishment	43.7166072	7.2793056	True		car_dealer
+6	PEUGEOT - GARAGE MASSIERA-MALTESE	ChIJX2L2KvDPzRIRf5EcPBsIhms	car_dealer|car_repair|point_of_interest|store|establishment	43.7253019	7.254434100000003	True		car_dealer
+7	By My Car Rivoli	ChIJ55xnf3LRzRIR2DS_rnxxzYE	car_dealer|point_of_interest|store|establishment	43.7119895	7.2620406			car_dealer
+8	Villeroy Automobiles - Nice	ChIJtYFBkG7RzRIRh7XSqIq9buU	car_dealer|point_of_interest|store|establishment	43.7130818	7.258922099999999	True		car_dealer
+9	JSC Auto	ChIJpb0SU8jazRIRI9Y3Q62o8ic	car_dealer|car_repair|point_of_interest|store|establishment	43.7161117	7.2804469	True		car_dealer
+10	Renault	ChIJn_JajZze5UcRt5SL5joeH6s	car_dealer|point_of_interest|store|establishment	43.715341	7.2810033	True		car_dealer
+11	ED AUTO 2000	ChIJX48YQGfFzRIRJ5gQ6Eht2Jg	car_dealer|point_of_interest|store|establishment	43.7326437	7.2723348	True		car_dealer
+12	PEUGEOT - CROUZAT GUIDO	ChIJDZ6OlADQzRIRm2frD25T_e8	car_dealer|car_repair|point_of_interest|store|establishment	43.71013019999999	7.2640425	True		car_dealer
+13	GARAGE DE CESSOLE - Citroën	ChIJRZ34UuTPzRIRXUia7a1tnHk	car_dealer|car_repair|point_of_interest|store|establishment	43.7207526	7.2512522	True		car_dealer
+14	Technic Automobile	ChIJhzk7v-XPzRIRxtyRSRiy71k	car_dealer|car_repair|point_of_interest|store|establishment	43.7219155	7.250101600000001	True		car_dealer
+15	Auto d'époque de la vésubie	ChIJ8dIPRB3QzRIRU5ud2plCif8	car_dealer|point_of_interest|store|establishment	43.712808	7.2535205			car_dealer
+16	Sunny Speed Shop	ChIJF9dTgzbbzRIRFMzpONcnLQc	car_dealer|point_of_interest|store|establishment	43.7077856	7.269739999999999	False		car_dealer
+17	Agent Renault rouret automobiles nice nord	ChIJzacmce3PzRIRWuKDx2KmDAs	car_dealer|car_repair|point_of_interest|store|establishment	43.730143	7.252284999999998	True		car_dealer
+18	CARIVIERA - seat - audi - seat - volkswagen	ChIJ-R0u9cfazRIRjRN2DAyCp0c	car_dealer|point_of_interest|store|establishment	43.720214	7.287579000000001			car_dealer
+19	Volkswagen & Volkswagen Véhicules Utilitaires Nice Est	ChIJkfIq6zfFzRIR2c4jfLyQNAw	car_dealer|point_of_interest|store|establishment	43.720214	7.287579000000001	True		car_dealer
+20	Das Welt Auto	ChIJo9Wx9DfFzRIRtawPjrpc1BU	car_dealer|point_of_interest|store|establishment	43.7203962	7.2881548		146 Rte de Turin, 06300 Nice	car_dealer
+21	Lyon's Cars Nice Establishment	ChIJSVlJbgTQzRIRKBD-mZxPbXU	car_dealer|point_of_interest|store|establishment	43.7079445	7.258059200000001	True	41 Rue Clément Roassal, 06000 Nice	car_dealer
+22	D F auto	ChIJf4rSXCDbzRIR6sP18yJGCT4	car_dealer|point_of_interest|store|establishment	43.7056619	7.2705885	True	06000 Nice	car_dealer
+23	Peugeot Nice Acropolis	ChIJ_2gmfqDazRIRoEWxJzw6UAw	car_dealer|car_repair|point_of_interest|store|establishment	43.708345	7.2817051	True	Palais des Sports Jean Bouin, 2 Rue Jean Allègre, 06000 Nice	car_dealer
+24	Fiat Atelier Agree	ChIJgemHVbTazRIR7zk4xC3kFPU	car_dealer|point_of_interest|store|establishment	43.7093525	7.283980199999998	True	06300 Nice	car_dealer
+25	DCAI Auto	ChIJAQAwHqjazRIRGN0Ph9LY-G4	car_dealer|car_repair|point_of_interest|store|establishment	43.70440560000001	7.265327999999999	True	45 Av. Jean Médecin, 06000 Nice	car_dealer
+26	AUTO 2000 Nice	ChIJIQAAAMzazRIRamwyJaVvvmQ	car_dealer|car_repair|point_of_interest|store|establishment	43.7108636	7.2884936	True	45 Rue de Roquebillière, 06300 Nice	car_dealer
+27	MERCEDES BYmyCAR Nice	ChIJDygXig_QzRIR5fjpqPJJAKs	car_dealer|car_repair|point_of_interest|store|establishment	43.704082	7.256001	True	83 Bd Gambetta, 06000 Nice	car_dealer
+28	Clairauto	ChIJuZ5rgzTFzRIRY6Reg6_Rq9w	car_dealer|car_repair|point_of_interest|store|establishment	43.71319219999999	7.292129399999999	True	Rue Joseph À Bovis, 06300 Nice	car_dealer
+29	MECA2B - Citroën	ChIJtSFXNcvazRIRtevLB5N6OFw	car_dealer|point_of_interest|store|establishment	43.7112749	7.290899199999999	True	53-55 Rue Maréchal Vauban, 06300 Nice	car_dealer
+30	L.A CAR	ChIJgRXnWEbFzRIR0kTLlROhZqM	car_dealer|point_of_interest|store|establishment	43.7138869	7.2929886	False	60 Bd Virgile Barel, 06300 Nice	car_dealer
+31	Nissan Nice Prestige Auto	ChIJL4D3kg_QzRIROFw1o1E_MAM	car_dealer|car_repair|point_of_interest|store|establishment	43.7032929	7.255887899999999	True	79 Bd Gambetta, 06000 Nice	car_dealer
+32	Gmc Le Showroom De Geromine	ChIJo6mVVbbazRIR7U2FAHgspGY	car_dealer|point_of_interest|store|establishment	43.7047715	7.284223999999999	False	20 Rue Barberis, 06300 Nice	car_dealer
+33	GARAGE ROUX	ChIJD2TbF7fazRIRkK5celDlLU4	car_dealer|point_of_interest|store|establishment	43.704069	7.283199999999999	True	11 Rue Smolett, 06300 Nice	car_dealer
+34	Web Auto 06	ChIJq6r2wsvazRIRAAzSiDbOdrc	car_dealer|point_of_interest|store|establishment	43.7072683	7.29081	True	14 Rue Dr Ardoin, 06300 Nice	car_dealer
+35	PEUGEOT - SARL SAINTE AGATHE AUTOMOBILES	ChIJF-C5ysnazRIR5qejOyd5_UY	car_dealer|car_repair|point_of_interest|store|establishment	43.7044752	7.288301	True	49 Bd Général Louis Delfino, 06300 Nice	car_dealer
+36	Peugeot	ChIJ__9PtMnazRIRlCLvAUMp-b8	car_dealer|point_of_interest|store|establishment	43.7044967	7.288427899999999		49 Bd Général Louis Delfino, 06300 Nice	car_dealer
+37	G.h.c. Automobiles	ChIJd-Va-cvazRIRzcjryGJli-w	car_dealer|point_of_interest|store|establishment	43.7066796	7.291807400000001	True	9 Bd de l'Armée des Alpes, 06300 Nice	car_dealer
+38	Aixam Cavallari Riquier - Concessionnaire voiture sans permis à Nice (06)	ChIJIatk4J7bzRIRh849v0ysHYo	car_dealer|car_repair|point_of_interest|store|establishment	43.70681070000001	7.291962199999999	True	9 Bd de l'Armée des Alpes, 06300 Nice	car_dealer
+39	Kia - CAVALLARI AUTOMOBILES	ChIJe0VVBq_azRIRiJQIJAhJpxs	car_dealer|car_repair|point_of_interest|store|establishment	43.70681070000001	7.291962199999999		9 Bd de l'Armée des Alpes, 06000 Nice	car_dealer
+40	CAR SA	ChIJ32Az7rPFzRIRTQFec_Rp2Iw	car_dealer|point_of_interest|store|establishment	43.720696	7.2881385		Route de Turin, 140 NICE CEDEX 4, 06359	car_dealer
+41	GARAGE VERNIER - Citroën	ChIJL67X6gbQzRIRIBN5UhBL3t8	car_dealer|point_of_interest|store|establishment	43.70709189999999	7.261273399999999	True	17 Rue Vernier, 06000 Nice	car_dealer
+42	Réparateur INFINITI agréé Nice	ChIJDdi97Q_QzRIRsrtvd7RuYK8	car_dealer|point_of_interest|store|establishment	43.7033366	7.255914400000001	True	79 Bd Gambetta, 06000 Nice	car_dealer
+43	Garage Roux Renault	ChIJhRn9ELfazRIRbBftR9Daklg	car_dealer|car_repair|point_of_interest|store|establishment	43.704069	7.283199999999999	True	11 Rue Smolett, 06300 Nice	car_dealer
+44	AutoEasy Nice	ChIJY2pfq7fazRIRXJlT5PTpd94	car_dealer|point_of_interest|store|establishment	43.7045004	7.2845025	True	30 Rue Georges Ville, 06300 Nice	car_dealer
+45	Cavallari Honda Nice Cimiez	ChIJvbnVCK_azRIRAvQNiCgaqhg	car_dealer|car_repair|point_of_interest|store|establishment	43.70681070000001	7.291962199999999	True	9 Bd de l'Armée des Alpes, 06300 Nice	car_dealer
+46	KIA Cavallari Motors Concessionnaire	ChIJBd_vBczazRIRtAirRg9PbDI	car_dealer|car_repair|point_of_interest|store|establishment	43.7064515	7.291608200000001	True	5 Bd de l'Armée des Alpes, 06300 Nice	car_dealer
+47	Hyundai Nice - RIVIERA CAR CENTER	ChIJ_5-gXMnazRIRrbLRUE8mwoQ	car_dealer|point_of_interest|store|establishment	43.70603070000001	7.291150799999999	True	1 Bd de l'Armée des Alpes, 06300 Nice	car_dealer
+48	Ssangyong	ChIJF1nOXMnazRIRjYdfXvnkahU	car_dealer|point_of_interest|store|establishment	43.70595	7.2911359		Rue du Dr Ciais, 06300 Nice	car_dealer
+49	Suzuki Cars Nice / Amadeus Cars	ChIJU7voW8nazRIRyLcKwmEnRGc	car_dealer|car_repair|point_of_interest|store|establishment	43.7060807	7.2914145	True	3 Bd de l'Armée des Alpes, 06300 Nice	car_dealer
+50	MITSUBISHI NICE - RIVIERA CAR CENTER	ChIJKXUZXcnazRIRDhEFpoMQcnM	car_dealer|car_repair|point_of_interest|store|establishment	43.705863	7.2912439	True	1b Bd de l'Armée des Alpes, 06300 Nice	car_dealer
+51	Gaillard Auto	ChIJP48NOKHazRIRyLY4grVwpbg	car_dealer|point_of_interest|store|establishment	43.6977207	7.269291399999999	True	3 Pl. Massena, 06000 Nice	car_dealer
+52	Prestige Auto Radio Accessoires	ChIJ7YG1O8nazRIR0x_9MnAovKg	car_dealer|car_repair|point_of_interest|store|establishment	43.7049514	7.2913771	True	263 Bd du Mont-Boron, 06300 Nice	car_dealer
+53	Renault Nice Riquier	ChIJy_byRcnazRIRF-CDFBI23Wk	car_dealer|car_repair|point_of_interest|store|establishment	43.7055357	7.292306000000001	True	2 Bd de l'Armée des Alpes, 06300 Nice	car_dealer
+54	Dacia NICE RIQUIER	ChIJjUa_1-zbzRIRwVjWG5sEcQ8	car_dealer|car_repair|point_of_interest|store|establishment	43.7052661	7.292079	True	2 Bd de l'Armée des Alpes, 06300 Nice	car_dealer
+55	PASSY RESIDENCES GARAGE Dacia	ChIJZ3_iKRLQzRIRUb_GN06b2lc	car_dealer|point_of_interest|store|establishment	43.6994674	7.252191199999999		21 Rue Frédéric Passy, 06000 Nice	car_dealer
+56	S G G M Société des Grands Garages Méditerranéens	ChIJWeDUfwzQzRIRAwDtz7EdZAI	car_dealer|car_repair|point_of_interest|store|establishment	43.6965459	7.259898300000001	True	45 Rue de la Buffa, 06000 Nice	car_dealer
+57	MZ prestataire auto	ChIJbw0WnMjazRIRgcZKCUyfwOE	car_dealer|point_of_interest|store|establishment	43.7019394	7.290575899999999	True	32 Rue Font de la ville, 06300 Nice	car_dealer
+58	Bavastro Auto	ChIJ7_tearjazRIRmdJYr32Wduc	car_dealer|car_repair|point_of_interest|store|establishment	43.699586	7.287163000000001	True	8 Bd Lech Walesa, 06300 Nice	car_dealer
+59	Citroen ACCUEIL AUTO PIECES SERVICES	ChIJNxjwJMbazRIRB5VcBxKG_q8	car_dealer|point_of_interest|store|establishment	43.7013148	7.2904564	True	12 Rue Soleau, 06300 Nice	car_dealer

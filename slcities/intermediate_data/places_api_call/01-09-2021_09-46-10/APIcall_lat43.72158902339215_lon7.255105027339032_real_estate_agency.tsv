@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Gaubert Ghislaine	ChIJ_UKL1_rPzRIRWtHFhYQDyvA	real_estate_agency|point_of_interest|establishment	43.7207412	7.255268900000003			real_estate_agency
+1	Stéphane Plaza Immobilier Nice Gorbella	ChIJt7O6LwPPzRIR8vKjb98nync	real_estate_agency|point_of_interest|establishment	43.7211639	7.256260800000001	True		real_estate_agency
+2	Agence Immobilière Pro-Immo Contact	ChIJQ0k67PrPzRIRoPw-M5WtOLw	real_estate_agency|point_of_interest|establishment	43.722518	7.2560619	True		real_estate_agency
+3	Oréa Immobilier - Nice Nord	ChIJI5ANpIbPzRIRP4ZIn1Jjnrc	real_estate_agency|point_of_interest|establishment	43.72255699999999	7.2560531	True		real_estate_agency
+4	Era Immobilier Nice Nord	ChIJJaJt_frPzRIRTV6VbG0Jl6k	real_estate_agency|point_of_interest|establishment	43.720574	7.256697299999999	True		real_estate_agency
+5	Blue Riviera Immobilier	ChIJzWdWcfrPzRIResq12VbUyds	real_estate_agency|point_of_interest|establishment	43.7225924	7.258164199999999			real_estate_agency
+6	CAJUN	ChIJlSt7leTPzRIR4z3kcha690w	real_estate_agency|point_of_interest|establishment	43.7195574	7.253118300000001	True		real_estate_agency
+7	Rodriguez Fabrice	ChIJaW50V-TPzRIRDV7gQTlFEdI	real_estate_agency|point_of_interest|establishment	43.7201353	7.251947899999998			real_estate_agency
+8	EMPORIUM SYNDIC	ChIJlWpnCAvQzRIRC3tDnvL60ak	real_estate_agency|point_of_interest|establishment	43.7201353	7.251947899999998			real_estate_agency
+9	Fiduciaire Expertise Comptable	ChIJdw7UOfzPzRIRvgP-r-L7ANc	accounting|finance|real_estate_agency|point_of_interest|establishment	43.72017779999999	7.2515817			real_estate_agency
+10	Dr Sabine SELLAM	ChIJWQcvfvvPzRIRnRiiziD4bRg	dentist|real_estate_agency|health|point_of_interest|establishment	43.71891739999999	7.257046799999998	True		real_estate_agency
+11	L'ADRESSE CEC CESSOLE - NICE NORD	ChIJ_dJNYOTPzRIRk-ksJuoONxQ	real_estate_agency|finance|point_of_interest|establishment	43.719629	7.251684000000001	True		real_estate_agency
+12	Cannes Commerces Entreprises	ChIJy2CfieTPzRIRiEHJk9An4IA	real_estate_agency|point_of_interest|establishment	43.7193719	7.2519448			real_estate_agency
+13	L'ADRESSE CEC NICE NORD	ChIJCYT3yvHPzRIRdSg2Bct9ns4	real_estate_agency|point_of_interest|establishment	43.7247541	7.255712900000001	True		real_estate_agency
+14	100% Immo	ChIJAQCwluXPzRIRyvN4nK-jQEM	real_estate_agency|point_of_interest|establishment	43.72245909999999	7.250831299999999			real_estate_agency
+15	Nexity	ChIJR3RCJAjQzRIRZthrpu0HJPQ	real_estate_agency|point_of_interest|establishment	43.72245909999999	7.250831299999999	True		real_estate_agency
+16	A Immobilier	ChIJAc9hiOTPzRIR55s-tULymB0	real_estate_agency|point_of_interest|establishment	43.7192131	7.251930199999998			real_estate_agency
+17	A2 Property: estate agency Nice Nord	ChIJXYSNCajazRIRyE6iz_dt9O4	real_estate_agency|point_of_interest|establishment	43.71901969999999	7.2520855	True		real_estate_agency
+18	O.P.J.I.M.M	ChIJC3sj37zPzRIR3SIn4zjE-44	real_estate_agency|point_of_interest|establishment	43.7182912	7.256646399999999	True		real_estate_agency
+19	Ctim Logecos de Gorbella	ChIJN4H3yvHPzRIRH1w5MpF_g3c	real_estate_agency|point_of_interest|establishment	43.7250579	7.255635099999999			real_estate_agency
+20	Immobilière Prestige	ChIJrwnemfnPzRIRoNEo6px3Zj8	real_estate_agency|point_of_interest|establishment	43.7209276	7.2608606	False	9 Av. du Ray, 06100 Nice	real_estate_agency
+21	Etude des Vosges	ChIJr2sDr-_PzRIR5wIa6KZKNlM	real_estate_agency|point_of_interest|establishment	43.7250956	7.251821499999999		3 Av. de Saint-Sylvestre, 06100 Nice	real_estate_agency
+22	Agence CENTURY 21 Optimmo Nice Nord	ChIJx1SRru_PzRIRiSrYEelHp2c	real_estate_agency|point_of_interest|establishment	43.7253763	7.252144500000001	True	2 Av. de Saint-Sylvestre, 06100 Nice	real_estate_agency
+23	AGENCE PRIVILEGE	ChIJbVkGPePPzRIRq4odpEexZu8	real_estate_agency|point_of_interest|establishment	43.7169142	7.253301	True	80 Bd de Cessole, 06100 Nice	real_estate_agency
+24	Akorimmo Nice Nord	ChIJ22IdFuPPzRIRFf_hamGtnm4	finance|real_estate_agency|point_of_interest|establishment	43.716943	7.252959199999999	True	63 Bd de Cessole, 06100 Nice	real_estate_agency
+25	Orpi Nice Transactions Immo	ChIJJYceGOPPzRIRW3fa6bIx_R4	real_estate_agency|point_of_interest|establishment	43.7167115	7.253085700000001	True	59 Bd de Cessole, 06100 Nice	real_estate_agency
+26	gairaut real estate - real nice and nice north	ChIJs3fKwvzPzRIRRTs5I2PqG60	real_estate_agency|point_of_interest|establishment	43.716468	7.255800000000001	True	1 Av. Clément Ader, 06100 Nice	real_estate_agency
+27	Agence immobilière Nice nord - Votre-agence-immo.fr	ChIJH3xR9_zPzRIROnSAcZORBsE	real_estate_agency|point_of_interest|establishment	43.7163833	7.2568527	True	49 Av. Cyrille Besset, 06100 Nice	real_estate_agency
+28	Ja Immobilier	ChIJ80qVG_nPzRIR3JYDC_g2QCo	real_estate_agency|point_of_interest|establishment	43.7195061	7.2621624		93 Av. Alfred Borriglione, 06100 Nice	real_estate_agency
+29	DS IMMOBILIER Nice Nord	ChIJT8l8-_jPzRIRBoot_F9RHyo	real_estate_agency|point_of_interest|establishment	43.7197539	7.262940299999999	True	168 Av. Saint-Lambert, 06100 Nice	real_estate_agency
+30	Arthurimmo.com NICE Liberté Immo	ChIJCeaF527bzRIRDJVMUxL3nUg	real_estate_agency|finance|point_of_interest|establishment	43.7170826	7.2610252	True	1 Rue Puget, 06100 Nice	real_estate_agency
+31	CENTURY 21 - Gilles Bossé Immobilier - Gestion Locative	ChIJW_82K_bPzRIR0f_CQZSjWDo	real_estate_agency|point_of_interest|establishment	43.724922	7.265003099999999	True	6 Av. Alfred de Vigny, 06000 Nice	real_estate_agency
+32	ORPI DASA Nice	ChIJExv6RP7PzRIRhbbAnWZsZqQ	real_estate_agency|point_of_interest|establishment	43.7148249	7.2617017	True	42 Av. Alfred Borriglione, 06100 Nice	real_estate_agency
+33	Agence Nestenn Immobilier Nice Nord	ChIJkZju0kfPzRIRydtBUmPY0fM	real_estate_agency|point_of_interest|establishment	43.7154224	7.262754600000001	True	110 Av. Saint-Lambert, 06100 Nice	real_estate_agency
+34	Valrose immobilier	ChIJ-68iq__PzRIRLV_h4E_Gj5Y	real_estate_agency|point_of_interest|establishment	43.7152929	7.262799199999999	True	108 Av. Saint-Lambert, 06100 Nice	real_estate_agency
+35	Agence immobilière Nice Collines - Votre-agence-immo.fr	ChIJHXixoO3PzRIR8qRq3SFMHck	real_estate_agency|point_of_interest|establishment	43.7304098	7.252319300000001	True	1 Bd Henri Sappia, 06100 Nice	real_estate_agency
+36	B'Nice Immo	ChIJHZXVgxnRzRIRhep2cU2_6X8	real_estate_agency|point_of_interest|establishment	43.7128715	7.259536799999999	True	17 Rue Molière, 06100 Nice	real_estate_agency
+37	Nice Premium Immobilier	ChIJ-5Y1Yd3PzRIR-YG4E43PzdE	real_estate_agency|point_of_interest|establishment	43.7122602	7.262129799999999	True	21 bis Rue Michel-Ange, 06100 Nice	real_estate_agency
+38	Century 21 Maison de l'Immobilier	ChIJ22qlxwHQzRIRNl9R0z2dbSQ	real_estate_agency|point_of_interest|establishment	43.7120787	7.261940300000001	True	16 Av. Alfred Borriglione, 06100 Nice	real_estate_agency
+39	ORPI Welc'home Immobilier Nice	ChIJj5MJMwLQzRIReyCnzZWIjPk	real_estate_agency|point_of_interest|establishment	43.7111344	7.259090599999999	True	8 Bd Auguste Raynaud, 06100 Nice	real_estate_agency
+40	Inter Immobilier	ChIJN9kXLe_PzRIRkKNgfrMX9X0	real_estate_agency|point_of_interest|establishment	43.7255606	7.249504999999999	True	22 Av. de Saint-Sylvestre, 06100 Nice	real_estate_agency
+41	SAG IMMOBILIER	ChIJ2b7gxv7PzRIRk6ybLSAkCg0	real_estate_agency|point_of_interest|establishment	43.7172479	7.2615284	False	66 Av. Alfred Borriglione, 06100 Nice	real_estate_agency
+42	La Rosa Immobilier	ChIJBzhmsv3PzRIRhFugA-wqn0U	real_estate_agency|point_of_interest|establishment	43.7142067	7.258532199999999		49 Bd Auguste Raynaud, 06100 Nice	real_estate_agency
+43	Lambda Immobilier	ChIJR2E4mgHQzRIRSRYkHEGvf68	real_estate_agency|point_of_interest|establishment	43.7113321	7.260850899999999	True	9 Rue Joseph et Xavier de Maistre, 06000 Nice	real_estate_agency
+44	BôMarché Immobilier	ChIJv2dpsAHQzRIRo7Ypd0BEfvc	real_estate_agency|point_of_interest|establishment	43.71145509999999	7.261983099999998	True	14 Av. Alfred Borriglione, 06100 Nice	real_estate_agency
+45	Immobilier2nice Maison2nice	ChIJjbrhxQPQzRIRtIxaLVI7ZeM	real_estate_agency|finance|point_of_interest|establishment	43.710303	7.258887	True	1 Bd Auguste Raynaud, 06100 Nice	real_estate_agency
+46	Nat'immo Nice by Jean-Philippe Gasteau	ChIJw2KIgKPFzRIRM4nlUYYZrB8	real_estate_agency|point_of_interest|establishment	43.7207275	7.27204	True	15 Av. Reine Victoria, 06000 Nice	real_estate_agency
+47	Cimiez Boulevard Immobilier	ChIJG-0PZFHFzRIR82FgZnFmGlo	real_estate_agency|finance|point_of_interest|establishment	43.7176796	7.272530199999999	True	92 Bd de Cimiez, 06000 Nice	real_estate_agency
+48	ICI Info Conseil Immobilier	ChIJSVWqSgHQzRIRYRD_Vi4dmQ4	real_estate_agency|point_of_interest|establishment	43.7084817	7.261365399999999	True	8 Rue Clément Roassal, 06000 Nice	real_estate_agency
+49	ORPI LP Invest Nice	ChIJA0qtbwfQzRIRVOkpA3hHenU	real_estate_agency|point_of_interest|establishment	43.7064961	7.2645269	True	2 Av. Malaussena, 06000 Nice	real_estate_agency
+50	CENTURY 21 Cabinet Marchal	ChIJ_6duYQXQzRIR7Je6BZMkWH4	real_estate_agency|point_of_interest|establishment	43.7040406	7.2559936	True	83 Bd Gambetta, 06000 Nice	real_estate_agency
+51	Parc Immobilier	ChIJlRI28w_QzRIRRMATA244k-Q	real_estate_agency|point_of_interest|establishment	43.7037753	7.2558563	True	81 bis Bd Gambetta, 06000 Nice	real_estate_agency
+52	Agence Immobilière Wilson Nice	ChIJU9DaBaTazRIRkVgT_lZl3Us	real_estate_agency|point_of_interest|establishment	43.7021458	7.2651015	True	10 Av. Georges Clemenceau, 06000 Nice	real_estate_agency
+53	Citya Baie des Anges	ChIJCQ4AIajazRIREg7-B_dtqlE	real_estate_agency|finance|point_of_interest|establishment	43.7026962	7.267603899999999	True	35 Av. du Marechal Foch, 06000 Nice	real_estate_agency
+54	Agence Passy	ChIJXbZweg7QzRIRYRpXnOKxwwI	real_estate_agency|point_of_interest|establishment	43.6998375	7.2563216	True	4 Pl. Franklin, 06000 Nice	real_estate_agency
+55	ANG Immobilier	ChIJi4TtdQ7QzRIRecNqe5Kdllc	real_estate_agency|point_of_interest|establishment	43.6992535	7.2558962	True	47 Bd Gambetta, 06000 Nice	real_estate_agency
+56	Eric Immo	ChIJfwlIrzrQzRIRD1OkeWGEBZQ	real_estate_agency|point_of_interest|establishment	43.7049381	7.233242499999998	True	173 Bd de la Madeleine, 06000 Nice	real_estate_agency
+57	L'Agence M	ChIJ1bT67QnQzRIRuP4xun0aRXA	real_estate_agency|point_of_interest|establishment	43.6992749	7.2646268	True	19 Bd Victor Hugo, 06000 Nice	real_estate_agency
+58	Petrova Immobilier	ChIJ8apr1aXazRIRqsSwED7beoA	real_estate_agency|point_of_interest|establishment	43.7007545	7.270753999999999	True	30 Rue Pastorelli, 06000 Nice	real_estate_agency
+59	leprince® Immobilier	ChIJyXiUHQrQzRIR4CZ9izkLk30	real_estate_agency|point_of_interest|establishment	43.69871	7.264602999999999	True	26 Rue du Maréchal Joffre, 06000 Nice	real_estate_agency

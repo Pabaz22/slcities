@@ -1,0 +1,15 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Post Office	ChIJL_RUuC7PzRIR0KrVwe2Ja_E	post_office|finance|point_of_interest|establishment	43.7229663	7.255755799999999	False	post_office
+1	Manguila Christian	ChIJfeCNOvnPzRIRTbxPyFWPZS0	post_office|finance|point_of_interest|establishment	43.71848539999999	7.261787799999999		post_office
+2	Post Office	ChIJWRCStfHPzRIRDtX0YPrOCaU	post_office|finance|point_of_interest|establishment	43.72504579999999	7.256114200000001	True	post_office
+4	La Poste - Nice Saint Barthélémy	ChIJCfsD7PzPzRIRo0gOhfRkxFo	post_office|finance|point_of_interest|establishment	43.7168655	7.2561639	True	post_office
+5	Post Office Espace Clients Pro	ChIJUaWGri3PzRIRQ_iTakc1QLw	post_office|finance|point_of_interest|establishment	43.7168569	7.256185999999999	True	post_office
+6	Post Office Relay	ChIJgRKTKEfPzRIRwub27jfuBas	post_office|finance|point_of_interest|establishment	43.7183372	7.252265	True	post_office
+8	La Poste	ChIJkxy9nFPFzRIRt2XszaUeRuo	post_office|finance|point_of_interest|establishment	43.7151698	7.271562199999999	True	post_office
+9	Post Office	ChIJTyxAO1vFzRIRs1TJ4r3N0YY	post_office|finance|point_of_interest|establishment	43.72488	7.275080000000001	True	post_office
+10	Post Office	ChIJ__8vvuzPzRIRIzuFkU5C-0I	post_office|finance|point_of_interest|establishment	43.731244	7.249116000000001		post_office
+11	Post Office	ChIJg4b_mADQzRIRbzt5QYjxzhg	post_office|finance|point_of_interest|establishment	43.70961610000001	7.263792199999999	True	post_office
+12	Post Office Relay	ChIJe-3XAVDRzRIRJ7Wjx6m88nI	post_office|finance|point_of_interest|establishment	43.711272	7.2484188	True	post_office
+13	Post Office Relay	ChIJu3KA4PvRzRIRor5Clwe728Y	post_office|finance|point_of_interest|establishment	43.70833179999999	7.2563093	False	post_office
+14	O.p.s Services	ChIJf42rIRnQzRIRtlFfqkD0ycE	post_office|finance|point_of_interest|establishment	43.7082999	7.2465908		post_office
+15	Post Office	ChIJDb2G8UjFzRIR8HY_q-QJAv0	post_office|finance|point_of_interest|establishment	43.7197749	7.2830949	True	post_office

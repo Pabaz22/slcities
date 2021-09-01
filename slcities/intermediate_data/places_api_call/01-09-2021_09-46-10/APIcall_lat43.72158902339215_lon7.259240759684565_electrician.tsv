@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Bnelec	ChIJ3Q_lTFTPzRIRCODdq0hKx2w	electrician|point_of_interest|establishment	43.7209752	7.261282100000001	True		electrician
+1	ELECTRICITE NICOLAS CALIGARIS	ChIJi1SL_NvPzRIRQGydItovj5g	electrician|point_of_interest|establishment	43.7194919	7.260433900000001	True		electrician
+2	GTElectricité	ChIJe07KbPvPzRIRmhD5sJZR8jo	electrician|point_of_interest|establishment	43.71988589999999	7.256822199999999			electrician
+3	Caron Patrick	ChIJF17pvfrPzRIRcK9j4JQ0fUw	electrician|point_of_interest|establishment	43.7225715	7.2557209			electrician
+4	GENER-INTI	ChIJNSUCT_jPzRIRqKXkPqO7Yh0	electrician|point_of_interest|establishment	43.7209995	7.263029500000001	True		electrician
+5	BNS ELECTRICITE	ChIJAQCwWvjPzRIRdX_9bcV-gwY	electrician|point_of_interest|establishment	43.720772	7.263305000000001			electrician
+6	Bosson Claude Fabien	ChIJ7YVNsPrPzRIRGXVcnYDGv5A	electrician|point_of_interest|establishment	43.7224179	7.255015899999999			electrician
+7	Epa Concept	ChIJF8ErW-XPzRIRUXjbYSfyMfE	electrician|point_of_interest|establishment	43.7227086	7.2539971			electrician
+8	Cortone Electricité. ARTISAN	ChIJXQobnPzPzRIR7IgGf3a8ltg	electrician|general_contractor|point_of_interest|establishment	43.717939	7.256437999999998	True		electrician
+9	Letra de Carvalho Adao	ChIJzWXxV_vPzRIRfNNg8lB9wSw	electrician|point_of_interest|establishment	43.7184395	7.255192600000001			electrician
+10	Calleri Jerome Paul Gaston	ChIJX6-L0PjPzRIRzXG6bgjbBTc	electrician|point_of_interest|establishment	43.7182763	7.263362399999999			electrician
+11	VIA DEL COMMERCIO GIANO DEL UMBRIA	ChIJy0HR31vPzRIRDEOAqnMCKpw	painter|electrician|locksmith|plumber|roofing_contractor|general_contractor|point_of_interest|establishment	43.7175258	7.2623333	True		electrician
+12	E.G.L Electricité Générale du Littoral-SARL	ChIJNedezPHPzRIR3slDThK24tk	electrician|point_of_interest|establishment	43.72578559999999	7.255024000000001			electrician
+13	Del Valle Joseph	ChIJjz0nnOTPzRIRzLG8afzsqJg	electrician|point_of_interest|establishment	43.7187331	7.252917099999999			electrician
+14	Fournial Laurent	ChIJ3e2E9OTPzRIRW1z4JrqJXPY	electrician|point_of_interest|establishment	43.7198524	7.252110000000001			electrician
+15	Electricite Generale Installation/Dépannage	ChIJvWjO9OTPzRIRn4ECkyAoxDA	electrician|point_of_interest|establishment	43.7197622	7.252018800000002			electrician
+16	NVS RENOVATION SERVICE	ChIJ5eDGFszazRIRuu4-HkxBFyA	painter|electrician|general_contractor|point_of_interest|establishment	43.7198985	7.266568599999999	True		electrician
+17	Duclerc Olivier Andre	ChIJPfxRJYrPzRIR7jxy-Ghf1ZM	electrician|point_of_interest|establishment	43.7271151	7.257492100000001			electrician
+18	GECN	ChIJYw_d3PzPzRIR2Tf2CB6JdWY	electrician|point_of_interest|establishment	43.7164627	7.255643800000001			electrician
+19	Etablissement Sud Antenne	ChIJpQ2qieTPzRIRXWNQzLvQ2jg	electrician|point_of_interest|establishment	43.71901969999999	7.2520855			electrician
+20	Sarl Chauffage Clim Services	ChIJYfo5vOXPzRIRGxyP8cUf_Sk	electrician|point_of_interest|store|establishment	43.7219826	7.251011200000001	True	140 Bd de Cessole, 06100 Nice	electrician
+21	YES'ELEC	ChIJce5NwrLPzRIRrfIT5QNDKLo	electrician|point_of_interest|establishment	43.7211665	7.2506991	True	6 Rue de l'Orme, 06100 Nice	electrician
+22	E.G.L Electricité Générale du Littoral-SARL	ChIJ0UtB4OLPzRIRwtx17zYlbxY	electrician|point_of_interest|establishment	43.7162282	7.2529965		12 Av. du Caire, 06000 Nice	electrician
+23	Cedelec	ChIJz908JzDPzRIRCwL-g74dcio	electrician|point_of_interest|establishment	43.7137792	7.260544599999999	True	9 Rue Parmentier, 06100 Nice	electrician
+24	SUD EST ELECTRICITE	ChIJsy876anazRIRtB1S5dAbmt0	electrician|point_of_interest|establishment	43.7239312	7.2470062	True	villa auguste, 145 Avenue Cyrille Besset, Chem. des Carrières, 06100 Nice	electrician
+25	Fab Electric	ChIJwbPOUenPzRIRR6VaQZu17S4	electrician|point_of_interest|establishment	43.727722	7.2486426	True	41 Bd las Planas, 06100 Nice	electrician
+26	Centurioni Electricité	ChIJSe5amgHQzRIR2c-M4pPMRUg	electrician|point_of_interest|establishment	43.7112779	7.2606815		11 Rue Joseph et Xavier de Maistre, 06100 Nice	electrician
+27	Electric'antennes Azur Technisat	ChIJ-Y_rBVHFzRIRXB8qvOQTgkA	electrician|point_of_interest|establishment	43.7200817	7.273664600000001	True	71 Bd de Cimiez, 06000 Nice	electrician
+28	V-Tech	ChIJgdwkgOvPzRIRASXaD35QAt4	electrician|point_of_interest|establishment	43.73059430000001	7.249249	True	73 Bd Henri Sappia, 06100 Nice	electrician
+29	GUIZONNE JACKY ELECTRICIEN	ChIJbQmyx8jRzRIRW4YAa2O6LdY	electrician|point_of_interest|establishment	43.7104025	7.264737899999999	True	5 Rue François Pellos, 06000 Nice	electrician
+30	Bat'elec Tinee	ChIJB7_aLarazRIRe3abnBQwaj0	electrician|point_of_interest|establishment	43.708592	7.267522499999999		16 Av. Raymond Comboul, 06000 Nice	electrician
+31	j.a.m.s electricite	ChIJT8JbCunbzRIRwyCestwNdys	electrician|point_of_interest|establishment	43.7080466	7.2670492	True	11 B Rue Marceau, 06000 Nice	electrician
+32	SARL LE CANN Electricité	ChIJE8CiG6nazRIRii1ETuOwq_E	electrician|point_of_interest|establishment	43.7065339	7.2690039	True	5 Rue Biscarra, 06000 Nice	electrician
+33	Immelec	ChIJj0gAlqjazRIRy0kYNCLWvQY	electrician|point_of_interest|establishment	43.704077	7.269364500000001		4 Rue d'Alger, 06000 Nice	electrician
+34	AITEC	ChIJrfFO1svazRIR4WAGi59WHA0	electrician|point_of_interest|establishment	43.7047836	7.2451648		102-104 Av. Estienne d'Orves Prolongée, 06000 Nice	electrician
+35	Alternative Habitat	ChIJP-JC0NzPzRIRDUvNxOjRh4U	electrician|painter|plumber|general_contractor|point_of_interest|establishment	43.7008498	7.2702594	True	10 Rue Blacas, 06000 Nice	electrician
+36	Nouvelle Génération Electrique	ChIJg-2HkDbFzRIRLH-tv-_fteE	electrician|point_of_interest|establishment	43.7167272	7.290436199999998	True	43 Bis Bd Pierre Semard, 06300 Nice	electrician
+37	stars elec renovation	ChIJDbusHsHbzRIRItpQAz1yXac	electrician|point_of_interest|establishment	43.7001643	7.274600699999999	True	34 Rue Gioffredo, 06000 Nice	electrician
+38	Chris'Elec Services	ChIJL3JljzPFzRIRPAvLSo84t-4	electrician|point_of_interest|establishment	43.7143708	7.2915221		10 Rue Acchiardi de Saint-Léger, 06300 Nice	electrician
+39	Supevolution Électricien NICE	ChIJjWXCi-MozBIRZQVBeDGkrWY	electrician|point_of_interest|establishment	43.6978291	7.2693624	True	3 Pl. Massena, 06000 Nice	electrician
+40	Inter Elec Batiment	ChIJsRfKGfLPzRIRPCa_ExYTpKM	electrician|point_of_interest|establishment	43.7278755	7.255705799999999		12 Bd Comte de Falicon, 06100 Nice	electrician
+41	HERCEG J.D.O.O	ChIJcyElp6zFzRIRkmHV08szCo4	electrician|plumber|general_contractor|point_of_interest|establishment	43.7129075	7.266339500000001	True	19 Av. Caravadossi, 06100 Nice	electrician
+42	Charpentier Rene	ChIJkQgVpgHQzRIR9YBL4nphsHw	electrician|point_of_interest|establishment	43.71092530000001	7.2616926		1 Av. Béatrix, 06100 Nice	electrician
+43	Atelec	ChIJl48VrgbQzRIRuqWv9p0XrvY	electrician|point_of_interest|establishment	43.7080942	7.260471199999999		23 Rue Clément Roassal, 06000 Nice	electrician
+44	Sarl BW Elec	ChIJlbtPdKnazRIRphwSEDCXwts	electrician|point_of_interest|establishment	43.70706999999999	7.2679411		14 Bd Raimbaldi, 06000 Nice	electrician
+45	B.O.U. Nelli	ChIJRf9QSyfQzRIRKn13SKpwa9I	electrician|point_of_interest|establishment	43.713732	7.238284999999999		Sur les collines, 173 Rte Saint-Pierre Féric Bâtiment B, 06000 Nice	electrician
+46	Tchah Electricite	ChIJUcx-6kfFzRIRw4VvPhombZc	electrician|point_of_interest|establishment	43.7222039	7.2855329		6 Rue du Colonel Gassin, 06000 Nice	electrician
+47	Electricien Nice	ChIJ5c1MZAjRzRIR57KKrsJiAI8	electrician|point_of_interest|establishment	43.6997285	7.2533596	True	13 Av. Shakespeare, 06000 Nice	electrician
+48	Bério Electricité	ChIJJV3gobrazRIRX6LIpQgEG-c	electrician|point_of_interest|establishment	43.7024102	7.2773068		9 Rue Penchienatti, 06000 Nice	electrician
+49	Hay Elec	ChIJrV5BELfRzRIRi2uURg7s0Os	electrician|point_of_interest|establishment	43.7057479	7.2326577	True	183 Bd de la Madeleine, 06000 Nice	electrician
+50	MCP Valette	ChIJ8X4R-cvazRIR702J5jbzsVc	electrician|point_of_interest|establishment	43.7046709	7.2845966	True	30 Rue Georges Ville, 06300 Nice	electrician
+51	Pro électricien - Electricité générale	ChIJqX4d8jrQzRIR4CHODcnGgEg	electrician|point_of_interest|establishment	43.7035169	7.2346075	True	151 Bd de la Madeleine, 06000 Nice	electrician
+52	Eclair Service	ChIJn2qsHRPQzRIR3hmuLHjfN-U	electrician|plumber|general_contractor|point_of_interest|establishment	43.6962756	7.251977	True	31 Rue Bottero, 06000 Nice	electrician
+53	Alp' Azur Electricité	ChIJ73QnU7razRIRkL9ScGDplGw	electrician|point_of_interest|establishment	43.7001226	7.2792299		7 Rue Neuve, 06300 Nice	electrician
+54	CAULETIN - Electricité, Pompes, Fournitures Industrielles, Réparations	ChIJsXsudsvazRIRGoSraPG3qx0	electrician|point_of_interest|establishment	43.7089344	7.2914321	True	10 Rue de l'Armée d'Orient, 06300 Nice	electrician
+55	Nice elec	ChIJKdxfeEHbzRIRcr1TdQ5hRWo	electrician|point_of_interest|establishment	43.6991829	7.2788558	True	10rue Saint Augustin, 06300 Nice	electrician
+56	Electricité ARMANINI	ChIJLZGoRMjazRIRWmzVA2f45IA	electrician|car_repair|home_goods_store|point_of_interest|store|establishment	43.703408	7.2887534	True	66 Rue Barberis, 06300 Nice	electrician
+57	Azur Elec	ChIJX4GfGsnazRIRatVlVH7fPDk	electrician|point_of_interest|establishment	43.7048143	7.2904516	True	37 Bd de Riquier, 06300 Nice	electrician
+58	Ms Electricite	ChIJx6125LfazRIR2248aijm-Sg	electrician|point_of_interest|establishment	43.7035688	7.289611499999999	True	27 Bd de Riquier, 06300 Nice	electrician
+59	Ecotherm Services Chauffage Climatisation Electricite	ChIJhUTBWMjazRIRkr-vLya5P-E	electrician|point_of_interest|establishment	43.70340960000001	7.289464000000001		06300 Nice	electrician

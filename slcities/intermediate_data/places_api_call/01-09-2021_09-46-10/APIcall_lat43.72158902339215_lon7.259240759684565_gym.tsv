@@ -1,0 +1,53 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Keepcool Nice Gorbella	ChIJi92Ae_vPzRIRghmUqqfrll4	gym|health|point_of_interest|establishment	43.7185054	7.2564989	True		gym
+1	abcc yoga & meditation	ChIJbdKEoPzPzRIRYUj5WtU6Ur4	gym|health|point_of_interest|establishment	43.71831	7.255921999999999			gym
+2	FITNESS FEVER	ChIJNUkC-ffPzRIRoh9BYFNWxck	gym|health|point_of_interest|establishment	43.7226593	7.265243700000001	True		gym
+3	Salle Malatesta	ChIJ3TKFrPzPzRIRMYB6oJrr60s	gym|health|point_of_interest|establishment	43.7181308	7.254560000000001	True		gym
+4	azur service	ChIJB208rOXPzRIRMr8r4dqQAkw	gym|health|point_of_interest|establishment	43.7212204	7.2513612			gym
+5	Fm Dance School	ChIJAbj6_p7PzRIRp5JHl0Slwjs	gym|health|point_of_interest|establishment	43.717784	7.2652015	True		gym
+6	Sport's Life	ChIJDzwKT_vPzRIRcr-R4BYJn2k	gym|health|point_of_interest|establishment	43.7170369	7.254118	True		gym
+7	Gymnase Valrose	ChIJ_2pwCFbFzRIRqwtubExAFoI	gym|health|point_of_interest|establishment	43.7177845	7.2656028			gym
+8	Surya Yoga	ChIJ8abRZ_HPzRIR8-kGUnhWT9U	gym|health|point_of_interest|establishment	43.715505	7.260309199999999			gym
+9	Vitaclub Nice Gym	ChIJnVeAL-PPzRIREVnHhRA5su0	gym|health|point_of_interest|establishment	43.7165053	7.253831200000001	True		gym
+10	Gäyoga	ChIJibLfvdfPzRIRJ4ePwYz-4gg	gym|health|point_of_interest|establishment	43.71479619999999	7.260982299999999			gym
+11	Monsite	ChIJq6p2R_7PzRIREn4cEdWlfHA	gym|health|point_of_interest|establishment	43.7144117	7.261724600000001			gym
+12	World Gym Center	ChIJ6WuWSe_PzRIREb9X0Fg23A4	gym|health|point_of_interest|establishment	43.7245757	7.2495015	True		gym
+13	Smart boxing	ChIJJ8P2s9XPzRIRPAnBxhveII4	gym|health|point_of_interest|establishment	43.71381050000001	7.260479999999999	True		gym
+14	Hatha Yoga Studio	ChIJgaHJegLQzRIRLUyNIy6VAto	school|gym|health|point_of_interest|establishment	43.71274589999999	7.259715300000001	True		gym
+15	Gymnase Brancolar	ChIJKfeZDVrFzRIRLiAF6dDV-So	gym|health|point_of_interest|establishment	43.7225928	7.271821999999999			gym
+16	Nice Nord Boxing Club	ChIJmaySUOTPzRIR1g4CyJsSkSQ	gym|health|point_of_interest|establishment	43.72256120000001	7.271833100000001	False		gym
+17	Nice Pilates Center	ChIJoUw4jrXRzRIRrEOqCeNhSE8	gym|health|point_of_interest|establishment	43.7122693	7.259183099999999	True		gym
+18	Pilates Institute Nice	ChIJHQk9OaTazRIRFfNAhbWlCfA	gym|health|point_of_interest|establishment	43.7122537	7.2616527			gym
+19	Gv Cimiez	ChIJgXgo8cjFzRIRxVFvECdI2P8	gym|health|point_of_interest|establishment	43.7259	7.271548300000001	False		gym
+20	VitaLiberté	ChIJJcM0KQLQzRIRmGj8mUkHeFE	gym|health|point_of_interest|establishment	43.7113027	7.259558699999999	True	21 Rue Joseph et Xavier de Maistre, 06100 Nice	gym
+22	Nice Gym	ChIJcx6uDATQzRIRV9nRYGu2vzQ	gym|health|point_of_interest|establishment	43.70841410000001	7.259380600000001		32 bis Rue Clément Roassal, 06000 Nice	gym
+23	Keep Cool Nice Gorbella	ChIJz5yXZATQzRIRwKYLqY1WSCY	gym|health|point_of_interest|establishment	43.7079819	7.2575763	True	45 Rue Clément Roassal, 06000 Nice	gym
+24	Keepcool Nice Roassal	ChIJbdx5ZATQzRIRoBwHxSPrs9Q	gym|health|point_of_interest|establishment	43.70794799999999	7.2576578	True	45 Rue Clément Roassal, 06000 Nice	gym
+25	Basic-Fit Nice Rue Clément Roassal	ChIJ-223O_LRzRIR_XNjtuJJEow	gym|health|point_of_interest|establishment	43.7078885	7.2566835	True	55 Rue Clément Roassal, 06600 Nice	gym
+26	AMT Yoga Concept Nice	ChIJuSiss1DQzRIRxcc2dlESI_A	gym|health|point_of_interest|establishment	43.7069052	7.2625982	True	7 Rue de Dijon, 06000 Nice	gym
+27	Salle de sport Nice Jean Médecin - Fitness Park	ChIJr2KjYrLbzRIRCRUDPQwjmgI	gym|health|point_of_interest|establishment	43.7041392	7.2660023	True	54 Av. Jean Médecin, 06000 Nice	gym
+28	Basic-Fit Nice Avenue de Notre Dame	ChIJ58zzGqzbzRIRf9c7cq7EDBY	gym|health|point_of_interest|establishment	43.7040623	7.2676181	True	22 Avenue Notre Dame, 06000 Nice	gym
+29	USC & GYM	ChIJbU27bRDQzRIReMHYatDqrPQ	gym|health|point_of_interest|establishment	43.7034965	7.252937699999999	True	2 Av. Nicolas II, 06000 Nice	gym
+30	Basic-Fit Nice Avenue Desambrois	ChIJATVMt7PbzRIRPBVRfDCFGhw	gym|health|point_of_interest|establishment	43.7046863	7.2727657	True	5 Av. Desambrois, 06000 Nice	gym
+31	Keepcool Nice Etoile	ChIJESY4EabazRIR_yh_Dph757Q	gym|health|point_of_interest|establishment	43.7027109	7.2697113	True	6 Rue du Dr Albert Balestre, 06000 Nice	gym
+32	O'Sport	ChIJhxdQuqfazRIR8CtuWS7xXm8	gym|health|point_of_interest|establishment	43.7016529	7.2670816		27 Av. Jean Médecin, 06000 Nice	gym
+33	Salle de sport Nice Vérany - Fitness Park	ChIJtUx65AHbzRIRE_3J7cPtyvQ	gym|health|point_of_interest|establishment	43.7115294	7.284739	True	28 Boulevard Jean-Baptiste Vérany, 2 Pl. de Tende, 06300 Nice	gym
+34	Power Plate	ChIJu8m_jQ7QzRIR0Ree5E1Wddw	gym|health|point_of_interest|establishment	43.7000885	7.257779399999999	True	13 Rue Guiglia, 06000 Nice	gym
+36	becker gym	ChIJ46YWmaXazRIRamvFseo7BzE	gym|health|point_of_interest|establishment	43.7019272	7.272939200000001	True	25 Rue Tonduti de l'Escarène, 06000 Nice	gym
+38	Aquabike	ChIJU1kjbaXazRIRpTfPn22xd5k	gym|health|point_of_interest|establishment	43.7017006	7.274183099999999	True	26 Rue Tonduti de l'Escarène, 06000 Nice	gym
+39	Onlyfit Studio - salle de sport santé	ChIJ5V5GE6XazRIRyBopjzS3ZSM	gym|health|point_of_interest|establishment	43.701589	7.274320599999999	True	24 Rue Tonduti de l'Escarène, 06000 Nice	gym
+40	SO FIT! GYM	ChIJ2WdhEfnPzRIRlkNs0hmSVes	spa|school|gym|health|point_of_interest|establishment	43.71178099999999	7.263296	True	4 Rue de Grammont, 06100 Nice	gym
+42	Future Gym Côte D'azur - Gymnastics Artistic - Baby Gym - Trampoline	ChIJpWYZt3DPzRIRssAXs3gntXM	gym|health|point_of_interest|establishment	43.7084413	7.2593725	False	bis, 32 Rue Clément Roassal, 06000 Nice	gym
+43	Club Sport Passion	ChIJ80puKanazRIR0HjH53wujz0	gym|health|point_of_interest|establishment	43.7055096	7.2702171	True	23 Av. Desambrois, 06000 Nice	gym
+46	Eau Zone	ChIJeXKyHa_azRIRybr2zs0Iv_c	gym|health|point_of_interest|establishment	43.7053159	7.272157899999999	True	Le Petit Palais, 6 Av. Desambrois, 06000 Nice	gym
+47	Sébastien ARABO Fitness & Coaching	ChIJEyZWOgnQzRIRIt_8-y2cSdI	gym|health|point_of_interest|establishment	43.7006246	7.260656699999999	True	24 Rue Rossini, 06000 Nice	gym
+48	Salle de sport Nice Pasteur - Fitness Park	ChIJTx5Un5nFzRIRxwUmUx4ibvE	gym|health|point_of_interest|establishment	43.721331	7.292056	True	5 Bd Pierre Semard, 06300 Nice	gym
+49	PRIME-FIT NICE ACROPOLIS ELECTROSTIMULATION MIHA BODYTEC	ChIJT1W9_8rbzRIR_3Sh6Fy79YE	gym|health|point_of_interest|establishment	43.70528669999999	7.2833478	True	7 Rue Barberis, 06300 Nice	gym
+51	Basic-Fit Nice Rue Maréchal Joffre	ChIJrbHmXaPRzRIRLj6RbrFFB_8	gym|health|point_of_interest|establishment	43.6976969	7.2592883	True	74 Rue du Maréchal Joffre, 06000 Nice	gym
+52	O. G. C. Nice Gym	ChIJI-_DGzTFzRIR505vcAxTfXA	gym|health|point_of_interest|establishment	43.7155899	7.2913063		2 Rue Gaston Charbonnier, 06300 Nice	gym
+54	Club Moving Nice - Sport & bien-être	ChIJ__8vEgrQzRIRNVS-4ZKQmC4	gym|spa|health|point_of_interest|establishment	43.697873	7.264571999999999	True	11 Rue Maccarani, 06000 Nice	gym
+55	Aquavelo	ChIJM3O9MbfazRIRB79caBOVoVQ	gym|health|point_of_interest|establishment	43.7039723	7.2820438	True	19 Av. de la République, 06300 Nice	gym
+56	VitaClub	ChIJj5b1srDazRIR8oM_a_WYETY	gym|health|point_of_interest|establishment	43.7030893	7.281200399999999	True	42 Av. de la République, 06100 Nice	gym
+57	Muscle Fire	ChIJ8zTcZQrQzRIR_6hsAfUKJBs	gym|health|point_of_interest|establishment	43.69682479999999	7.264299699999999	True	6 Rue de France, 06000 Nice	gym
+58	Crossfit XII	ChIJD5OnjW_bzRIRc7SJEZ0Veuk	gym|health|point_of_interest|establishment	43.7027949	7.2824975	True	12 Rue Cais de Pierlas, 06300 Nice	gym
+59	Salle de sport Nice Halévy - Fitness Park	ChIJi5Q7ggrQzRIR4b51F3WY00U	gym|health|point_of_interest|establishment	43.6959718	7.264995000000001	True	7 Rue Halévy, 06000 Nice	gym

@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Cave Le Temps d'un Vin	ChIJgcEN4vrPzRIRYVR7e2yiSlQ	liquor_store|food|point_of_interest|store|establishment	43.72071709999999	7.2563537	True			liquor_store
+1	Nicolas Nice Borriglione	ChIJP1VVVRHQzRIRNWHJAVT7biQ	liquor_store|food|point_of_interest|store|establishment	43.7145336	7.2617296	True	2.0		liquor_store
+2	Ivinio	ChIJI3I3xvzPzRIRgPExvaHpWWA	liquor_store|food|point_of_interest|store|establishment	43.7175273	7.252727099999999	True			liquor_store
+3	Happy Beer	ChIJt1oKforPzRIR6z8s_XM1LL8	liquor_store|point_of_interest|store|establishment	43.7210757	7.251505499999998	True			liquor_store
+4	Carrière Fabrice	ChIJKWScAwHQzRIRdOBG9TQfmDU	liquor_store|food|point_of_interest|store|establishment	43.710228	7.262799199999999				liquor_store
+5	La Brasserie Artisanale de Nice	ChIJAxVSvgDQzRIRrI6X8pbwlZI	bar|liquor_store|restaurant|food|point_of_interest|store|establishment	43.70932029999999	7.264122100000001	False			liquor_store
+6	Millesima	ChIJ57Kjx2fFzRIR1aaZoKCEq24	liquor_store|food|point_of_interest|store|establishment	43.7329207	7.274970000000001				liquor_store
+7	WILL'MAN	ChIJW1VAC5TRzRIRbkqigarYY20	restaurant|bar|liquor_store|food|point_of_interest|store|establishment	43.71167289999999	7.255376200000001	True			liquor_store
+8	Nicolas Nice Cessole	ChIJy-rg3wLQzRIRHdxn27V9JHQ	liquor_store|food|point_of_interest|store|establishment	43.7112448	7.255889299999999	True	2.0		liquor_store
+9	La Cave A Ju	ChIJrfn8Se_PzRIRRgUe6CBV4_o	liquor_store|food|point_of_interest|store|establishment	43.72463399999999	7.249476	True			liquor_store
+10	Vin	ChIJ__-DLAHQzRIREoWn1_JREBk	liquor_store|point_of_interest|store|establishment	43.7084951	7.262230299999998				liquor_store
+11	Nicolas Nice Malaussena	ChIJ9dUrMgfQzRIRaAuheHSoWBU	liquor_store|food|point_of_interest|store|establishment	43.7081277	7.263505200000002	True	2.0		liquor_store
+12	Aperitiv Nice Malaussena	ChIJ21sYPgfQzRIRIvspWvnoRvg	grocery_or_supermarket|liquor_store|food|point_of_interest|store|establishment	43.70711000000001	7.263677199999999	True			liquor_store
+13	L'épicurien Malaussena	ChIJs5MlyPTRzRIRKiAGwBI_G88	liquor_store|restaurant|food|point_of_interest|store|establishment	43.7067297	7.263928000000001	False			liquor_store
+14	ALDI	ChIJISZ1W3rRzRIRaw89WqKSmKU	supermarket|bakery|grocery_or_supermarket|liquor_store|food|point_of_interest|store|establishment	43.707452	7.259595999999999	True			liquor_store
+15	La Route des Vins	ChIJeWM3cwfQzRIRE8WzcF2Qymw	liquor_store|food|point_of_interest|store|establishment	43.70628050000001	7.264111199999999	True			liquor_store
+16	La Cantine Du Coin	ChIJYf_xk7TazRIRDnD3uJLwef8	liquor_store|point_of_interest|store|establishment	43.71031079999999	7.2825467				liquor_store
+17	Perrin Jean Paul Andre	ChIJ96NwHqnazRIRsj2b2NWNb2U	liquor_store|food|point_of_interest|store|establishment	43.70552530000001	7.2689026	True			liquor_store
+18	Cave Brunlux	ChIJ1zISKgTQzRIRUrDphchUU9Q	liquor_store|food|point_of_interest|store|establishment	43.7063802	7.2598876	True			liquor_store
+19	La Vinothèque	ChIJ8z4W3ajazRIRYs8V_IQFrCM	liquor_store|food|point_of_interest|store|establishment	43.704973	7.269290000000001	True			liquor_store
+20	V and B Nice Vauban	ChIJlzaKjRDbzRIRAOzAXf1OA-c	liquor_store|bar|restaurant|food|point_of_interest|store|establishment	43.7098232	7.2869948			19 Rue Jules et Aline Avigdor, 06300 Nice	liquor_store
+21	La Cave - Cave depuis 1951	ChIJQ6kvFQXQzRIRNphQKCqc-Ys	bar|liquor_store|restaurant|food|point_of_interest|store|establishment	43.7052368	7.255980200000001	True		95 Bd Gambetta, 06000 Nice	liquor_store
+22	Cave PMG	ChIJm6WNfD7FzRIRDW6Ij37NGYA	liquor_store|food|point_of_interest|store|establishment	43.7281665	7.291724199999999	True		87 Bd de l'Observatoire, 06300 Nice	liquor_store
+23	Nicolas Nice	ChIJo8bxAafazRIRxFHX8nFgRVU	liquor_store|food|point_of_interest|store|establishment	43.7009593	7.2675358	True	2.0	23 Av. Jean Médecin, 06000 Nice	liquor_store
+24	Amour Vinum by La Route des Vins	ChIJbfguzwnQzRIRu7Y6TmvQayE	liquor_store|food|point_of_interest|store|establishment	43.7003491	7.264494099999999	True		24 Rue Alphonse Karr, 06000 Nice	liquor_store
+25	Adegas et Terroirs	ChIJeVN763jbzRIR9-Sng_LkA4A	liquor_store|food|point_of_interest|store|establishment	43.7037714	7.2849055	False		32 Rue Ribotti, 06300 Nice	liquor_store
+26	Lady's wine	ChIJIyzCFAnQzRIR_H4wDcL99UA	liquor_store|food|point_of_interest|store|establishment	43.6999929	7.261533099999999	True		12 Av. Auber, 06000 Nice	liquor_store
+27	Amour Vinum by La Route Des Vins	ChIJz-wbHqTazRIRaq7MUpbykIk	liquor_store|food|point_of_interest|store|establishment	43.6991908	7.2706306	True		45 Rue de l'Hôtel des Postes, 06000 Nice	liquor_store
+28	Shop Pastis of Nice	ChIJuxJ63AbQzRIRBohsLFxMrL8	liquor_store|point_of_interest|store|establishment	43.70262719999999	7.2862933	True		3 Rue de Orestis, 06300 Nice	liquor_store
+29	Les Compagnons de la Grappe	ChIJW1jPM7razRIRkP7zojOs62A	liquor_store|bar|food|point_of_interest|store|establishment	43.70020299999999	7.280853199999999	True		2 Rue Catherine Segurane, 06300 Nice	liquor_store
+30	Cave Robini Vins et Spiritueux	ChIJrX3jHMnazRIRnJMeKajIaQI	liquor_store|food|point_of_interest|store|establishment	43.7044362	7.2899525	True		22 Rue du Dr Pierre Richelmi, 06300 Nice	liquor_store
+31	A l'AnqueVin	ChIJAZIFtnjbzRIRoYnSa8Hs0LY	grocery_or_supermarket|liquor_store|food|point_of_interest|store|establishment	43.7000904	7.281598300000001	True		10 Rue Cassini, 06300 Nice	liquor_store
+32	Nicolas Nice St Francois	ChIJOwp0crvazRIR4qGn_2WSrWY	liquor_store|food|point_of_interest|store|establishment	43.6987593	7.278485300000001	True	2.0	15 Rue St Francois, 06300 Nice	liquor_store
+33	Nicolas Nice Maccarani	ChIJ1-7kDArQzRIRArsrYlK6u14	liquor_store|food|point_of_interest|store|establishment	43.697322	7.264674299999998	True	2.0	7 Rue Maccarani, 06000 Nice	liquor_store
+34	La Cave de Stéphane	ChIJoThXWbvazRIRmQQF8PlfuPQ	liquor_store|food|point_of_interest|store|establishment	43.6981981	7.277274299999999	True		8 Rue du Collet, 06300 Nice	liquor_store
+35	La Belle Cave	ChIJwTbVQrjazRIRQD47G5OLELA	liquor_store|food|point_of_interest|store|establishment	43.7003431	7.2853128	True		8 Rue Bavastro, 06300 Nice	liquor_store
+36	Cave À Vins	ChIJJfrVXLjazRIRrxNPbmpjhx8	liquor_store|point_of_interest|store|establishment	43.70031849999999	7.2853488	True		8 Rue Bavastro, 06300 Nice	liquor_store
+37	rhum antique	ChIJ3zDb_3TbzRIRTzX6aeXFY0k	liquor_store|food|point_of_interest|store|establishment	43.6997538	7.2857095	False		6 Rue Lascaris, 06300 Nice	liquor_store
+38	DVS SPIRITS FRANCE	ChIJj6Rs5rjazRIRZDqXMmOQkx4	liquor_store|food|point_of_interest|store|establishment	43.698829	7.284756300000001			7 Pl. de l'Île de Beauté, 06300 Nice	liquor_store
+39	Les Grandes Caves Caprioglio	ChIJv6UOM6PazRIR2ScRxYf8xO0	liquor_store|food|point_of_interest|store|establishment	43.6963493	7.2759363	True		16 Rue de la Préfecture, 06300 Nice	liquor_store
+40	La Maison Difé & Rhum	ChIJKV3TKjTbzRIRg9OTWo4hkr8	liquor_store|food|point_of_interest|store|establishment	43.704499	7.289069899999999	False		60 Rue Arson, 06300 Nice	liquor_store
+41	La Cave Rembrandt	ChIJvdrcxrnbzRIRgaRLeopeXhI	liquor_store|point_of_interest|store|establishment	43.7039057	7.288997200000001	True		54 Bd Général Louis Delfino, 06300 Nice	liquor_store
+42	Une gorgée de fromage, une tranche de whisky	ChIJKzE-C7jazRIRTiNkUFrLRzQ	liquor_store|food|point_of_interest|store|establishment	43.7005297	7.284535	True		26 Rue Bonaparte, 06300 Nice	liquor_store
+43	Spiritus Drinks	ChIJ_2Wd6BfQzRIRAJHZEBzFc84	liquor_store|food|point_of_interest|store|establishment	43.7037315	7.244387199999999			99 Av. Estienne d'Orves Prolongée, 06000 Nice	liquor_store
+44	La Petite Loge	ChIJiVaZn7zazRIRnr8P9UTm8LA	bar|liquor_store|food|point_of_interest|store|establishment	43.6977627	7.2775547	False		10 Rue de la Loge, 06300 Nice	liquor_store
+45	Cave Bianchi depuis 1860	ChIJG_RxraPazRIRznsnOz01a0o	liquor_store|food|point_of_interest|store|establishment	43.6961646	7.2728169	True		7 Rue Raoul Bosio, 06300 Nice	liquor_store
+46	Coté Vin	ChIJJZ9IMqLazRIRNeNBFJ2qZNU	liquor_store|food|point_of_interest|store|establishment	43.6956679	7.271481099999999	True		14 Rue Saint-François de Paule, 06300 Nice	liquor_store
+47	Cave Rivoli	ChIJV0IijQzQzRIRiIMElpsFXgs	liquor_store|food|point_of_interest|store|establishment	43.6962023	7.258621300000001	True		6 Rue de Rivoli, 06000 Nice	liquor_store
+48	Nicolas Nice Gambetta	ChIJbQ3sCw3QzRIRY7lW_9R3vQw	liquor_store|food|point_of_interest|store|establishment	43.6965921	7.255952000000001	True	2.0	27 Bd Gambetta, 06000 Nice	liquor_store
+49	CAVAVIN - Nice	ChIJ_VTDQQvQzRIRPEMX4iZymjQ	liquor_store|food|point_of_interest|store|establishment	43.69541650000001	7.261175799999999	True		4B Rue Meyerbeer, 06000 Nice	liquor_store
+50	La Cave de Beaulieu	ChIJ8Vo7gjXbzRIRVhnd4tfVMnE	bar|liquor_store|food|point_of_interest|store|establishment	43.70590869999999	7.3320227	True		31 Bd du Maréchal Leclerc, 06310 Beaulieu-sur-Mer	liquor_store
+51	La Cave de Sophie	ChIJB_DRbGrbzRIRWEJLnvs9VZk	liquor_store|food|point_of_interest|store|establishment	43.6885743	7.3341577	True		8 Av. Jean Mermoz, 06230 Saint-Jean-Cap-Ferrat	liquor_store
+52	La Tonnelle	ChIJY8VvFu_OzRIRlTIxFmXwlFU	liquor_store|food|point_of_interest|store|establishment	43.7675814	7.2096309			06670 Colomars	liquor_store
+53	Nicolas	ChIJNb_v90HRzRIRgspa9tubLYY	liquor_store|food|point_of_interest|store|establishment	43.6597686	7.1977587	True	2.0	Cap 3000, 3000 Av. Eugène Donadeï, 06700 Saint-Laurent-du-Var	liquor_store
+54	Cave À Vin Epicerie Fine	ChIJk29jJOnTzRIR1Zq8i_wx3QY	liquor_store|point_of_interest|store|establishment	43.65811530000001	7.1650711	True		06800 Cagnes-sur-Mer	liquor_store
+55	Vinea Terra	ChIJPeA3JOnTzRIRG1gNJiLi5wQ	liquor_store|food|point_of_interest|store|establishment	43.6580807	7.1650494			17 Av. des Oliviers, 06800 Cagnes-sur-Mer	liquor_store
+56	La Cave de Claire	ChIJDQFmpFbCzRIRoe57J0lUgdk	liquor_store|point_of_interest|store|establishment	43.746318	7.40072	True		16 Av. du Général de Gaulle, 06320 La Turbie	liquor_store
+57	Les Vins Bavards	ChIJWzaM_wTDzRIRm0mYT6gBOcY	liquor_store|food|point_of_interest|store|establishment	43.74576099999999	7.4010356			15 Pl. Théodore de Banville, 06320 La Turbie	liquor_store
+58	Le Sommelier - Cave à vin	ChIJzTjIk3_TzRIRjqEiDXsMm8s	liquor_store|food|point_of_interest|store|establishment	43.664725	7.1544982	True		7 Av. Cyrille Besset, 06800 Cagnes-sur-Mer	liquor_store
+59	Cave ARCOISE	ChIJxW8oMbzTzRIRt6uPiw2Gj_U	supermarket|grocery_or_supermarket|liquor_store|food|point_of_interest|store|establishment	43.6657361	7.151129999999999	True		14 All. des Platanes, 06800 Cagnes-sur-Mer	liquor_store

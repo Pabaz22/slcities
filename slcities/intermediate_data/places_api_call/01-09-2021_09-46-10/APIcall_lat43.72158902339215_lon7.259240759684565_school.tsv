@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Tennis Club Méditerranée	ChIJ_4WJBfrPzRIRsCoT-GH2lVw	school|health|point_of_interest|establishment	43.72246699999999	7.259454999999998	True		school
+1	Primary School Du Ray - Gorbella	ChIJTXxzfPDPzRIRRNsrF5R4Vd0	school|point_of_interest|establishment	43.7232916	7.256477899999999			school
+2	Driving School Caravelle	ChIJXwQbA_nPzRIR3v6__-x2MTc	school|point_of_interest|establishment	43.7195373	7.262181099999999			school
+3	Nursery School Le Ray Gorbella	ChIJ3UVMafDPzRIRry7396x1fMQ	school|point_of_interest|establishment	43.72398260000001	7.256265900000001			school
+4	Metropolis Nice Côte D'azur	ChIJV0xGcfDPzRIR-8bGHBKgawQ	primary_school|school|point_of_interest|establishment	43.72398260000001	7.256265900000001			school
+5	Nursery School Du Ray - Gorbella	ChIJjZqtbvDPzRIR9bSau0N11tY	school|point_of_interest|establishment	43.7239828	7.256265900000001			school
+6	Artventure - During Chant Nice	ChIJtTufqfnPzRIRiVLFeQUOF3U	school|health|point_of_interest|establishment	43.7193884	7.2554712	False		school
+7	MED.PREPA	ChIJu4heF_nPzRIRw_J4byEbJ44	university|school|health|point_of_interest|establishment	43.71848539999999	7.261787799999999	True		school
+8	Ogec Saint Barthelemy	ChIJM8d8ErPPzRIR1D1Ot34pVbk	school|point_of_interest|establishment	43.7189716	7.255024			school
+9	School St Barthélemy	ChIJW1lsFkHPzRIRzLwRQEfRmro	school|point_of_interest|establishment	43.7188257	7.254989500000002			school
+10	Collège Saint-Barthélémy	ChIJoQxqnvzPzRIRiBz9R-S4Ckk	university|school|point_of_interest|establishment	43.7182532	7.2557455	True		school
+11	Galien	ChIJCfpYzP7PzRIRUVU1hTtW7Hg	school|point_of_interest|establishment	43.717777	7.2616915	True		school
+12	School Saint Thomas D'aquin	ChIJ_d8P1P7PzRIRzrQco0yny9s	school|point_of_interest|establishment	43.7174892	7.2619353	True		school
+13	Ecole Normale D'instituteurs	ChIJ-fAIXuXPzRIRsYrLyFSHPrY	school|point_of_interest|establishment	43.72296509999999	7.253227399999999			school
+14	Adsea 06 - Ime Les Chênes	ChIJ1ap8gfjPzRIRxsA-xARaSYA	school|point_of_interest|establishment	43.72058639999999	7.265557899999999			school
+15	Gymnasium Rancher	ChIJu-n_jfbPzRIROqVvVth3mpE	school|point_of_interest|establishment	43.7257755	7.2624087			school
+16	Médical Nice	ChIJLwzG0AHQzRIR16tFbrWbw4o	university|school|point_of_interest|establishment	43.71695889999999	7.261197799999999	False		school
+17	Primary School Rosalinde Rancher 1	ChIJLYcYEmLPzRIRL8CGJLzNanA	school|point_of_interest|establishment	43.7258119	7.262567799999999			school
+18	Lucru	ChIJae88dnHFzRIR8AFJPOzr-3s	school|point_of_interest|establishment	43.72177910000001	7.265996500000001			school
+19	Ecole Rosalinde Rancher 2	ChIJh4HIV_bPzRIRpRYEw9ue1HE	school|point_of_interest|establishment	43.7259921	7.262481399999999			school
+20	Nursery School Rosalinde Rancher	ChIJwwoZId_PzRIRRs55-_elOH0	school|point_of_interest|establishment	43.7261058	7.262398399999999		20 Vieux Chemin de Gairaut, 06100 Nice	school
+21	Primary School Von Derwies	ChIJkVsG6v7PzRIRobj4psfHXlk	primary_school|school|point_of_interest|establishment	43.7167381	7.2615437		60 Av. Alfred Borriglione, 06000 Nice	school
+22	Nursery School Von Derwies	ChIJ_xvcHf_PzRIR98PDyZBvTt8	school|point_of_interest|establishment	43.7167019	7.262377499999999		137 Av. Saint-Lambert, 06000 Nice	school
+23	Public Primary School Saint-Barthélémy	ChIJ52JgjvjPzRIRRE5UVN0eMyo	school|point_of_interest|establishment	43.7159797	7.254962399999999		17 Av. François Bottau, 06100 Nice	school
+24	Primary School Saint Barthélémy	ChIJo2_F5DnPzRIRNg11sXF72F0	school|point_of_interest|establishment	43.7155273	7.254139100000001		21 Av. François Bottau, 06000 Nice	school
+25	School Du Righi	ChIJ5aUQOzHPzRIRUV5mKA8nezY	primary_school|school|point_of_interest|establishment	43.715646	7.250246199999999	False	189 Av. de Pessicart, 06100 Nice	school
+26	School Des Oliviers	ChIJ6f1vse3PzRIRslS6-LtjIxI	primary_school|school|point_of_interest|establishment	43.729351	7.2526268	True	4 Rue Guillaume Borea, 06100 Nice	school
+27	Metropolis Nice Côte D'azur	ChIJ43tgyu3PzRIRuR0mOktFNyw	school|point_of_interest|establishment	43.729201	7.251977999999999		Rue Guillaume Borea, 06000 Nice	school
+28	École Élémentaire Fouont Cauda 1	ChIJg34iIk7FzRIRItw86mujl7g	primary_school|school|point_of_interest|establishment	43.7125405	7.265002399999999		6 Av. Lacroix, 06100 Nice	school
+29	Nursery School Las Planas	ChIJ603Ai-zPzRIRqTR826Hr0XQ	school|point_of_interest|establishment	43.7308197	7.250305599999999		71 Bd Henri Sappia, 06100 Nice	school
+30	Mode School	ChIJ87pSBQHQzRIRHhXcCt0b5j8	school|point_of_interest|establishment	43.7101728	7.261953200000001		06000 Nice	school
+31	Itecom Art Design	ChIJmzqTKFLFzRIRdwP5dcD4F6Q	university|school|point_of_interest|establishment	43.7168675	7.273887800000001	True	7 Bd Prince de Galles, 06000 Nice	school
+32	Nursery School Des Acacias	ChIJ2SEq1F_FzRIR-eAhQL3j108	school|point_of_interest|establishment	43.730839	7.2701007		123 Av. Henry Dunant, 06100 Nice	school
+33	Elementary School Des Acacias	ChIJh-GtYqTFzRIR0mCY4tTn67M	primary_school|school|point_of_interest|establishment	43.7322346	7.267749699999999	False	123 Av. Henry Dunant, 06100 Nice	school
+34	Nursery School Thérèse Roméo	ChIJ75wu_gPQzRIR8n_72zaZBI4	school|point_of_interest|establishment	43.7092865	7.259743800000001		4 Rue Alfred Binet, 06000 Nice	school
+35	Institution Nazareth	ChIJb1KeshzQzRIRoakSoo8a3dQ	secondary_school|school|point_of_interest|establishment	43.709413	7.2549996	True	9 Av. de Pessicart, 06100 Nice	school
+36	École maternelle publique Mantega	ChIJ4c2ahx7QzRIR3HqpWWC_h9o	school|point_of_interest|establishment	43.7115725	7.248609		60 Av. de Pessicart, 06100 Nice	school
+38	School Regina Coeli	ChIJnc8awFTFzRIReWephlBdpxk	school|point_of_interest|establishment	43.709832	7.2668738		5 Av. George V, 06000 Nice	school
+39	Elementary School Thérèse Roméo	ChIJleonfwPQzRIRsjpWNaXB1XU	school|point_of_interest|establishment	43.70841250000001	7.257088899999999		50 Rue Dabray, 06000 Nice	school
+40	School De Garcons	ChIJd7BeK_3PzRIRkzlwhrI1T9I	school|point_of_interest|establishment	43.7157211	7.254563099999999		17 Av. François Bottau, 06100 Nice	school
+41	Fuon Cauda 2	ChIJq3sRIgDQzRIRHXa8k7iA2UQ	primary_school|school|point_of_interest|establishment	43.7125044	7.2646203		78 Av. Saint-Lambert, 06100 Nice	school
+42	Elementary School Des Arènes De Cimiez	ChIJw3bkm9jFzRIRd68kxw6fa2I	school|point_of_interest|establishment	43.7185401	7.2750158	False	Av. Monte Croce, 06000 Nice	school
+43	Nursery School Roassal	ChIJ3x2uDATQzRIRHXyNqTbLboQ	school|point_of_interest|establishment	43.7082629	7.258567800000001		32 Rue Clément Roassal, 06000 Nice	school
+44	Primary School Mantega	ChIJM8QjKDzRzRIRPGsGoy76Gpg	school|point_of_interest|establishment	43.7092821	7.2516833	False	31 Av. de Pessicart, 06100 Nice	school
+45	Kindergarten Application Cimiez Application	ChIJheYSS07FzRIR0XeW5GkQlRg	school|point_of_interest|establishment	43.7186534	7.2775422		6 Av. Bellanda, 06100 Nice	school
+46	Nursery School Béllanda	ChIJLXQQaE7FzRIRkQ85OqUS5LY	school|point_of_interest|establishment	43.7180443	7.2780508		6 Av. Bellanda, 06100 Nice	school
+47	Nursery School Pessicart	ChIJdV9amNzPzRIRhRZjzL7MFrM	school|point_of_interest|establishment	43.7228782	7.238855200000001		376 Av. de Pessicart, 06100 Nice	school
+48	Primary School La Gairautine	ChIJAQD0J4rPzRIRI1lPjlNvET4	primary_school|school|point_of_interest|establishment	43.7368726	7.263326099999999		190 Av. de Gairaut, 06000 Nice	school
+49	School Esccom	ChIJdQSPSazazRIRltkzQvm3cY0	school|point_of_interest|establishment	43.7089639	7.272937499999999		2 Av. Brown Séquart, 06000 Nice	school
+50	School Jean Macé Ii	ChIJK8bXKknFzRIRwxdUa_m9JpE	school|point_of_interest|establishment	43.7189084	7.281506100000001		55 Bd Pasteur, 06000 Nice	school
+51	Primary School Saint Pierre De Feric	ChIJ19NzD9nPzRIR9YpwGUZ8Zok	school|point_of_interest|establishment	43.7179706	7.236121600000001		1 Cor des Oliviers, 06000 Nice	school
+52	Nursery School Pasteur	ChIJccp3q0fFzRIRFq0Wf1R9nGk	school|point_of_interest|establishment	43.7218466	7.283748999999999		17 Rue du Professeur Delvalle, 06000 Nice	school
+53	Elementary School Pasteur	ChIJhyVUn8PFzRIRpPCn_xmZN3I	school|point_of_interest|establishment	43.72214590000001	7.2837839		23-11 Rue du Professeur Delvalle, 06000 Nice	school
+54	Elementary School Auber	ChIJxUQamgjQzRIReHNGcigZJ7I	primary_school|school|point_of_interest|establishment	43.7030895	7.261612200000001	False	35 Av. Auber, 06000 Nice	school
+55	Nursery School Auber	ChIJobutJgbQzRIR58sNiAi03h8	school|point_of_interest|establishment	43.702925	7.261609300000001	False	35 Av. Auber, 06000 Nice	school
+56	Reborn Arziari	ChIJ4c8c_krFzRIRbCg18hn-AN4	school|point_of_interest|establishment	43.7149051	7.283978500000001		77 Rte de Turin, 06300 Nice	school
+57	Nursery School Dubouchage	ChIJkVend6_azRIRUp0hbtk97Tk	school|point_of_interest|establishment	43.7037287	7.2735086		3 Bd Dubouchage, 06000 Nice	school
+58	Primary School Ronchèse	ChIJ34RcSKbazRIRdip4MbwymeQ	school|point_of_interest|establishment	43.7019949	7.268644		Rue Spitalieri, 06000 Nice	school
+59	School Group Bon Voyage	ChIJmZmV3gzFzRIRdfF7JNRg_aw	primary_school|school|point_of_interest|establishment	43.725773	7.287848		212 Rte de Turin, 06300 Nice	school

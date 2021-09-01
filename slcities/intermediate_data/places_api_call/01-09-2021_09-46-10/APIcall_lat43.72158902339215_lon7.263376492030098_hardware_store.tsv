@@ -1,0 +1,9 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Basic Metal	ChIJuY8XDvvPzRIRNgwibQzSmb0	hardware_store|point_of_interest|store|establishment	43.7196879	7.255945400000001	True	hardware_store
+1	Betoconcept	ChIJZ3ZY3ALQzRIR8ye3rHiTWz8	hardware_store|point_of_interest|store|establishment	43.7115108	7.255776299999999		hardware_store
+2	Eureka Droguerie Petit	ChIJK_QL3APQzRIRAfUbywhZygM	hardware_store|furniture_store|home_goods_store|point_of_interest|store|establishment	43.7099334	7.2592895	True	hardware_store
+3	Balitrand Silvy Nice	ChIJdS6KyYXFzRIRBiYdEQqaeCQ	hardware_store|home_goods_store|point_of_interest|store|establishment	43.71298300000001	7.2785202	True	hardware_store
+4	Boites et Plus	ChIJhbjJjQbQzRIRGZ1ClwolIDk	hardware_store|point_of_interest|store|establishment	43.7065323	7.260981699999999	True	hardware_store
+5	Bricol Gambetta	ChIJ2cBYGQXQzRIRBpdE0A-2NBw	hardware_store|point_of_interest|store|establishment	43.70606679999999	7.256230599999998	True	hardware_store
+6	Comptoir Niçois Outillage Fixation CNOF	ChIJgW2fO0rFzRIRMvQ8bwSlVe0	hardware_store|point_of_interest|store|establishment	43.7158847	7.2851965		hardware_store
+7	AMC	ChIJBxAm1AfQzRIRKKsEOXKpzBg	hardware_store|home_goods_store|point_of_interest|store|establishment	43.7036369	7.262911499999999	True	hardware_store

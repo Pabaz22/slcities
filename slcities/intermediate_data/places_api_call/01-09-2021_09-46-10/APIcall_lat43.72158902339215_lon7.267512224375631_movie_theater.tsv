@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Vella Jean-Michel	ChIJm6VU7v_PzRIRDX5HxFI0W78	movie_theater|point_of_interest|establishment	43.7138123	7.264443200000001			movie_theater
+1	Pathé Gare du Sud	ChIJM_mafqDazRIRyk5PFFL415g	movie_theater|restaurant|food|point_of_interest|store|establishment	43.7092937	7.2606848	False		movie_theater
+2	Cinemau Sarl	ChIJ48l-9ATQzRIR2uIjKh6dm0I	movie_theater|point_of_interest|establishment	43.7073464	7.2570392			movie_theater
+3	Conferences Cinema Theatre	ChIJ19CT2QfQzRIRNxErmc2mTJ8	movie_theater|point_of_interest|establishment	43.7037744	7.263366700000001			movie_theater
+4	Théâtre Trimages	ChIJ62mb2QfQzRIR4bxmmwL2-t0	movie_theater|point_of_interest|establishment	43.703736	7.263488799999999			movie_theater
+5	Porn shop	ChIJa6ucm0rRzRIRBafPXYtrgno	movie_theater|point_of_interest|establishment	43.7036858	7.2613205			movie_theater
+6	Megarama Nice	ChIJi0Zs9hDbzRIRSDB-wab8oDw	movie_theater|point_of_interest|establishment	43.70956189999999	7.287395			movie_theater
+7	Cinémathèque de Nice	ChIJf3Uk07bazRIRTGL_P5u_DE4	movie_theater|point_of_interest|establishment	43.7053021	7.281531000000001			movie_theater
+8	Pathé Masséna	ChIJiV3buKfazRIRqgsIhiHVWL4	movie_theater|restaurant|food|point_of_interest|store|establishment	43.7020108	7.266942999999999	False		movie_theater
+9	Variétés Movie Theatre	ChIJ2yCjbKfazRIRzhETPZeQIoY	movie_theater|point_of_interest|establishment	43.69989349999999	7.266439699999999			movie_theater
+10	Cinéma Mercury	ChIJu84pIrrazRIRvbbZDyfZ0g8	movie_theater|point_of_interest|establishment	43.7010781	7.281130899999999			movie_theater
+11	BNK PRODUCTION	ChIJVYwFKdB95kcRghGxMbCVjEE	movie_theater|point_of_interest|establishment	43.6993233	7.2847425	True		movie_theater
+12	Rialto	ChIJReiYkgzQzRIR9pSLkKzriFg	movie_theater|point_of_interest|establishment	43.6960335	7.258753299999998			movie_theater
+13	Théâtre de Verdure	ChIJtUTXESjbzRIRJgk0Ek5DApQ	movie_theater|point_of_interest|establishment	43.70120000000001	7.30934			movie_theater
+14	Plein air La Citadelle	ChIJIeXhfSjbzRIRLqwOzevEwtE	movie_theater|point_of_interest|establishment	43.70148599999999	7.310945199999998			movie_theater
+15	Beaulieu's Movie Theater	ChIJ58QXBUrbzRIRct3RKZOZr24	movie_theater|point_of_interest|establishment	43.70416669999999	7.330833300000002			movie_theater
+16	Salle Jean Ferrat	ChIJj_5kbFrEzRIRIicSvrq8O7k	movie_theater|point_of_interest|establishment	43.7537879	7.320276700000001			movie_theater
+17	Théâtre de la Batterie	ChIJvY5csmjbzRIRWtI7yOoiO8c	movie_theater|point_of_interest|establishment	43.7064345	7.3360372			movie_theater
+18	Médiathèque-cinéma / salle municipale	ChIJ__-LU0DbzRIRcpL-m4AWhjo	movie_theater|point_of_interest|establishment	43.6916322	7.3325209			movie_theater
+19	Pathé Lingostière	ChIJaX5uiQPOzRIRuqx84B1r2Ws	movie_theater|restaurant|food|point_of_interest|store|establishment	43.7267147	7.189889399999998	False		movie_theater
+20	Open air cinema	ChIJBeRlOPjbzRIRaGsdINkdtkU	movie_theater|point_of_interest|establishment	43.6877943	7.334315699999999		12 Imp. du Cinéma, 06230 Saint-Jean-Cap-Ferrat	movie_theater
+21	Jardin du presbytère	ChIJq4_eFonbzRIRmvEFQaIw9ac	movie_theater|point_of_interest|establishment	43.6878659	7.3345364		2-12 Imp. du Cinéma, 06230 Saint-Jean-Cap-Ferrat	movie_theater
+22	Salle Charlie Chaplin	ChIJ__-LU0DbzRIRbi-eYF2DceY	movie_theater|point_of_interest|establishment	43.6881576	7.335135399999999		quai lindbergh, 06230 Saint-Jean-Cap-Ferrat	movie_theater
+23	Salle Juliette Gréco - Mediathèque	ChIJ6S5gnJbOzRIRXzNTez_Q3U8	movie_theater|point_of_interest|establishment	43.77144	7.194929999999999		Bd de la Colle Belle, 06510 Carros	movie_theater
+24	Cinéactions	ChIJq6o6dr3OzRIRFGdwdPrRfuc	movie_theater|point_of_interest|establishment	43.7755035	7.1924547		15 bis, Rue du Bosquet, 06510 Carros	movie_theater
+26	Maison Pour Tous	ChIJteKYl_PGzRIRTuTbCvRSR0g	movie_theater|point_of_interest|establishment	43.808089	7.3151383	False	Chem. du Gheit, 06390 Contes	movie_theater
+27	Cinéma Espace Centre	ChIJ61IAxpfTzRIR5e4M0VS2kn8	movie_theater|food|point_of_interest|store|establishment	43.662157	7.14866	False	5 Av. de Verdun, 06800 Cagnes-sur-Mer	movie_theater
+28	Culture Et Cinema	ChIJS3yjpp_SzRIRsv_At0fbLEg	movie_theater|point_of_interest|establishment	43.7201858	7.116012		228 Av. Colonel Meyere, 06140 Vence	movie_theater
+29	Cinéma Casino	ChIJBXo3Zl_NzRIRPG-HMSbBZI0	movie_theater|point_of_interest|establishment	43.723279	7.110573400000001		30 Av. Henri Isnard, 06140 Vence	movie_theater
+30	The Monaco Open Air Cinema	ChIJx8eN_o_CzRIRpByyhmMr8T0	movie_theater|point_of_interest|establishment	43.7312398	7.4270006	False	Chemin des Pêcheurs, 98000 Monaco	movie_theater
+31	Cinéma des Beaux-Arts	ChIJ10eMjYjCzRIRERHxDVxn-JY	movie_theater|point_of_interest|establishment	43.73774410000001	7.4262058	False	12 Av. d'Ostende, 98000 Monaco	movie_theater
+32	Cinéma CGR Cagnes-sur-Mer Polygone Riviera	ChIJxb-m33LTzRIRqomDO1s8f5E	movie_theater|point_of_interest|establishment	43.66358719999999	7.127907599999999	False	119 Av. des Alpes, 06800 Cagnes-sur-Mer	movie_theater
+33	Appart. Vue mer	ChIJHaB8I7DVzRIRWbShEYl8ll8	movie_theater|point_of_interest|establishment	43.6413288	7.1424128		1 All. de la Plage, 06270 Villeneuve-Loubet	movie_theater
+34	Le Pavillon Bleu	ChIJQ71oz2EszBIRJPYDGXMpnvA	movie_theater|point_of_interest|establishment	43.66632600000001	7.048935999999999		1 Place Jean-Antoine Merle, 06330 Roquefort-les-Pins	movie_theater
+35	Cinéma casino	ChIJG9CN2s3VzRIR2cuqUBZcf04	movie_theater|point_of_interest|establishment	43.58041799999999	7.125102		06600 Antibes	movie_theater
+36	Le Casino Cinéma d'Antibes	ChIJm2eMCm_VzRIR5HuoYp31UqM	movie_theater|point_of_interest|establishment	43.5798839	7.1224425		6-8 Av. 24 Août, 06600 Antibes	movie_theater
+37	Cinéma Eden	ChIJec5Dx9_rzRIROaPX0osiCic	movie_theater|point_of_interest|establishment	43.7754223	7.5018788		11 Rue de la République, 06500 Menton	movie_theater
+38	Cinema De L'Alma	ChIJo3Xu264rzBIRZOzDvRSKSPQ	movie_theater|point_of_interest|establishment	43.6191119	7.043507		06560 Valbonne	movie_theater
+39	Cinéma de Sospel	ChIJDYDBCWaVzRIRibyeO9_L2Sw	movie_theater|point_of_interest|establishment	43.8777803	7.4477694		29 Rue Saint-Pierre, 06380 Sospel	movie_theater
+40	Les Visiteurs du Soir	ChIJ7fH9QWQpzBIRv5JYxCSonD4	movie_theater|point_of_interest|establishment	43.6412929	7.0061016		Le pré des arts, 06560 Valbonne	movie_theater
+41	Cinéma Cannet Toiles	ChIJh-pdBwgqzBIRMoKEArG7_RU	movie_theater|point_of_interest|establishment	43.5760829	7.0176392		1 Rue Victorien Sardou, 06110 Le Cannet	movie_theater
+42	Cinéma La Strada	ChIJCTwkAAcpzBIR-lFoGe4cQXw	movie_theater|point_of_interest|establishment	43.6192731	6.972170699999999	False	201 Av. de Cannes, 06370 Mouans-Sartoux	movie_theater
+43	Cinéma International	ChIJ18S8fu6BzhIRcJaDLEPPUio	movie_theater|point_of_interest|establishment	43.5613	7.0200064		7 Rue du Maréchal de Logis J Fellegara, 06400 Cannes	movie_theater
+44	Regards jeunes sur le cinema	ChIJUxL6aZOBzhIR4zfy3tR7BVs	movie_theater|point_of_interest|establishment	43.5550064	7.022033		9 Rue Louis Braille, 06400 Cannes	movie_theater
+45	Cinéma Cinetoile Rocheville	ChIJq6oa9gKCzhIRwVHYEcuNBoQ	movie_theater|point_of_interest|establishment	43.5690873	7.004762899999999		2 Chem. du Périer, 06110 Le Cannet	movie_theater
+46	Star Cinéma	ChIJozc5PpSBzhIRdbHgaJqNb18	movie_theater|point_of_interest|establishment	43.552292	7.024445999999999		98 Rue d'Antibes, 06400 Cannes	movie_theater
+47	Olympia	ChIJX9L45o2BzhIR1s9cwE0k8ck	movie_theater|point_of_interest|establishment	43.55252	7.0166591	False	5 Rue de la Pompe, 06400 Cannes	movie_theater
+48	Arcades	ChIJ4eMR0Y2BzhIRNj5DIMeNVAI	movie_theater|point_of_interest|establishment	43.5523684	7.015367899999999	True	77 Rue Félix Faure, 06400 Cannes	movie_theater
+49	MJC PICAUD Concerts Cinéma Ateliers Arts vivants Jeunesse Studio 13	ChIJrRysgyaCzhIRqReJqkPCJPI	movie_theater|point_of_interest|establishment	43.5503868	7.001885499999999	True	23 Av. du Dr Raymond Picaud, 06400 Cannes	movie_theater
+50	Cinéma Le Studio	ChIJrdJtQFUvzBIRoudoGmuD89M	movie_theater|point_of_interest|establishment	43.658948	6.9220459		15 Bd du Jeu de Ballon, 06130 Grasse	movie_theater
+51	Cinéma Abc	ChIJvVUFQVUvzBIRu_vCs0Ro3oQ	movie_theater|point_of_interest|establishment	43.658948	6.9220459		15 Bd du Jeu de Ballon, 06130 Grasse	movie_theater
+52	CINEMA OLIMPIA	ChIJhxORYl7zzRIRsLe7-ATbGzw	movie_theater|point_of_interest|establishment	43.77844	7.665837000000001		Via Luigi Cadorna, 3, 18012 Bordighera IM, Italy	movie_theater
+53	Salle Léonard de Vinci	ChIJTQKoqtqczhIRQJFK9wIS5cQ	movie_theater|point_of_interest|establishment	43.5456755	6.939655		809 Bd des Écureuils, 06210 Mandelieu-la-Napoule	movie_theater
+54	Cinema Multisala Zeni	ChIJD9dsW8HzzRIRKsVAH6ktZAM	movie_theater|point_of_interest|establishment	43.7776734	7.6696525		Via S. Ampelio, 4, 18012 Bordighera IM, Italy	movie_theater
+55	Espace du Thiey	ChIJkzZ0YmIkzBIRjCpOREc73F8	movie_theater|point_of_interest|establishment	43.7005157	6.848331	True	101 All. Charles Bonome, 06460 Saint-Vallier-de-Thiey	movie_theater
+56	Entrevaux - Cinéma de Pays	ChIJpc7p_RRBzBIRk2b1Q-7UwqY	movie_theater|point_of_interest|establishment	43.9482431	6.8109043		Salle polyvalente, Pl. Louis Moreau, 04320 Entrevaux	movie_theater
+57	Cinéma Plein-Air	ChIJBYsQy7ebzhIRkkC_cylahkU	movie_theater|point_of_interest|establishment	43.4371084	6.8524227		Av. du Gratadis, 83700 Saint-Raphaël	movie_theater
+58	Sausses - Cinéma de Pays	ChIJZRDSLBtDzBIRxH5hzT0OA-s	movie_theater|point_of_interest|establishment	44.008908	6.7806817		Salle polyvalente, Montée de l'Auberge, 04320, Sausses	movie_theater
+59	Peyroules - Cinéma de Pays	ChIJVeT1N9YRzBIR2-2Hil7cUek	movie_theater|point_of_interest|establishment	43.81506419999999	6.6417126		Salle polyvalente Gilbert Sauvan, Rue de la Mairie, 04120 Peyroules	movie_theater

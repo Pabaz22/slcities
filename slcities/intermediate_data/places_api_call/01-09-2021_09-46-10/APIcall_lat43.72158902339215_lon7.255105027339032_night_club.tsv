@@ -1,0 +1,4 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	main_type
+0	Diapason	ChIJBWBNyDjRzRIRjI1EnYo5_qc	night_club|point_of_interest|establishment	43.7101728	7.261953200000002	night_club
+1	cez lucile	ChIJc56wFqvazRIRs-vUH70Hkko	night_club|point_of_interest|establishment	43.711306	7.2690678	night_club
+2	The Vault Nice	ChIJ40fdrgnRzRIRMrzzjgpRTys	night_club|bar|point_of_interest|establishment	43.7066127	7.264885399999999	night_club

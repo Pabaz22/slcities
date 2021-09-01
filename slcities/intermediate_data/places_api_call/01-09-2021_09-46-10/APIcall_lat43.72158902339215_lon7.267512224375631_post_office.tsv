@@ -1,0 +1,58 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+1	Manguila Christian	ChIJfeCNOvnPzRIRTbxPyFWPZS0	post_office|finance|point_of_interest|establishment	43.71848539999999	7.261787799999999			post_office
+2	Post Office	ChIJTyxAO1vFzRIRs1TJ4r3N0YY	post_office|finance|point_of_interest|establishment	43.72488	7.275080000000001	True		post_office
+3	La Poste	ChIJkxy9nFPFzRIRt2XszaUeRuo	post_office|finance|point_of_interest|establishment	43.7151698	7.271562199999999	True		post_office
+4	Post Office	ChIJL_RUuC7PzRIR0KrVwe2Ja_E	post_office|finance|point_of_interest|establishment	43.7229663	7.255755799999999	False		post_office
+5	Post Office	ChIJWRCStfHPzRIRDtX0YPrOCaU	post_office|finance|point_of_interest|establishment	43.72504579999999	7.256114200000001	True		post_office
+6	Post Office Espace Clients Pro	ChIJUaWGri3PzRIRQ_iTakc1QLw	post_office|finance|point_of_interest|establishment	43.7168569	7.256185999999999	True		post_office
+7	La Poste - Nice Saint Barthélémy	ChIJCfsD7PzPzRIRo0gOhfRkxFo	post_office|finance|point_of_interest|establishment	43.7168655	7.2561639	True		post_office
+8	Post Office	ChIJDb2G8UjFzRIR8HY_q-QJAv0	post_office|finance|point_of_interest|establishment	43.7197749	7.2830949	True		post_office
+9	Post Office Relay	ChIJgRKTKEfPzRIRwub27jfuBas	post_office|finance|point_of_interest|establishment	43.7183372	7.252265	True		post_office
+10	Post Office	ChIJg4b_mADQzRIRbzt5QYjxzhg	post_office|finance|point_of_interest|establishment	43.70961610000001	7.263792199999999	True		post_office
+12	Post Office Relay	ChIJu3KA4PvRzRIRor5Clwe728Y	post_office|finance|point_of_interest|establishment	43.70833179999999	7.2563093	False		post_office
+13	Post Office	ChIJ__8vvuzPzRIRIzuFkU5C-0I	post_office|finance|point_of_interest|establishment	43.731244	7.249116000000001			post_office
+14	Post Office Relay	ChIJwSiRnxjbzRIRHXHBxqejCXM	post_office|finance|point_of_interest|establishment	43.705	7.270999999999998	True		post_office
+15	Post Office	ChIJox-bAcHbzRIR2oq382-3quA	post_office|finance|point_of_interest|establishment	43.71	7.284599999999999	True		post_office
+16	Post Office Relay	ChIJe-3XAVDRzRIRJ7Wjx6m88nI	post_office|finance|point_of_interest|establishment	43.711272	7.2484188	True		post_office
+17	Post Office	ChIJ2-JoPDTFzRIRJis4lkJ3aG8	post_office|finance|point_of_interest|establishment	43.71530389999999	7.290544199999999	True		post_office
+18	Donaghy Glen	ChIJXYSNCajazRIRQPMg0OE9Eow	post_office|finance|point_of_interest|establishment	43.703426	7.266257000000002			post_office
+19	Post Office	ChIJ9wc9Sw_QzRIRxxYvwnLh7Ws	post_office|finance|point_of_interest|establishment	43.7033825	7.260844199999999	True		post_office
+20	Post Office	ChIJQ0898qfazRIRXig9o-5Tl5o	post_office|finance|point_of_interest|establishment	43.7024356	7.265859899999999	True	4 Av. Georges Clemenceau, 06000 Nice	post_office
+21	Postbank Nice Notre Dame	ChIJudUL7qfazRIR8KilbwpSvyQ	post_office|finance|point_of_interest|establishment	43.7023705	7.265847	True	4 Av. Georges Clemenceau, 06000 Nice	post_office
+22	Post Office Espace Clients Pro	ChIJ7beu6mHRzRIRs6cZfPSXR9s	post_office|finance|point_of_interest|establishment	43.7022862	7.2595964	True	50 Rue Berlioz, 06000 Nice	post_office
+23	Post Office Espace Clients Pro	ChIJK1R2mlzbzRIRYiu7O0P_XlI	post_office|finance|point_of_interest|establishment	43.7009104	7.2740535	True	18 Rue de l'Hôtel des Postes, 06000 Nice	post_office
+24	La Poste Nice Wilson	ChIJ3U9UG6XazRIR2XnP7vXJU5c	post_office|finance|point_of_interest|establishment	43.7008842	7.274047599999999	True	18 Rue de l'Hôtel des Postes, 06000 Nice	post_office
+25	Post Office	ChIJr4NcnMzazRIRFpZYE9VRNfU	post_office|finance|point_of_interest|establishment	43.7095984	7.292520199999999	True	9 Bd Saint-Roch, 06300 Nice	post_office
+26	La Poste	ChIJvyKAy7fazRIRd4XImSmDE5w	post_office|finance|point_of_interest|establishment	43.70426399999999	7.2858009	True	34 Rue Barberis, 06300 Nice	post_office
+27	Post Office Espace Clients Pro	ChIJ6zpzO43bzRIRoieVmDgIQ9Y	post_office|finance|point_of_interest|establishment	43.704242	7.285793599999999	True	34 Rue Barberis, 06300 Nice	post_office
+28	Post Office Relay	ChIJ7WpFTifbzRIR9ABAewUzfSg	post_office|finance|point_of_interest|establishment	43.70120000000001	7.2799	True	1 Pl. Garibaldi, 06300 Nice	post_office
+29	La Poste Nice Grimaldi BP	ChIJWxQ7_gnQzRIRmW-xxuiMSI0	post_office|finance|point_of_interest|establishment	43.6988884	7.265200500000001	True	20 Rue du Maréchal Joffre, 06000 Nice	post_office
+30	Post Office	ChIJR8H2rhLFzRIRjrd8WgsYMcY	post_office|finance|point_of_interest|establishment	43.73969	7.287515	True	87 Quai de la Banquière, 06730 Saint-André-de-la-Roche	post_office
+31	Post Office Relay	ChIJ60NGLsDbzRIR94ls5fMYtro	post_office|finance|point_of_interest|establishment	43.6996525	7.2823287	True	16 Rue Cassini, 06300 Nice	post_office
+32	Post Office Relay	ChIJk09br-DRzRIRrX7OBgbavDo	post_office|finance|point_of_interest|establishment	43.6971758	7.264855000000001	True	5 Rue Maccarani, 06000 Nice	post_office
+33	bureau de poste	ChIJX1-YmQvQzRIRSMGcsCXwg5k	post_office|finance|point_of_interest|establishment	43.69699929999999	7.2609808	True	26 Rue de la Buffa, 06000 Nice	post_office
+34	Post Office	ChIJbYUtAaPazRIR5CC1YW8C4LI	post_office|finance|point_of_interest|establishment	43.6960211	7.2737462	True	2 Rue Louis Gassin, 06300 Nice	post_office
+35	Post Office	ChIJ61CHLbnazRIRkj68iTsO9BI	post_office|finance|point_of_interest|establishment	43.6976489	7.2834214	True	6 Quai Papacino, 06300 Nice	post_office
+36	Post Office	ChIJE2j7gxLQzRIRTF0WCdlYYvM	post_office|finance|point_of_interest|establishment	43.6967512	7.2541606	True	12 Rue Bottero, 06000 Nice	post_office
+37	Post Office Relay	ChIJqeCZjx_bzRIRzAyKhHT2mvI	post_office|finance|point_of_interest|establishment	43.703415	7.296619	True	CARREFOUR MARKET, Bd du Mont-Boron N 2, 06300 Nice	post_office
+38	Post Office Agency Communal	ChIJZSyKynfFzRIRRqcnI54-nMw	post_office|finance|point_of_interest|establishment	43.748954	7.278804000000001	True	MAIRIE, 3 Pl. de l'Église, 06950 Falicon	post_office
+39	La Poste	ChIJCarhfNHazRIRzmYz6QNx6CY	post_office|finance|point_of_interest|establishment	43.7057139	7.300968999999999	False	100 Cor André de Joly, 06300 Nice	post_office
+40	Post Office Carré Pro Nice Garibaldi	ChIJWQE9mk3bzRIRkgJdl8froE8	post_office|finance|point_of_interest|establishment	43.703723	7.2856849	False	31 Rue Beaumont, 06300 Nice	post_office
+41	Post Office Espace Clients Pro	ChIJ434UvknRzRIRqcbTyYGESXw	post_office|finance|point_of_interest|establishment	43.6989206	7.265203499999999	True	20 Rue du Maréchal Joffre, 06000 Nice	post_office
+42	Nice Lympia	ChIJ592RLbnazRIRX5TeLC7abFs	post_office|finance|lodging|point_of_interest|establishment	43.6976706	7.2835389		6 Quai Papacino, 06300 Nice	post_office
+43	Post Office Edge Business	ChIJl25iBXXFzRIRTPBFInvM4OU	post_office|finance|point_of_interest|establishment	43.7480288	7.2847322	True	7 ZA la Vallière, 06730 Saint-André-de-la-Roche	post_office
+44	Post Office Relay	ChIJvSnUmNjbzRIRa8XM-Jja6lM	post_office|finance|point_of_interest|establishment	43.695509	7.286589	True	50 Bd Stalingrad, 06300 Nice	post_office
+45	La poste	ChIJ92silxzFzRIRsRxEbpxHHpU	post_office|finance|point_of_interest|establishment	43.7373041	7.302458199999998	True	12 Chem. du Château Saint-Pierre, 06300 Nice	post_office
+47	Post Office Relay	ChIJBzmk32HRzRIRS0018hutMWM	post_office|finance|point_of_interest|establishment	43.7004724	7.2373622	True	109 Bd de la Madeleine, 06000 Nice	post_office
+48	Post Office	ChIJLQdnyCnbzRIRuIvpAyPdvf8	post_office|finance|point_of_interest|establishment	43.7034272	7.309243299999999	True	6 Av. Albert 1er, 06230 Villefranche-sur-Mer	post_office
+49	Post Office Espace Clients Pro	ChIJBX3Sy4nbzRIR312blf0ORs0	post_office|finance|point_of_interest|establishment	43.7034201	7.309586400000001	True	6 BIS Av. Albert 1er, 06230 Villefranche-sur-Mer	post_office
+50	Post Office Relay	ChIJW6oDfmLFzRIRWyy1lLmhMhI	post_office|finance|point_of_interest|establishment	43.710214	7.314713999999999	True	55 Bd de la Corne d'Or, 06230 Villefranche-sur-Mer	post_office
+51	La Poste Nice Magnan	ChIJK1YzMkLQzRIRGh0hY54d0PA	post_office|finance|point_of_interest|establishment	43.6898879	7.241271200000001	True	LE STELLA MARIS, 46 Av. de la Californie, 06200 Nice	post_office
+52	Post Office Relay	ChIJmw8sHlbPzRIR2dPeR-txO9E	post_office|finance|point_of_interest|establishment	43.732665	7.2164528	True	SARL CIPRATTA SPAR, 507 Rte de Bellet, 06200 Nice	post_office
+53	La Poste	ChIJ-6K3HvzEzRIRgMbO1nlHoks	post_office|finance|point_of_interest|establishment	43.7430558	7.312715499999999	True	39 Bd du Général de Gaulle, 06340 La Trinité	post_office
+54	Post Office	ChIJ2TNKmVDQzRIRM0sbcYG0iis	post_office|finance|point_of_interest|establishment	43.6829895	7.2325976	True	180 Av. de la Californie, 06200 Nice	post_office
+55	Post Office	ChIJQxKwNSrbzRIRCkP-PruhJcs	post_office|finance|point_of_interest|establishment	43.7067683	7.331139500000001	True	Pl. Georges Clèmenceau, 06310 Beaulieu-sur-Mer	post_office
+56	Post Office Agency Communal	ChIJ25OaQlrEzRIR9nJBUwk1nmA	post_office|finance|point_of_interest|establishment	43.754	7.320599999999999	True	34 Av. Jean Moulin, 06340 Drap	post_office
+57	Post Office	ChIJZU-lLvzOzRIRLlNHSYK0MSI	post_office|finance|point_of_interest|establishment	43.7590875	7.2190682	True	1 Pl. de la Madone, 06670 Colomars	post_office
+58	Post Office Relay	ChIJHzLKoZHRzRIRWxP_Oa84MME	post_office|finance|point_of_interest|establishment	43.6825	7.2197	True	TABAC PRESSE LES TERRASSES, Cor Fleurie, 06200 Nice	post_office
+59	Post Office	ChIJryjsdkDbzRIRKN0q5RN4Y3w	post_office|finance|point_of_interest|establishment	43.6912402	7.3303081	True	51 Av. Denis Semeria, 06230 Saint-Jean-Cap-Ferrat	post_office

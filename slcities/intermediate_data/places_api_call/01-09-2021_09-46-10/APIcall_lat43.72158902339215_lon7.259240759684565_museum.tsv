@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Musée du Prieuré du Vieux Logis	ChIJrSGiOfvPzRIRLMLYfTs_eDA	museum|tourist_attraction|point_of_interest|establishment	43.7207217	7.255024000000001			museum
+1	Métropole Nice Côte d'Azur	ChIJd4ANKfvPzRIRh82l0yftDec	museum|point_of_interest|establishment	43.7200484	7.2551486			museum
+2	Booster	ChIJ7eUhXB7PzRIRU6qikeo33Sc	museum|point_of_interest|establishment	43.7190257	7.2632414			museum
+3	EPA Villa Arson	ChIJKcipIOXPzRIRkXtrZ0RoqUA	museum|point_of_interest|establishment	43.7208374	7.253436299999999			museum
+4	Kisbee	ChIJ97pJ2zbFzRIRtJD2ej94VVk	museum|point_of_interest|establishment	43.7198516	7.267062999999997			museum
+5	Chez Marion	ChIJySW5Yv7PzRIRBxsdphAlY4I	museum|point_of_interest|establishment	43.71555369999999	7.260625699999999	True		museum
+6	Plaque commémorative	ChIJBbn4kAnFzRIRg8FmWGXZAXA	museum|point_of_interest|establishment	43.7154983	7.271319500000002			museum
+7	Picasso style	ChIJtS0S2vrRzRIRoj27YIU0v7g	museum|point_of_interest|establishment	43.7101728	7.261953200000002			museum
+8	ChAmunda temple katra	ChIJyb6v827RzRIRQxlp3T1M6Cc	museum|point_of_interest|establishment	43.7101728	7.261953200000002			museum
+9	Музей марка шагала	ChIJhesQwH3RzRIRTBaMXiJLWaQ	museum|point_of_interest|establishment	43.7101728	7.261953200000002			museum
+10	Musee d'Archeologie	ChIJs1YSxFHFzRIRv7otGUG4rso	tourist_attraction|museum|point_of_interest|establishment	43.71928779999999	7.2751191	False		museum
+11	Réunion des Musées Nationaux et Grand Palais	ChIJsTsVxFHFzRIRse6gAeZe7w0	museum|point_of_interest|establishment	43.7196181	7.275272300000001			museum
+12	Laure Millet , sculpteur	ChIJN4_DbhzQzRIRp2C58fLBhho	museum|point_of_interest|establishment	43.72402570000001	7.243293500000001			museum
+13	Cemenelum	ChIJlcMLLl3FzRIReyqZ1p3iPgA	museum|point_of_interest|establishment	43.71340319999999	7.2716578			museum
+14	Musée Matisse	ChIJnz74K1DFzRIRiRaLt2c5MhA	tourist_attraction|museum|point_of_interest|establishment	43.7193868	7.276243	False		museum
+15	Réunion des Musées Nationaux	ChIJJcvdmavazRIR3bJJ0toMrzE	museum|point_of_interest|establishment	43.7098141	7.2696348			museum
+16	parking musée matisse	ChIJ3Xs-oU_FzRIRB3TlJ_1H45U	museum|tourist_attraction|point_of_interest|establishment	43.7202028	7.2785406			museum
+17	Musée Franciscain de Cimiez	ChIJnz74K1DFzRIRjxiloP6Ck3Y	museum|tourist_attraction|point_of_interest|establishment	43.7199874	7.278814499999999	True		museum
+18	Galerie EVA VAUTIER	ChIJOxPIOwfQzRIRE0bMmHaXGbY	art_gallery|book_store|museum|point_of_interest|store|establishment	43.70747650000001	7.262956299999999	False		museum
+19	Marc Chagall National Museum	ChIJI9rouKvazRIRqmGBA1K3IzQ	museum|tourist_attraction|point_of_interest|establishment	43.7091523	7.269355999999997	False		museum
+20	Parkering	ChIJ6TYw4PTRzRIRRIcfBdcKChQ	museum|point_of_interest|establishment	43.7042008	7.265022300000001		4 Rue d'Alsace-Lorraine, 06000 Nice	museum
+21	Modern and Contemporary Art Museum (MAMAC)	ChIJn_uIYI_RzRIRhMlmR16MvJI	tourist_attraction|museum|point_of_interest|establishment	43.7015032	7.278351300000001	False	Place Yves Klein, 06000 Nice	museum
+22	Muséum d'Histoire naturelle de Nice	ChIJrY6Pb7razRIReq7DIqwyM7s	tourist_attraction|museum|point_of_interest|establishment	43.7017873	7.279681999999999	False	60 Bd Risso, 06300 Nice	museum
+23	scéno	ChIJOzQIkKTazRIRhgj_aGq6-6c	museum|point_of_interest|establishment	43.6986725	7.274104299999999	False	2 Rue Gubernatis, 06000 Nice	museum
+24	Villa Masséna Musée	ChIJhTGpmQzQzRIReHufaPpzC-I	tourist_attraction|museum|point_of_interest|establishment	43.6956097	7.258894799999999	False	65 Rue de France, 06000 Nice	museum
+25	Inrap Nice	ChIJkwjoD8vazRIRTrxNLLf02rA	museum|point_of_interest|establishment	43.70934339999999	7.2912506		Av. François Mitterrand, 06300 Nice	museum
+26	La Treille	ChIJyaCGqLvazRIRXpVG9M_COXw	museum|tourist_attraction|point_of_interest|establishment	43.6992621	7.2789609	True	1-7 Rue François Zanin, 06300 Nice	museum
+27	Musée de la Curiosité et de l'Insolite	ChIJP-2s3rfazRIRix77MHc652o	museum|point_of_interest|establishment	43.7035604	7.286505200000001		39 Rue Beaumont, 06300 Nice	museum
+28	Monumento a las víctimas del atentado del 14 de julio de 2016	ChIJlebOoq_RzRIRwO6fpdDiueA	museum|point_of_interest|establishment	43.69455010000001	7.259233099999999	False	32-35 Prom. des Anglais, 06000 Nice	museum
+29	Musée du Palais Lascaris	ChIJUwaVobzazRIR3m1H7yJQQo0	museum|tourist_attraction|point_of_interest|establishment	43.6976766	7.277245799999999	False	15 Rue Droite, 06300 Nice	museum
+30	Petit Musée de la Parfumerie	ChIJ9fEogaHazRIRED8l763JkQk	museum|point_of_interest|establishment	43.6955793	7.2705543		22 Rue Saint-François de Paule, 06300 Nice	museum
+31	Palais des Arts Jules Chéret	ChIJV56HqmzQzRIRfuBhQwKBTAc	museum|tourist_attraction|point_of_interest|establishment	43.6947379	7.2489365	True	33 Av. des Baumettes, 06000 Nice	museum
+32	Museum of Photography Charles Nègre	ChIJ4WcweKbazRIRkz2JycBURSY	tourist_attraction|museum|point_of_interest|establishment	43.6959194	7.2746111	False	1 Pl. Pierre Gautier, 06300 Nice	museum
+33	Musée des Beaux-Arts de Nice	ChIJ6_XyqmzQzRIRXV6O4YKDuFg	tourist_attraction|museum|point_of_interest|establishment	43.6945205	7.2488375	False	33 Av. des Baumettes, 06000 Nice	museum
+34	Musee	ChIJned2JsfazRIRsgSjNbnbRvM	museum|tourist_attraction|point_of_interest|establishment	43.697803	7.2892446	False	Imp. Victor lavagna, 06300 Nice	museum
+35	Human Palaeontology Terra Amata Museum	ChIJuyy7PsfazRIRJahfbuqHf4s	tourist_attraction|museum|point_of_interest|establishment	43.6978008	7.2892475	False	25 Bd Carnot, 06000 Nice	museum
+36	Métropole Nice Côte d'Azur	ChIJM06hL8fazRIRjUChZmGp36o	museum|point_of_interest|establishment	43.697615	7.2890076	False	23 Bd Carnot, 06300 Nice	museum
+37	Guynemer Muertos	ChIJObZj_b3azRIR0kPYbU2Yslo	museum|point_of_interest|establishment	43.6937138	7.2819531		12 Pl. Guynemer, 06300 Nice	museum
+38	Lympia Gallery (Old Steam)	ChIJfcsyg7_azRIRzMIAHoJMKpU	museum|tourist_attraction|point_of_interest|establishment	43.6947248	7.286194	False	2 Quai Entrecasteaux, 06300 Nice	museum
+39	Monument de Serge Raynaud de la Ferriere 1916-1962	ChIJbe8Epo7FzRIRQLktrfRb-2s	museum|point_of_interest|establishment	43.7477575	7.299821299999999		L'Ariane, 06300 Nice	museum
+41	Métropole Nice Côte d'Azur	ChIJ83AYoLzazRIR8Vg33k2lehk	museum|point_of_interest|establishment	43.6978618	7.277262899999999		8 Rue de la Loge, 06300 Nice	museum
+42	Métropole Nice Côte d'Azur	ChIJfc9HyaPazRIRkAKu9m3uXIk	museum|point_of_interest|establishment	43.6953859	7.2735891		77 Quai des États-Unis, 06300 Nice	museum
+43	Musée international d'Art naïf Anatole Jakovsky	ChIJS7KH-U_QzRIRZNGrbqySaR8	museum|tourist_attraction|point_of_interest|establishment	43.6861902	7.2328313	False	06200 Nice	museum
+44	Musées de la Citadelle	ChIJgfc5XCjbzRIRwdBc6NzXNjc	museum|tourist_attraction|point_of_interest|establishment	43.7027167	7.308924099999999	False	06230 Villefranche-sur-Mer	museum
+45	Citadelle SAINT ELME (ancien FORT)	ChIJDVtKv7HbzRIR4uvmshZg87Q	museum|point_of_interest|establishment	43.7018967	7.3107472		Chemins de Ronde, 06230, Villefranche-sur-Mer	museum
+46	Batterie de Mont Boron	ChIJd6k4CufazRIR3lQGwU-tsyM	museum|point_of_interest|establishment	43.6915235	7.300304199999999		110 Rte Forestière du Mont-Boron, 06300 Nice	museum
+47	Collection Roux	ChIJ0XdGYyjbzRIRHy5jNqvqCC0	museum|tourist_attraction|point_of_interest|establishment	43.7011296	7.310882200000001		06230 Villefranche-sur-Mer	museum
+48	Parkplatz	ChIJsxe5nLrRzRIRA3nE9pmt-Rc	museum|point_of_interest|establishment	43.6826645	7.2327878		179 Av. de la Californie, 06200 Nice	museum
+49	Musée National du Sport	ChIJqQL57JLRzRIRYldxi3l6poE	museum|tourist_attraction|point_of_interest|establishment	43.7062447	7.192220600000001	False	Stade Allianz Riviera, Bd des Jardiniers, 06200 Nice	museum
+50	Association Azuréenne des Amis du Musée de la Résistance Nationale	ChIJzT3ewKLRzRIRlqrTJNkfudE	museum|point_of_interest|establishment	43.687088	7.2028985	False	98 Av. Simone Veil, 06200 Nice	museum
+51	Musée Du Patrimoine Berlugan Andre Cane	ChIJpwLTtUrbzRIR5kyNvEYSVog	museum|tourist_attraction|point_of_interest|establishment	43.7084481	7.331242299999999		27 Bd Marinoni, 06310 Beaulieu-sur-Mer	museum
+52	Villa Ephrussi de Rothschild	ChIJjS8oYTjbzRIRTzKyZ7Dkw7E	museum|point_of_interest|establishment	43.6966527	7.328465599999999	False	1 Av. Ephrussi de Rothschild, 06230 Saint-Jean-Cap-Ferrat	museum
+53	Musee d'Art Classique de Mougins	ChIJWwn2sEvbzRIRRty0WLN96_A	museum|point_of_interest|establishment	43.7055568	7.333376800000001		40 Bd du Maréchal Leclerc, 06310 Beaulieu-sur-Mer	museum
+54	Greek Villa Kerylos	ChIJvWxT2UvbzRIRUDTgTqb_fkc	museum|tourist_attraction|point_of_interest|establishment	43.7031819	7.333894399999999	False	Rue Gustave Eiffel, 06310 Beaulieu-sur-Mer	museum
+55	Asian Arts Museum	ChIJ8yI11QLRzRIRHXn9-Zjb4m8	tourist_attraction|museum|point_of_interest|establishment	43.6680887	7.216057999999999	False	405 Prom. des Anglais, 06200 Nice	museum
+56	Castle Tourrette Levens	ChIJg-CTNP3FzRIRxZvjZxKhjdQ	museum|tourist_attraction|point_of_interest|establishment	43.7835961	7.276503300000001	False	277 Mnt du Château, 06690 Tourrette-Levens	museum
+57	Musée de Préhistoire de Tourrette-Levens	ChIJlzZMSuPFzRIR9mZna1FveAc	museum|tourist_attraction|point_of_interest|establishment	43.7847438	7.2762989	False	171 Mnt du Château, 06690 Tourrette-Levens	museum
+58	Musée des Métiers Traditionnels de Tourrette-Levens	ChIJlzZMSuPFzRIRlm0HgjtGtGQ	museum|point_of_interest|establishment	43.7847438	7.2762989	False	171 Mnt du Château, 06690 Tourrette-Levens	museum
+59	musée Renoir	ChIJZWsxGr_TzRIRg650R3GfJC0	museum|point_of_interest|establishment	43.6676571	7.1570242	False	Musée Renoir, 19 Chem. des Collettes, 06800 Cagnes-sur-Mer	museum

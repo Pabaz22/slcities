@@ -1,0 +1,5 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	main_type
+0	Les Villas de Cessole	ChIJ7QU7ueLPzRIRkDsS08Sqqrc	bus_station|transit_station|point_of_interest|establishment	43.7146823	7.253541100000001	bus_station
+1	Pessicart Inférieur	ChIJNYBzQB7QzRIR5wvrDH3VLwM	bus_station|transit_station|point_of_interest|establishment	43.71284749999999	7.247660300000001	bus_station
+2	Séréna Gairaut	ChIJeyelyozPzRIRkSvz1Wl-VlQ	bus_station|transit_station|point_of_interest|establishment	43.7324796	7.258504100000001	bus_station
+3	Parc Imperial	ChIJKZOhSBrQzRIRhEuVQILttZU	bus_station|transit_station|point_of_interest|establishment	43.7051997	7.250827600000001	bus_station
