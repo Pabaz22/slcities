@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	formatted_address	opening_hours.open_now	main_type
+0	Palais Ferdinand	ChIJX90ZLPrPzRIRI9LmykcInE0	lodging|point_of_interest|establishment	43.7207192	7.2594857			lodging
+1	Villa rose	ChIJ_3RM8GXPzRIR9izWsWzdflg	lodging|point_of_interest|establishment	43.72063789999999	7.261427200000001			lodging
+2	Palais Eden	ChIJc1ft4vrPzRIRfv9U8H0ESmI	lodging|point_of_interest|establishment	43.7207438	7.256340700000001			lodging
+3	Christelle lovelock	ChIJ93pY8RTPzRIRAv9olJEFKi4	lodging|point_of_interest|establishment	43.72023119999999	7.256402699999998			lodging
+4	Parc Gorbella	ChIJXw4hG_vPzRIRQydamPO82Qw	lodging|point_of_interest|establishment	43.7201304	7.2564473			lodging
+5	Hotel Du Couvent	ChIJiwot6fvPzRIRn39bDQVdgII	lodging|point_of_interest|establishment	43.7190062	7.259012200000002			lodging
+6	Bounin	ChIJZ7qUBPnPzRIRHc9fvVdfYPM	lodging|point_of_interest|establishment	43.71977999999999	7.262170000000001			lodging
+7	Zip	ChIJZ323nubPzRIRwRtwO4lpmBE	lodging|point_of_interest|establishment	43.71866240000001	7.261165900000001			lodging
+8	Residences Cléoline	ChIJg5C0ZvvPzRIRHFAyBeWjLIs	lodging|point_of_interest|establishment	43.71859179999999	7.256116999999999			lodging
+9	Les Terrasses De Malte	ChIJQX_7AvDPzRIRPQpvKvU98kQ	lodging|point_of_interest|establishment	43.7235802	7.254652500000001			lodging
+10	Le Florence	ChIJIbYQ0xjPzRIRQBF9UXHo__o	lodging|point_of_interest|establishment	43.7255946	7.258202299999999			lodging
+11	HAPPYFEW LES LILAS	ChIJy9C9OdTPzRIRPLEQP5A9iio	lodging|point_of_interest|establishment	43.7204181	7.264724500000002			lodging
+12	Chez val Peluso	ChIJ5zgl9HjPzRIRnrj7ZG9jL-I	lodging|point_of_interest|establishment	43.7256057	7.261956900000002			lodging
+13	Résidence De L'avenue	ChIJhe8uuf7PzRIRJY27o5WtzHo	lodging|point_of_interest|establishment	43.7170754	7.261043899999999			lodging
+14	Parking	ChIJbW3vUVDPzRIRy-H0RjiBxp8	lodging|point_of_interest|establishment	43.71696489999999	7.262463499999999			lodging
+15	Domicile Nice	ChIJMQkR-GvPzRIRvJ8j0sebK6Q	lodging|point_of_interest|establishment	43.7256383	7.254273			lodging
+16	Nissa Penthouse Ap3097	ChIJLUwSqOXPzRIR6vmaMiZSUrQ	lodging|point_of_interest|establishment	43.7215064	7.251698799999999			lodging
+17	Dolce Villa	ChIJAQAwXuPPzRIRz_D2jci7W5I	lodging|point_of_interest|establishment	43.7182843	7.253180899999998			lodging
+18	Villa Frederika	ChIJ___jyPzPzRIRmueowTczYxU	lodging|point_of_interest|establishment	43.7169607	7.255024			lodging
+19	Résidences Fleuries	ChIJ5dJIlKbPzRIRbcX3GyS4hLw	lodging|point_of_interest|establishment	43.7267875	7.262302199999998			lodging
+20	Hotel Villa Saint Hubert	ChIJGQaT6QHQzRIRIXVyWs9UHjM	lodging|point_of_interest|establishment	43.71253	7.261155599999999	26 Rue Michel-Ange, 06100 Nice	True	lodging
+21	B & B - B & B - VISTA AZZURRA	ChIJY6w-rh3QzRIR7UBWw3sWLAI	lodging|point_of_interest|establishment	43.7118448	7.251233500000001	80 Bd Mantega Righi, 06100 Nice	True	lodging
+22	Student Factory Nice Gare du Sud	ChIJqyfxTZ3RzRIRmSlsJf30CuQ	lodging|point_of_interest|establishment	43.7084189	7.2599778	2 All. Philippe Seguin, 06000 Nice		lodging
+23	Hôtel Monsigny	ChIJq4TyOgfQzRIRa6UZOXdMO1Y	lodging|point_of_interest|establishment	43.7078323	7.263022399999999	17 Av. Malaussena, 06000 Nice	True	lodging
+24	Nice Center Room	ChIJhYVuoAbQzRIRfjlzqV1nYzY	lodging|point_of_interest|establishment	43.7074136	7.2599459	20 Rue des Combattants en Afrique du N, 06000 Nice	True	lodging
+25	Hotel Mirabeau	ChIJxQ6uOgfQzRIRM3oUjXOBvqU	lodging|point_of_interest|establishment	43.7075679	7.263263800000001	15 Av. Malaussena, 06000 Nice		lodging
+26	Hôtel Parisien	ChIJXYE5wgbQzRIR-p2kAjnPz-8	lodging|point_of_interest|establishment	43.707351	7.261691000000001	10 Rue Vernier, 06000 Nice	True	lodging
+27	Hôtel Kyriad Nice Gare	ChIJTxh8fwfQzRIRLBJ0aeZ_DUA	lodging|point_of_interest|establishment	43.7058	7.265220999999999	35 Bd Raimbaldi, 06000 Nice		lodging
+28	Hotel le Noailles Nice Gare	ChIJR6KSSaTRzRIREWO1245ZzH8	lodging|point_of_interest|establishment	43.7057919	7.2651816	35 Bd Raimbaldi, 06000 Nice	True	lodging
+29	HOTEL AZUR RIVIERA	ChIJuUwDrqnazRIRioQZp4Pob8U	lodging|point_of_interest|establishment	43.7059229	7.2672612	19 Rue Assalit, 06000 Nice	True	lodging
+30	Hôtel Pastoral	ChIJ8aEaLqjazRIRhE36GAeZTOQ	lodging|point_of_interest|establishment	43.7053987	7.265911200000001	27 Rue Assalit, 06000 Nice	True	lodging
+31	Hôtel de Berne	ChIJiS7RkAfQzRIRSqAX9fAnEAE	lodging|point_of_interest|establishment	43.7051011	7.2644956	1 Av. Thiers, 06000 Nice	True	lodging
+32	Hotel 64 Nice	ChIJRV0FiAfQzRIRQpxoFXHbPLw	lodging|point_of_interest|establishment	43.7051718	7.2652835	64 Av. Jean Médecin, 06000 Nice	True	lodging
+33	Hôtel Antares Nice	ChIJKV3dlgfQzRIRC_84UCqd-s4	lodging|point_of_interest|establishment	43.7049685	7.2641423	5 Av. Thiers, 06000 Nice		lodging
+34	Hostel Baccarat	ChIJHcCDjQfQzRIRBYTEMax2Fp0	lodging|point_of_interest|establishment	43.7048125	7.264505799999998	39 Rue d'Angleterre, 06000 Nice	True	lodging
+35	Backpacker's Hostel Chez Patrick	ChIJt4wnJajazRIRe1TiO42HFcM	lodging|point_of_interest|establishment	43.7049808	7.265949300000001	32 Rue Pertinax, 06000 Nice		lodging
+36	Yelo Hotel Collection	ChIJEdeEkuDRzRIRPkuZ17_v84c	lodging|point_of_interest|establishment	43.70479419999999	7.2650751	47 Bis Av. Jean Médecin, 06000 Nice		lodging
+37	Hôtel Byakko Nice	ChIJVVUFVqjazRIRkczIJMzpgko	lodging|point_of_interest|establishment	43.7052821	7.2679411	6 Rue Miron, 06000 Nice		lodging
+38	ibis Nice Centre Notre-Dame	ChIJsZTGRajazRIRz4BVk9wCLX0	lodging|point_of_interest|establishment	43.7050232	7.2670257	41 Rue Lamartine, 06000 Nice	True	lodging
+39	Hôtel Trocadéro	ChIJU6KZwQfQzRIRyH8XHcnVLIc	lodging|point_of_interest|establishment	43.7043943	7.263871099999999	7 Rue de Belgique, 06000 Nice	True	lodging
+40	Hôtel Villa Rose	ChIJ3fgGlv3PzRIRZnhBrEnd3cM	lodging|point_of_interest|establishment	43.714715	7.258164799999999	43 Av. Bellevue, 06100 Nice	True	lodging
+41	Villa Saphir	ChIJswGqugLQzRIRNcm4jn1DeOY	lodging|point_of_interest|establishment	43.7129353	7.255320599999999	34 Bd de Cessole, 06100 Nice		lodging
+42	Hotel Annexe Nice	ChIJ-wOyOwfQzRIRN9lijB2VX8M	lodging|point_of_interest|establishment	43.7075679	7.263263800000001	15 Av. Malaussena, 06000 Nice		lodging
+43	Hotel Lausanne	ChIJScZV_n7bzRIR--Cif4DjdIs	lodging|point_of_interest|establishment	43.7078029	7.268156299999999	36 Rue Rouget de l'Isle, 06000 Nice		lodging
+44	Chambre d hôtes maison bonfils	ChIJqzJMv6nazRIRoxxk6w_073E	lodging|point_of_interest|establishment	43.7066642	7.266720299999999	26 Bd Raimbaldi, 06000 Nice	True	lodging
+45	Chez Josephine	ChIJvSboz6nazRIRdtr6rUr5ZWI	lodging|point_of_interest|establishment	43.7063738	7.2659625	36 Bd Raimbaldi, 06000 Nice	True	lodging
+46	Hôtel Darcy	ChIJAcyyjQfQzRIRqVL_YvCnl1E	lodging|point_of_interest|establishment	43.7049021	7.264843300000001	28 Rue d'Angleterre, 06000 Nice		lodging
+47	Hostel Harold's Backpackers	ChIJb-W98gfQzRIRyodIsMzg9Ig	lodging|point_of_interest|establishment	43.7047317	7.2648312	28 Rue d'Angleterre, 06000 Nice		lodging
+48	Hotel 66 Nice	ChIJ4_zv6QfQzRIRoLoc3I80zZc	lodging|point_of_interest|establishment	43.7045943	7.264493000000001	6 Rue de Belgique, 06000 Nice	True	lodging
+49	Best Western Plus Nice Cosy Hotel	ChIJbdxl7QfQzRIRfww4sR3T00A	lodging|point_of_interest|establishment	43.7044945	7.2645464	3 Rue de Belgique, 06000 Nice	True	lodging
+50	Hôtel Marly's	ChIJ5X22V6jazRIRRlIxSPj5UVk	lodging|point_of_interest|establishment	43.70521309999999	7.268041999999999	4 Rue Miron, 06000 Nice		lodging
+51	Azuréa	ChIJ0zCFwgfQzRIRj9ObzIYBK0Q	lodging|point_of_interest|establishment	43.70429610000001	7.2637071	31 Rue Paganini, 06000 Nice		lodging
+52	Interlaken	ChIJ0YeWMgbQzRIRf6-AJz51JNY	lodging|point_of_interest|establishment	43.7041301	7.262559700000001	26 Av. Durante, 06000 Nice		lodging
+53	Hôtel Bristol	ChIJFVSbwQfQzRIRK_GbO5k-VsE	lodging|point_of_interest|establishment	43.7042696	7.2638883	22 Rue Paganini, 06000 Nice	True	lodging
+54	Nice Art Hotel	ChIJjX0j7gfQzRIRzpnFqGDHoLg	lodging|point_of_interest|establishment	43.7042726	7.264430099999998	35 Rue d'Angleterre, 06000 Nice		lodging
+55	Hôtel Plaisance Nice	ChIJp7OEW6jazRIRnPyHzDDY1R4	lodging|point_of_interest|establishment	43.7048381	7.2673855	20 Rue de Paris, 06000 Nice		lodging
+56	Hôtel du Midi	ChIJ0zCFwgfQzRIRh6zSae52IQc	lodging|point_of_interest|establishment	43.703954	7.2630971	16 Rue d'Alsace-Lorraine, 06000 Nice	True	lodging
+57	Hôtel Paganini	ChIJx_hO0QfQzRIRyob-Cc-OYi4	lodging|point_of_interest|establishment	43.703874	7.2629787	20 Rue d'Alsace-Lorraine, 06000 Nice	True	lodging
+58	Hotel Saint Gothard	ChIJAQFa3QfQzRIRv8X8f84kva4	lodging|point_of_interest|establishment	43.7039551	7.263925299999999	20 Rue Paganini, 06000 Nice	True	lodging
+59	Hotel D'Ostende	ChIJ6V_V9wfQzRIRhBxZ9j-gQJY	lodging|point_of_interest|establishment	43.7040703	7.2651869	3 Rue d'Alsace-Lorraine, 06000 Nice	True	lodging

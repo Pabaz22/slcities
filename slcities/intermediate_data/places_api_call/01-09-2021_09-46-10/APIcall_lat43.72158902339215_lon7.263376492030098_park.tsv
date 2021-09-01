@@ -1,0 +1,55 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Parc Chambrun	ChIJL_sGgs_PzRIRjhFZ-p5seIA	park|point_of_interest|establishment	43.7229164	7.262350999999999	True		park
+1	Start GR5	ChIJwY1LscnPzRIRD3NmiuzGJU8	park|point_of_interest|establishment	43.720065	7.262628800000001			park
+2	Le Parc du Ray	ChIJnXN_QPHPzRIRKp20dQPV08U	park|point_of_interest|establishment	43.72289229999999	7.258703199999999	True		park
+3	Maurice Mouchan Garden	ChIJdX3kWvDPzRIRq3FBv_WQ6aM	tourist_attraction|park|point_of_interest|establishment	43.7246558	7.2566886	True		park
+5	Office National des Forêts	ChIJmWvidFfFzRIR30zVGaDP4mY	park|point_of_interest|establishment	43.7237942	7.271595599999999			park
+7	Villa Arson	ChIJ11Bgv-TPzRIRPxOvFv7aKQY	library|park|university|point_of_interest|establishment	43.72183499999999	7.252984	False		park
+8	escaliers Garden	ChIJH67I4uTPzRIRlLPi9rBwd5s	park|point_of_interest|establishment	43.72080820000001	7.252514199999999	True		park
+9	Parc	ChIJ--5Dm-TPzRIRUVcfm2wJNmU	park|point_of_interest|establishment	43.7187491	7.252169499999999	True		park
+10	Comte de Falicon Garden	ChIJMZxeDQnPzRIR7HwB0CAUH94	park|point_of_interest|establishment	43.72924709999999	7.2561291	True		park
+12	Hoirs de Cessole Garden	ChIJF-MJ_DLPzRIRoAtfe1pdon0	park|point_of_interest|establishment	43.7137519	7.255086			park
+13	Garden of Arenas Cimiez	ChIJX76sxU_FzRIR-L2d7gXKUGQ	tourist_attraction|park|point_of_interest|establishment	43.72009329999999	7.276888299999998	True		park
+14	MAGIC GARDEN	ChIJz44kXOTPzRIR19O82JWDzIM	park|general_contractor|point_of_interest|establishment	43.720827	7.2490212			park
+15	Place Jean-Paul II Statue	ChIJQd_BriHFzRIReGwvVIrejIE	park|point_of_interest|establishment	43.7202832	7.278606199999998			park
+17	Nica	ChIJL7xTjDXRzRIRz4ytVcER5tY	campground|lodging|park|point_of_interest|establishment	43.7101728	7.261953200000002			park
+18	Parc Montebello	ChIJGcRMdOLPzRIRs4B22NjWBmU	park|point_of_interest|establishment	43.71426049999999	7.250859499999999			park
+20	Charles Dalmas Garden	ChIJ69lOqKvazRIRPrJq1U1hBpo	park|point_of_interest|establishment	43.7102522	7.268519599999999	True	21-23 Av. Paul Dufourmantel, 06000 Nice	park
+21	Parc Paradisio	ChIJTao5R6zazRIRYD6QTQRHchE	park|point_of_interest|establishment	43.7091264	7.272027199999999	True	17 Av. Dr Robert Moriez, 06000 Nice	park
+22	Parc de Villa Ratti	ChIJY7dLVfPbzRIRWO2uGoHKXSU	park|point_of_interest|establishment	43.7098641	7.275069		06000 Nice	park
+24	Square Alphonse Daudet	ChIJQVA2CxvQzRIRmno62eFhBTU	park|point_of_interest|establishment	43.7076899	7.252032100000001	True	1 Square Alphonse Daudet, 06000 Nice	park
+25	Chemin du Canal de Gairaut	ChIJE_BjvYnPzRIR_DzRE1lmwco	park|point_of_interest|establishment	43.738096	7.263370999999999	True	124 Vieux Chemin de Gairaut, 06100 Nice	park
+26	Parc-Autos	ChIJtQR8L6_azRIREW4CJq4qbgw	park|point_of_interest|establishment	43.704974	7.271336600000001		13 Av. Desambrois, 06000 Nice	park
+27	Square Raimu	ChIJh293RNPRzRIRlz1ZULZr40E	park|point_of_interest|establishment	43.70241300000001	7.2548319	True	Bd du Tzarewitch, 06000 Nice	park
+28	Parc General Marshall	ChIJ456inbbbzRIRTrbtVBp1dDI	park|point_of_interest|establishment	43.70282	7.2759982		Unnamed Road, 06000 Nice	park
+29	voiture nice	ChIJmeCYL6TazRIR32EcmwksHdU	park|point_of_interest|establishment	43.700111	7.271212999999999		Nice Europe, 06000 Nice	park
+30	Place Wilson	ChIJFV_5_6TazRIRuLQJabkhv0U	park|point_of_interest|establishment	43.7005721	7.273462599999999	True	4 Pl. Wilson, 06000 Nice	park
+31	Parc de la Grenouille	ChIJJS68xmPRzRIR5z9fD2P-1Sw	park|point_of_interest|establishment	43.6987287	7.263933		27 Rue du Maréchal Joffre, 06000 Nice	park
+32	Parc de la Coulé Verte	ChIJg7qbHrvazRIR50VsJfLwNqE	park|point_of_interest|establishment	43.7001547	7.277571699999999	True	7-267 Tun. André Liautaud, 06000 Nice	park
+33	Nice	ChIJkUb2CHnbzRIRU2mxqHf-MNU	park|point_of_interest|establishment	43.6992181	7.276710800000001		1286 Prom. du Paillon, 06000 Nice	park
+34	Parc de jeux pour enfants St Estienne d'Orves	ChIJcfzYV_nRzRIRcHjjdQ90MY8	park|point_of_interest|establishment	43.6999007	7.246834899999999		17 Chem. Apraxine, 06000 Nice	park
+35	Parc abi	ChIJPZrUZ5XbzRIRoN_ItpthedI	park|point_of_interest|establishment	43.6976003	7.2720658		12 Av. Félix Faure, 06000 Nice	park
+36	Promenade du Paillon	ChIJt4AL5qPazRIR68WQ5MDQkNQ	park|tourist_attraction|point_of_interest|establishment	43.6974406	7.271463300000001	True	Plassa Carlou Aubert, 06300 Nice	park
+37	Olivier Millénaire du Parc Estienne D'orves	ChIJHc-aCj7QzRIRudpDtek12Qc	park|point_of_interest|establishment	43.7001042	7.2425332	True	224 Cor de Magnan, 06000 Nice	park
+38	Parc Promenade	ChIJUTf0aQvQzRIRlCSpFuSW3rQ	park|point_of_interest|establishment	43.6953974	7.2608897	True	3 Rue Meyerbeer, 06000 Nice	park
+39	Square Henri-Betti	ChIJp5GuAVzbzRIRxC5OPPe18y0	park|point_of_interest|establishment	43.6973358	7.278160000000001		8 Rue Saint-Joseph, 06300 Nice	park
+40	Square Booth	ChIJbwSXih3QzRIRUZggtFYy934	park|point_of_interest|establishment	43.71382970000001	7.2505487		178 Av. de Pessicart, 06100 Nice	park
+41	Passerelle du paillon	ChIJDxkmnyDFzRIRscDuZkX58pg	park|point_of_interest|establishment	43.7129728	7.283910099999999		Unnamed Road, 06300 Nice	park
+42	Aire de jeux	ChIJq5rwngDbzRIRQbWk3aXD_t4	park|point_of_interest|establishment	43.7031859	7.279738		Unnamed Road, 06000 Nice	park
+43	Jardin Public Francis Giordan	ChIJkXiSmrDazRIRJRVLYUC9rWo	park|point_of_interest|establishment	43.7030241	7.2795746	True	25 Rue Barla, 06300 Nice	park
+44	Jardin Alsace Lorraine	ChIJlxTbtw3QzRIRjAd1-SitsfU	tourist_attraction|park|point_of_interest|establishment	43.6981079	7.257066	True	30 Bd Gambetta, 06000 Nice	park
+45	Parc d'Estienne d'Orves	ChIJu2cPh7vazRIRLZKwu_y947Q	tourist_attraction|park|point_of_interest|establishment	43.6988164	7.2445721	True	06000 Nice	park
+46	Promenade des Anglais	ChIJD4ivy0nbzRIRW8ahY1b_LNs	park|point_of_interest|establishment	43.6951073	7.267825299999999		1 Esp. Jacques Cotta, 06000 Nice	park
+47	Esplanade Georges Pompidou	ChIJcbAdL6LazRIRASNCgK_Dr_k	park|point_of_interest|establishment	43.6954293	7.271068499999999	True	20 Rue Saint-François de Paule, 06300 Nice	park
+48	Parking parc nice	ChIJHSzB_7vazRIR-CeOwlOCwyc	park|point_of_interest|establishment	43.6976992	7.2813995		1 Mnt Eberlé, 06300 Nice	park
+49	Promenade	ChIJBTJnIMzbzRIRQ3atPD7KV_k	park|point_of_interest|establishment	43.698485	7.284389999999999		Port Lympia, 06300 Nice	park
+50	Parc du Vinaigrier	ChIJN34gcr_FzRIR8zlp8febxvo	park|tourist_attraction|point_of_interest|establishment	43.7135924	7.3005099	True	06300 Nice	park
+51	Joseph Pisano Garden	ChIJF7zUu6bbzRIRiPAoiEoiEwg	park|point_of_interest|establishment	43.7044854	7.294572499999999		Unnamed Road, 06300 Nice	park
+52	Parc Castel des Deux Rois	ChIJSzRQa8bazRIRqeR04G5ODX8	park|tourist_attraction|point_of_interest|establishment	43.7002621	7.2912902	True	Corniche André de Joly, 32 Av. du Mont Alban, 06300 Nice	park
+53	Parc du château	ChIJx0QcbI7bzRIRjv_r1G9MU3s	park|point_of_interest|establishment	43.6949095	7.280541599999999		Parc du château, 06300 Nice	park
+54	Castle Hill	ChIJ87pSBQHQzRIR7gulsDlUpa8	park|tourist_attraction|point_of_interest|establishment	43.694705	7.280566700000001	True	06300 Nice	park
+55	Parc du vinaigrier	ChIJr1o2EcbFzRIRw5xy1gVqH1A	park|point_of_interest|establishment	43.7189348	7.3052252		06300 Nice	park
+56	Place Guynemer, Nice France	ChIJn4U4B77azRIRZxtmRbXELc0	park|point_of_interest|establishment	43.6937138	7.2819531		12 Pl. Guynemer, 06300 Nice	park
+57	Le Parc Des Tripodes	ChIJD9aDRQXFzRIRHAbbmup7Gsw	park|tourist_attraction|point_of_interest|establishment	43.740024	7.298517		6 Rue du Sicou, 06300 Nice	park
+58	Parc Général Lécuyer	ChIJ4WR0lxvFzRIRWN90pnHY2uo	park|point_of_interest|establishment	43.7361523	7.3018965	True	13 Av. Emile Ripert, 06300 Nice	park
+59	Parc Vigier	ChIJ9fS0bZDbzRIRe-vlFKaI54s	park|point_of_interest|establishment	43.6934988	7.2901474		23 Bd Franck Pilatte, 06300 Nice	park

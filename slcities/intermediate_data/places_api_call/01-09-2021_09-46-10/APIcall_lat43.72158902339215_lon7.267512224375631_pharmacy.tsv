@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Pharmacie St Maurice	ChIJK1-gqfnPzRIRirTbAcEJvBw	pharmacy|health|point_of_interest|store|establishment	43.719879	7.262124899999998	True		pharmacy
+1	Snc Derksen Et Miche	ChIJkSwXJvbPzRIRXiVD26zp7Zs	pharmacy|health|point_of_interest|store|establishment	43.7255214	7.2652698	True		pharmacy
+2	Pharmacie Shri Shakti	ChIJk6MzNPnPzRIRCeGzhf8-WGE	pharmacy|health|point_of_interest|store|establishment	43.71819790000001	7.2614207			pharmacy
+3	Pharmacie du Ray	ChIJ-QMcU-PPzRIRhtd6El9lYUI	pharmacy|health|point_of_interest|store|establishment	43.7236868	7.259861299999999	True		pharmacy
+4	Pharmacie Winter	ChIJn0R0BlHFzRIRGI3mWyrGbwI	pharmacy|real_estate_agency|health|point_of_interest|store|establishment	43.7166133	7.2723356	True		pharmacy
+5	Pharmacie Cap de Croix	ChIJy4IX1FrFzRIRzWc7fx8OaPg	pharmacy|health|point_of_interest|store|establishment	43.7238812	7.275917099999998			pharmacy
+6	Pharmacy Cimiez	ChIJBfB60lrFzRIRWyz8miQuagw	pharmacy|health|point_of_interest|store|establishment	43.7237596	7.2760526	True		pharmacy
+7	Pharmacie Du Vallon Des Fleurs	ChIJzxBXFl_FzRIR4fzvQR-AzJ4	pharmacy|health|point_of_interest|store|establishment	43.7281726	7.2667842	True		pharmacy
+8	Лаборатория ницца	ChIJTULJK1vFzRIREzSTJewKWoU	pharmacy|health|point_of_interest|store|establishment	43.72431110000001	7.2758934			pharmacy
+9	Perez Jean-Paul	ChIJW6HIeWDFzRIRiyqrOtSnN2k	pharmacy|health|point_of_interest|store|establishment	43.7282312	7.2669085	True		pharmacy
+10	Para Sante Pharmacie	ChIJARaPd_vPzRIRxySU-kLNiRw	pharmacy|health|point_of_interest|store|establishment	43.7188665	7.257020800000001			pharmacy
+11	Pharmacie Saint Barthélémy	ChIJYSFdXP7PzRIRuI24iN88M8s	pharmacy|health|point_of_interest|store|establishment	43.7148456	7.261391599999998	True		pharmacy
+12	💊Pharmacie Gorbella ⎢Totum Pharmaciens	ChIJWQcvfvvPzRIRkBfe2cDHLtA	pharmacy|health|point_of_interest|store|establishment	43.7188996	7.2569644	True		pharmacy
+13	Pharmacie du Stade du Ray	ChIJQ0k67PrPzRIRiAgOkK7E0KY	pharmacy|health|point_of_interest|store|establishment	43.7221117	7.2561252	True		pharmacy
+14	Pharmacie Thouvenot	ChIJRTjkilLFzRIR3oOEvy_HsV8	pharmacy|health|point_of_interest|store|establishment	43.7145884	7.2748374			pharmacy
+15	Pharmacie des Arenes	ChIJZ7zjilLFzRIRyLP5otftzDg	pharmacy|health|point_of_interest|store|establishment	43.7145884	7.2748374	True		pharmacy
+16	Pharmacie Fontaine Du Temple	ChIJ08YPOPDPzRIRMXyb9H2JQU8	pharmacy|health|point_of_interest|store|establishment	43.7247855	7.2557505	True		pharmacy
+17	Pharmacie du Square	ChIJI8jlV_zPzRIRTwkePfyslGk	pharmacy|health|point_of_interest|store|establishment	43.7163887	7.2571252	True		pharmacy
+18	Leibovici	ChIJ3bk69_zPzRIRoAynczX-oJs	pharmacy|health|point_of_interest|store|establishment	43.7163711	7.257087199999999			pharmacy
+19	Pharmacie Carlin	ChIJCYT3yvHPzRIR9VPlQPU3j00	pharmacy|health|point_of_interest|store|establishment	43.7250579	7.255635099999999	True		pharmacy
+20	Pharmacie Borriglione	ChIJs7LKXvfPzRIRUYhrgyNFu6E	pharmacy|health|point_of_interest|store|establishment	43.7131405	7.2615617	True	25 Av. Alfred Borriglione, 06100 Nice	pharmacy
+21	Pharmacie Les Tilleuls	ChIJKeq7tULFzRIReu3mRhU8b-s	pharmacy|health|point_of_interest|store|establishment	43.7302899	7.2763711	True	44 Av. Cap-de-Croix, 06100 Nice	pharmacy
+22	Pharmacie de Falicon	ChIJCzZe8vHPzRIRrtqvAO_XKzE	pharmacy|health|point_of_interest|store|establishment	43.7285371	7.255584499999999	True	12 Bd Comte de Falicon, 06100 Nice	pharmacy
+23	Grande Pharmacie de l'Horloge	ChIJ33CdYuPPzRIRJzhE-GFvpqU	pharmacy|health|point_of_interest|store|establishment	43.718543	7.252685	True	98 Bd de Cessole, 06100 Nice	pharmacy
+24	Pharmacie du marché	ChIJfQ35yoXRzRIRShhFCdPvKh4	pharmacy|health|point_of_interest|store|establishment	43.7105647	7.261837600000001	True	1b Av. Alfred Borriglione, 06100 Nice	pharmacy
+25	Pharmacie du Lycée de l'Est	ChIJE2rldUzFzRIR1S6N8qhDXo0	pharmacy|health|point_of_interest|store|establishment	43.7152088	7.2813221	True	69 Av. du Maréchal Lyautey, 06000 Nice	pharmacy
+26	Grande pharmacie de Cessole . Perin	ChIJ-yJeu-XPzRIRbvlGIU-pWqQ	pharmacy|health|point_of_interest|store|establishment	43.7218138	7.2510657	True	140 Bd de Cessole, 06100 Nice	pharmacy
+27	Pharmacie Pasteur	ChIJZVfDX0jFzRIRLYxE3KkxMqQ	pharmacy|health|point_of_interest|store|establishment	43.7198967	7.284043400000001	True	143 Av. du Maréchal Lyautey, 06000 Nice	pharmacy
+28	Pharmacie de la voie Romaine	ChIJc2A3VUbFzRIRcnxf5P2kDBU	pharmacy|health|point_of_interest|store|establishment	43.72354869999999	7.2842484	True	22 Voie Romaine, 06000 Nice	pharmacy
+29	Pharmacie Kalfon	ChIJ__-TOarazRIR7X0NTHLV2QU	pharmacy|health|point_of_interest|store|establishment	43.70899780000001	7.267203500000001		22 Av. Raymond Comboul, 06000 Nice	pharmacy
+30	Pharmacie Mondiale	ChIJZRNrbwHQzRIRe8nAMCylHLU	pharmacy|health|point_of_interest|store|establishment	43.7099925	7.2606933	True	7 Bd Joseph Garnier, 06000 Nice	pharmacy
+31	Pharmacie George V	ChIJ_cDaOKrazRIRnFt83ilsv9c	pharmacy|health|point_of_interest|store|establishment	43.708981	7.267169099999999	True	22 Av. Raymond Comboul, 06000 Nice	pharmacy
+32	Pharmacie de la libération	ChIJIW7u2wDQzRIR7rFPCoDP4FY	pharmacy|health|point_of_interest|store|establishment	43.7091589	7.2628371	True	30 Av. Malaussena, 06000 Nice	pharmacy
+33	Grande Pharmacie GARNIER	ChIJUxEqxQPQzRIRvtk3F-OGJyY	pharmacy|drugstore|health|point_of_interest|store|establishment	43.7101998	7.2590864	True	20 Bd Joseph Garnier, 06100 Nice	pharmacy
+34	Pharmacie Nice Gare du Sud	ChIJEROsKR_RzRIRWogno87Mki4	pharmacy|health|point_of_interest|store|establishment	43.7087735	7.2602533	True	3 All. Philippe Seguin, 06000 Nice	pharmacy
+35	Pharmacie Provençale	ChIJ_dWiOQfQzRIRdzbfBqpy6vE	pharmacy|health|point_of_interest|store|establishment	43.7075259	7.2638738	True	12 Av. Malaussena, 06000 Nice	pharmacy
+36	Grande Pharmacie du Sud	ChIJ0SJAPgfQzRIR2klO0wJlL-c	pharmacy|health|point_of_interest|store|establishment	43.70720439999999	7.2636298	True	11 Av. Malaussena, 06000 Nice	pharmacy
+37	Pharmacie Vauban	ChIJCxRl3krFzRIRHbUdG4ibB68	pharmacy|health|point_of_interest|store|establishment	43.7127628	7.2842575	True	57 Rte de Turin, 06300 Nice	pharmacy
+38	PHARMACIE RAIMBALDI	ChIJ__-zwKnazRIR-ZIOxifZhlQ	pharmacy|health|point_of_interest|store|establishment	43.7066076	7.266562	True	28 28 Bd Raimbaldi, 06000 Nice	pharmacy
+39	Pharmacie la Salamandre	ChIJTQ1DEqnazRIRgQVe_xHweVA	drugstore|pharmacy|health|point_of_interest|store|establishment	43.7065882	7.268613200000001	True	6 Rue Assalit, 06000 Nice	pharmacy
+40	Pharmacie Fiorio	ChIJ1U0lbwHQzRIRCBakuAXQ2MQ	pharmacy|health|point_of_interest|store|establishment	43.7099925	7.2606933		7 Bd Joseph Garnier, 06000 Nice	pharmacy
+41	Pharmacie St Sylvestre	ChIJWZu-Je_PzRIRGLRay1CYAyU	pharmacy|health|point_of_interest|store|establishment	43.7253933	7.2498521	True	00019 Av. de Saint-Sylvestre, 06100 Nice	pharmacy
+42	Pharmacie Joseph Garnier	ChIJBfbHCgPQzRIRi1px4sKdAhU	pharmacy|health|point_of_interest|store|establishment	43.7099387	7.2571412	True	37 Bd Joseph Garnier, 06000 Nice	pharmacy
+43	Pharmacie Jannin-Potier	ChIJo7g30ujPzRIROeLX7TiaDEM	pharmacy|health|point_of_interest|store|establishment	43.72542929999999	7.2489974	True	26 Av. de Saint-Sylvestre, 06100 Nice	pharmacy
+44	SELAS pharmacy Lyautey	ChIJRUuD20vFzRIRkjCGlkfyY4g	drugstore|pharmacy|veterinary_care|health|point_of_interest|store|establishment	43.712466	7.282609999999999	True	33 Av. du Maréchal Lyautey, 06000 Nice	pharmacy
+45	Pharmacie Le Papeete	ChIJUcOyoOjPzRIRE2GMnHAT49Y	pharmacy|real_estate_agency|health|point_of_interest|store|establishment	43.7236126	7.247886500000001	True	35 Rue Jean Canavèse, 06100 Nice	pharmacy
+46	Pharmacie des Vosges	ChIJKdfHYQPQzRIREXlG5W4-8cw	pharmacy|health|point_of_interest|store|establishment	43.7089221	7.2561592	True	136 Bd Gambetta, 06000 Nice	pharmacy
+47	Pharmacie Riviera 24h/24 (de Garde)	ChIJM_hlgAfQzRIRugsWuY18FZY	pharmacy|health|point_of_interest|store|establishment	43.7053502	7.2652057	True	66 Av. Jean Médecin, 06000 Nice	pharmacy
+48	Pharmacie Pertinax	ChIJL-LgSKjazRIR1LQxgJMrHIw	pharmacy|health|point_of_interest|store|establishment	43.7052116	7.266969	True	17 Rue Pertinax, 06000 Nice	pharmacy
+49	Pharmacy Paris	ChIJ2RQCIajazRIRKdKLDUVdBfM	pharmacy|health|point_of_interest|store|establishment	43.7048649	7.265527199999999	True	60 Av. Jean Médecin, 06000 Nice	pharmacy
+50	Pharmacie Anglaise	ChIJ2aAnHK_azRIRiVERspshRWU	pharmacy|health|point_of_interest|store|establishment	43.7051378	7.272345199999999	True	4 Av. Desambrois, 06000 Nice	pharmacy
+51	International Pharmacy - International Pharmacy	ChIJz9MGlgfQzRIRUzjTEmiRB5A	pharmacy|drugstore|doctor|veterinary_care|health|point_of_interest|store|establishment	43.7048989	7.2642221	True	5 Av. Thiers, 06000 Nice	pharmacy
+52	PHARMACIE DU DOCTEUR NICOLAS	ChIJs2IMNCfbzRIR9jnuSi2Yjnk	pharmacy|health|point_of_interest|store|establishment	43.70466400000001	7.2694584	True	17 Rue de Lépante, 06000 Nice	pharmacy
+53	PHARMACIE DU PIOL	ChIJlwu4-hfRzRIRU2Wh_ZfR9B8	pharmacy|health|point_of_interest|store|establishment	43.7088218	7.251801499999999	True	2 Av. du Bois de Cythère, 06000 Nice	pharmacy
+54	Pharmacie de l'avenue	ChIJje4LHqjazRIRjLJVmIxPFr4	pharmacy|health|point_of_interest|store|establishment	43.7042937	7.2654519	True	45 Av. Jean Médecin, 06000 Nice	pharmacy
+55	Pharmacie Notre Dame	ChIJ-X0uiKjazRIRZHgcjK68WJQ	pharmacy|health|point_of_interest|store|establishment	43.7039638	7.268115400000001	True	19 Avenue Notre Dame, 06000 Nice	pharmacy
+56	Pharmacie Sézionale	ChIJO95jNLTazRIRatMGxtz5Rhg	pharmacy|health|point_of_interest|store|establishment	43.7080092	7.283982399999999	True	1 Rte de Turin, 06300 Nice	pharmacy
+57	Pharmacie du Parc	ChIJhedXEQXQzRIRRuc0BXQ0g0k	pharmacy|health|point_of_interest|store|establishment	43.7054571	7.256240000000001	True	94 Bd Gambetta, 06000 Nice	pharmacy
+58	Pharmacie Halimi	ChIJTd4Pd6_azRIRDFvVxvvQ8zg	pharmacy|health|point_of_interest|store|establishment	43.7038078	7.272930700000001	True	6 Bd Dubouchage, 06000 Nice	pharmacy
+59	Pharmacie TATU	ChIJT8n9BQjQzRIReZXGbnHoVck	pharmacy|health|point_of_interest|store|establishment	43.7033212	7.2649975	True	10 Rue de Suisse, 06000 Nice	pharmacy

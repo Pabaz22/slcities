@@ -28,13 +28,8 @@ st.set_page_config(layout="wide")
 ##
 
 
-def generate_balise(text, kind='h1', font_size=300, color='white', text_align='center'):
-    return f"<h1 style='text-align: {text_align}; color: {color}; font-size:{font_size}%;'>{text}</h1>"
-
-
-
-
-
+def generate_balise(text, kind='h1', font_size=300, color='white', text_align='center', margin=0):
+    return f"<h1 style='text-align: {text_align}; color: {color}; font-size:{font_size}%; margin-bottom: {margin};'>{text}</h1>"
 
 
 
@@ -105,39 +100,46 @@ if rad == 'Project':
     # st.image(image, caption='map', use_column_width=False)
 elif rad == 'Models':
     st.write("The model")
+    f_path_map = "/home/djampa/code/data_project_lewagon/slcities/slcities/data/map_clusters.html"
+    # balise_map = f"<iframe src='{f_path_map}' title='Basic map with folium' style={{ border: 'none', width: '800px', height: '300px' }}></iframe>"
+    # st.markdown(balise_map, unsafe_allow_html=True)
 
-    ####____________________________________________________________####
-    # https://docs.streamlit.io/en/stable/tutorial/create_a_data_explorer_app.html
-    DATE_COLUMN = 'date/time'
-    DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
-            'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
+    # m = folium.map.Popup(f_path_map, parse_html=True)
+    # folium_static(m)
 
-    def load_data(nrows):
-        data = pd.read_csv(DATA_URL, nrows=nrows)
-        lowercase = lambda x: str(x).lower()
-        data.rename(lowercase, axis='columns', inplace=True)
-        data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
-        return data
+    st.map(f_path_map)
+    # ####____________________________________________________________####
+    # # https://docs.streamlit.io/en/stable/tutorial/create_a_data_explorer_app.html
+    # DATE_COLUMN = 'date/time'
+    # DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
+    #         'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
 
-    # Create a text element and let the reader know the data is loading.
-    data_load_state = st.text('Loading data...')
-    # Load 10,000 rows of data into the dataframe.
-    data = load_data(10000)
-    # Notify the reader that the data was successfully loaded.
-    data_load_state.text('Loading data...done!')
-    st.subheader('Number of pickups by hour')
-    hist_values = np.histogram(data[DATE_COLUMN].dt.hour,
-                               bins=24,
-                               range=(0, 24))[0]
-    st.bar_chart(hist_values)
-    ####------------------------------------------------------------####
+    # def load_data(nrows):
+    #     data = pd.read_csv(DATA_URL, nrows=nrows)
+    #     lowercase = lambda x: str(x).lower()
+    #     data.rename(lowercase, axis='columns', inplace=True)
+    #     data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
+    #     return data
+
+    # # Create a text element and let the reader know the data is loading.
+    # data_load_state = st.text('Loading data...')
+    # # Load 10,000 rows of data into the dataframe.
+    # data = load_data(10000)
+    # # Notify the reader that the data was successfully loaded.
+    # data_load_state.text('Loading data...done!')
+    # st.subheader('Number of pickups by hour')
+    # hist_values = np.histogram(data[DATE_COLUMN].dt.hour,
+    #                            bins=24,
+    #                            range=(0, 24))[0]
+    # st.bar_chart(hist_values)
+    # ####------------------------------------------------------------####
 
 
 
-    ####____________________________________________________________####
-    m = folium.Map(location=[47, 1], zoom_start=6)
-    folium_static(m)
-    ####------------------------------------------------------------####
+    # ####____________________________________________________________####
+    # m = folium.Map(location=[47, 1], zoom_start=6)
+    # folium_static(m)
+    # ####------------------------------------------------------------####
 
 
 

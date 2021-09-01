@@ -1,0 +1,19 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Primary School Von Derwies	ChIJkVsG6v7PzRIRobj4psfHXlk	primary_school|school|point_of_interest|establishment	43.7167381	7.261543699999998		primary_school
+1	Metropolis Nice Côte D'azur	ChIJV0xGcfDPzRIR-8bGHBKgawQ	primary_school|school|point_of_interest|establishment	43.72398260000001	7.256265900000001		primary_school
+2	Town De Nice	ChIJ0-yE31HFzRIRfhr4zJ1G_w4	primary_school|school|point_of_interest|establishment	43.7189129	7.275295399999999		primary_school
+3	Primary School Annex Jean Marie Hyvert	ChIJwVn-u1TFzRIRH6TrPvFwUdg	primary_school|school|point_of_interest|establishment	43.7136629	7.2693991		primary_school
+4	École Élémentaire Fouont Cauda 1	ChIJg34iIk7FzRIRItw86mujl7g	primary_school|school|point_of_interest|establishment	43.7125405	7.265002399999999		primary_school
+5	Fuon Cauda 2	ChIJq3sRIgDQzRIRHXa8k7iA2UQ	primary_school|school|point_of_interest|establishment	43.71250440000001	7.2646203		primary_school
+6	Metropolis Nice Côte D'azur	ChIJgydj6FHFzRIRNOAMwfevI0A	primary_school|school|point_of_interest|establishment	43.71811449999999	7.2753562		primary_school
+7	Bikevent, Ecoles De Vtt Outd	ChIJtcCRIgLQzRIRhjKEW0vLSKU	primary_school|school|point_of_interest|establishment	43.7120122	7.2593435		primary_school
+8	Paule D'essling	ChIJk7rYDk7FzRIRYiTkVEOIvzc	primary_school|school|point_of_interest|establishment	43.7173137	7.2769222		primary_school
+9	School Des Oliviers	ChIJ6f1vse3PzRIRslS6-LtjIxI	primary_school|school|point_of_interest|establishment	43.72935099999999	7.2526268	True	primary_school
+10	Elementary School Des Acacias	ChIJh-GtYqTFzRIR0mCY4tTn67M	primary_school|school|point_of_interest|establishment	43.7322346	7.267749699999999	False	primary_school
+11	School Du Righi	ChIJ5aUQOzHPzRIRUV5mKA8nezY	primary_school|school|point_of_interest|establishment	43.715646	7.250246199999999	False	primary_school
+12	Ecole Saint Sylvestre	ChIJLdfL8ejPzRIRzaYKi4dxp_M	primary_school|school|point_of_interest|establishment	43.72525359999999	7.247009599999999		primary_school
+13	Metropolis Nice Côte D'azur	ChIJMdCk2UjFzRIRZncONQFjbPg	primary_school|school|point_of_interest|establishment	43.7191339	7.2819607		primary_school
+14	School Group Pasteur	ChIJcbpVP0bFzRIR9V7cqcDrTTc	primary_school|school|point_of_interest|establishment	43.7225164	7.283144000000002		primary_school
+15	Primary School La Gairautine	ChIJAQD0J4rPzRIRI1lPjlNvET4	primary_school|school|point_of_interest|establishment	43.7368726	7.2633261		primary_school
+16	Ville De Nice	ChIJVdqrqQXQzRIR4bsJ3ES2ZGQ	primary_school|school|point_of_interest|establishment	43.7058715	7.2574943		primary_school
+17	Town Hall	ChIJG1gcM0rFzRIRqsHaqivAhJ0	primary_school|school|point_of_interest|establishment	43.7152682	7.284382300000001		primary_school

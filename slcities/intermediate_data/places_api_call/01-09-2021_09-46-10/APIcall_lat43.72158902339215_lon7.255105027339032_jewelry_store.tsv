@@ -1,0 +1,56 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Bijouterie Delcour	ChIJeS0Kuu_PzRIRpzhOGPGykN4	jewelry_store|point_of_interest|store|establishment	43.7251299	7.252701	True		jewelry_store
+1	Bijouterie Ruiz Noël	ChIJeeFubOPPzRIRbar7nI_LiKY	jewelry_store|point_of_interest|store|establishment	43.7174919	7.252781899999998	True		jewelry_store
+3	Les Folies de Jenny	ChIJm5B1ieXPzRIR6NEr9ZWf_wU	jewelry_store|point_of_interest|store|establishment	43.7251078	7.251336899999998			jewelry_store
+4	Presse Cessole	ChIJVQZDWe_PzRIR_ff5AX35m3s	book_store|jewelry_store|point_of_interest|store|establishment	43.7239671	7.249790099999998	True		jewelry_store
+5	Loubette Marcel	ChIJUSJbT-_PzRIRzty7FQzeDTE	jewelry_store|point_of_interest|store|establishment	43.72400349999999	7.2496725	True		jewelry_store
+6	Darmon Brigitte	ChIJbwtmfP7PzRIRb-LZc9exyQM	jewelry_store|point_of_interest|store|establishment	43.715505	7.260309199999999			jewelry_store
+7	Bijouterie GRASSINI	ChIJyR8zOf7PzRIRiZWI014xqWc	jewelry_store|point_of_interest|store|establishment	43.71429729999999	7.261766700000001	True		jewelry_store
+8	Les Trésors de Chloé	ChIJ87LnIP7PzRIRGGIIET0Ud-A	jewelry_store|point_of_interest|clothing_store|store|establishment	43.71370470000001	7.261230800000001	False		jewelry_store
+9	Sculpture et restauration de bronzes. Nice . Alain Bellino	ChIJs0r33gHQzRIRTA92v4omFck	jewelry_store|point_of_interest|store|establishment	43.7129352	7.261356299999999	True		jewelry_store
+10	Heurequal 06	ChIJBT7w6wHQzRIRx4XAKXmRc7c	jewelry_store|point_of_interest|store|establishment	43.7126118	7.260698			jewelry_store
+11	Merienne Emeric Robert	ChIJE_seyQHQzRIRrf8lRktR-gk	jewelry_store|point_of_interest|store|establishment	43.7122183	7.2619564	False		jewelry_store
+12	Bijouterie M.Cor	ChIJd7G3yAHQzRIRqga3yIQMgTA	jewelry_store|point_of_interest|store|establishment	43.7122241	7.261991300000001			jewelry_store
+13	Couleurs des Pierres	ChIJfXr_6nDRzRIR4EZIJIj405g	jewelry_store|point_of_interest|store|establishment	43.71029419999999	7.260673299999999	True		jewelry_store
+14	Le Cartel	ChIJl32sZQHQzRIRZmNGTjZBB88	jewelry_store|point_of_interest|store|establishment	43.7099449	7.260361699999999	True		jewelry_store
+15	Achat Or - Dalia	ChIJq04OzgjQzRIRq_2nt5r_J9c	jewelry_store|point_of_interest|store|establishment	43.708783	7.256176000000002	True		jewelry_store
+16	Au Coeur d'Or	ChIJvRB4LQfQzRIRrnXfah3rI7E	jewelry_store|point_of_interest|store|establishment	43.70854509999999	7.2631996	False		jewelry_store
+17	Musset Sylvie	ChIJ6SCUwgbQzRIRzpqKL41yyJ4	jewelry_store|point_of_interest|store|establishment	43.70713889999999	7.261995199999999			jewelry_store
+18	Phalaenopsis Paris	ChIJvwfo5N9t5kcRZuYGgYxptVU	jewelry_store|point_of_interest|clothing_store|store|establishment	43.7080058	7.264843600000001	False		jewelry_store
+19	Lovely Ears	ChIJOX4sj5fRzRIRxjzGDEzhHxg	jewelry_store|point_of_interest|store|establishment	43.707088	7.264147899999999	False		jewelry_store
+21	Bijouterie Watch Gold	ChIJacPVdgfQzRIRZVhEK_bFZOo	jewelry_store|point_of_interest|store|establishment	43.7063468	7.264181499999999	False	1 Av. Malaussena, 06000 Nice	jewelry_store
+22	Histoire d'Or	ChIJje4LHqjazRIR5TgcRRM3O9M	jewelry_store|finance|point_of_interest|store|establishment	43.7043879	7.2653634	False	45 Av. Jean Médecin, 06000 Nice	jewelry_store
+23	Bijouterie Falusi	ChIJ2ZabzQjQzRIRZnaaghNfHV4	jewelry_store|point_of_interest|store|establishment	43.7019952	7.2600852	True	38 Av. Georges Clemenceau, 06000 Nice	jewelry_store
+24	Or du Temps	ChIJtUruzwjQzRIRx_QDADQi59I	jewelry_store|point_of_interest|store|establishment	43.7019478	7.2605838	True	34 Av. Georges Clemenceau, 06000 Nice	jewelry_store
+25	Sauzeaud Créateur	ChIJf0Fzk6jazRIRQ3aAxi3CRw8	jewelry_store|point_of_interest|store|establishment	43.7042219	7.2689754	False	13 Avenue Notre Dame, 06000 Nice	jewelry_store
+26	Bijouterie Maral	ChIJ9ZMJ-AjQzRIRRG9GfUlSqog	jewelry_store|point_of_interest|store|establishment	43.70171920000001	7.262884400000001	True	24 Av. Georges Clemenceau, 06000 Nice	jewelry_store
+27	Marc Orian	ChIJmRO-bHzbzRIRvlevLKKU6YU	jewelry_store|finance|point_of_interest|store|establishment	43.7017534	7.2675945	False	Centre Commercial Nicetoile, 30 Av. Jean Médecin, 06000 Nice	jewelry_store
+28	Histoire d'Or	ChIJ6cDzCajazRIRisKYLQ2kqRQ	jewelry_store|finance|point_of_interest|store|establishment	43.7018384	7.267890799999999	False	Centre Commercial Nice Etoile, 30 Av. Jean Médecin, 06000 Nice	jewelry_store
+29	Agatha	ChIJtfQasafazRIRhuywAa0eQKM	jewelry_store|point_of_interest|store|establishment	43.7018022	7.267885499999998	False	30 Av. Jean Médecin, 06000 Nice	jewelry_store
+30	Eunice Jonquille	ChIJd-dUtg7QzRIRjkUzVfZPr7c	jewelry_store|point_of_interest|store|establishment	43.6999333	7.259512099999999	True	16 Rue Berlioz Lot 7, 06000 Nice	jewelry_store
+31	Bijoutier Le Solitaire achat or vente Nice	ChIJ9TBadQ7QzRIReKDYay7ziss	jewelry_store|point_of_interest|store|establishment	43.69930009999999	7.256084899999999	True	47 Bd Gambetta, 06000 Nice	jewelry_store
+32	Bijouterie Artero Stéphane	ChIJs2SHOKfazRIR65g5SiJl9us	jewelry_store|point_of_interest|store|establishment	43.7016868	7.270495199999999	False	22 BIS Bd Dubouchage, 06000 Nice	jewelry_store
+33	Bijouterie Perrusset	ChIJXXXu5abazRIR1fwmnmvmt1w	jewelry_store|point_of_interest|store|establishment	43.70006	7.268599	False	18 Av. Jean Médecin, 06000 Nice	jewelry_store
+34	La Joaillerie Nice	ChIJvWPd1KXazRIR8MtpIhzZ0cE	jewelry_store|point_of_interest|store|establishment	43.7007356	7.2708844	False	30 Rue Pastorelli, 06000 Nice	jewelry_store
+35	Babylone	ChIJL3SER6fazRIREZRXCPuBfrU	jewelry_store|point_of_interest|store|establishment	43.6992542	7.266473800000001	False	10 Rue du Maréchal Joffre, 06000 Nice	jewelry_store
+36	Bijouterie Joaillerie Allegrini	ChIJu-zYTqfazRIRNncWbQdOgwM	jewelry_store|point_of_interest|store|establishment	43.69906719999999	7.266429199999998		11bis Rue du Maréchal Joffre, 06000 Nice	jewelry_store
+37	Sarl les Marquises	ChIJJ7XVPqTazRIR43ma5B5LY28	jewelry_store|point_of_interest|store|establishment	43.7003047	7.271228700000001	False	06000 Nice	jewelry_store
+38	Bonada Louis	ChIJuY6DtKDazRIR5s-7E0MJmrk	jewelry_store|point_of_interest|store|establishment	43.6983216	7.2664173	False	3 Rue Alphonse Karr, 06000 Nice	jewelry_store
+39	Bijouterie Le Sancy	ChIJheqNz6bazRIRZhx68SUmatA	jewelry_store|point_of_interest|store|establishment	43.69897659999999	7.2687582	False	9 Av. Jean Médecin, 06000 Nice	jewelry_store
+40	YDOL	ChIJ-6KDsqfazRIRWydr1VrEuYg	jewelry_store|point_of_interest|store|establishment	43.70195830000001	7.267560899999999	False	24 - 26 Av. Jean Médecin, 06000 Nice	jewelry_store
+41	Saoya	ChIJOSeRtKfazRIR1Mn_-bK18RU	jewelry_store|point_of_interest|store|establishment	43.7016025	7.267814599999999	False	30 Av. Jean Médecin, 06000 Nice	jewelry_store
+42	Muriel Ecauvre	ChIJUxZj6nrbzRIRrYdM4HaTSq4	jewelry_store|point_of_interest|store|establishment	43.70065930000001	7.2702936	True	8 Rue Blacas, 06000 Nice	jewelry_store
+43	Abysse	ChIJB1OF46bazRIRO9oL8e5k2H0	jewelry_store|point_of_interest|store|establishment	43.6999271	7.2682411	False	17 Av. Jean Médecin, 06000 Nice	jewelry_store
+44	Evenor	ChIJR4VYLKTazRIRA3D74-363VU	jewelry_store|point_of_interest|store|establishment	43.700539	7.2709002	False	29 Rue Pastorelli, 06000 Nice	jewelry_store
+45	Anagram	ChIJD4Zz1abazRIRHucP3YB-wJI	jewelry_store|point_of_interest|store|establishment	43.6985874	7.268054500000001	False	10 Rue de la Liberté, 06000 Nice	jewelry_store
+47	AGATHA Paris - NICE Nice Massena Galeries Lafayette	ChIJG0BYMR_bzRIRcyIV2-cvD5c	jewelry_store|point_of_interest|store|establishment	43.698839	7.269679000000001	False	Massena, 6 Av. Jean Médecin, 06000 Nice	jewelry_store
+49	My Lady Bijouterie	ChIJ6YcggwvQzRIRQ2DHTzBrWjw	jewelry_store|point_of_interest|store|establishment	43.6967065	7.2604922	False	06000 Nice	jewelry_store
+50	Bijouterie le phoeniX	ChIJSzZ-g7bazRIREhv1l8eKiIg	jewelry_store|point_of_interest|store|establishment	43.7067056	7.2836515	True	3 Av. de la République, 06000 Nice	jewelry_store
+52	Bijouterie Affaires d'Or : Achat Or Nice	ChIJtXFZqqbazRIR1PXqreSJ_YE	jewelry_store|point_of_interest|store|establishment	43.698463	7.270421499999999	True	64 Rue Gioffredo, 06000 Nice	jewelry_store
+53	Frediani Joaillier	ChIJz3PslbrazRIRPQ9DQoL42mY	jewelry_store|point_of_interest|store|establishment	43.7016695	7.277486299999999	True	3 Rue Defly, 06000 Nice	jewelry_store
+54	Bijouterie SIAUD	ChIJi28336DazRIRpV5uorlFfcs	jewelry_store|point_of_interest|store|establishment	43.69760460000001	7.267945699999999	True	11 Rue Massena, 06000 Nice	jewelry_store
+55	Bijouterie For ever	ChIJ1WH_a6TazRIRXIZzR1fhX78	jewelry_store|point_of_interest|store|establishment	43.6990764	7.272451599999999	True	50 Rue Gioffredo, 06000 Nice	jewelry_store
+56	L'atelier Bijoux Or	ChIJK_qa2LbazRIR6RekFi04NLY	jewelry_store|point_of_interest|store|establishment	43.7047706	7.282198199999999	True	24 Av. de la République, 06300 Nice	jewelry_store
+57	La Main d'Or	ChIJuewXDgvQzRIRnCyh8TvMh40	jewelry_store|point_of_interest|store|establishment	43.6958766	7.261562700000001	False	39 Rue de France, 06000 Nice	jewelry_store
+58	ADAMAS JOAILLIER BIJOUTIER	ChIJd02MngzQzRIRh-wxY9yTKUA	jewelry_store|point_of_interest|store|establishment	43.69560329999999	7.259635400000001	False	Adamas Joaillier Bijoutier, 61 Rue de France, 06000 Nice	jewelry_store
+59	Horlogerie Achat D'or	ChIJvTKrGA3QzRIRDiZ0UXegysk	jewelry_store|point_of_interest|store|establishment	43.69519830000001	7.2565227	True	89 Rue de France, 06000 Nice	jewelry_store

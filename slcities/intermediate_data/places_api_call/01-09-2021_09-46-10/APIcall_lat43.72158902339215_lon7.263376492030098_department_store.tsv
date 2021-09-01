@@ -1,0 +1,6 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	MONOPRIX NICE GORBELLA	ChIJ-fm9DPvPzRIR1WEhNx85PaI	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	43.7192716	7.257145700000001	True	department_store
+1	MONOPRIX NICE CIMIEZ	ChIJRW8ZCFDFzRIRI-36Fc2DuCs	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	43.7218841	7.275654499999998	True	department_store
+2	SAS les Trois Grâces, Grace de Blasi	ChIJ5-PMYwTQzRIRW2L1Fyb9TX4	department_store|point_of_interest|store|establishment	43.70731250000001	7.2570045	False	department_store
+3	Foto Cado	ChIJ4VTFiAfQzRIRChp6fKULqaQ	department_store|point_of_interest|store|establishment	43.70504959999999	7.264856500000001	False	department_store
+4	HEMA	ChIJCy19A6jazRIRAZq_jVBFLXo	department_store|home_goods_store|point_of_interest|clothing_store|store|establishment	43.70388759999999	7.265728699999999	False	department_store

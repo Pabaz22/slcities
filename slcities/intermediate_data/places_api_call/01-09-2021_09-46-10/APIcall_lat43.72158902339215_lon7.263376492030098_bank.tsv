@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Victoire Capital Conseil ~ Conseil en Gestion de Patrimoine & Investissements Financiers	ChIJkXwVOFTCzRIRF4gpVLNJh0A	bank|finance|insurance_agency|point_of_interest|establishment	43.7212727	7.260558599999999	True		bank
+1	LCL Bank and Insurance	ChIJycH-GvnPzRIRs1RTCbsSncQ	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7195608	7.262066700000001	True		bank
+2	Caisse d'Epargne Nice Saint-Maurice	ChIJ4fcJzP7PzRIRYT1mMNsnslA	bank|atm|finance|insurance_agency|health|point_of_interest|establishment	43.7179003	7.261619199999999	True		bank
+3	Société Générale	ChIJHcqEBfvPzRIRUFKmSTtaQfo	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.72017350000001	7.256804200000001	True		bank
+4	Crédit Agricole Agence de NICE BORRIGLIONE	ChIJOfKX7jzPzRIRoWG7aDDvlWA	bank|finance|point_of_interest|establishment	43.71658650000001	7.261197799999999	True		bank
+5	BNP Paribas - Nice Fontaine Du Temple	ChIJ6Sg_rfHPzRIRasQBnxTkK68	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.72344390000001	7.255890399999999	True		bank
+6	CIC	ChIJ7ZOTjP7PzRIRNJ0T8sD7sfM	bank|finance|insurance_agency|point_of_interest|establishment	43.71597939999999	7.261204900000001	True		bank
+7	Banque Populaire Nice Gorbella	ChIJAQAQP_DPzRIRqn94iTQLCvE	bank|finance|point_of_interest|establishment	43.7243176	7.2557918			bank
+8	Banque Populaire Méditerranée	ChIJ7xyhNfDPzRIRv7tyba72flk	bank|atm|finance|point_of_interest|establishment	43.7244125	7.2556937	True		bank
+9	Crédit Mutuel	ChIJzw-14wvPzRIRdhMgEEjBaXc	bank|finance|insurance_agency|point_of_interest|establishment	43.7250263	7.255637399999999	True		bank
+10	Crédit Agricole Agence de NICE GORBELLA	ChIJqRkvquLPzRIRletgbqrtcvM	bank|finance|point_of_interest|establishment	43.725441	7.2554665	True		bank
+11	LCL Banque et assurance	ChIJuek2a1HFzRIRTu0Fd4888bM	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7185281	7.272116400000002	True		bank
+12	BNP Paribas - Nice Borriglione	ChIJsagKQf7PzRIR6j9GrPJzQgk	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7145855	7.261429099999999	True		bank
+13	Caisse d'Epargne Nice le Stade	ChIJlx0Lb_LPzRIRVARbfn35gPY	bank|atm|finance|insurance_agency|health|point_of_interest|establishment	43.7268821	7.2559041	True		bank
+14	Crédit Agricole Agence de NICE CIMIEZ	ChIJHTXgsFfFzRIRQEN64_lR71g	bank|finance|point_of_interest|establishment	43.7163344	7.2717657	True		bank
+15	Crédit Agricole Agence de NICE CESSOLE	ChIJgVbGkeTPzRIRJ9DRjqC5E-k	bank|finance|point_of_interest|establishment	43.7192306	7.2527064	True		bank
+16	Credit North	ChIJ--DswVPFzRIRwHjSjP_ELms	bank|atm|finance|point_of_interest|establishment	43.7164462	7.272321900000001			bank
+17	Société Marseillaise de Crédit	ChIJa23mwVPFzRIRoTpOMxpuxfs	bank|finance|point_of_interest|establishment	43.7164383	7.272325899999998	True		bank
+18	Banque Populaire Méditerranée	ChIJ538sPFvFzRIRpQUb_ythGIE	bank|atm|finance|point_of_interest|establishment	43.7248644	7.2743123	True		bank
+19	Caisse d'Epargne Nice Saint-Barthelemy	ChIJgaeliuTPzRIRNwu7obBFTkA	bank|atm|finance|insurance_agency|health|point_of_interest|establishment	43.7195117	7.2517951	True		bank
+20	Société Générale	ChIJ84PLn1PFzRIRYSaZCroC55A	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7149203	7.2716359	True	39t Bd de Cimiez, 06000 Nice	bank
+21	Caisse d'Epargne Nice Cimiez	ChIJf-71PlvFzRIRj5FSRrK2QmQ	bank|atm|finance|insurance_agency|health|point_of_interest|establishment	43.7252143	7.274746699999999	True	Pl. Commandant Gérôme, 06000 Nice	bank
+22	HSBC Nice Cimiez	ChIJoYt-I1vFzRIR3ywdg_0O0HI	bank|finance|point_of_interest|establishment	43.7247204	7.275059300000001	True	29 Av. de Flirey, 06000 Nice	bank
+23	BNP Paribas - Nice Commandant Gerome	ChIJO0plMVvFzRIRq1WAnBY2Gzg	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7250542	7.2753092	True	1 Pl. Commandant Marcel Gérome, 06000 Nice	bank
+24	LCL Bank and Insurance	ChIJR5daT-_PzRIRgXlz5XNb4_4	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7243761	7.249592700000001	True	149 Bd de Cessole, 06100 Nice	bank
+25	Société Générale	ChIJPwCJJu_PzRIRmTwJizPq7MI	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7255347	7.249408499999999	True	22 Av. de Saint-Sylvestre, 06100 Nice	bank
+26	Crédit Agricole Agence de NICE LIBERATION	ChIJ63RZBQHQzRIR09lFUVHnQeM	bank|finance|point_of_interest|establishment	43.7105285	7.262157200000001	True	Pl. du Général de Gaulle, 06000 Nice	bank
+27	Caisse d'Epargne Nice - Joseph Garnier	ChIJHSAKDgHQzRIRl0mQM8Va04w	bank|finance|insurance_agency|health|point_of_interest|establishment	43.71038300000001	7.2615349	True	2 Bd Joseph Garnier, 06100 Nice	bank
+28	Société Générale	ChIJD2y4Eu_RzRIRKgriMlv176E	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7102055	7.262399299999999	True	4 Pl. du Général de Gaulle, 06000 Nice	bank
+29	La Banque Postale Nice	ChIJ87pSBQHQzRIRFtaLTgzPUVI	bank|finance|point_of_interest|establishment	43.7101776	7.2619465	True	26 Pl. du Général de Gaulle, 06000 Nice	bank
+30	CIC	ChIJyWFdvgPQzRIR3oYHHgqKUCA	bank|finance|insurance_agency|point_of_interest|establishment	43.7102943	7.258840299999999	True	22 Bd Joseph Garnier, 06000 Nice	bank
+31	LCL Bank and Insurance	ChIJRYZAuAPQzRIRWyF0BL3mFfI	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7103168	7.258447100000001	True	26 Bd Joseph Garnier, 06000 Nice	bank
+32	HSBC Nice J. Garnier	ChIJw4qY2APQzRIRqwdTTkc-7cU	bank|finance|point_of_interest|establishment	43.7099815	7.2598921	True	15 Bd Joseph Garnier, 06000 Nice	bank
+33	Crédit Mutuel	ChIJQYhSlB_RzRIRtrbh5o8Mc10	bank|finance|insurance_agency|point_of_interest|establishment	43.7102754	7.258283199999998	True	28 Bd Joseph Garnier, 06000 Nice	bank
+34	Société Marseillaise de Crédit	ChIJxTxo2ADQzRIRu-6Jbj5yYCE	bank|atm|finance|point_of_interest|establishment	43.7090237	7.262382499999999	True	31 Av. Malaussena, 06000 Nice	bank
+35	Banque Populaire Méditerranée	ChIJxXlC0QDQzRIRnpE-sWtiNbI	bank|atm|finance|point_of_interest|establishment	43.7088848	7.263008999999999	True	26 Av. Malaussena, 06000 Nice	bank
+36	Caisse d'Epargne Nice Malaussena	ChIJ4YXhMAfQzRIR-_1SHlMjMpw	bank|atm|finance|insurance_agency|health|point_of_interest|establishment	43.7079513	7.263020500000001	True	19 Av. Malaussena, 06000 Nice	bank
+37	Banque Populaire Méditerranée	ChIJl7bqYEjFzRIR7nw1OSgqPtQ	bank|atm|finance|point_of_interest|establishment	43.7201515	7.2843403	True	145 Av. du Maréchal Lyautey, 06000 Nice	bank
+38	Banque Populaire Méditerranée	ChIJVYVCEwXQzRIRL0nH-v0CUpo	bank|atm|finance|point_of_interest|establishment	43.7052916	7.2562979	True	92 Bd Gambetta, 06000 Nice	bank
+39	LCL Banque et assurance	ChIJ8W2s6qjazRIR99W15vIlcVQ	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7043904	7.269430499999999	True	11 Avenue Notre Dame, 06000 Nice	bank
+40	Agence Nice Victoria	ChIJ-ZOgF1vFzRIR4FPOKoohIac	bank|finance|point_of_interest|establishment	43.7249452	7.274562599999999		53 Av. Reine Victoria, 06000 Nice	bank
+41	BNP Paribas - Nice Liberation	ChIJX_cm1ADQzRIRGrZAhfm7J6o	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7083166	7.262789299999999	True	27 Av. Malaussena, 06000 Nice	bank
+42	Chaabi Bank of Morocco	ChIJDQCLlQfQzRIRzmOG1uZ-A5c	bank|atm|finance|point_of_interest|establishment	43.7047096	7.2640636	True	8 Rue de Belgique, 06000 Nice	bank
+43	Société Générale	ChIJcToPx6jazRIRh9-rP4Uqgqk	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7044323	7.2696822	True	15b Rue de Lépante, 06000 Nice	bank
+44	CIC - Agence Nice Toselli	ChIJ-xMGyKjazRIRIbZ8GpMB-wk	bank|finance|insurance_agency|point_of_interest|establishment	43.704292	7.270064	True	14 Rue de Lépante, 06000 Nice	bank
+45	Crédit Municipal Fund	ChIJWZryoK_azRIRIQskiCdXgCI	bank|atm|finance|point_of_interest|establishment	43.704345	7.2734092	True	2 Bd Dubouchage, 06000 Nice	bank
+46	Attijariwafa bank	ChIJcdJi5QfQzRIR3cTmCzxVG6A	bank|atm|finance|point_of_interest|establishment	43.7027021	7.2653138	True	21 Rue de Russie, 06000 Nice	bank
+47	CASDEN Banque Populaire	ChIJUYEmMwnQzRIRf98i8ES1-xY	bank|finance|point_of_interest|establishment	43.7007193	7.260004	True	30 Rue Rossini, 06000 Nice	bank
+48	Monte Paschi Banque	ChIJsfX9wgnQzRIRKpXuZVawX9Y	bank|finance|point_of_interest|establishment	43.69995	7.264433	True	13 Rue Alphonse Karr, 06000 Nice	bank
+49	Banque Populaire	ChIJB1OF46bazRIRosnMz7QdRfA	bank|atm|finance|point_of_interest|establishment	43.6999915	7.2681711	True	17 Av. Jean Médecin, 06000 Nice	bank
+50	LCL Banque et assurance	ChIJxZA6qAbbzRIRzCehdeyRLBE	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.6996675	7.2682411	True	15 Av. Jean Médecin, 06000 Nice	bank
+51	Carrefour Banque Nice Tnl	ChIJtw7gBbbazRIRuI4vrkhRIkI	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.70653040000001	7.286276299999999		Rue de Roquebillière, 06300 Nice	bank
+53	Agricole	ChIJq2MkhDPFzRIRQOSNkPkXKx8	bank|finance|point_of_interest|establishment	43.7139673	7.292602599999999		06300 Nice	bank
+54	Banque Populaire Méditerranée	ChIJFXSzAqXazRIR2Ay8-hbjlXI	bank|atm|finance|point_of_interest|establishment	43.7004868	7.2741588	True	17 Rue de l'Hôtel des Postes, 06000 Nice	bank
+55	Société Générale	ChIJEVC-srDazRIR6G-Oi6ddfpE	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7029434	7.2814567	True	33 Av. de la République, 06300 Nice	bank
+56	Société Générale	ChIJUfwIH6TazRIRvygT26lTKec	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.6989393	7.2692878	True	8 Av. Jean Médecin, 06000 Nice	bank
+57	LCL Banque et assurance	ChIJT9nhqrDazRIRID-lVuP5so4	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7024959	7.281260999999999	True	35 Av. de la République, 06300 Nice	bank
+58	BCP Bank	ChIJg7QuDwzQzRIRD-wIbDbSanY	bank|atm|finance|point_of_interest|establishment	43.69848169999999	7.259672600000001	True	50 Bd Victor Hugo, 06000 Nice	bank
+59	CIC	ChIJjaI2BLrazRIR8hfk_SwPzLs	bank|finance|insurance_agency|point_of_interest|establishment	43.7019933	7.280964499999999	True	39 Av. de la République, 06300 Nice	bank

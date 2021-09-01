@@ -1,0 +1,21 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	main_type
+0	Cave Le Temps d'un Vin	ChIJgcEN4vrPzRIRYVR7e2yiSlQ	liquor_store|food|point_of_interest|store|establishment	43.72071709999999	7.2563537	True		liquor_store
+1	Happy Beer	ChIJt1oKforPzRIR6z8s_XM1LL8	liquor_store|point_of_interest|store|establishment	43.7210757	7.251505499999998	True		liquor_store
+2	Ivinio	ChIJI3I3xvzPzRIRgPExvaHpWWA	liquor_store|food|point_of_interest|store|establishment	43.7175273	7.252727099999999	False		liquor_store
+3	La Cave A Ju	ChIJrfn8Se_PzRIRRgUe6CBV4_o	liquor_store|food|point_of_interest|store|establishment	43.72463399999999	7.249476	False		liquor_store
+4	Nicolas Nice Borriglione	ChIJP1VVVRHQzRIRNWHJAVT7biQ	liquor_store|food|point_of_interest|store|establishment	43.7145336	7.2617296	False	2.0	liquor_store
+5	WILL'MAN	ChIJW1VAC5TRzRIRbkqigarYY20	restaurant|bar|liquor_store|food|point_of_interest|store|establishment	43.71167289999999	7.255376200000001	True		liquor_store
+6	Nicolas Nice Cessole	ChIJy-rg3wLQzRIRHdxn27V9JHQ	liquor_store|food|point_of_interest|store|establishment	43.7112448	7.255889299999999	True	2.0	liquor_store
+7	Break Pizza	ChIJ_VQI9KnRzRIR3JIKvxgE_V8	restaurant|bar|liquor_store|food|point_of_interest|store|establishment	43.7092108	7.251759900000001	False		liquor_store
+8	Carrière Fabrice	ChIJKWScAwHQzRIRdOBG9TQfmDU	liquor_store|food|point_of_interest|store|establishment	43.710228	7.262799199999999			liquor_store
+9	La Brasserie Artisanale de Nice	ChIJAxVSvgDQzRIRrI6X8pbwlZI	bar|liquor_store|restaurant|food|point_of_interest|store|establishment	43.70932029999999	7.264122100000001	False		liquor_store
+10	Vin	ChIJ__-DLAHQzRIREoWn1_JREBk	liquor_store|point_of_interest|store|establishment	43.7084951	7.262230299999998			liquor_store
+11	ALDI	ChIJISZ1W3rRzRIRaw89WqKSmKU	supermarket|bakery|grocery_or_supermarket|liquor_store|food|point_of_interest|store|establishment	43.707452	7.259595999999999	True		liquor_store
+12	Nicolas Nice Malaussena	ChIJ9dUrMgfQzRIRaAuheHSoWBU	liquor_store|food|point_of_interest|store|establishment	43.7081277	7.263505200000002	True	2.0	liquor_store
+13	Cave Brunlux	ChIJ1zISKgTQzRIRUrDphchUU9Q	liquor_store|food|point_of_interest|store|establishment	43.7063802	7.2598876	False		liquor_store
+14	Aperitiv Nice Malaussena	ChIJ21sYPgfQzRIRIvspWvnoRvg	grocery_or_supermarket|liquor_store|food|point_of_interest|store|establishment	43.70711000000001	7.263677199999999	False		liquor_store
+15	L'épicurien Malaussena	ChIJs5MlyPTRzRIRKiAGwBI_G88	liquor_store|restaurant|food|point_of_interest|store|establishment	43.7067297	7.263928000000001	False		liquor_store
+16	La Cave - Cave depuis 1951	ChIJQ6kvFQXQzRIRNphQKCqc-Ys	bar|liquor_store|restaurant|food|point_of_interest|store|establishment	43.7052368	7.255980200000002	True		liquor_store
+17	Le Sarah Pizza	ChIJj_v2YBrQzRIRaoc2nRD0y9o	restaurant|bakery|meal_takeaway|bar|liquor_store|food|point_of_interest|store|establishment	43.70532509999999	7.251824699999998	False		liquor_store
+18	La Route des Vins	ChIJeWM3cwfQzRIRE8WzcF2Qymw	liquor_store|food|point_of_interest|store|establishment	43.70628050000001	7.264111199999999	False		liquor_store
+19	Paul	ChIJbw9ZJQbQzRIR2uUMrH-aSpE	bakery|cafe|bar|liquor_store|restaurant|food|point_of_interest|store|establishment	43.7042377	7.261731500000001	True	2.0	liquor_store

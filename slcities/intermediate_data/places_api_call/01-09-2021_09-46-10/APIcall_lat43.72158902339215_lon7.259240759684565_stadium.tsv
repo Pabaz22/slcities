@@ -1,0 +1,3 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Mini Stade Falicon	ChIJxVYuxfHPzRIRzt3dOhvtUzw	stadium|point_of_interest|establishment	43.7264317	7.255083699999998	True	stadium
+1	Stade André Bonny	ChIJDWxJ0-nPzRIRhsd6RSPVgYM	stadium|point_of_interest|establishment	43.7262218	7.244117500000001		stadium

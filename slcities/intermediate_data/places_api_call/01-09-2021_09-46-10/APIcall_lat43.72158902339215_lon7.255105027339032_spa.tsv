@@ -1,0 +1,52 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Spot Bien Etre l'Atelier Bien Etre. Massages, Réflexologie Plantaire, Amincissement, Fish Pédicure...	ChIJD38sPFvFzRIRT7ftDHMBX-c	spa|health|point_of_interest|establishment	43.7200836	7.2555799	False		spa
+1	Institut de Beauté Bel'à Vie à Nice	ChIJs3xH7vnPzRIR9Jkj7ais7Z4	beauty_salon|hair_care|spa|point_of_interest|establishment	43.72183949999999	7.260523000000001	False		spa
+2	Jérôme Dominot : mission Bien-Être	ChIJPf7o3zXVzRIRt-SO4vYU3jI	spa|health|point_of_interest|establishment	43.7184819	7.258716499999999	False		spa
+3	Lise Rose Institut	ChIJ0xubaePPzRIRFkZFY1vwa50	beauty_salon|hair_care|spa|point_of_interest|establishment	43.7176346	7.253010000000002	False		spa
+4	Institut de beauté Estetica Cocoon by Alice et Noemie	ChIJCZrmB1HPzRIR78yT5o4UY5k	beauty_salon|hair_care|spa|health|point_of_interest|establishment	43.7251078	7.251336899999998	True		spa
+6	Sauna Le Cercle	ChIJa-tCJ-PPzRIRCb9Pt6-vJpA	spa|health|point_of_interest|establishment	43.7163443	7.253890799999999	False		spa
+7	NaturoNice - Magnétiseur	ChIJYT6VZRvPzRIRG1vnNsYOJI4	spa|health|point_of_interest|establishment	43.7184772	7.2645483	True		spa
+8	"""DEOS"" Massage Nice & Yoga"	ChIJgRKUf1jFzRIR8cWxPv9SxhI	spa|point_of_interest|establishment	43.7247908	7.265391200000001	True		spa
+9	Deos Bien-Être	ChIJgRKUf1jFzRIRpJNh_aLAiaY	spa|school|point_of_interest|establishment	43.72497059999999	7.265372299999999	True		spa
+10	Mayer Caroline	ChIJETGIMALQzRIREa0gdDji0ec	spa|health|point_of_interest|establishment	43.7115813	7.259090599999999			spa
+11	Inner Rebirth	ChIJ2-NPoCfRzRIR7u6JgQUKShE	spa|point_of_interest|establishment	43.7124962	7.262687100000001	True		spa
+12	Rinascita Nice	ChIJ67Pa9xHQzRIRAkXz03Hnl3A	spa|point_of_interest|establishment	43.7124962	7.262687100000001	True		spa
+13	institut beauté d'ailleurs	ChIJ1ccGqFXFzRIR0vWqdjOyHcw	beauty_salon|hair_care|spa|point_of_interest|establishment	43.715212	7.267324	True		spa
+14	SO FIT! GYM	ChIJ2WdhEfnPzRIRlkNs0hmSVes	spa|school|gym|health|point_of_interest|establishment	43.71178099999999	7.263295999999999	True		spa
+15	Le Salon by Magda - réservé aux femmes	ChIJI2eh6PfRzRIRZKD3xa9gbM0	spa|point_of_interest|establishment	43.7099164	7.258332100000001	True		spa
+16	New'Beaute Institut - Nice Centre/Nord	ChIJEVPKZQHQzRIRiChHcTPNdHA	beauty_salon|hair_care|spa|health|point_of_interest|store|establishment	43.7099907	7.260435500000002	True		spa
+17	Ayurveda Nice - Fabio de Giovanni	ChIJcZY43KDRzRIRAU4wWW4j7L4	spa|point_of_interest|establishment	43.7102088	7.262494700000001	True		spa
+20	Massage nice domicile	ChIJC3ePO2HRzRIROaL3Bkegj8k	spa|health|point_of_interest|establishment	43.7075421	7.2624923	False	14 Rue de Dijon, 06000 Nice	spa
+21	Bodyzen	ChIJuzGXnvKBzhIRZdkqr3zpExA	spa|point_of_interest|establishment	43.7079106	7.2651144	False	9 Rue Diderot, 06000 Nice	spa
+22	Spa Massages Nice GoKan	ChIJyx1eTF3FzRIRVMS6luOerFw	spa|point_of_interest|establishment	43.7301855	7.2759528	True	51 Av. Cap-de-Croix, 06100 Nice	spa
+24	PERLE DE BEAUTE | massage - beauté - minceur	ChIJjy7EqqnazRIRG5bpVZ6vUnQ	beauty_salon|hair_care|spa|health|point_of_interest|store|establishment	43.7056694	7.267875999999999	True	18 Rue Pertinax, 06000 Nice	spa
+25	Hammam Sultana	ChIJpzEWHUbFzRIRoAmFC3fOM90	spa|point_of_interest|establishment	43.7213878	7.2827724	False	6 Rue Désirée Clary, 06000 Nice	spa
+26	Hammam Al Andalous	ChIJVyeZyajazRIRL9FHxDLWRH4	spa|point_of_interest|establishment	43.7044325	7.270245899999999	False	6 Rue Valperga, 06000 Nice	spa
+27	Aroma Institut	ChIJ7WqrOqbazRIR3wrfinXtG68	beauty_salon|hair_care|spa|point_of_interest|establishment	43.70259069999999	7.2687846	True	18 Rue Lamartine, 06000 Nice	spa
+28	Institut Tendance Spa	ChIJmWNSNQjQzRIRmOFPwl6SsWg	spa|point_of_interest|establishment	43.70097	7.263882699999999	True	23 Rue Alphonse Karr, 06000 Nice	spa
+29	Spa Deep Nature - Boscolo Nice Hôtel & Spa	ChIJkztYZ6fazRIRa2yx3dXltGY	spa|beauty_salon|health|point_of_interest|establishment	43.7000339	7.2655387	True	12 Bd Victor Hugo, 06000 Nice	spa
+30	Hotel Boscolo Exedra Nice	ChIJ4zhhZqfazRIRjVzbd981mlg	spa|lodging|restaurant|food|point_of_interest|establishment	43.700028	7.265667199999999		12 Bd Victor Hugo, 06000 Nice	spa
+32	Splendid Hotel & Spa Nice	ChIJ19gy-AvQzRIRvTDzneaaa84	parking|spa|lodging|health|point_of_interest|establishment	43.6985889	7.259922800000001	True	50 Bd Victor Hugo, 06000 Nice	spa
+33	L'instant Spa Nice | Massage, Beauté et Minceur	ChIJHVARHQrQzRIRjgepVQeVi1o	beauty_salon|hair_care|spa|health|point_of_interest|establishment	43.6985242	7.2646881	False	23 Rue du Maréchal Joffre, 06000 Nice	spa
+34	Molihua salon massage	ChIJ9W-dAbDazRIRgmMkgDvxgSA	spa|point_of_interest|establishment	43.7029584	7.276241999999999	False	16 Rue Penchienatti, 06000 Nice	spa
+35	Soins Naturels	ChIJoYy7MArQzRIRTpBT2Imny94	hair_care|spa|point_of_interest|establishment	43.698056	7.2626326	True	18 Rue du Congrès, 06000 Nice	spa
+36	Momoka	ChIJo1ZaxgvQzRIRB-jo4bwoOks	spa|point_of_interest|establishment	43.6978601	7.2617762		39 Rue du Maréchal Joffre, 06000 Nice	spa
+37	Bodywork Nice	ChIJ1641UgzQzRIRgWwYkDZKqxk	spa|health|point_of_interest|establishment	43.697206	7.257455999999999	False	84 Rue du Maréchal Joffre, 06000 Nice	spa
+38	Nice & Spa	ChIJHwu0AkDQzRIRXg0ZSGD6wRg	beauty_salon|hair_care|spa|health|point_of_interest|establishment	43.6997018	7.270168300000001	False	1 Rue Voltaire, 06000 Nice	spa
+39	Absolu Spa Nice	ChIJIeVvjwvQzRIRrRgPgXsJSJc	spa|beauty_salon|point_of_interest|establishment	43.697218	7.260226	False	25 Rue Meyerbeer, 06000 Nice	spa
+40	le langage du toucher	ChIJpwbY7ZLFzRIR4y_QJutkvc8	spa|point_of_interest|establishment	43.7187738	7.274574800000001	True	14 Av. Marianna, 06000 Nice	spa
+41	Nimfa massage nice	ChIJK31kpwbQzRIRTdckmxaoNV0	spa|point_of_interest|establishment	43.7073515	7.260709299999999	False	24 Rue des Combattants en Afrique du N, 06000 Nice	spa
+42	"Au""Studio B"""	ChIJwfptdQDQzRIRvMNNgDJjJMg	spa|health|point_of_interest|establishment	43.7229956	7.2787393	True	13 Av. Isabelle, 06000 Nice	spa
+44	magali Baudy massotherapeute	ChIJsU-t1jHOzRIRoMiKftubQvU	spa|health|point_of_interest|establishment	43.701741	7.267004000000001	False	27/29 Av. Jean Médecin, 06000 Nice	spa
+45	LINGAM MASSAGE NICE	ChIJH6CofwnQzRIRYtQBmXmgXEQ	spa|point_of_interest|establishment	43.6989492	7.262461800000001	True	Bd Victor Hugo, 06000 Nice	spa
+46	Espace ZEN'it	ChIJuSNF06DazRIR262kOLPdjVE	spa|health|point_of_interest|establishment	43.698442	7.2675995	False	14 Rue de la Liberté, 06000 Nice	spa
+47	ELYSEE INSTITUTE Nice	ChIJYylloabazRIR2Z-79k9Tkpc	spa|point_of_interest|establishment	43.6993041	7.270379999999999	False	32 Rue de l'Hôtel des Postes, 06000 Nice	spa
+48	Vitalbody Spa	ChIJp-fGO6XazRIR3ZX_6Bybr7E	spa|point_of_interest|establishment	43.7013091	7.275243100000001	False	16 Rue Tonduti de l'Escarène, 06000 Nice	spa
+49	Spa & Beauty Elegance	ChIJubEyp6bazRIReYZ1Qsa2cio	beauty_salon|spa|point_of_interest|establishment	43.69911820000001	7.2703995	True	47 Rue de l'Hôtel des Postes, 06000 Nice	spa
+50	Jacc'easy	ChIJk7ka3PfbzRIRp7cmRaC8WTk	spa|point_of_interest|establishment	43.69790520000001	7.2683108	True	4 Rue Massena, 06000 Nice	spa
+51	Bouddha Spa	ChIJZ-vSxwzQzRIRDQDWhioH1tw	spa|point_of_interest|establishment	43.6958977	7.2586118	False	2 Rue de Rivoli, 06000 Nice	spa
+53	Espace EDEN	ChIJN7UscgnQzRIRy9kJzoU68EE	spa|point_of_interest|establishment	43.6955769	7.256206400000001	True	Gambetta, Prom. des Anglais, 06000 Nice	spa
+54	Ban Thai Spa Massage Thai Nice	ChIJd3wO8_DRzRIRGaDTHzCKINI	spa|point_of_interest|establishment	43.695861	7.2614506	False	41 Rue de France, 06000 Nice	spa
+56	Salvana Spa	ChIJlR_iiQrQzRIRaPv9r4YoFTs	beauty_salon|hair_care|spa|health|point_of_interest|store|establishment	43.6962285	7.2643695	False	23 Rue du Commandant Raffalli, 06000 Nice	spa
+57	Espace Zen	ChIJLQoM40HRzRIR5tekEwlWxZM	spa|point_of_interest|establishment	43.6956291	7.262167100000001	False	35 Rue de France, 06000 Nice	spa
+59	L'Atelier des Harmonies	ChIJ5SE6R7fazRIRh2kfo7k5ADU	spa|point_of_interest|establishment	43.7035549	7.2823412	False	3 Pl. Pellegrini, 06300 Nice	spa

@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	MAPTROTTER	ChIJfxT2OPfPzRIRmHCPGhrjnaE	electronics_store|point_of_interest|store|establishment	43.724048	7.2607388	True		electronics_store
+1	Hors Limites Productions : Animation Musicale Nice - DJ Mariage - Live Music - Père Noël - Mariage, Anniversaire et Soirée Privée à Nice et dans les Alpes-Maritimes	ChIJr0Yir5rFzRIR0w2lvMvZZds	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7184952	7.267194399999999	True		electronics_store
+2	Pulsat	ChIJIUjNhfzPzRIRDnR4PKYQPMg	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7178443	7.256646399999999	True		electronics_store
+3	E.S Télécom	ChIJx94B0fzPzRIRhI_Xo0t0v5U	electronics_store|point_of_interest|store|establishment	43.71794450000001	7.2564006	True		electronics_store
+4	leccia-informatique	ChIJQVL8uJHPzRIRtckFPEhLWHA	electronics_store|point_of_interest|store|establishment	43.7273845	7.2601399	True		electronics_store
+5	Technic Bureau	ChIJPS7agv_PzRIRqRI5_DHZ7kQ	electronics_store|point_of_interest|store|establishment	43.7149452	7.2654331			electronics_store
+6	Académie De Piano Bérénice : Cours De Piano Pour Enfants Adolescents Adultes, Éveil Musical.	ChIJrZ9ValHFzRIRhIKF16HM_kU	electronics_store|home_goods_store|school|point_of_interest|store|establishment	43.7182235	7.2720661			electronics_store
+7	ATELIER DE DEPANNAGE INFORMATIQUE YOKOSE	ChIJucscxPzPzRIR9r9EX-ncf4E	electronics_store|point_of_interest|store|establishment	43.7168915	7.2554664	True		electronics_store
+8	Borriglione Serrurerie Nice La Maison de La Clef	ChIJNXHqO_7PzRIR2MhWeHAUeMk	locksmith|electronics_store|point_of_interest|store|establishment	43.713976	7.261807	True		electronics_store
+9	Bettassa Pianos - La Maison du Piano	ChIJBeznUePPzRIRyx_EJj3rtDY	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7178887	7.253988999999999	True		electronics_store
+10	Studio 12	ChIJYXdCnsbPzRIRx0wOkFESCis	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7168758	7.254602599999999	True		electronics_store
+11	T&T Piano Music | During Piano Cours D'accordéon During Notation	ChIJhQ_w2r3FzRIRKPMCcMQiaXg	electronics_store|home_goods_store|school|point_of_interest|store|establishment	43.71632	7.2721354	True		electronics_store
+12	Thierry Noll	ChIJMX6pi9bPzRIR7dKcAwXtIjA	electronics_store|home_goods_store|school|point_of_interest|store|establishment	43.7165428	7.272408899999999	True		electronics_store
+13	Le Stud	ChIJ4_8CQuPPzRIRvZ4SDS4ZUGU	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7176144	7.253214499999999	False		electronics_store
+14	Creasites Nice Informatique	ChIJSVlJbgTQzRIRkJ1h47CUtE4	electronics_store|point_of_interest|store|establishment	43.7132668	7.2645319	True		electronics_store
+15	Guitariste trash	ChIJwwpbcSnFzRIRYjv2eWmTDMQ	electronics_store|home_goods_store|point_of_interest|store|establishment	43.72213379999999	7.2751461			electronics_store
+16	Mix And Light	ChIJhTfUtv3PzRIRVFBaxxx8RFw	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7134579	7.2588482	False		electronics_store
+17	4070 Studio	ChIJuX1so23RzRIRA9dji_-odMw	electronics_store|home_goods_store|point_of_interest|store|establishment	43.71230939999999	7.263041800000001	True		electronics_store
+18	Multi Alarme	ChIJ7TodW-_PzRIRmiE4z86crAw	electronics_store|point_of_interest|store|establishment	43.7237491	7.250315400000001	True		electronics_store
+19	A.G.S.E	ChIJP_3-LeTPzRIRw7RZ1S9NAiM	electronics_store|point_of_interest|store|establishment	43.7206491	7.2495195	False		electronics_store
+20	AP2 Syst'm	ChIJ4e61MQLQzRIRSSxpWJn_tLA	electronics_store|point_of_interest|store|establishment	43.7113689	7.259047499999999	True	10 Bd Auguste Raynaud, 06100 Nice	electronics_store
+21	Audio Video Loisirs	ChIJsQv4nADQzRIRyJgMCWv28uk	electronics_store|point_of_interest|store|establishment	43.7099449	7.264906499999999		3 Rue François Pellos, 06000 Nice	electronics_store
+22	Pulsat	ChIJK_QL3APQzRIRHiHgAeisOak	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7099334	7.2592895	True	19 Bd Joseph Garnier, 06000 Nice	electronics_store
+23	Admi Computer France	ChIJEQOhpgPQzRIRcW0K5TVmXfA	electronics_store|point_of_interest|store|establishment	43.7102674	7.257562399999999	False	38 Bd Joseph Garnier, 06000 Nice	electronics_store
+24	OXYSAT 06	ChIJKQgXmlrRzRIRaGoE9OFbc5U	electronics_store|finance|point_of_interest|store|establishment	43.7076483	7.261197799999999	False	7 Rue d'Autun, 06000 Nice	electronics_store
+25	Joly Richard	ChIJA02tmwTQzRIRFgbJYmUW-2s	electronics_store|point_of_interest|store|establishment	43.7082948	7.256312599999998	False	130 Bd Gambetta, 06000 Nice	electronics_store
+26	fabricant de harpe	ChIJQRg_uwTQzRIR3K_Tz7_r8vU	electronics_store|home_goods_store|point_of_interest|store|establishment	43.70813320000001	7.255420300000001		1 Pte Av. Madeleine, 06000 Nice	electronics_store
+27	vente06.fr	ChIJgbhXPcnFzRIRoeM2cZUMca8	electronics_store|point_of_interest|store|establishment	43.7333289	7.275898300000001	True	173 Av. Henry Dunant, 06100 Nice	electronics_store
+28	Cochet Rudy	ChIJW2GcVgTQzRIRV-UwYVR2uZI	electronics_store|point_of_interest|store|establishment	43.7066433	7.256647499999999	False	7 Rue Pie Scoffier, 06000 Nice	electronics_store
+29	Le Beau Site	ChIJG_2FkAfQzRIRsm_HzVIHcWk	electronics_store|point_of_interest|store|establishment	43.7051224	7.264480700000001	False	1 Av. Thiers, 06000 Nice	electronics_store
+30	Phox	ChIJb1YhiQfQzRIRWaeB0oATaPg	electronics_store|point_of_interest|store|establishment	43.7050406	7.2650134	False	06000 Nice	electronics_store
+31	Millo Electricité	ChIJU_bATqjazRIRbOTB4wf5dk8	electronics_store|point_of_interest|store|establishment	43.7051572	7.267211000000001	True	44 Rue Lamartine, 06000 Nice	electronics_store
+32	Point Energie - Nice	ChIJr8Yh3ajazRIRaa7pnL6GnZo	electronics_store|car_repair|home_goods_store|point_of_interest|store|establishment	43.7050424	7.2695289	True	20 Rue de Lépante, 06000 Nice	electronics_store
+33	Devialet	ChIJNcSIR53bzRIRKge3669v59g	electronics_store|point_of_interest|store|establishment	43.70326619999999	7.2665158	False	FNAC Nice - La Riviera, 44-46 Avenue Jean Médecin, 06008 Nice	electronics_store
+34	Réception Fnac	ChIJ5y5vBsfbzRIRYO-Rar44zU0	electronics_store|point_of_interest|store|establishment	43.7030049	7.2670594		8-16 Rue Emma et Philippe Tiranty, 06000 Nice	electronics_store
+35	Music 3000 Nice Centre	ChIJ6XtGy4PbzRIRtXNnd-6erXc	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7031646	7.270707900000001		4 Rue de Lépante, 06000 Nice	electronics_store
+36	I.d.x Ste	ChIJSRcsVbTazRIRMljHKKoKopI	electronics_store|point_of_interest|store|establishment	43.7090013	7.2840171		16 Bd Jean-Baptiste Vérany, 06300 Nice	electronics_store
+37	Apocalypse Records Shop	ChIJ__-T5qXazRIRXTLYqhnPo8s	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7020808	7.271123299999999		1 Rue Rancher, 06000 Nice	electronics_store
+38	Micromania	ChIJtdgyu23bzRIRCfU6FlhUpPo	electronics_store|point_of_interest|store|establishment	43.7013469	7.267851299999999	False	30 Av. Jean Médecin, 06000 Nice	electronics_store
+39	My Future Innovation	ChIJ__9PYKbazRIRpAnHlb6XHhU	electronics_store|point_of_interest|store|establishment	43.7008645	7.2694584	True	37-41 Bd Dubouchage, 06000 Nice	electronics_store
+40	TECHNIKA 06	ChIJeUkJrFzFzRIRBAp5AFJLiFA	electronics_store|point_of_interest|store|establishment	43.72680400000001	7.275836200000001	True	14 Av. Cap-de-Croix, 06100 Nice	electronics_store
+41	Printerre	ChIJbV8_xgLQzRIR2_M0ZCiAzxA	electronics_store|point_of_interest|store|establishment	43.7121752	7.2552555		21 Bd de Cessole, 06200 Nice	electronics_store
+42	Direct Cartouche Store	ChIJVVXFmQTQzRIRCfOXl5e7GE8	electronics_store|point_of_interest|store|establishment	43.7082761	7.2561638	True	130 Bd Gambetta, 06000 Nice	electronics_store
+43	DARTY Nice Nord Notre Dame	ChIJMd-JCajazRIRNcUHZVL4x5E	electronics_store|furniture_store|home_goods_store|point_of_interest|store|establishment	43.7037237	7.266676599999999	False	28 Avenue Notre Dame, 06000 Nice	electronics_store
+44	FNAC Nice	ChIJAYwr4uPazRIR8A7z1BVcAJk	department_store|book_store|electronics_store|home_goods_store|point_of_interest|store|establishment	43.7033812	7.2665978	False	44-46 Av. Jean Médecin, 06000 Nice	electronics_store
+45	Info Malin	ChIJ1bjbsajazRIRs0CckysCZLY	electronics_store|point_of_interest|store|establishment	43.7035554	7.270196	False	9 Rue de Lépante, 06000 Nice	electronics_store
+46	Music 3000 Nice Centre	ChIJKQ8SVa_azRIR0vyODEg4FYE	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7031998	7.270717599999998	False	4 Rue de Lépante, 06000 Nice	electronics_store
+47	Systemecaisse.com	ChIJCTcA3xnbzRIRlAlT35UHB14	electronics_store|point_of_interest|store|establishment	43.7013827	7.2660023	True	1 Rue Jacques Offenbach, 06000 Nice	electronics_store
+48	ProCaisse.com	ChIJTUb66eDbzRIRyzmvH6ADaxA	electronics_store|point_of_interest|store|establishment	43.7013827	7.2660023	True	1 Rue Jacques Offenbach, 06000 Nice	electronics_store
+49	HEX	ChIJ854OYKbazRIRWcHVGq90LXw	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7008143	7.269359199999998	False	37-41 Bd Dubouchage, 06000 Nice	electronics_store
+50	Electronic Alarm	ChIJV4_8sqXazRIRJxxKEVrLDQc	real_estate_agency|electronics_store|point_of_interest|store|establishment	43.700683	7.272598500000001	True	18 Rue Gubernatis, 06000 Nice	electronics_store
+51	Composants Diffusion	ChIJKYXlMKXazRIRJVZbke3Uhk4	electronics_store|home_goods_store|point_of_interest|store|establishment	43.701175	7.2755603	True	12 Rue Tonduti de l'Escarène, 06000 Nice	electronics_store
+52	T3 Azur Int	ChIJFarVXrbazRIR96A_6VdfFFs	electronics_store|point_of_interest|store|establishment	43.7050832	7.284107	True	16 Boulevard du Général Louis Delfino angle, 99 Rue de Roquebillière, 06300 Nice	electronics_store
+53	waltz joffrey luthier	ChIJsTyyN7fazRIRx4gV_Bzq4Kk	electronics_store|home_goods_store|point_of_interest|store|establishment	43.7034536	7.2822089		Pl. Pellegrini, 06300 Nice	electronics_store
+54	LDLC Nice Grimaldi	ChIJLe6voCvRzRIRc5jM0GL5RGo	electronics_store|point_of_interest|store|establishment	43.6986075	7.2648879	False	19 Rue du Maréchal Joffre, 06000 Nice	electronics_store
+55	Flashlight co	ChIJEzUGYhzbzRIRPtzMvt3Dlv4	electronics_store|point_of_interest|store|establishment	43.7026141	7.2816468	True	4 Rue Badat, 06300 Nice	electronics_store
+56	INFOTECH Nice	ChIJG0bp8aTazRIRM2CGNLeWdIM	electronics_store|point_of_interest|store|establishment	43.6997004	7.273987	False	40 Rue Gioffredo, 06000 Nice	electronics_store
+57	Calvin Lionel Joseph	ChIJb_ONhhHQzRIRuAGPJmsttgU	electronics_store|point_of_interest|store|establishment	43.6997007	7.2522655	True	26 Rue Frédéric Passy, 06000 Nice	electronics_store
+58	Mbo Computer	ChIJuQamW8vazRIRA_cQc04HAk0	electronics_store|point_of_interest|store|establishment	43.71050899999999	7.291789	True	16 Rue du Dr Fighiera, 06300 Nice	electronics_store
+59	Xpress-Market	ChIJJ4v-nlvbzRIRv7W5K6o8UEs	electronics_store|point_of_interest|store|establishment	43.7026225	7.2827787	True	16 Rue Cais de Pierlas, 06300 Nice	electronics_store

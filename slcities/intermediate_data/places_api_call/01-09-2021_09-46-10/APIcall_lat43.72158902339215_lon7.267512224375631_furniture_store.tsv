@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Renaissance Tapisserie	ChIJx48KbczbzRIRxl82qq6mG2c	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7224351	7.265401700000001	True		furniture_store
+1	SMARIN / Atelier Nice Nord	ChIJcZkMJPjPzRIRyDgB02Av6DM	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7215804	7.264880700000002			furniture_store
+2	Menuiserie Raybaud - artisan menuisier sur Nice	ChIJoafmcFjFzRIRdob5n9SCJyA	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7240565	7.265812599999999			furniture_store
+3	Atelier Dégut	ChIJfZXkbIjFzRIRJ_ACTy3RqRc	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7201981	7.2725898			furniture_store
+4	FC DECORATION	ChIJmeV6HVHFzRIR_SyKsklKFH0	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7200984	7.273294			furniture_store
+5	Fasulo Aldo et Censi Jean-Claude	ChIJqyUyV1DFzRIRAjGoC1PVFiA	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7200817	7.273664600000003	True		furniture_store
+6	Tapissier Decorateur - Alain Fortunato	ChIJDbhfPfnPzRIRtDs4wqjmR7U	furniture_store|home_goods_store|general_contractor|point_of_interest|store|establishment	43.7191621	7.2617863	True		furniture_store
+7	La casa di maria	ChIJ_bUQG8bFzRIRF9uYFwzXeb8	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7275712	7.268126000000001			furniture_store
+8	Montes Expertise	ChIJWYtHVC27rhIR2jGOc0_4nJM	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7234556	7.276118199999999	False		furniture_store
+9	Atelier Du Bois	ChIJn-w4RGfFzRIRmG9_baKV2Is	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7281201	7.2666023	True		furniture_store
+10	Sarl Deco 3000	ChIJTRJhnVzFzRIREu0_PaNzEaU	furniture_store|home_goods_store|point_of_interest|store|establishment	43.726758	7.2741111			furniture_store
+11	Maison Blanchet Vincent à Ussel en Corrèze	ChIJAQB8clLFzRIRjtHdertFu1M	furniture_store|home_goods_store|point_of_interest|store|establishment	43.715699	7.2754227			furniture_store
+12	Maxi Bazar	ChIJJ3Ord_DPzRIRfbIk9_3V220	home_goods_store|furniture_store|point_of_interest|store|establishment	43.7231732	7.256360099999999	True		furniture_store
+13	Débarras Nice - Bon Débarras 06	ChIJf-d8lyrQzRIREVwurO15sBc	moving_company|furniture_store|home_goods_store|storage|point_of_interest|store|establishment	43.7155213	7.275479100000002	True		furniture_store
+14	Pelloux Eric	ChIJhQuIQvHPzRIRAJYVFdoxGLc	furniture_store|home_goods_store|point_of_interest|store|establishment	43.72695160000001	7.258489499999999	True		furniture_store
+15	Linéa Cuisine	ChIJF17pvfrPzRIR4nqEVfu7rfQ	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7225715	7.2557209	False		furniture_store
+16	Au Bois Dormant	ChIJ88YrZf7PzRIRVCKIyTtxlJU	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7139477	7.261978999999999			furniture_store
+17	FOVRALE tapissier décorateur	ChIJ8RjCR17FzRIRlNjOoJJW7Ms	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7144029	7.274432099999999			furniture_store
+18	SARL TGR + Entreprise de Travaux de Rénovation Tous corps d'état, pour Rénover votre Appartement, Maison, Studio, Local Commercial - Peinture - Menuiserie Aluminium - Cuisine sur-mesure - Salle de bain - Aménagement PMR à Nice et Côte d'Azur.	ChIJl36EQf7PzRIREB5VumfShks	painter|electrician|plumber|furniture_store|home_goods_store|general_contractor|point_of_interest|store|establishment	43.7141521	7.261034000000001	True		furniture_store
+19	Riviera débarras - Nice	ChIJpdwK17vazRIR0oy_Y8xzSAg	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7173015	7.278683399999998	True		furniture_store
+20	iso Confort	ChIJVyC1MgDQzRIRQFhBYzFjcB8	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7124473	7.2625932		14 Rue Michel-Ange, 06100 Nice	furniture_store
+21	PL Menuiserie 06	ChIJhTOCY0zFzRIR7Wo3DteBBGo	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7146193	7.280618899999999	True	92 Av. de l'Arbre Inférieur, 06000 Nice	furniture_store
+22	Atmosphere & Sofas	ChIJfztSe8fazRIRKYeDi7h5WIA	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7102391	7.2594067	False	18 Bd Joseph Garnier, 06000 Nice	furniture_store
+23	225 Litres	ChIJAQAcxgLQzRIR4NV7xLYDYS8	furniture_store|home_goods_store|point_of_interest|store|establishment	43.71214579999999	7.255192600000001	True	21 Bd de Cessole, 06100 Nice	furniture_store
+24	Galerie Malausséna	ChIJOZC6MAfQzRIRQR7QCV2jrF8	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7078212	7.2630191	True	17 Av. Malaussena, 06000 Nice	furniture_store
+25	bedUp® - LITS ESCAMOTABLES AU PLAFOND	ChIJmXgNcBPbzRIRLNcbHAgUDxA	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7062207	7.2670065	False	11 Rue Miron, 06000 Nice	furniture_store
+26	Espace Convertible	ChIJgQs80KjazRIRCQ17ca9RW0g	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7049988	7.2700486	True	6 Avenue Notre Dame, 06000 Nice	furniture_store
+27	Au Lit Unic	ChIJqWJDsajazRIR-nKJy3trHLo	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7039217	7.2702936		10 Rue de Lépante, 06000 Nice	furniture_store
+28	Deco Authentique	ChIJ_cegh6jazRIRgOnXPiNY0Bk	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7036935	7.268084399999999	False	28 Rue Lamartine, 06000 Nice	furniture_store
+29	Restauration De Meubles Anciens	ChIJXwVnh6jazRIRlKeksKkMWl0	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7036084	7.2680125	False	29 Rue Lamartine, 06000 Nice	furniture_store
+30	Bolia.com - Nice, Avenue Notre Dame	ChIJ3RnE-MvbzRIRfypO3R7-xeo	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7034841	7.266929500000001	False	31 Avenue Notre Dame, 06000 Nice	furniture_store
+31	Basika	ChIJ4aAEYDTFzRIRmJaSl9zmjHo	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7140511	7.2908721	False	9 Rue Fornero Meneï, 06300 Nice	furniture_store
+32	Atlas	ChIJUwT3DwjQzRIR9-AnQ7FhhzU	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7029693	7.264484999999999	False	21 Rue d'Angleterre, 06000 Nice	furniture_store
+33	Maisons du Monde	ChIJtfQasafazRIRuiidzjRs_mI	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7020284	7.2675287	False	30 Av. Jean Médecin, 06000 Nice	furniture_store
+34	Habitat Nice	ChIJlxHstqfazRIRt_O-GfJUt3s	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7019028	7.2674718	False	Centre Commercial Nice Etoile, 38 Av. Jean Médecin, 06000 Nice	furniture_store
+36	Eurl Décoration Mobilier	ChIJUVLXnqfazRIRILyqHoi-FcE	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7012179	7.2665305	False	4 Rue de Russie, 06000 Nice	furniture_store
+37	Lapeyre	ChIJI2H_WxTFzRIRXAUZvNUpqu8	furniture_store|home_goods_store|general_contractor|point_of_interest|store|establishment	43.73414229999999	7.290678	True	23 Bd de l'Ariane, 06300 Nice	furniture_store
+38	Club Déco	ChIJO0aYAwnQzRIR4pYfGF38DA4	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7009194	7.2619743	True	Rue Beethoven, 06000 Nice	furniture_store
+39	AMEUBLEMENT MOBILIER BUREAU	ChIJ2ejGFkTbzRIRLZvjEJg56GM	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7014272	7.276907	True	10 Rue Delille, 06000 Nice	furniture_store
+40	Intérieur Et Fermeture	ChIJWURJPuPPzRIR7oXlyldZJT0	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7171077	7.2532507		82 Bd de Cessole, 06100 Nice	furniture_store
+41	IKEA Nice	ChIJhYG3UpvbzRIRNBRPT8Pd1xY	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7006326	7.265689999999999	False	13 Rue Paul Déroulède, 06000 Nice	furniture_store
+42	Farhazur Home	ChIJxWjFDbfazRIR3IrTvO3jRDg	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7036729	7.283614099999999	False	16 Rue Smolett, 06300 Nice	furniture_store
+43	Showroom Rimadesio Nice - Interior Design	ChIJs2RmBAzQzRIRH_Pe7B5lUmM	furniture_store|home_goods_store|general_contractor|point_of_interest|store|establishment	43.70122190000001	7.2767083	True	5 Rue Delille, 06000 Nice	furniture_store
+44	Zita Vito - Séverine PILLOT	ChIJ5cELhqbazRIRdYOuEheCrow	furniture_store|home_goods_store|general_contractor|point_of_interest|store|establishment	43.7004519	7.272927499999999	False	Pl. Wilson, 06000 Nice	furniture_store
+45	Archea Nice	ChIJOYuktA_QzRIREZUL-cwmmfM	furniture_store|home_goods_store|point_of_interest|store|establishment	43.701685	7.255935999999999	True	69 Bd Gambetta, 06000 Nice	furniture_store
+46	Espace Loggia - Nice	ChIJj1Km-KTazRIRsJCz2Z8CCTQ	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7001198	7.2733722	False	23 Rue de l'Hôtel des Postes, 06000 Nice	furniture_store
+47	FrançoisDesile - Showroom Nice	ChIJDV26OaTazRIRGMw24Jdx_fI	furniture_store|home_goods_store|point_of_interest|store|establishment	43.6998524	7.2718373	False	16 Rue Alberti, 06000 Nice	furniture_store
+48	Canapé meubles GERVASONI -	ChIJXaJ0hjzbzRIRLwm1Vjj00-c	furniture_store|home_goods_store|point_of_interest|store|establishment	43.6998553	7.2728174	True	9 Rue Gubernatis, 06000 Nice	furniture_store
+49	L'Enfant dans le Vent - Vibel	ChIJ53KyWKTazRIRnAMUbXKT_Ok	furniture_store|home_goods_store|point_of_interest|store|establishment	43.69965639999999	7.2734627	False	12 Rue Gubernatis, 06000 Nice	furniture_store
+50	MAZZOLI ITALIAN DESIGN - Fabricant Canapés et Meubles Contemporains	ChIJi6AQpM_bzRIRv2ol37R2JQ4	furniture_store|home_goods_store|general_contractor|point_of_interest|store|establishment	43.6992359	7.2737813	False	35 Rue Gioffredo, 06000 Nice	furniture_store
+51	AMPM - Galeries Lafayette Nice Massena	ChIJWUY6zNzbzRIRzF0_K3B_BN0	furniture_store|home_goods_store|point_of_interest|store|establishment	43.6985956	7.2696393	False	6 Av. Jean Médecin, 06000 Nice	furniture_store
+52	Troc Azur	ChIJB6Le8rfazRIRwjAZDV2xnZc	movie_rental|book_store|electronics_store|furniture_store|home_goods_store|point_of_interest|store|establishment	43.70258399999999	7.285556299999999	True	23 Rue Scaliero, 06300 Nice	furniture_store
+53	Ser	ChIJRYU_DMnazRIRhY8W5gmgPaU	furniture_store|home_goods_store|point_of_interest|store|establishment	43.705179	7.2899205		6 Pl. Auguste Blanqui, 06300 Nice	furniture_store
+54	Meubles L. Rolino	ChIJJ3nTIcjazRIRSzV2Lh0AJB8	furniture_store|home_goods_store|point_of_interest|store|establishment	43.70322669999999	7.287046500000001		46 Rue Beaumont, 06300 Nice	furniture_store
+55	Mobilier Contemporain	ChIJwUlSjqTazRIRSxDRnbsVouE	furniture_store|home_goods_store|point_of_interest|store|establishment	43.6988754	7.2740738	False	6 Rue Gubernatis, 06000 Nice	furniture_store
+56	Jbonet	ChIJAdq-87fazRIRWaDQF5_GmNI	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7024234	7.2861647	True	25 Rue Scaliero, 06300 Nice	furniture_store
+57	Sananès Yves	ChIJ70m-FbvazRIR7hEHD906cEY	furniture_store|home_goods_store|point_of_interest|store|establishment	43.69942229999999	7.278057199999999	False	10 Bd Jean Jaurès, 06000 Nice	furniture_store
+58	Door evolution	ChIJ__ttc__RzRIRx3WHNbd3BCE	furniture_store|home_goods_store|point_of_interest|store|establishment	43.7035287	7.2883737	True	60 Rue Barberis, 06000 Nice	furniture_store
+59	Mingucci Antoine	ChIJG1VNLbrazRIRQw1xv87iAvA	furniture_store|home_goods_store|point_of_interest|store|establishment	43.70003060000001	7.280885100000001	False	4 Rue Catherine Segurane, 06300 Nice	furniture_store

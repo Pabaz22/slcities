@@ -1,5 +1,7 @@
-## Dublin City center coordinates
+## City center coordinates (not actual center but center of the area where we'll do the API call)
 DUBLIN_CENTER_COORDS=(53.350140, -6.266155)
+NICE_CENTER_COORDS = (43.70809, 7.27372)
+
 
 ## Places types
 # https://developers.google.com/maps/documentation/places/web-service/supported_types

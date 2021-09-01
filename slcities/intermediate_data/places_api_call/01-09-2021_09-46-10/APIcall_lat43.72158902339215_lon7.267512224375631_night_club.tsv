@@ -1,0 +1,58 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	cez lucile	ChIJc56wFqvazRIRs-vUH70Hkko	night_club|point_of_interest|establishment	43.711306	7.2690678				night_club
+1	Diapason	ChIJBWBNyDjRzRIRjI1EnYo5_qc	night_club|point_of_interest|establishment	43.7101728	7.261953200000002				night_club
+2	Événements Riviera	ChIJt1oi5rjazRIRot-3Hl-wyic	night_club|bar|point_of_interest|establishment	43.7113885	7.2826546	True			night_club
+3	The Vault Nice	ChIJ40fdrgnRzRIRMrzzjgpRTys	night_club|bar|point_of_interest|establishment	43.7066127	7.264885399999999				night_club
+5	Alexas Puff Bude	ChIJnU_jXpvbzRIR_achY9czMRE	night_club|point_of_interest|establishment	43.7053592	7.268707699999998				night_club
+6	House From Ibiza	ChIJs8AGlqjazRIRcvOGIxxlorE	night_club|point_of_interest|establishment	43.7038076	7.268868300000002				night_club
+7	La Cave Romagnan	ChIJIZElIR3QzRIRojP-Oh3rMjY	night_club|bar|point_of_interest|establishment	43.70375809999999	7.2646235	True	1.0		night_club
+8	Game Box karaoké chez maison Jin	ChIJv7WPHC7RzRIRsWoIBMlXUz8	night_club|bar|point_of_interest|establishment	43.7039638	7.2616638	False			night_club
+9	LE PALACE	ChIJz7uxUQ7bzRIRG6qAdRkYHj0	night_club|bar|liquor_store|food|point_of_interest|store|establishment	43.7075713	7.284142600000001	False			night_club
+10	Club des Coulisses	ChIJhxEAG6TazRIR81X4k4W8KyE	night_club|bar|point_of_interest|establishment	43.7031489	7.264352	False			night_club
+11	Le Swing	ChIJK3rOpLrazRIR9mkZD3cII3o	night_club|bar|point_of_interest|establishment	43.70208179999999	7.276969800000001	False			night_club
+12	Club Le 7	ChIJhxK5p6XazRIRpKdgLgeLN3g	night_club|bar|point_of_interest|establishment	43.7010751	7.2731676	False			night_club
+13	Sylvie BOITARD	ChIJD3yXLMrazRIRoMmTS1cGHXM	night_club|point_of_interest|establishment	43.7069639	7.289469899999999				night_club
+14	Le Consulat Dinner-Club	ChIJ8WrcmAnQzRIRNL2l7UQeFMQ	restaurant|night_club|bar|food|point_of_interest|establishment	43.6997411	7.263433699999998		3.0		night_club
+15	Yolo Wine Bar	ChIJr7jpO6fazRIRpp6IOR5rSwo	night_club|bar|restaurant|food|point_of_interest|establishment	43.6993006	7.2666615	False			night_club
+16	Restaurant Vogue d'Asie	ChIJq6quUKfazRIROX_JL1TjWwk	night_club|bar|restaurant|food|point_of_interest|establishment	43.69918899999999	7.265644099999999	False	2.0		night_club
+17	My House	ChIJ7_LyC5DbzRIRhUgkE3nALUA	night_club|bar|point_of_interest|establishment	43.6990126	7.270149799999999	True			night_club
+18	Maze Club	ChIJh2lKcqfbzRIR_OH0x7GimUo	night_club|point_of_interest|establishment	43.699001	7.271182599999999	False			night_club
+19	L’Oméga Club	ChIJV2lqVYfbzRIRaKpWZWCFD6A	night_club|point_of_interest|establishment	43.6983735	7.268637399999999	False			night_club
+20	OPERA CLUB NICE	ChIJgd35vzTbzRIRf_DL678U2w4	night_club|point_of_interest|establishment	43.6969786	7.273041699999998	False		2 Rue de la Préfecture, 06300 Nice	night_club
+21	Le Klubber	ChIJhaYtpLzazRIRJLnCmNI4MCc	night_club|bar|point_of_interest|establishment	43.697567	7.276898000000001	False		14 Rue Benoît Bunico, 06300 Nice	night_club
+22	Manhattan New Bar tapas	ChIJN3Spo7zazRIR-8ugMGzlHoo	night_club|bar|point_of_interest|establishment	43.6974361	7.277231			19 Rue Droite, 06300 Nice	night_club
+23	Le Bulldog Pub Pompeï	ChIJTYswNqPazRIRg0OJfaLdKHg	night_club|bar|point_of_interest|establishment	43.6967924	7.2756605	False	2.0	16 Rue de l'Abbaye, 06300 Nice	night_club
+24	Le Six	ChIJ13OVrqPazRIRiHF2JmTds04	night_club|bar|point_of_interest|establishment	43.696091	7.272949	False	2.0	6 Rue Raoul Bosio, 06300 Nice	night_club
+25	Cabaret Boa	ChIJNQl-ggrQzRIRhJ1UH4e5gfs	night_club|bar|point_of_interest|establishment	43.6957466	7.2656966	False		3 Rue Gabriel Fauré, 06000 Nice	night_club
+26	Au Son Des Guitares	ChIJsYlnZQvQzRIRkN21sxpHj_U	night_club|point_of_interest|establishment	43.6959465	7.260247000000001	False		36 Rue de France, 06000 Nice	night_club
+27	Home Studio Club	ChIJqf0OhqHazRIRDAbPiN_Dfbc	night_club|point_of_interest|establishment	43.6953771	7.270373200000001			2 Rue Bréa, 06300 Nice	night_club
+28	Kwartz Club	ChIJydhWj6HazRIR8AuJgCTWpQQ	night_club|point_of_interest|establishment	43.695362	7.2703548	False		2 Rue Bréa, 06300 Nice	night_club
+29	L'Eleven Club	ChIJ-72f3bzazRIRyjSkroXGnl0	night_club|point_of_interest|establishment	43.6958445	7.2772586	False		10 Rue Jules Gilly, 06100 Nice	night_club
+30	Shloeurp	ChIJKbDkbfbRzRIRRyMJ0RGEN-I	night_club|point_of_interest|establishment	43.6956198	7.2587184	True		69 Rue de France, 06000 Nice	night_club
+31	Les 3 Diables	ChIJsUypLr3azRIRdd1XvAU709o	night_club|bar|restaurant|food|point_of_interest|establishment	43.6953379	7.2764073	False	3.0	2 Cr Saleya, 06300 Nice	night_club
+32	Nuits Blanches	ChIJq6r27r7azRIRBFqLlAzRjFI	night_club|bar|point_of_interest|establishment	43.6960811	7.2832972			20 Quai Lunel, 06300 Nice	night_club
+33	High Club	ChIJUxhsyHLQzRIRXf9C3kUXfwg	night_club|bar|point_of_interest|establishment	43.6939746	7.2559561	False	3.0	45 Prom. des Anglais, 06000 Nice	night_club
+34	Dani Goia Nice	ChIJ2_Wj_LzRzRIRttNX__WR3cQ	night_club|point_of_interest|establishment	43.6777117	7.2234155			Av. des Mandariniers, 06200 Nice	night_club
+35	One Piece	ChIJ9baIOUXPzRIRflbbTwyocNA	night_club|point_of_interest|establishment	43.7191126	7.179163399999999			111 Rte de Gattières, 06610 La Gaude	night_club
+36	The Top Goldman	ChIJl0w04ELRzRIRQWHcETziMW4	night_club|point_of_interest|establishment	43.6581504	7.191299399999998			325-521 Espl. des Goélands, 06700 Saint-Laurent-du-Var	night_club
+37	Thé tube	ChIJ45M5HsTRzRIRipC_Vr0nMl0	night_club|point_of_interest|establishment	43.65566099999999	7.1801615	False		Quai la Pérouse, 06700 Saint-Laurent-du-Var	night_club
+38	Discothèque Le Carré - Le Trendy (Ex Annexe)	ChIJscsPmXDRzRIRl1XjcvK685s	night_club|point_of_interest|establishment	43.6557456	7.1800382	False	2.0	Port de saint Laurent Du Var, 06700 Saint-Laurent-du-Var	night_club
+39	OXA - Restaurant / Club	ChIJY8K1dHbRzRIRzpT5GejvNPQ	restaurant|night_club|bar|food|point_of_interest|establishment	43.655614	7.180154700000001	False		Cellules 117 à 121, Port, 06700 Saint-Laurent-du-Var	night_club
+41	Strip Club 54	ChIJ8wUAL73azRIRsQaxbkvFBKs	bar|night_club|point_of_interest|establishment	43.6950845	7.276584400000001	False		54 Rue des Ponchettes, 06300 Nice	night_club
+42	Parkering monaco	ChIJF0NlSbrDzRIRqMPV8Vh10os	night_club|point_of_interest|establishment	43.739236	7.418857800000001			5 Av. d'Alsace, 06240 Beausoleil	night_club
+43	sealiah	ChIJPZ2UF5XDzRIR4t7f-vdce9Q	night_club|point_of_interest|establishment	43.73741099999999	7.420815999999999			98000 Monaco	night_club
+44	MK Club Monaco	ChIJobkRcI7CzRIR89HnX9uSQIM	night_club|point_of_interest|establishment	43.7332354	7.422592900000001			18 Rte de la Piscine, 98000 Monaco	night_club
+46	Chez Vanja	ChIJxyxRbNjDzRIRtMnX8GFEHb8	night_club|point_of_interest|establishment	43.7391271	7.4248681			20 Av. de la Costa, 98000 Monaco	night_club
+47	Jimmy’z Monte-Carlo	ChIJsdQ-54fCzRIRThKhJFWV96o	night_club|bar|point_of_interest|establishment	43.7468837	7.4388415	False	4.0	26 Av. Princesse Grace, 98000 Monaco	night_club
+48	SUN X NIGHT	ChIJfWp39vrUzRIRGWgOIo6HgHg	night_club|point_of_interest|establishment	43.615119	7.1277401	False		1791 Av. Georges Bizet, 06600 Antibes	night_club
+49	Siesta Club	ChIJc1TT4fzUzRIRIFgOpra3p6k	night_club|point_of_interest|establishment	43.609545	7.126685	False		Route du Bord de Mer, 06600 Antibes	night_club
+50	Club Vip L'Équité	ChIJIYdVexTVzRIR70RU3Ns1aUI	night_club|point_of_interest|establishment	43.5911809	7.119125899999999			06600 Antibes	night_club
+51	Discothèque Le Brummell	ChIJu-y2KmDpzRIRqlVqF5nNEbA	night_club|point_of_interest|establishment	43.7726531	7.4983688	False		34 Av. Carnot, 06500 Menton	night_club
+52	Le Village	ChIJXeEsMvV_zhIRG0P0Xqdhk6U	night_club|bar|point_of_interest|establishment	43.5681463	7.114265899999999	False	2.0	Carrefour De La Nouvelle Orléans, 06160	night_club
+53	Les Colonies Britanniques	ChIJKc2JM_V_zhIRDuzfSzm6MVg	night_club|point_of_interest|establishment	43.568179	7.114183	False		Carrefour de La Nouvelle-Orléans, Bd de la Pinède, 06160	night_club
+54	Noon in the Woods	ChIJvVECZFkrzBIRPHnbFyOWQoc	night_club|point_of_interest|establishment	43.6260398	7.0412664			06560 Valbonne	night_club
+55	Kiss Club	ChIJr6uxJPV_zhIRaYheFedFADg	night_club|point_of_interest|establishment	43.5679442	7.1133057	False	2.0	5 Av. Georges Gallice, 06160 Antibes	night_club
+56	Superfoods	ChIJM2YkgtouzBIRU7eXXZZowCI	night_club|point_of_interest|establishment	43.6645282	6.9722832			38 Chem. du Plan de Clermont, 06740 Châteauneuf-Grasse	night_club
+57	Krog cannes	ChIJhe5nHZSBzhIR-5_qjRvHHIo	night_club|point_of_interest|establishment	43.5513968	7.0237222			19-21 Rue des Frères Pradignac, 06400 Cannes	night_club
+58	Au son des guitares	ChIJj5l8qNuBzhIRjl_us_SXJO0	night_club|point_of_interest|establishment	43.5510842	7.02248	False		5 Rue Gérard Monod, 06400 Cannes	night_club
+59	Chrystie	ChIJJbTjXJGBzhIRJ4S-F4b6zFs	night_club|bar|restaurant|food|point_of_interest|establishment	43.5510037	7.021661099999999	False	3.0	22 Rue Macé, 06400 Cannes	night_club

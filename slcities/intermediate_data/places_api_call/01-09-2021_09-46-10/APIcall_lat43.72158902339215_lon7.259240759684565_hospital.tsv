@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Médical Esthétic Alizé	ChIJAQDw--XPzRIRLsRCQYdDb1s	hospital|health|point_of_interest|establishment	43.7231405	7.249482899999999			hospital
+1	Hospital Center Universitaire De Nice	ChIJcWSiJ1fFzRIRskgJzYufKU0	hospital|health|point_of_interest|establishment	43.71987300000001	7.269867899999998			hospital
+2	Hospital Center Regional	ChIJF6-VlFDFzRIRLSouG_qTVDo	hospital|health|point_of_interest|establishment	43.7209142	7.2722946			hospital
+3	Flag Grand Hotel	ChIJ56JhhFDFzRIRhN1gs7uC_7E	hospital|health|point_of_interest|establishment	43.7215459	7.272491600000001			hospital
+4	Ballon Gastrique Nice Elipse	ChIJES7veODFzRIRuSxhAN6FoIQ	hospital|health|point_of_interest|establishment	43.72236360000001	7.2725142	True		hospital
+5	Cimiez Hospital	ChIJF6-VlFDFzRIR27S-IIuP9Y8	hospital|health|point_of_interest|establishment	43.7212062	7.273304899999999	True		hospital
+6	Cryo Regina	ChIJmeV6HVHFzRIRSjujqQ0AVFo	hospital|health|point_of_interest|establishment	43.7201888	7.273272999999999	True		hospital
+7	Hospital Center Universitaire De Nice	ChIJSRdhfAPFzRIRvuL15xGcocA	hospital|health|point_of_interest|establishment	43.7209925	7.273405100000001			hospital
+8	Centre Regina	ChIJ84TgE1HFzRIRpVyVQlWSor4	hospital|doctor|health|point_of_interest|establishment	43.7201514	7.274272600000001	True		hospital
+9	Franceperf	ChIJiaPADWHPzRIRiVB1UHemD1o	hospital|health|point_of_interest|establishment	43.7305923	7.249398599999999	True		hospital
+10	Centre Paramédical	ChIJy-2gUlfRzRIRhK-DQRHTtsw	hospital|health|point_of_interest|establishment	43.7102033	7.256456799999998			hospital
+11	Sarah Berdu	ChIJpeuk1xXRzRIRza-Atq5c8Yg	hospital|health|point_of_interest|establishment	43.7101728	7.261953200000002			hospital
+12	Hospitals	ChIJ3wgDfbbRzRIRk23u5CEN2iM	hospital|health|point_of_interest|establishment	43.7101728	7.261953200000002			hospital
+13	Dr Micheline Clavé Centre De Cryolipolyse Et Dermatologie Esthétique À Nice	ChIJpYr_KVvFzRIRAroZJqWnqeI	hospital|health|point_of_interest|establishment	43.7241921	7.2757387			hospital
+14	MiraDry - Miradry : traitement transpiration aisselles	ChIJI4PsCxnFzRIR4T7JCuYsE4g	hospital|health|point_of_interest|establishment	43.7163297	7.2748747	True		hospital
+15	Dr Antonin Leclercq	ChIJH-tRtR3bzRIRgWWD03Ytsbo	doctor|hospital|health|point_of_interest|establishment	43.7093915	7.264914	False		hospital
+16	Csapa Malaussena	ChIJTbRNQQfQzRIRMBMZHiAHL_c	hospital|health|point_of_interest|establishment	43.70726239999999	7.264042499999999	True		hospital
+17	Foundation Père Favron	ChIJHZOmX13FzRIRZodqBlDmZbA	hospital|health|point_of_interest|establishment	43.7312908	7.2748795			hospital
+18	Chu Pasteur 2	ChIJWcccvzfFzRIRFQmgrwIsfrE	hospital|health|point_of_interest|establishment	43.721065	7.280326			hospital
+19	Centre Antoine Lacassagne	ChIJIzk8OETFzRIRMTx8Lfat2PM	hospital|health|point_of_interest|establishment	43.7245208	7.280241299999999			hospital
+20	Dr Guevara Nicolas	ChIJeYY17b7FzRIRIJrWXkE83Po	hospital|health|point_of_interest|establishment	43.7248324	7.280369899999999		31 Av. de Valombrose, 06103 Nice	hospital
+21	Pasteur 2	ChIJ82gvDUbFzRIRZsu_5REAAdQ	hospital|health|point_of_interest|establishment	43.7225614	7.2820048		27 Bd Pasteur, 06000 Nice	hospital
+22	Hospital Pasteur	ChIJkVl7fkbFzRIRBqFQbSKJPAo	hospital|health|point_of_interest|establishment	43.7252829	7.2816453	True	30 Voie Romaine, 06000 Nice	hospital
+23	Oncoage	ChIJu1IOMqTFzRIRMWC-GzgqfYE	hospital|health|point_of_interest|establishment	43.726491	7.2814878	True	Hospital Pasteur, Pavillon I, 30 Voie Romaine, 06100 Nice	hospital
+24	Pasteur 1 Building H	ChIJV9wcq0bFzRIRVTX-AlZSqTY	hospital|health|point_of_interest|establishment	43.726085	7.281652900000001		28 Av. de Valombrose, 06100 Nice	hospital
+25	CRC-SEP Nice	ChIJHdXXoEbFzRIRKGV_pO4pu-M	hospital|health|point_of_interest|establishment	43.7246196	7.282518700000001	True	Hôpital Pasteur, 2 Voie Romaine, 06100 Nice	hospital
+26	Hôpital Pasteur II - Dépose-minute	ChIJ5wkwhZfFzRIRXwsf1-M5qWE	hospital|health|point_of_interest|establishment	43.7238396	7.2831503		Hôpital, 06000 Nice	hospital
+27	Pavillon M	ChIJO3PLuEbFzRIRiekg5oC0-Go	hospital|health|point_of_interest|establishment	43.7251924	7.283113799999999		30 Voie Romaine, 06100 Nice	hospital
+28	Cmp Du Parc Pour Enfants -	ChIJHcLsHRDQzRIRXwkNIQN3Jks	hospital|health|point_of_interest|establishment	43.7032403	7.2543709	True	18 Bis Av. Gay, 06000 Nice	hospital
+29	Firm Anatomy Cytologie Pathologique	ChIJGydoQxDQzRIRMwCumqZfPsk	hospital|health|point_of_interest|establishment	43.7029176	7.2526145	False	22 Bd du Tzarewitch, 06000 Nice	hospital
+30	Hospital La Palmosa Menton	ChIJFx78w9TFzRIRahSJXa33eZo	hospital|health|point_of_interest|establishment	43.7173411	7.285661900000001		6-7 Imp. Guidotti, 06300 Nice	hospital
+31	Icr - Institut De Chirurgie Réparatrice, Locomoteur & Sports	ChIJu-nWszXRzRIRkwsbZY6wmEc	hospital|health|point_of_interest|establishment	43.7019913	7.262293499999999	True	7 Av. Durante, 06000 Nice	hospital
+32	Centre Hospitalier Sainte-Marie	ChIJUbLOGWrFzRIRQBf4LUEz8Q4	hospital|health|point_of_interest|establishment	43.7318367	7.2832258	True	87 Av. Joseph Raybaud, 06100 Nice	hospital
+33	Hopital Sami	ChIJNSCsmO2DzhIRKCJP65zn2Ms	hospital|health|point_of_interest|establishment	43.70322059999999	7.2740792		6 Rue Pierre Dévoluy, 06000 Nice	hospital
+34	Saint-Roch Hospital	ChIJJ3gKYKXazRIRvRkU7_1l38U	hospital|health|point_of_interest|establishment	43.702893	7.274940000000001		5 Rue Pierre Dévoluy, 06000 Nice	hospital
+35	Centre Mutualiste Optique	ChIJmeCYL6TazRIRTNsz7bwhV40	hospital|health|point_of_interest|establishment	43.70011969999999	7.2712416		Nice Europe, 06000 Nice	hospital
+36	Association Hospitaliere Sainte Marie	ChIJ1_Lk8rbazRIRxl85gwTiafs	hospital|health|point_of_interest|establishment	43.7055832	7.2833551		6 Bd Général Louis Delfino, 06300 Nice	hospital
+37	maison de retraire sainte marguerite	ChIJpTok3rfPzRIRaEalb5zuosI	hospital|health|point_of_interest|establishment	43.7343423	7.2315762		Rés Nice Horizon, 06100 Nice	hospital
+38	Les Sources Hospital Geriatric	ChIJSwJ6PG7FzRIRUXmSNOspOkE	hospital|health|point_of_interest|establishment	43.7410763	7.278085700000001	False	10 Camin René Pietruschi, 06100 Nice	hospital
+39	Hôpital De Jour Les Collines	ChIJkXsu7NXPzRIROLrzxyUMjb0	hospital|health|point_of_interest|establishment	43.7161663	7.2264895	True	171 Chem. de la Costière, 06000 Nice	hospital
+40	University Institute of the Face and Neck	ChIJJ3liOUTFzRIR8spQjF77DII	hospital|health|point_of_interest|establishment	43.7247314	7.2803707		Institut universitaire de la face et du cou, 31 Av. de Valombrose, 06100 Nice	hospital
+41	Institut Universitaire Locomoteur Et Du Sport Du Chu De Nice	ChIJuRe0CV3FzRIRLM4x7QIVvMI	hospital|doctor|health|point_of_interest|establishment	43.7240617	7.2827813	True	Hôpital Pasteur 2, 30 Voie Romaine, 06100 Nice	hospital
+42	Screening Center Antituberculeux	ChIJq_hgV6XazRIRXPI2kft2QUM	hospital|health|point_of_interest|establishment	43.7026031	7.2752325	True	4 Rue de l'Hôtel des Postes, 06000 Nice	hospital
+43	Shelter Therapeutic Part Time	ChIJqbOLRrDazRIR9Z6_x5oy05M	hospital|health|point_of_interest|establishment	43.70383349999999	7.277995999999999	True	2 Chem. de Saint-Charles, 06000 Nice	hospital
+44	Maison Sanre Urgence	ChIJYf-HVCbbzRIR5tSQUqsHygY	hospital|health|point_of_interest|establishment	43.7033942	7.2844017		24 Rue Smolett, 06300 Nice	hospital
+45	Ahsm	ChIJe_a77grQzRIR4xA0WkI37Ks	hospital|health|point_of_interest|establishment	43.6955226	7.2635406		4 Rue du Congrès, 06000 Nice	hospital
+46	Cmp Le Carret -	ChIJA7hUnbvazRIR9QMoCKKPZh4	hospital|health|point_of_interest|establishment	43.6984772	7.278368299999999	True	1 Pl. du Carret, 06300 Nice	hospital
+47	Cmp Costanzo -	ChIJ02swz8jazRIRoPumpwioBKs	hospital|health|point_of_interest|establishment	43.703107	7.2917273		84 Bd Général Louis Delfino, 06000 Nice	hospital
+48	Association Tous avec Hugo	ChIJTcdkIcbazRIROcI3tapXf6g	hospital|health|point_of_interest|establishment	43.7015068	7.290700699999999		16 Rue Soleau, 06300 Nice	hospital
+49	Agahtir	ChIJy5MpDXXFzRIRQc8R8UUyUl4	hospital|health|point_of_interest|establishment	43.74860899999999	7.284682000000001		Zoning Industriel La Valliere, 06730 Saint-André-de-la-Roche	hospital
+50	Service D'infectiologie Unité De Virologie Clinical	ChIJXWRZHTbQzRIRLZvpeXdr-X0	hospital|health|point_of_interest|establishment	43.6962271	7.2282719	True	151 Rte de Saint-Antoine, 06200 Nice	hospital
+51	Service De Dermatologie	ChIJ_e2a5jXQzRIRTMHuhYViQkA	hospital|doctor|health|point_of_interest|establishment	43.6970904	7.226815200000001	True	Hôpital Archet-2, 151, route de St Antoine de Ginestière, 06200 Nice	hospital
+52	Hospital L'archet 1	ChIJ8Yr94EDQzRIRe9KRqLaTSzY	hospital|health|point_of_interest|establishment	43.6972073	7.2265951		de Ginestière, 151 Rte de Saint-Antoine, 06200 Nice	hospital
+53	Archet	ChIJnT-fxEnQzRIRloXkAlnI-TY	hospital|health|point_of_interest|establishment	43.6954803	7.229234899999999		128 Rte de Saint-Antoine, 06200 Nice	hospital
+54	Chr Hospital Cimiez	ChIJq6qq7TXQzRIRx-upjvzsHX0	hospital|health|point_of_interest|establishment	43.6970833	7.226354199999999		151 Rte de Saint-Antoine, 06200 Nice	hospital
+55	Relay France	ChIJq6qq7TXQzRIRiG-J7Re0F9A	hospital|health|point_of_interest|establishment	43.6970833	7.226354199999999		151 Rte de Saint-Antoine, 06200 Nice	hospital
+56	Hospital L'archet	ChIJrWtQ48DazRIRZB-YIY1fetU	hospital|health|point_of_interest|establishment	43.6966154	7.2268082	True	151 Rte de Saint-Antoine, 06200 Nice	hospital
+57	Institute Du Sein	ChIJL5JNsEPQzRIR9Lpw4dTl1Mk	hospital|health|point_of_interest|establishment	43.689271	7.2416077	False	57 Av. de la Californie, 06200 Nice	hospital
+58	Hopital Lenval	ChIJR5TorEPQzRIRgI12egCuigM	hospital|health|point_of_interest|establishment	43.6890728	7.241293100000001	True	Rue Lenval, 06200 Nice	hospital
+59	Polyclinic Santa Maria	ChIJTfZbSULQzRIRerkR2JJKI2E	hospital|health|point_of_interest|establishment	43.689104	7.241140499999999	True	57 Av. de la Californie, 06200 Nice	hospital

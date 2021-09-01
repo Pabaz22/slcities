@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Dozol Alain	ChIJbUJh0vjPzRIRAkBdHQIZ17E	plumber|point_of_interest|establishment	43.7181092	7.2633051			plumber
+1	Plomberie David-gaillard Cyrille	ChIJWa1eJfvPzRIRpAPUxWqBTEM	plumber|point_of_interest|establishment	43.7177995	7.261854099999999	True		plumber
+2	VIA DEL COMMERCIO GIANO DEL UMBRIA	ChIJy0HR31vPzRIRDEOAqnMCKpw	painter|electrician|locksmith|plumber|roofing_contractor|general_contractor|point_of_interest|establishment	43.7175258	7.2623333	True		plumber
+3	energethic	ChIJVVXB1-t06UcRS_cFDNbfx8c	plumber|point_of_interest|establishment	43.7204695	7.257828899999999			plumber
+4	Rossignol plomberie	ChIJz1_XsGHFzRIR5FYDCPxbJXY	plumber|point_of_interest|establishment	43.7255574	7.2665081	True		plumber
+5	MRCB	ChIJjTTqmqrPzRIRd9tvkjT8Cys	painter|plumber|general_contractor|point_of_interest|establishment	43.72131939999999	7.256680299999998	True		plumber
+6	LA PLOMBIERE	ChIJZ1UHZPvFzRIR7qtmxenUoGE	plumber|general_contractor|point_of_interest|establishment	43.726197	7.266687399999999	True		plumber
+7	Dragota Ion-Daniel	ChIJU62aQvzPzRIRCPi6fFlltRI	plumber|point_of_interest|establishment	43.7168649	7.257994900000001			plumber
+8	Sarl P.l.b.	ChIJjVYWU_7PzRIR1Ze2N-p1e3A	plumber|point_of_interest|establishment	43.7151356	7.2626386			plumber
+9	System'Gaz	ChIJIzBhLPzPzRIRpJ0RhfEN6Rk	plumber|general_contractor|point_of_interest|establishment	43.7157256	7.2592868	True		plumber
+10	Sarl MJ Plomberie	ChIJP581f1XFzRIRXJ2l7XdBqi0	plumber|point_of_interest|establishment	43.7152213	7.265611400000001			plumber
+11	Pro Azur	ChIJNbxAivnPzRIRWW2JDPLkMi0	plumber|general_contractor|point_of_interest|establishment	43.71515600000001	7.260270599999998	True		plumber
+12	Teisseire Gerard	ChIJP-csXl_FzRIRD5skcJCuUGQ	plumber|point_of_interest|establishment	43.72839	7.265460000000001			plumber
+13	AG RENOV NISSA	ChIJcRq_tv3PzRIRE-UCh_W3ZIU	electrician|plumber|point_of_interest|establishment	43.715423	7.258278599999999	True		plumber
+14	Robba	ChIJ__8rxvzPzRIRE6gk2ilxDxc	plumber|point_of_interest|establishment	43.7169872	7.255192600000001			plumber
+15	SARL TGR + Entreprise de Travaux de Rénovation Tous corps d'état, pour Rénover votre Appartement, Maison, Studio, Local Commercial - Peinture - Menuiserie Aluminium - Cuisine sur-mesure - Salle de bain - Aménagement PMR à Nice et Côte d'Azur.	ChIJl36EQf7PzRIREB5VumfShks	painter|electrician|plumber|furniture_store|home_goods_store|general_contractor|point_of_interest|store|establishment	43.7141521	7.261034000000001	True		plumber
+16	Plombazur Assistance	ChIJDfwMcXjPzRIRFkrtxY1SimA	plumber|point_of_interest|establishment	43.7184376	7.2534649	True		plumber
+17	SARL ENTREPRISE GAILLEURD	ChIJvzPuKcbPzRIRxPtTV24OWQE	plumber|general_contractor|point_of_interest|establishment	43.7136864	7.2649276	True		plumber
+18	Gailleurd Michel	ChIJZ8wi8f_PzRIRMfh3EhLuKxY	plumber|point_of_interest|establishment	43.7136864	7.2649276	True		plumber
+19	Professionnal air conditionig services	ChIJAQBsk_3PzRIRDIftmLF7gcA	plumber|general_contractor|point_of_interest|establishment	43.7142112	7.258437400000001	True		plumber
+20	Chemisage canalisation Nice	ChIJ2ctR4abPzRIRtKBKNIkQg30	plumber|point_of_interest|establishment	43.7179633	7.252432499999999	True	81 bis Bd de Cessole, 06100 Nice	plumber
+21	Help Riviera Services Plombier Nice	ChIJ05PYYeTPzRIR-5k0dukOdb0	plumber|general_contractor|point_of_interest|establishment	43.7195332	7.251649899999999	True	93 Av. Cyrille Besset, 06100 Nice	plumber
+22	Azur Service 06	ChIJt4oifuDbzRIRYDWayr-oKyM	plumber|electrician|locksmith|general_contractor|point_of_interest|store|establishment	43.72689140000001	7.273658299999999	True	Les Bruyeres, 14 Av. Elisabeth, 06100 Nice	plumber
+23	AZUR SD PLOMBERIE	ChIJv3hHxDPFzRIRLcdHS3R01nw	plumber|point_of_interest|establishment	43.7170364	7.274670099999999	True	2 Bd Prince de Galles, 06000 Nice	plumber
+24	Nissart Plomberie	ChIJrap2r0TFzRIRjVZZcVgzLiQ	plumber|point_of_interest|establishment	43.7260814	7.276687399999999		9 Av. Mireio, 06100 Nice	plumber
+25	Jade Rénovation	ChIJVXA5IF_FzRIRBZE97SK6nCs	plumber|painter|electrician|locksmith|car_repair|general_contractor|point_of_interest|establishment	43.7290591	7.2740008	True	16 Av. Scudéri, 06100 Nice	plumber
+26	Pal'eau plomberie	ChIJm0o24q_FzRIRe2NGnGr6IhQ	plumber|point_of_interest|establishment	43.7308165	7.2762868	True	50 Av. Cap-de-Croix, 06100 Nice	plumber
+27	PCR Plomberie Chauffage Rénovation - Dépannage - Recherche De Fuite - Plombier Nice - Réparation de fuite	ChIJu7dPPKnazRIRejSaDNTn2p4	plumber|point_of_interest|establishment	43.7064162	7.269621300000001	True	33 Av. Desambrois, 06000 Nice	plumber
+28	DCI Entreprise	ChIJ-cPwi7DazRIRnP2g086URmE	locksmith|plumber|general_contractor|point_of_interest|establishment	43.7063984	7.269624299999999	True	33 Av. Desambrois, 06000 Nice	plumber
+29	plumbingVbathroom	ChIJWZP07gTDzRIRj_I9qCNUUjw	plumber|point_of_interest|establishment	43.7035718	7.268286399999999	True	4 Rue Emma et Philippe Tiranty, 06000 Nice	plumber
+30	CONCEPT TECHNOLOGY	ChIJJw78rDXFzRIR4NO4SH143sA	plumber|point_of_interest|establishment	43.7143808	7.289535099999999	True	7 Rue de Roquebillière, 06300 Nice	plumber
+31	Recherche De Fuites France - Spécialiste de la recherche de fuite non destructive	ChIJQQI4sF3bzRIRiz43RtdSkL8	plumber|point_of_interest|establishment	43.7021431	7.2727213	True	38 Rue Tonduti de l'Escarène, 06000 Nice	plumber
+32	FS-Plomberie Nice	ChIJy0sYH9fbzRIRScQ7c-H_Qt4	plumber|point_of_interest|establishment	43.7060949	7.2841066	True	14 Rue Maraldi, 06300 Nice	plumber
+33	Plomberie Verdi	ChIJFQnfQgnQzRIRr75LoIVM69A	plumber|point_of_interest|establishment	43.6995358	7.2611063	True	7 Rue Verdi, 06000 Nice	plumber
+34	Rimiez plomberie	ChIJi9WSJl7FzRIRhBIsmwDLceY	plumber|point_of_interest|establishment	43.7376399	7.2850325	True	Chem. de Rimiez, 06730 Saint-André-de-la-Roche	plumber
+35	Plomberie Riviera & fils	ChIJqbsxxxjRzRIR0zEB6l30obA	plumber|general_contractor|point_of_interest|establishment	43.6990412	7.262054699999999	True	38 bis Bd Victor Hugo, 06000 Nice	plumber
+37	Nissa Plomberie Sarl	ChIJ-4AvHbrazRIRBOFmxvjoe2U	plumber|point_of_interest|establishment	43.7017734	7.281132400000001		4 Rue Jean-Pierre Papon, 06300 Nice	plumber
+38	Grosso Assistance	ChIJA5UXMxrFzRIRRCqfAGXW454	plumber|electrician|point_of_interest|establishment	43.699169	7.253086000000001	True	26 Rue Caffarelli, 06000 Nice	plumber
+39	🆘🆘 CHRONO PLOMBERIE : PLOMBIER/ GAZ / DÉBOUCHAGE CANALISATION / RECHERCHE DE FUITE D'EAU : EN URGENCE OU SUR RDV🆘🆘	ChIJ7_3Bs_XbzRIRYsVKTw_TzrQ	plumber|general_contractor|point_of_interest|establishment	43.6978291	7.2693624	True	3 Pl. Massena, 06000 Nice	plumber
+40	Entreprise Pasdeloup	ChIJIQYCFQPQzRIRN2zX7RqvM04	plumber|point_of_interest|establishment	43.7102211	7.255517299999999		50 Bd Joseph Garnier, 06000 Nice	plumber
+41	Rénovation plomberie chauffage (RPC)	ChIJC2EN6RrRzRIRKGNnuJi7hoE	plumber|point_of_interest|establishment	43.70867210000001	7.256815	True	37 Rue Dabray, 06000 Nice	plumber
+42	Bruno Plomberie	ChIJp5aA4aXbzRIRv2ljVrfyvI8	plumber|point_of_interest|establishment	43.7055668	7.267974300000001	True	11 Rue Pertinax, 06000 Nice	plumber
+43	Art et Clim	ChIJLQtRHEvFzRIR-ZcqeaZwvQM	plumber|point_of_interest|establishment	43.7133843	7.284016599999999		32 Bd Jean-Baptiste Vérany, 06200 Nice	plumber
+44	Technic Plomberie	ChIJibgCVg7QzRIRw9hF1wUG8JI	plumber|point_of_interest|establishment	43.7012015	7.2571892	True	15 Rue Louise Ackermann, 06000 Nice	plumber
+45	Aqua Energy	ChIJVVXZeRHQzRIRUkN5swikadk	plumber|point_of_interest|establishment	43.7000845	7.251568699999999	True	44 Rue Châteauneuf, 06000 Nice	plumber
+46	Plomberie du littoral	ChIJTQVviR7bzRIRWIlFm96UaKM	plumber|point_of_interest|establishment	43.7077501	7.291599899999999		20 Rue Chabrier, 06300 Nice	plumber
+47	Avenir du Bâtiment L'	ChIJkU5gJ8jazRIR3am56t8WSrQ	plumber|point_of_interest|establishment	43.7037	7.2869009		15 Rue de Orestis, 06000 Nice	plumber
+48	Dépannage Plomberie Chauffage	ChIJQc52FcjazRIRhAChIwYC1kc	plumber|point_of_interest|establishment	43.7030923	7.288067799999999		06300 Nice	plumber
+49	Societe D Exploitation De Plomberie	ChIJ2xPN4hLQzRIR0n5_G8v-NuA	plumber|point_of_interest|establishment	43.6964982	7.251920399999999		34 Rue Bottero, 06000 Nice	plumber
+50	Sud Energy	ChIJXQJD77fazRIRTZCDKIMCJ80	plumber|general_contractor|point_of_interest|establishment	43.7019216	7.287922	True	36 Rue Arson, 06300 Nice	plumber
+51	Plomberie du Vieux Nice	ChIJsYm2y7zazRIRa1le4HwYWwY	plumber|point_of_interest|establishment	43.6966881	7.2764269	True	2 Rue Pl. Vieille, 06300 Nice	plumber
+52	Plombier Nice - Pms Services Plomberie	ChIJxwAgymXRzRIREPCBwUA3Y18	plumber|point_of_interest|establishment	43.7079632	7.231347299999999	True	278 Bd de la Madeleine, 06000 Nice	plumber
+53	FT Plomberie	ChIJr8u_We3bzRIRdadL1Qn8Zww	plumber|point_of_interest|establishment	43.7025611	7.290303799999999	True	castel riviera A2, 31 Rue Font de la ville, 06300 Nice	plumber
+54	Gsm Plomberie	ChIJ_7ls0cjazRIRapqSRLpivmw	plumber|point_of_interest|establishment	43.7036974	7.2918457		14 Rue Edouard Scoffier, 06300 Nice	plumber
+55	Ets VISERY Plombier Chauffagiste Nice	ChIJj6Rs5rjazRIR49lQHVyEPFY	plumber|general_contractor|point_of_interest|establishment	43.698829	7.284756300000001	True	7 Pl. de l'Île de Beauté, 06300 Nice	plumber
+56	Ange azur services	ChIJhaLCgMfazRIRHbjrj6AVnxo	plumber|locksmith|point_of_interest|establishment	43.6998241	7.2869274	True	3 Rue Lascaris, 06300 Nice	plumber
+57	Etablissements Tantillo	ChIJIbNDTW3QzRIR63zg0ma6eMg	plumber|roofing_contractor|general_contractor|point_of_interest|establishment	43.6946524	7.253764	True	82 Rue de France, 06000 Nice	plumber
+58	Plombier Nice : Azur Energie Distribution	ChIJ0ZUKw9DFzRIR_YkWOI1Enao	plumber|electrician|general_contractor|point_of_interest|establishment	43.7356401	7.2993657	True	Résidence, 7 Rue du Comté Vert Amédée VI, 06300 Nice	plumber
+59	Azur Plomberie Services	ChIJFcIoMXLFzRIRkJWYgQO6reA	plumber|general_contractor|point_of_interest|store|establishment	43.7353503	7.3002623	True	83 Bd de l'Ariane, 06300 Nice	plumber

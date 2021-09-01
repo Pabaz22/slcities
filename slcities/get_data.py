@@ -88,7 +88,7 @@ class DataMerger():
 # global_density_df = dm.get_density_df()
 # dir_path = ''
 # global_cnt_df.to_csv(os.path.join(dir_path, 'global_cnt_df.csv'), index=False)
-# global_density_df.to_csv(os.path.join(dir_path, 'global_density_df.csv'), index=False
+# global_density_df.to_csv(os.path.join(dir_path, 'global_density_df.csv'), index=False)
 
 
 

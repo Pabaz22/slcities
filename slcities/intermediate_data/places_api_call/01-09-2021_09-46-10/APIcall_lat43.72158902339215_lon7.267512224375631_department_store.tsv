@@ -1,0 +1,30 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	MONOPRIX NICE CIMIEZ	ChIJRW8ZCFDFzRIRI-36Fc2DuCs	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	43.7218841	7.275654499999998	True		department_store
+1	MONOPRIX NICE GORBELLA	ChIJ-fm9DPvPzRIR1WEhNx85PaI	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	43.7192716	7.257145700000001	True		department_store
+2	SAS les Trois Grâces, Grace de Blasi	ChIJ5-PMYwTQzRIRW2L1Fyb9TX4	department_store|point_of_interest|store|establishment	43.70731250000001	7.2570045	False		department_store
+3	Foto Cado	ChIJ4VTFiAfQzRIRChp6fKULqaQ	department_store|point_of_interest|store|establishment	43.70504959999999	7.264856500000001	False		department_store
+4	HEMA	ChIJCy19A6jazRIRAZq_jVBFLXo	department_store|home_goods_store|point_of_interest|clothing_store|store|establishment	43.70388759999999	7.265728699999999	False		department_store
+5	FNAC Nice	ChIJAYwr4uPazRIR8A7z1BVcAJk	department_store|book_store|electronics_store|home_goods_store|point_of_interest|store|establishment	43.7033812	7.2665978	False		department_store
+6	MONOPRIX NICE VICTOIRE	ChIJSR1yx6fazRIRP0jBQdCBDzg	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	43.70243509999999	7.267129199999999	True		department_store
+7	La Chaise Longue	ChIJtfQasafazRIRawPHqdpUXGQ	home_goods_store|department_store|furniture_store|point_of_interest|store|establishment	43.7011811	7.267946000000001	False		department_store
+8	Novak Martine	ChIJC98TrrrazRIRSKIaAI8OJg4	department_store|point_of_interest|store|establishment	43.7020438	7.2763258			department_store
+9	R.E.M (Réunion Equipement Magasins)	ChIJ4ZTQmMvazRIRaEsphWU2gnM	department_store|real_estate_agency|point_of_interest|store|establishment	43.7085705	7.291148300000001			department_store
+10	Sarl Yahia Mohamed	ChIJQaA18KTazRIRSRy3jpXOcjY	department_store|point_of_interest|store|establishment	43.6996857	7.273926300000002	False		department_store
+11	MONOPRIX NICE GARIBALDI	ChIJsVQAV7razRIR21ihg5Ox2FE	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	43.70077329999999	7.279068999999999	True		department_store
+12	Galeries Lafayette Nice Masséna	ChIJQZpy5qbazRIRCVKSvD4uXkU	department_store|shoe_store|point_of_interest|clothing_store|store|establishment	43.6986008	7.269596999999999	False		department_store
+13	Lacoste	ChIJE37NsKbazRIRyniBS3LWNmY	department_store|point_of_interest|store|establishment	43.6985396	7.269554100000001	False		department_store
+14	Elmaleh Villegas Chelly	ChIJBdmJ47fazRIR237clN4Qexg	department_store|point_of_interest|store|establishment	43.7026729	7.286657200000001			department_store
+15	Art Diffus	ChIJ3cM_JqHazRIRb_kWVV9_coM	department_store|point_of_interest|store|establishment	43.69790520000001	7.2683108	False		department_store
+16	Feel'in	ChIJ2VGPggrQzRIRiAg_KccYtJo	department_store|point_of_interest|store|establishment	43.6979226	7.2765977	False		department_store
+17	Nice Shop	ChIJtTxFnQrQzRIRAQWzgfbRrLc	department_store|point_of_interest|store|establishment	43.6956908	7.265177099999999	False		department_store
+18	Antomode	ChIJMejDmwzQzRIRF_ulBO4N2bY	department_store|point_of_interest|store|establishment	43.695858	7.259448799999999	False		department_store
+19	Bijoux City	ChIJzQ7R6gzQzRIRP-r83DVaLFU	department_store|point_of_interest|store|establishment	43.6954687	7.258247800000001	False		department_store
+21	FNAC Aéroport Nice-Côte d'Azur T2	ChIJczJC-xXRzRIRZi8Ils0lqDo	department_store|book_store|electronics_store|home_goods_store|point_of_interest|store|establishment	43.66021809999999	7.205801899999999	True	Terminal 2, Aéroport Nice-Côte d'Azur Proche des Portes A15 et A16, 06200 Nice	department_store
+22	La chaise longue	ChIJAZ0Q00HRzRIRFZknS3S2Q-k	department_store|furniture_store|home_goods_store|point_of_interest|store|establishment	43.6595698	7.197759599999999	False	Av. Eugène Donadeï, 06700 Saint-Laurent-du-Var	department_store
+23	GALERIES LAFAYETTE	ChIJV2mzwfg9yRIREdUDNlqYrUg	department_store|point_of_interest|store|establishment	43.6591224	7.198012100000001	False	Av. Eugène Donadeï, 06700 Saint-Laurent-du-Var	department_store
+24	Hema	ChIJtX9OxUHRzRIRgIgt2BPU7Sg	department_store|home_goods_store|point_of_interest|clothing_store|store|establishment	43.6591351	7.1965826	True	Quartier du Lac, CC Cap 3000, Av. Eugène Donadeï, 06700 Saint-Laurent-du-Var	department_store
+25	Magasin PRINTEMPS - Polygone Riviera	ChIJBXoSksHTzRIR8H0_mjPtY8Q	department_store|shoe_store|jewelry_store|point_of_interest|clothing_store|store|establishment	43.6671147	7.1264815	False	Polygone Riviera, 137 Av. des Alpes, 06800 Cagnes-sur-Mer	department_store
+26	Fnac	ChIJ3QQ_Fg3TzRIROi1gET2R45k	department_store|book_store|electronics_store|home_goods_store|point_of_interest|store|establishment	43.6656163	7.1270263	False	119 Av. des Alpes, 06800 Cagnes-sur-Mer	department_store
+27	FNAC Monaco	ChIJA1JsXX3CzRIRx8sENkrCK8A	department_store|book_store|electronics_store|home_goods_store|point_of_interest|store|establishment	43.7410147	7.428164499999999	False	Centre commercial Le Métropole 17, avenue des Spélugues Monaco GP, 98000, Monaco	department_store
+28	Galeries Lafayette Menton	ChIJR01BXuDrzRIRmidvFiGSr9g	department_store|shoe_store|point_of_interest|clothing_store|store|establishment	43.7758946	7.5045553	True	27 Rue de la République, 06500 Menton	department_store
+29	Le Grand Comptoir concept store	ChIJMxAzW6YpzBIRjkR304P5WAo	department_store|home_goods_store|point_of_interest|clothing_store|store|establishment	43.6130499	6.9770775	False	1075 Chem. des Gourettes, 06370 Mouans-Sartoux	department_store

@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	La Lombarde	ChIJByDNT4kozBIRsU27ns2_KEI	laundry|general_contractor|point_of_interest|establishment	43.7223879	7.253807399999998	True		laundry
+1	Magnolia	ChIJddVuNvvPzRIRcxjmFYXu5aQ	laundry|point_of_interest|establishment	43.7196839	7.254763600000001			laundry
+2	Pressing Gorbella	ChIJZbYVFPvPzRIRpEA5d5E2L8o	laundry|point_of_interest|establishment	43.7197086	7.256197399999999			laundry
+3	Athos	ChIJudL3DfvPzRIR7pYAvE6-BZI	laundry|point_of_interest|establishment	43.7196639	7.256140800000002			laundry
+4	Nettoyage 06	ChIJhejyn07PzRIRIYmq0A_oheQ	laundry|point_of_interest|establishment	43.719553	7.2529569	True		laundry
+5	Ma Laverie	ChIJraRNgvzPzRIRANtcmEsToC8	laundry|point_of_interest|establishment	43.71809330000001	7.2567003			laundry
+6	LAVERIE NICE GORBELLA LAUNDROMAT	ChIJ4dcPg_zPzRIRmeotbxLW4G8	laundry|point_of_interest|establishment	43.7180605	7.256646500000001	True		laundry
+7	Laverie Wash'n Dry	ChIJvXN-XePPzRIR4iKZm4HbXIU	laundry|point_of_interest|establishment	43.7178447	7.252960399999999	True		laundry
+8	Pressing du Ray	ChIJBQLxrPHPzRIR1YncUzZyLw0	laundry|point_of_interest|establishment	43.7255008	7.256825099999999	True		laundry
+9	Laverie automatique	ChIJ6_KqwfzPzRIRgKCuwfrR2Rw	laundry|point_of_interest|establishment	43.71711689999999	7.255486100000001	True		laundry
+10	Laverie	ChIJWS_9UXfPzRIRzk-GA9PP-gE	laundry|point_of_interest|establishment	43.7261178	7.256593099999999			laundry
+11	Pressing Saint Barthelemy	ChIJfQCk-fzPzRIRh32f2lNkYko	laundry|point_of_interest|establishment	43.71639930000001	7.256719899999998	True		laundry
+12	Pressing le lagon bleu pressing d d'excellence le pressing gay de nice	ChIJ2YESpVnPzRIRgeQ57vSZzxI	laundry|point_of_interest|establishment	43.7188739	7.2615349	True		laundry
+13	Renova Pressing	ChIJIYqXGfnPzRIRclIzyomTwgY	laundry|point_of_interest|establishment	43.71933159999999	7.262040300000001			laundry
+14	Allo Pressing	ChIJN69_Le_PzRIRNG_z12w1fxM	laundry|point_of_interest|establishment	43.7249229	7.248387399999999			laundry
+15	Pressing Saint Sylvestre	ChIJLcOaLe_PzRIRi3v8szF8D58	laundry|point_of_interest|establishment	43.7250013	7.248353900000001	True		laundry
+16	Pressing Sola	ChIJ82BbbPLPzRIRdFYGnr4B9W4	laundry|point_of_interest|establishment	43.72793730000001	7.255677			laundry
+17	Blanchisserie - Pressing Super Press	ChIJ5-G7H_LPzRIRKs-FDSXGWg4	laundry|point_of_interest|establishment	43.72797409999999	7.255870199999999			laundry
+18	Laverie Concept	ChIJl6fJVP7PzRIRFFdkQm4oix0	laundry|point_of_interest|establishment	43.7149831	7.262693899999999	True		laundry
+19	Laverie automatique LM La Laverie	ChIJuUQ8NnLPzRIRpv9hnQsqQ3k	laundry|point_of_interest|establishment	43.7149313	7.262630699999998	True		laundry
+20	R'pur Pressing	ChIJAdJkNALQzRIRhP0C0h4VZC8	laundry|point_of_interest|establishment	43.7111461	7.258815299999999	True	11B Bd Auguste Raynaud, 06100 Nice	laundry
+21	MaLaverie	ChIJvU2itwHQzRIROOBf-utWs-0	laundry|point_of_interest|establishment	43.7117085	7.261993199999999	True	Av. Alfred Borriglione, 06100 Nice	laundry
+22	Pressing Clean	ChIJFXbEyhrQzRIRy2Aa4qr7jnY	laundry|point_of_interest|establishment	43.7105245	7.2634645	True	12 Rue Flaminius Raiberti, 06000 Nice	laundry
+23	Pressing de Cimiez	ChIJUQm2n1PFzRIRQeeHYNB0_xA	laundry|point_of_interest|establishment	43.7157226	7.2717787	True	2 Rue du Professeur Maurice Sureau, 06000 Nice	laundry
+24	Laverie Gare du Sud	ChIJjRCjswbQzRIRQ_lYKGZrmkw	laundry|point_of_interest|establishment	43.7082755	7.260805	True	14 Rue Clément Roassal, 06000 Nice	laundry
+25	LAVERIE NICE LIBERATION LAUNDROMAT	ChIJv-IufmvQzRIRnqQlVOXIK1U	laundry|point_of_interest|establishment	43.7087564	7.263519899999999	True	arret tram Liberation, 4 Rue Veillon, 06000 Nice	laundry
+26	LAVERIE GAMBETTA VERNIER	ChIJ8_xZVwTQzRIRfHpShlmfm7A	laundry|point_of_interest|establishment	43.706848	7.257332000000001	True	43 bis Rue Vernier, 06000 Nice	laundry
+27	LAVERIE NICE GAMBETTA LAUNDROMAT	ChIJTUFhJ5jRzRIRdCpi824QMfI	laundry|point_of_interest|establishment	43.7066398	7.255928099999998	True	109 Bd Gambetta, 06000 Nice	laundry
+28	Plus belle laverie	ChIJzYL17wbQzRIRcUK-dUU1JAg	laundry|point_of_interest|establishment	43.706662	7.261911599999999	True	03 bis Rue de Villeneuve, 06000 Nice	laundry
+29	Genson-Paris Pressing Lavarie	ChIJIdg346nazRIRZSltY-CyKqM	laundry|point_of_interest|establishment	43.7076635	7.2655825	True	5 Rue Diderot, 06000 Nice	laundry
+30	LA REPASSEUSE INDUSTRIE	ChIJWW3hAwfQzRIRSxDxmAK_zzY	laundry|point_of_interest|establishment	43.7062749	7.2628227		9 Rue Trachel, 06000 Nice	laundry
+31	PRESSING LEPANTE	ChIJOc6R4KjazRIR9f0tadgzafc	laundry|point_of_interest|establishment	43.7055363	7.269277199999999	True	24 Rue de Lépante, 06000 Nice	laundry
+32	Alfa Pressing	ChIJi0W8xajazRIRPcLPtfdTcdU	laundry|point_of_interest|establishment	43.7048514	7.2699529	True	8 Avenue Notre Dame, 06000 Nice	laundry
+33	Plus Belle Laverie	ChIJuV05O8_FzRIRhwazhYDEAMo	laundry|point_of_interest|establishment	43.715297	7.281293699999999	True	71 Av. du Maréchal Lyautey, 06000 Nice	laundry
+34	Blanchisserie Interhospitalière du CHU de Nice	ChIJAfx7RkHFzRIRjEC4XmVHRX0	laundry|point_of_interest|establishment	43.7269416	7.282552900000001		57 bis Av. Joseph Raybaud, 06300 Nice	laundry
+35	Laverie Rossini	ChIJgxqOUA7QzRIRVK1U3gS9Xh4	laundry|point_of_interest|establishment	43.70102019999999	7.256728099999999	True	8 Rue Amiral de Grasse, 06000 Nice	laundry
+36	LAVERIE NICE DURANTE WASH'N DRY	ChIJnz2rqgnQzRIRIXuJi3P9TbI	laundry|point_of_interest|establishment	43.7014611	7.262618799999999	True	4 Av. Durante, 06000 Nice	laundry
+37	Laverie Automatique 7/7	ChIJbaRgRX_FzRIRgqrrbUxulXk	laundry|point_of_interest|establishment	43.7136001	7.284191799999999	True	69 Rte de Turin, 06300 Nice	laundry
+38	Les tambours de berlioz	ChIJaSLDkhPOzRIRCG7nUbkPpYk	laundry|point_of_interest|establishment	43.699101	7.258983000000001	True	5B Rue Berlioz, 06000 Nice	laundry
+39	Teinturerie Nicéa, blanchisserie industrielle, location de linge	ChIJU8whqy7QzRIRsB6db6zQxs4	laundry|point_of_interest|establishment	43.7106443	7.227647899999999	True	320 Bd de la Madeleine, 06000 Nice	laundry
+40	Pressing Raynaud	ChIJVVUxdQLQzRIRmpOEKHk01Ik	laundry|point_of_interest|establishment	43.7132748	7.258521699999998		37 Bd Auguste Raynaud, 06100 Nice	laundry
+41	Laverie	ChIJ52rM8q3RzRIR6MntDynS6Bc	laundry|point_of_interest|establishment	43.7102257	7.2555611		50 Bd Joseph Garnier, 06100 Nice	laundry
+42	REPASS'AC	ChIJcyrE6FLRzRIRkECfXU2rT5Q	laundry|point_of_interest|establishment	43.7081803	7.255735	True	133 Bd Gambetta, 06000 Nice	laundry
+43	Laverie Vernier Gambetta	ChIJf3dV_vLRzRIRjmZwxYOY9fI	laundry|point_of_interest|establishment	43.7068222	7.257309999999999	True	43 bis Rue Vernier, 06000 Nice	laundry
+44	Pressing Alphonse Karr Lm le Pressing	ChIJaQ7628DRzRIRMK79-8YhcmA	laundry|point_of_interest|establishment	43.70097	7.263882699999999	True	23 Rue Alphonse Karr, 06000 Nice	laundry
+45	Laverie AUTOMATIQUE	ChIJg-ygX6zbzRIRAghehy65Lu4	laundry|point_of_interest|establishment	43.7009276	7.2712604		30 Rue Alberti, 06000 Nice	laundry
+46	Pressing Ecologique/Laundry DALPOZZO	ChIJnR6zwAvQzRIR9wwWvtHC4OU	laundry|point_of_interest|establishment	43.6977622	7.261559999999999	True	18 Rue Dalpozzo, 06000 Nice	laundry
+47	Laissez Les Fers	ChIJKwZXOplNV0ARGJ_7ahfuXBQ	laundry|point_of_interest|establishment	43.6965515	7.2552306	True	5 Rue Bottero, 06000 Nice	laundry
+48	THE LAUNDRY BUFFA	ChIJ4RvAmAvQzRIRI8Qco8zftoA	laundry|point_of_interest|establishment	43.696741	7.260785999999999	True	39 Rue de la Buffa, 06000 Nice	laundry
+49	Pressing Gioffredo Lm le Pressing	ChIJ-bzePDHbzRIRzn6O4Xkj2tA	laundry|point_of_interest|establishment	43.70030939999999	7.2748161	True	32 Rue Gioffredo, 06000 Nice	laundry
+50	LAVERIE NICE GROSSO LAUNDROMAT	ChIJfUAGIBPQzRIRO1lsBSO_VSI	laundry|point_of_interest|establishment	43.69591399999999	7.251885300000001	True	arret tram Centre universitaire méditerranéen, 12 Bd François Grosso, 06000 Nice	laundry
+51	Pressing la Lyonnaise (Teinturerie)	ChIJs_bCFQ3QzRIRt6_-I5-Yk6A	laundry|point_of_interest|establishment	43.6956993	7.256127299999999	True	19 Bd Gambetta, 06000 Nice	laundry
+52	Laverie Myamatic	ChIJL3pAFrfazRIR4yWuoNdERS8	laundry|point_of_interest|establishment	43.703851	7.2829065	True	10 Rue Smolett, 06300 Nice	laundry
+53	5 à Sec	ChIJWfBnBLfazRIREH5lyCPiQac	laundry|point_of_interest|establishment	43.70419769999999	7.283755600000001		14 Rue Beaumont, 06300 Nice	laundry
+54	Laverie WASHOUSE Nice Gambetta	ChIJZU6n6g_RzRIRPGRqrlaIisg	laundry|point_of_interest|establishment	43.6944816	7.2538827	True	109 Rue de France, 06000 Nice	laundry
+55	Bleu de France	ChIJTx1LW7bazRIRv2EpRTyrMoA	laundry|point_of_interest|establishment	43.7068524	7.2868662	True	15 Bd Général Louis Delfino, 06300 Nice	laundry
+56	Laverie Bea Vieux Nice	ChIJDczGq7vazRIR4KmnZgFs9dY	laundry|point_of_interest|establishment	43.6999079	7.279004700000001	True	16 Rue Pairolière, 06300 Nice	laundry
+57	Laverie automatique, Espace Wifi	ChIJ0WSz-8nazRIRL2PVlEcJlzY	laundry|point_of_interest|establishment	43.7063693	7.287366100000001	True	44 Rue Auguste Gal, 06300 Nice	laundry
+58	LAVERIE NICE DELFINO LAUNDROMAT	ChIJPdCHG2DbzRIR3b4JRucsplk	laundry|point_of_interest|establishment	43.7047911	7.286151299999999	True	36 Bd Général Louis Delfino, 06300 Nice	laundry
+59	i clean	ChIJ__-72LnazRIR0EP_0IOt9rM	laundry|point_of_interest|establishment	43.7022032	7.283221299999999	True	4 Rue Georges Ville, 06300 Nice	laundry

@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	LCL Bank and Insurance	ChIJycH-GvnPzRIRs1RTCbsSncQ	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7195608	7.262066700000001	True		atm
+1	Caisse d'Epargne Nice Saint-Maurice	ChIJ4fcJzP7PzRIRYT1mMNsnslA	bank|atm|finance|insurance_agency|health|point_of_interest|establishment	43.7179003	7.261619199999999	True		atm
+2	Société Générale	ChIJHcqEBfvPzRIRUFKmSTtaQfo	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.72017350000001	7.256804200000001	True		atm
+3	BNP Paribas - Nice Fontaine Du Temple	ChIJ6Sg_rfHPzRIRasQBnxTkK68	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.72344390000001	7.255890399999999	True		atm
+4	Banque Populaire Méditerranée	ChIJ7xyhNfDPzRIRv7tyba72flk	bank|atm|finance|point_of_interest|establishment	43.7244125	7.2556937	True		atm
+5	Distributeur De Billets	ChIJgTd-P_DPzRIRQCiBATjJ0Xs	atm|finance|point_of_interest|establishment	43.72445689999999	7.255719399999999	True		atm
+6	LCL Banque et assurance	ChIJuek2a1HFzRIRTu0Fd4888bM	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7185281	7.272116400000002	True		atm
+7	BNP Paribas - Nice Borriglione	ChIJsagKQf7PzRIR6j9GrPJzQgk	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7145855	7.261429099999999	True		atm
+8	Caisse d'Epargne Nice le Stade	ChIJlx0Lb_LPzRIRVARbfn35gPY	bank|atm|finance|insurance_agency|health|point_of_interest|establishment	43.7268821	7.2559041	True		atm
+9	Credit North	ChIJ--DswVPFzRIRwHjSjP_ELms	bank|atm|finance|point_of_interest|establishment	43.7164462	7.272321900000001			atm
+10	Banque Populaire Méditerranée	ChIJ538sPFvFzRIRpQUb_ythGIE	bank|atm|finance|point_of_interest|establishment	43.7248644	7.2743123	True		atm
+11	Caisse d'Epargne Nice Saint-Barthelemy	ChIJgaeliuTPzRIRNwu7obBFTkA	bank|atm|finance|insurance_agency|health|point_of_interest|establishment	43.7195117	7.2517951	True		atm
+12	Société Générale	ChIJ84PLn1PFzRIRYSaZCroC55A	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7149203	7.2716359	True		atm
+13	Caisse d'Epargne Nice Cimiez	ChIJf-71PlvFzRIRj5FSRrK2QmQ	bank|atm|finance|insurance_agency|health|point_of_interest|establishment	43.7252143	7.274746699999999	True		atm
+14	BNP Paribas - Nice Commandant Gerome	ChIJO0plMVvFzRIRq1WAnBY2Gzg	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7250542	7.275309199999999	True		atm
+15	Point Nickel	ChIJheZsjlfFzRIR3frc9adprOI	atm|bank|finance|point_of_interest|establishment	43.72489849999999	7.275470200000002	True		atm
+16	LCL Bank and Insurance	ChIJR5daT-_PzRIRgXlz5XNb4_4	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7243761	7.249592700000001	True		atm
+17	Société Générale	ChIJPwCJJu_PzRIRmTwJizPq7MI	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7255347	7.249408499999999	True		atm
+18	Distributeur Sociéte Générale	ChIJuxVzLO_PzRIR5QWRHbR_odU	atm|finance|point_of_interest|establishment	43.7255728	7.2494174	True		atm
+19	Société Générale	ChIJD2y4Eu_RzRIRKgriMlv176E	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7102055	7.262399299999998	True		atm
+20	Point Nickel - LE LIBE	ChIJoxYbbArRzRIRJEF1DtT7PB8	atm|bank|finance|point_of_interest|establishment	43.7100454	7.2613805		1 Bd Joseph Garnier, 06000 Nice	atm
+21	Family First SARL	ChIJkXdXBezPzRIR1tDGt4db2kA	atm|finance|point_of_interest|establishment	43.72876489999999	7.2495715		4 Av. des Chênes, 06100 Nice	atm
+22	C.p.r Billets	ChIJndOZiQbQzRIRetZs8JOghcs	bank|atm|finance|point_of_interest|establishment	43.706466	7.2607268		5 Rue Miollis, 06000 Nice	atm
+23	Point Nickel - TABAC DU PARC IMPERIAL	ChIJEWzYbxvQzRIRvwDyTXh1kNs	atm|bank|finance|point_of_interest|establishment	43.7081707	7.2522969	True	36 Av. Paul Arène, 06000 Nice	atm
+24	Point Nickel	ChIJweHbHNvbzRIR_sbO0qKSRLI	atm|bank|finance|point_of_interest|establishment	43.7222038	7.2855328		6 Rue du Colonel Gassin, 06000 Nice	atm
+25	Point Nickel - TABAC LE DABRAY	ChIJx_zbLd7RzRIR1cLuxyHAK1c	atm|bank|finance|point_of_interest|establishment	43.7060653	7.257526700000001		1 Rue Dabray, 06000 Nice	atm
+26	Société Générale	ChIJcToPx6jazRIRh9-rP4Uqgqk	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7044323	7.2696822	True	15b Rue de Lépante, 06000 Nice	atm
+27	ATM (Euronet)	ChIJ9aZ1IgbQzRIRcYm3kyEcFAE	atm|finance|point_of_interest|establishment	43.703684	7.2614506	True	17 Av. Thiers, 06000 Nice	atm
+28	Reparation Informatique	ChIJT6iL3wfQzRIR7CPJho3fIiY	atm|finance|point_of_interest|establishment	43.7035391	7.263726399999999		25 Rue Paganini, 06000 Nice	atm
+29	bq	ChIJq6pmHQjQzRIREx_9uB0YTrc	atm|finance|point_of_interest|establishment	43.7027148	7.265264699999999	True	21 Rue de Russie, 06000 Nice	atm
+30	Point Nickel	ChIJ1aLRLYLRzRIRoOhPBaSCs2I	atm|bank|finance|point_of_interest|establishment	43.7016894	7.2567939	True	49 Av. Thiers, 06000 Nice	atm
+31	ATM	ChIJbaWO8AbbzRIR8NG1cxg5fmk	atm|finance|point_of_interest|establishment	43.7005524	7.2673695	True	Jean-Médecin،نیس،، 06000	atm
+32	Point Nickel - L'ACROPOLIS	ChIJxR18E0XbzRIR6SYtv9mdgZs	atm|bank|finance|point_of_interest|establishment	43.7044315	7.281928700000001		28 Av. de la République, 06300 Nice	atm
+33	ATM	ChIJiaPh4hDRzRIRBq59XnHAsPg	atm|finance|point_of_interest|establishment	43.6996934	7.2595543	True	22 Rue Verdi،06000، 06000 Nice	atm
+34	Point Nickel - TABAC LE VERDI	ChIJJ-DqZx3RzRIRmOa7zuWa5L4	atm|bank|finance|point_of_interest|establishment	43.6994517	7.261672699999999	True	5 Rue Verdi, 06000 Nice	atm
+35	4 Boulevard Jean Jaures	ChIJmeCYL6TazRIR36aL_tvLEqg	atm|finance|point_of_interest|establishment	43.700111	7.271212999999999		Nice Europe, 06000 Nice	atm
+36	Société Générale	ChIJEVC-srDazRIR6G-Oi6ddfpE	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7029434	7.2814567	True	33 Av. de la République, 06300 Nice	atm
+37	ATM	ChIJLYoavwHbzRIRRjoMu5qEXUo	atm|finance|point_of_interest|establishment	43.6986417	7.269035000000001	True	3 Rue de la Liberté،06000، 06000 Nice	atm
+38	Distributeur	ChIJS_mby7fazRIRJ5Ae1dCxR1I	atm|finance|point_of_interest|establishment	43.7043101	7.2857943	True	34 Rue Barberis, 06300 Nice	atm
+39	Point Nickel - SANDRI	ChIJw3dzXoXbzRIRfqR8usemn-k	atm|bank|finance|point_of_interest|establishment	43.7006092	7.2789852		1 B Bd Jean Jaurès, 06300 Nice	atm
+40	Banque Populaire Méditerranée	ChIJl7bqYEjFzRIR7nw1OSgqPtQ	bank|atm|finance|point_of_interest|establishment	43.7201515	7.2843403	True	145 Av. du Maréchal Lyautey, 06000 Nice	atm
+41	ATM	ChIJK4r6r_PbzRIR6RBP31h2ubM	atm|finance|point_of_interest|establishment	43.7010417	7.272293999999999	True	06000 Carabacel،نیس،	atm
+42	Crédit Mutuel	ChIJ-XDau6fazRIRRp4mtm1tG24	bank|atm|finance|point_of_interest|establishment	43.7010118	7.272371400000001	True	19 Rue Pastorelli, 06000 Nice	atm
+43	Société Générale	ChIJtYsmNwnQzRIRHu0n_kstHNg	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.6997022	7.259380600000001	True	22 Rue Verdi, 06000 Nice	atm
+44	Banque Populaire Méditerranée	ChIJFXSzAqXazRIR2Ay8-hbjlXI	bank|atm|finance|point_of_interest|establishment	43.7004868	7.2741588	True	17 Rue de l'Hôtel des Postes, 06000 Nice	atm
+45	Société Générale	ChIJUfwIH6TazRIRvygT26lTKec	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.6989393	7.2692878	True	8 Av. Jean Médecin, 06000 Nice	atm
+46	Point Nickel	ChIJj1T17nfRzRIReQHy_8YLO0U	atm|bank|finance|point_of_interest|establishment	43.6994315	7.250999799999999		75 Bd François Grosso, 06000 Nice	atm
+47	ATM	ChIJAeyco6DazRIRac60EQEx5ck	atm|finance|point_of_interest|establishment	43.69770159999999	7.265794399999999	True	26 Rue de la Liberté, 06000 Nice	atm
+48	Société Générale	ChIJqQaiYzPFzRIR3_7qwivdGy8	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7092207	7.2929941	True	6 Bd Saint-Roch, 06300 Nice	atm
+49	Carige	ChIJodJ5kKDazRIRPuYYdrBFcLQ	atm|finance|point_of_interest|establishment	43.6969167	7.265971		35 Rue Massena, 06000 Nice	atm
+50	Point Nickel - TABAC LE VIRGINIE	ChIJGyvP7G_bzRIRSOIq_huNovg	atm|bank|finance|point_of_interest|establishment	43.7052914	7.289257300000001		51 Rue Arson, 06300 Nice	atm
+51	ATM	ChIJz3hUjyLbzRIRh5Cy7cE-bXs	atm|finance|point_of_interest|establishment	43.6966537	7.2712397	True	5 Plassa Carlou Aubert،06300، 06300 Nice	atm
+52	Point Nickel	ChIJvRNeQYbRzRIRgRTzGU1U64k	atm|bank|finance|point_of_interest|establishment	43.6958506	7.2612056	True	43 Rue de France, 06000 Nice	atm
+53	Banque Populaire Méditerranée	ChIJWakFk7bazRIRg_44IO6YWmQ	bank|atm|finance|point_of_interest|establishment	43.70256390000001	7.288064299999998	True	42 Rue Arson, 06300 Nice	atm
+54	nice surf	ChIJN6jWlwrQzRIRH-2vPck07AU	atm|finance|point_of_interest|establishment	43.6951863	7.264816499999999		16 rue boblet pomge	atm
+55	Société Générale	ChIJp6SAOw3FzRIRl0ZMnyzsbyU	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.7415763	7.2873318	True	109 Quai de la Banquière, 06730 Saint-André-de-la-Roche	atm
+56	ATM	ChIJQQrTLSDRzRIRDhqn0jHI1b4	atm|finance|point_of_interest|establishment	43.6951303	7.2641074	True	7 Prom. des Anglais،06000، 06000 Nice	atm
+57	Point Nickel	ChIJn35Ib8PbzRIRN666hwcycLM	atm|bank|finance|point_of_interest|establishment	43.695897	7.273879999999999	True	13 Cr Saleya, 06300 Nice	atm
+58	Société Générale	ChIJl_oxIBPQzRIReAP2mvZ3nWo	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.695953	7.251593000000001	True	21 Bd François Grosso, 06000 Nice	atm
+59	Société Générale	ChIJyWtgorjazRIRjW6LsLo8-e0	bank|atm|finance|insurance_agency|point_of_interest|establishment	43.6987319	7.2837958	True	2 Pl Ile de Beaute, 06300 Nice	atm

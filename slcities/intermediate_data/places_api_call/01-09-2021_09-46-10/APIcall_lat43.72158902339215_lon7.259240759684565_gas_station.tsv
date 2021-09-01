@@ -1,0 +1,11 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Station Service Eni	ChIJpSj15CfPzRIRsLUrk4-LzeA	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.723886	7.255783099999999	True	gas_station
+1	Agip	ChIJQYTVFPDPzRIR-v7u7CCZDk4	gas_station|point_of_interest|establishment	43.72396020000001	7.255850700000002		gas_station
+2	STATION BP NICE FALICON	ChIJZ6TvoPrPzRIRSF5rxcLaS1M	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.72754810000001	7.255792499999999	True	gas_station
+3	A8	ChIJDd5WrdfPzRIRgeg4r0SFo1M	gas_station|point_of_interest|establishment	43.7297275	7.256161000000001		gas_station
+4	Cagnol Pneus	ChIJISn9QQHQzRIRGlZOG_A3VYo	gas_station|point_of_interest|establishment	43.7096301	7.260942999999999	True	gas_station
+5	STATION BP NICE GAMBETTA	ChIJV-3xvwTQzRIRAP1YD8OqEtE	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.7076107	7.255845699999999	True	gas_station
+6	Station Service Gaz	ChIJJQ9UVAfQzRIR4eyPVeRvEwE	gas_station|point_of_interest|establishment	43.7079577	7.265069899999999		gas_station
+7	TotalEnergies	ChIJ7Z7ZdRvQzRIRhBxezgaRaxg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7077828	7.251587900000001	True	gas_station
+8	TotalEnergies	ChIJPzZs_0vFzRIRRqyU9i8aIZo	gas_station|point_of_interest|establishment	43.71655719999999	7.282346299999999		gas_station
+9	Total Petrol Station Access	ChIJ85l7LEfFzRIRgx8STkEQlPg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.72699790000001	7.282743100000001	True	gas_station

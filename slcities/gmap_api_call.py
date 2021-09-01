@@ -6,7 +6,7 @@ import time
 import os
 
 from slcities.coordinates import generate_region_around_center, create_coordinate_matrix
-from slcities.params import DUBLIN_CENTER_COORDS, PLACES_TYPES_DISCRIMINANT_SET, API_CALL_COLUMNS_OF_INTEREST
+from slcities.params import DUBLIN_CENTER_COORDS, PLACES_TYPES_DISCRIMINANT_SET, API_CALL_COLUMNS_OF_INTEREST, NICE_CENTER_COORDS
 
 """
 DOCS :
@@ -375,19 +375,60 @@ def search_places(output_dir_path, api_key, call_lst,
 
 
 if __name__ == "__main__":
+    # region_dim = 3000
+    # nb_ticks = 12
+    # columns_of_interest = API_CALL_COLUMNS_OF_INTEREST
+    # requested_place_types = PLACES_TYPES_DISCRIMINANT_SET
+    # center_location = DUBLIN_CENTER_COORDS
+
+
+    # ## Get the GoogleMaps api key from a file
+    # key_file_path = ''
+    # if not os.path.exists(key_file_path):
+    #     valid_key_file_path = False
+    #     while valid_key_file_path != True:
+    #         key_file_path = input('Please enter the absolut path to your api key file')
+    #         if os.path.exists(key_file_path):
+    #             valid_key_file_path = True
+    # api_key = get_apy_key_from_file(key_file_path)
+
+    # ## Create output directory
+    # output_dir_path = os.path.join(
+    #     os.path.dirname(os.path.abspath(__file__)), 'intermediate_data',
+    #     'places_api_call',
+    #     datetime.datetime.now().strftime("%d-%m-%Y_%H-%M-%S"))
+    # os.mkdir(output_dir_path)
+
+    # ## Generate the call list
+    # call_lst = generate_call_list(center_location, region_dim, nb_ticks,
+    #                    requested_place_types)
+
+    # call_lst_f_path = os.path.join(output_dir_path,
+    #                                'calls_to_perform.txt')
+    # write_call_list_file(call_lst_f_path, call_lst)
+
+    # ## (OPT) Import call list
+    # # remaining_calls_path = ''
+    # # call_lst = read_call_list_file(remaining_calls_path)
+
+    # ## Make the Api call from the list
+    # search_places(output_dir_path, api_key, call_lst,
+    #               columns_of_interest)
+
     region_dim = 3000
-    nb_ticks = 12
+    nb_ticks = 10
     columns_of_interest = API_CALL_COLUMNS_OF_INTEREST
     requested_place_types = PLACES_TYPES_DISCRIMINANT_SET
-    center_location = DUBLIN_CENTER_COORDS
+    center_location = NICE_CENTER_COORDS
 
 
     ## Get the GoogleMaps api key from a file
-    key_file_path = ''
+    key_file_path = '/home/djampa/other/gmap_api_key_vincent.txt'
     if not os.path.exists(key_file_path):
         valid_key_file_path = False
         while valid_key_file_path != True:
-            key_file_path = input('Please enter the absolut path to your api key file')
+            key_file_path = input(
+                'Please enter the absolut path to your api key file')
             if os.path.exists(key_file_path):
                 valid_key_file_path = True
     api_key = get_apy_key_from_file(key_file_path)
@@ -401,10 +442,9 @@ if __name__ == "__main__":
 
     ## Generate the call list
     call_lst = generate_call_list(center_location, region_dim, nb_ticks,
-                       requested_place_types)
+                                  requested_place_types)
 
-    call_lst_f_path = os.path.join(output_dir_path,
-                                   'calls_to_perform.txt')
+    call_lst_f_path = os.path.join(output_dir_path, 'calls_to_perform.txt')
     write_call_list_file(call_lst_f_path, call_lst)
 
     ## (OPT) Import call list
@@ -412,5 +452,4 @@ if __name__ == "__main__":
     # call_lst = read_call_list_file(remaining_calls_path)
 
     ## Make the Api call from the list
-    search_places(output_dir_path, api_key, call_lst,
-                  columns_of_interest)
+    search_places(output_dir_path, api_key, call_lst, columns_of_interest)

@@ -1,0 +1,61 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Ici Brosses Douces Anti Rayures	ChIJdQpKbfDPzRIRw4A7ywLFJNw	car_wash|point_of_interest|establishment	43.7237403	7.255862499999999			car_wash
+1	Station Service Eni	ChIJpSj15CfPzRIRsLUrk4-LzeA	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.723886	7.255783099999999	True		car_wash
+2	Agip	ChIJ5csKO2TPzRIR_vaHtAJDc2I	car_wash|point_of_interest|establishment	43.7241082	7.255652299999999	True		car_wash
+3	La Maison Du Lavage Vehicules	ChIJNw86PQDQzRIRNEkvCZv9XZI	car_wash|point_of_interest|establishment	43.71236020000001	7.263801			car_wash
+4	STATION BP NICE FALICON	ChIJZ6TvoPrPzRIRSF5rxcLaS1M	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.72754810000001	7.255792499999999	True		car_wash
+5	Total Wash	ChIJpWui_0vFzRIR0QQqjV_40N8	car_wash|point_of_interest|establishment	43.7164751	7.281527800000002			car_wash
+6	Grisard Jerome Rene Louis	ChIJPZ9Qne_PzRIRtFCqnyV73ng	car_wash|point_of_interest|establishment	43.7239587	7.251827199999999	True		car_wash
+7	Total Petrol Station Access	ChIJ85l7LEfFzRIRgx8STkEQlPg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.72699790000001	7.282743100000001	True		car_wash
+8	Detail Car	ChIJZ-KXaNDRzRIRd2ARkNjxU8w	car_wash|point_of_interest|establishment	43.7089656	7.261154299999999	False		car_wash
+9	Total Petrol Station Access	ChIJ-bY94jfFzRIR_457ZbcecqI	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7202375	7.2869669	True		car_wash
+10	STATION BP NICE GAMBETTA	ChIJV-3xvwTQzRIRAP1YD8OqEtE	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.7076107	7.255845699999999	True		car_wash
+11	Bignaud Jonathan	ChIJXbUa_K7azRIRZKHaVzpMDRU	car_wash|point_of_interest|establishment	43.70555519999999	7.273004100000001			car_wash
+12	Clean + Auto	ChIJmYSfimXFzRIRbRCmELWTIOY	car_wash|point_of_interest|establishment	43.72323009999999	7.290586599999999	True		car_wash
+13	TotalEnergies	ChIJXZV1q2rFzRIRRUy2eh1P2Yg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.73187220000001	7.2865821	True		car_wash
+14	TotalEnergies	ChIJ-_3wLTTFzRIRgVxhQpuIgRY	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.71559509999999	7.290018599999999	True		car_wash
+15	Total Wash	ChIJuzgmLjTFzRIRXZSLdOb7ixc	car_wash|point_of_interest|establishment	43.7155642	7.290055999999999			car_wash
+16	TotalEnergies	ChIJ7Z7ZdRvQzRIRhBxezgaRaxg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7077828	7.251587900000001	True		car_wash
+17	Lavage Auto Nice Exepxion	ChIJPRs1AibbzRIRbVEUU8qA-mc	car_wash|point_of_interest|establishment	43.7063725	7.286186900000001	True		car_wash
+18	Car Wash mobile nice	ChIJSym5sVLbzRIRn8_3CGXUVOw	car_wash|point_of_interest|establishment	43.7005376	7.2733482	True		car_wash
+19	Lavage Autos Motos	ChIJtwlUwLnazRIRgjr2YBL0ZHM	car_wash|point_of_interest|establishment	43.7012166	7.2829688			car_wash
+20	TotalEnergies	ChIJbUn1BszazRIRby9I53YeZtU	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7069468	7.2926166	True	10 Bd de l'Armée des Alpes, 06000 Nice	car_wash
+21	O'NEO Nettoyage Automobile, CarWash, vitres teintées, protection céramique de carrosseries	ChIJnbz936PazRIR1LoPFIBzGdo	car_wash|point_of_interest|establishment	43.6974735	7.270526899999999	False	Place Massena Parking Park d'Azur, Indigo, 06000 Nice	car_wash
+22	Plaza Services	ChIJaZJOG6HazRIRowXXZH5lKo0	car_wash|parking|car_repair|point_of_interest|establishment	43.6967997	7.268164700000001	True	12 Av. de Verdun, 06000 Nice	car_wash
+23	MERIDIEN CAR WASH NICE	ChIJgxdCFaDazRIRKIwsJJ_ft28	car_wash|point_of_interest|establishment	43.6949056	7.266573899999999	True	Parking RUHL Méridien, 01 Prom. des Anglais Niveau -1, 06000 Nice	car_wash
+24	Macchina Net	ChIJV__FXSrRzRIRXA8PKorSwlI	car_wash|point_of_interest|establishment	43.6959403	7.254054799999999	True	12 Rue Andrioli, 17 Rue Joseph Fricero, 06000 Nice	car_wash
+25	Lavage Auto ESSO Express	ChIJtxbhYM7bzRIR6jkuHFbb4Ls	car_wash|point_of_interest|establishment	43.7064592	7.3012481		1 Bd de la Corne d'Or, 06230 Villefranche-sur-Mer	car_wash
+26	Station de lavage à La Trinité	ChIJxwqofPrEzRIRb_oLkPq4kdk	car_wash|point_of_interest|establishment	43.74079700000001	7.3186211		8 Rue Simon Rouvier, 06340 La Trinité	car_wash
+27	Wash Wash - Auto Wash Auchan Nice	ChIJdSPncxDFzRIRps2uk0o8jdE	car_wash|point_of_interest|establishment	43.743028	7.3183051	True	Centre Commercial Auchan Nice Côte d'Azur, Rte de Laghet, 06300 Nice	car_wash
+28	SUD LAVAGE AUTO	ChIJbYA77FnEzRIRgYS-k386SIA	car_wash|point_of_interest|establishment	43.7518074	7.320231199999999	True	21 Av. Jean Moulin, 06340 Drap	car_wash
+29	Le Lavage	ChIJC9hRoLTEzRIRp4yT3kslx58	car_wash|point_of_interest|establishment	43.7095364	7.335312999999999		06310 Beaulieu-sur-Mer	car_wash
+30	MBM Lavage	ChIJc9NInDzFzRIRW8IQkwTfCQM	car_wash|point_of_interest|establishment	43.7091936	7.3352793	True	Port de Plaisance, 06310 Beaulieu-sur-Mer	car_wash
+31	Gloss-Guard | Lavage Auto Nice	ChIJJxW0IuvRzRIRhFBbYgxLN1Y	car_wash|car_repair|point_of_interest|establishment	43.699932	7.19843	True	359 Av. Sainte-Marguerite, 06200 Nice	car_wash
+32	Station Service Eni	ChIJ6bxWe6rRzRIRcU2OarfN9CA	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.6781656	7.2194999	True	61 Av. Sainte-Marguerite, 06200 Nice	car_wash
+33	Planet Car Wash	ChIJeUxV9kHQzRIRw1vnH3iaHCs	car_wash|point_of_interest|establishment	43.7069758	7.1888763	True	Complexe Commercial Castelli, 448 Bd du Mercantour, 06200 Nice	car_wash
+34	Station De Lavage	ChIJ0yCtIw_OzRIR6PTK5rCa2I0	car_wash|point_of_interest|establishment	43.7295239	7.1856105	True	606 Bd du Mercantour, 06200 Nice	car_wash
+35	Total Wash	ChIJ72xjTu3OzRIRAA6pCnSBnF4	car_wash|point_of_interest|establishment	43.7651057	7.200984		Av. de la Tourre, 06510 Gattières	car_wash
+36	CFE	ChIJ94IGJA_RzRIRstxtXlvuPMc	car_wash|car_repair|point_of_interest|establishment	43.6719471	7.209576999999999		27 Bd Paul Montel, 06200 Nice	car_wash
+37	Acquajet	ChIJq2bumOvOzRIRzZiwo5zlpJ4	car_wash|point_of_interest|establishment	43.7703433	7.203729500000001	True	555 Rte de la ZA de la Grave, 06510 Carros	car_wash
+38	SAM CAR WASH	ChIJyeVrGtXTzRIR7ksrA-lBmUw	car_wash|point_of_interest|establishment	43.7025053	7.171876	True	457 Chem. de la Tour Carrée, 06700 Saint-Laurent-du-Var	car_wash
+39	Ecolave Agence De Nice	ChIJz1d5TXfRzRIRLpFUTyuSj_o	car_wash|point_of_interest|establishment	43.6748839	7.1904992		156 Av. des Pignatières, 06700 Saint-Laurent-du-Var	car_wash
+40	STATION BP NICE FRANKLIN	ChIJbWhzeg7QzRIRywS5KtQoz2w	gas_station|car_wash|point_of_interest|establishment	43.6993741	7.256511999999999	True	5 7 Pl. Franklin, 06000 Nice	car_wash
+41	CarsNet	ChIJZVqGPxPRzRIRgJsS5zrppwo	car_wash|point_of_interest|establishment	43.6805956	7.2114051	True	Le chante Soleil, 156 Chem. des Avelines, 06200 Nice	car_wash
+42	Min Lavage Poids Lourds	ChIJpyoOaRLRzRIR0fJcazdLJBg	car_wash|point_of_interest|establishment	43.668113	7.2041704		11 Bd Georges Pompidou, 06200 Nice	car_wash
+43	STATION SERVICE DYNEFF - LIFTING AUTO Carrosserie-Mécanique-Lavage	ChIJvxq3MwjSzRIR_ryA0v86dg8	gas_station|car_wash|car_repair|point_of_interest|establishment	43.7323304	7.1626332	True	646 Rte de Saint-Laurent, 06610 La Gaude	car_wash
+44	Clichy Auto Lavage	ChIJS4CGKmrRzRIRAmuqJSX0SQk	car_wash|point_of_interest|establishment	43.6623954	7.195222299999999		520 Rte de la Gare, 06700 Saint-Laurent-du-Var	car_wash
+45	Belle et bio	ChIJqYb8uLjRzRIRKipqadib0Ak	car_wash|point_of_interest|establishment	43.6595513	7.198643799999999		3000 Av. Eugène Donadeï, 06700 Saint-Laurent-du-Var	car_wash
+46	YL AUTO LAVAGE BIO DOMICILE	ChIJ8-95XpDRzRIR7Cm3N34CI44	car_wash|point_of_interest|establishment	43.673464	7.179231000000001	True	1320 Chem. des Plateaux Fleuris, 06700 Saint-Laurent-du-Var	car_wash
+47	American Car Wash Nice	ChIJVSMPgGnRzRIRqKtsH7u-oIw	car_wash|point_of_interest|establishment	43.6615847	7.1928386	True	Route Nationale 7, 520 Rte de la Gare, 06700 Saint-Laurent-du-Var	car_wash
+48	Lavage Des Pays Du Paillon	ChIJwTXbJvHGzRIRClbFwJU_cPk	car_wash|car_repair|point_of_interest|establishment	43.7939407	7.3282481	True	570 cd 15, 06390 Contes	car_wash
+49	Total Wash	ChIJT7FoWNzTzRIRSW-lJxdYrA4	car_wash|point_of_interest|establishment	43.6646524	7.171087099999999		06800 Cagnes-sur-Mer	car_wash
+50	STIVECO	ChIJb8u6PO_TzRIRL8ltV2tqMhI	car_wash|point_of_interest|establishment	43.6579048	7.160213499999999		60 Av. de Nice, 06800 Cagnes-sur-Mer	car_wash
+51	Clean Auto Services 06	ChIJ0ThERiDDzRIRs0aPmLjKat0	car_wash|point_of_interest|establishment	43.7276971	7.411542399999999	True	2 Rue Jean Bono, 06320 Cap-d'Ail	car_wash
+52	Bilvask Beausoleil	ChIJyRLt3gnDzRIRCi-g3JNXaLE	car_wash|point_of_interest|establishment	43.7363892	7.412824400000001		21 Rue Victor Hugo, 06240 Beausoleil	car_wash
+53	Luxury Car Wash	ChIJnQK6jvPCzRIRehSQ1LwGEKY	car_wash|point_of_interest|establishment	43.7364641	7.4128516		21 Rue Victor Hugo, 06240 Beausoleil	car_wash
+54	StarNetAuto Lavage , nettoyage et renovation automobile	ChIJT05rrYbDzRIRMkvAnwxqi_4	car_wash|point_of_interest|establishment	43.7383156	7.418340499999999	True	7 Impasse des Carrières, 06240 Monaco	car_wash
+55	Car Wash	ChIJB0jYfhDTzRIRr5j4xAk1e6g	car_wash|point_of_interest|establishment	43.6740734	7.122767199999999		06480 La Colle-sur-Loup	car_wash
+56	O'Lavage	ChIJs3SmlB7TzRIRWwmAYztnOxA	car_wash|point_of_interest|establishment	43.6807248	7.118469999999999		06480 La Colle-sur-Loup	car_wash
+57	Smarty	ChIJR68Ckx7TzRIRt4B50WqiCr0	car_wash|car_repair|point_of_interest|establishment	43.6808326	7.1183809		La, 770 Bd Pierre Sauvaigo, 06480 La Colle-sur-Loup	car_wash
+58	Detail Car	ChIJA-XaLXPTzRIRVYDD-fAOHo8	car_wash|point_of_interest|establishment	43.6638352	7.1289218	False	Polygone Riviera, 119 Av. des Alpes, 06800 Cagnes-sur-Mer	car_wash
+59	StarNetAuto nettoyage, entretien et rénovation automobile	ChIJMZYCleXDzRIRFjqmhJPG5yQ	car_wash|point_of_interest|establishment	43.7410147	7.428164499999999	True	17 Av. des Spélugues, 98000 Monaco	car_wash

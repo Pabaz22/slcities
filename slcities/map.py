@@ -14,7 +14,8 @@ from slcities.params import DUBLIN_CENTER_COORDS
 
 class MapsVisualisation():
 
-    def initialise_map(self, map_name, tiles, lat_center, lon_center, zoom_start=12):
+    def initialise_map(self, map_name, tiles, lat_center,
+                       lon_center, zoom_start=12):
         """
 
         """

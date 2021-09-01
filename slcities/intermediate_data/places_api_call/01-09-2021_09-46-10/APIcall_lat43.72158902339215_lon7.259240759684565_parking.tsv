@@ -1,0 +1,58 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Rue Georges Bidault Parking	ChIJfcLof_DPzRIRZFal2D83uiI	parking|point_of_interest|establishment	43.7224897	7.256873499999999			parking
+1	Parking	ChIJWYPJqh_PzRIRe_tJ3TjWLJk	parking|point_of_interest|establishment	43.7236898	7.259574000000002			parking
+3	58 Blvd de Gorbella Parking	ChIJkZmbf_DPzRIRgn7nyOnTOEE	parking|point_of_interest|establishment	43.723043	7.2570509			parking
+4	Zenpark - Parking Nice - Le Ray - Georges Bidault	ChIJl7I4wTTPzRIRaIdyfLu_W2M	parking|point_of_interest|establishment	43.72295	7.25633	True		parking
+5	Zenpark - Parking Nice - Gorbella - Carrefour Market Le Ray	ChIJMUMlGObPzRIR_7HUYzcFdj4	parking|point_of_interest|establishment	43.72270289999999	7.255878499999999	False		parking
+6	Parking Monoprix	ChIJqcIwnvvPzRIResJqwWDmayk	parking|point_of_interest|establishment	43.71944750000001	7.2569302	True		parking
+7	63-65 Blvd de Gorbella Garage	ChIJh8UKDfDPzRIREw5p2_N8UUM	parking|point_of_interest|establishment	43.7236003	7.2556843			parking
+8	Société Garage Loc	ChIJWd4A0v7PzRIRji5GMWm4X6s	parking|point_of_interest|establishment	43.717717	7.261984700000001			parking
+9	Parking Piscine	ChIJyxG3w_HPzRIRqBhtMkE9QcA	parking|point_of_interest|establishment	43.72601399999999	7.2561698	True		parking
+10	Parking Reserve IUFM	ChIJ_SDta-XPzRIRqze8nd7hGRc	parking|point_of_interest|establishment	43.722339	7.252222099999998	True		parking
+11	Parking Cyrille Besset	ChIJ4QRNrPzPzRIRYTmYYT4PlP4	parking|point_of_interest|establishment	43.7177838	7.254259899999999			parking
+12	Nice Azur Parking - VALERI (Privé)	ChIJc9xX7_7PzRIRYmBDJ9LRqzk	parking|point_of_interest|establishment	43.7164996	7.2617962			parking
+13	3 Avenue Bardi Parking	ChIJ09g3Xv7PzRIRVXPw2gBTdNk	parking|point_of_interest|establishment	43.71589209999999	7.261294399999999			parking
+14	57 Avenue Alfred Borriglione Parking	ChIJVxpaXv7PzRIRGPvevrmFVYU	parking|point_of_interest|establishment	43.71538	7.2613853			parking
+15	Nice Location appartement vacances rooftop équipé	ChIJx9Zv4GPPzRIRfy-5hPp8z_M	parking|real_estate_agency|lodging|point_of_interest|establishment	43.716488	7.253085800000002	True		parking
+17	7-9 Petit chemin de Valrose Parking	ChIJl-J4fv_PzRIRXME6rVlF7Fg	parking|point_of_interest|establishment	43.7154725	7.2641083			parking
+18	Avenue Joseph Vallot Parking	ChIJZ6YYfP_PzRIRSZbQ48XRD9E	parking|point_of_interest|establishment	43.7156563	7.265031899999999			parking
+20	Parking Sappia	ChIJfxmSne3PzRIRRmy9ZqLDVNo	parking|point_of_interest|establishment	43.7303224	7.253589400000001		2 Bd Henri Sappia, 06100 Nice	parking
+21	3 Rue Alfred Binet Parking	ChIJF2R8XgHQzRIRCOi1ML1QP20	parking|point_of_interest|establishment	43.7099245	7.260102		3 Rue Alfred Binet, 06000 Nice	parking
+22	45 Blvd Joseph Garnier Parking	ChIJqdHfbAPQzRIRNB_-XkkLy_4	parking|point_of_interest|establishment	43.7098585	7.256342800000001		45 Bd Joseph Garnier, 06000 Nice	parking
+23	Parking Liberation	ChIJi4SB6wDQzRIRVawmSOk-G7k	parking|point_of_interest|establishment	43.7099455	7.263726399999999		22 Av. Villermont, 06000 Nice	parking
+24	Q-Park Gare du Sud	ChIJk4bGFQHQzRIRAZ-PgcFI06E	parking|storage|point_of_interest|establishment	43.7091974	7.260045400000001	True	5 Rue Alfred Binet, 06000 Nice	parking
+25	Parkink Cimiez	ChIJOxLk5k_FzRIRSukDfPXw_iI	parking|point_of_interest|establishment	43.720733	7.2765228		21 Av. du Monastère, 06000 Nice	parking
+26	22 Avenue Villermont Parking	ChIJRep37ADQzRIRTHbE8uJt1EI	parking|point_of_interest|establishment	43.70951489999999	7.264001		22 Av. Villermont, 06000 Nice	parking
+27	Rue du Général Hoche Parking	ChIJtw1T6QDQzRIRqrMgIinPDWI	parking|point_of_interest|establishment	43.7090775	7.262800299999999		Rue Général Hoche, 06000 Nice	parking
+28	Parking Q-Park Nice Gare du Sud	ChIJk4bGFQHQzRIRor1Od4U1pd4	parking|point_of_interest|establishment	43.70879799999999	7.261417000000001	True	31 Rue de Dijon, 06000 Nice	parking
+29	Parkin Monastere	ChIJryraoE_FzRIRnc0LEzraUUw	parking|point_of_interest|establishment	43.7201771	7.278626399999999		06000 Nice	parking
+30	Parking Raimbaldi	ChIJKQVV0anazRIRk1d-8ux-vsk	parking|point_of_interest|establishment	43.7062626	7.2656978		38 Bd Raimbaldi, 06000 Nice	parking
+31	Parking Pasteur	ChIJ1Qg_XUzFzRIRpbwnWDDvc1k	parking|point_of_interest|establishment	43.71491270000001	7.2800313		4 Corniche Ste Rosalie, 06000 Nice	parking
+32	81 Avenue du Maréchal Lyautey Parking	ChIJuwZL90vFzRIRHz0ytN85LhY	parking|point_of_interest|establishment	43.7160807	7.2811135		81 Av. du Maréchal Lyautey, 06000 Nice	parking
+33	Parking gare de Nice courte durée - EFFIA	ChIJCxJB3f7RzRIR8Y0YP90XgAI	parking|point_of_interest|establishment	43.7046709	7.261745599999999	True	12 Av. Thiers, 06000 Nice	parking
+34	Parking niza	ChIJXxGpOQbQzRIRubwLK5fbgOM	parking|point_of_interest|establishment	43.70464550000001	7.261759799999999	True	12 Av. Thiers, 06000 Nice	parking
+35	Interparking Gare Nice Thiers - West entrance	ChIJLwAMh3HRzRIRFgv0gsy4TeE	parking|point_of_interest|establishment	43.7030094	7.2590904		18 Av. Thiers, 06000 Nice	parking
+36	Q-Park Notre Dame	ChIJMd-JCajazRIRe0Jb7AhqmD0	parking|storage|point_of_interest|establishment	43.7037335	7.2667983	True	28 Avenue Notre Dame, 06000 Nice	parking
+37	Richardson Parking Clients	ChIJWTFWiUnFzRIR5wm131iTJYs	parking|point_of_interest|establishment	43.7167068	7.2851779		15 Av. du Trident, 06300 Nice	parking
+38	Vinci Park Acropolis	ChIJfbxf4LPazRIRZBwWKLrPGUI	parking|point_of_interest|establishment	43.7074462	7.2803553	True	Av. du XVème Corps, 06000 Nice	parking
+39	Parking Mozart	ChIJ64mxGgnQzRIRnmchhnXC5uM	parking|point_of_interest|establishment	43.7006819	7.261892800000001		1 Jard. Mozart, 06000 Nice	parking
+40	Parcazur Henri Sappia	ChIJTcIznvLPzRIRM-pK7CuwxN8	parking|point_of_interest|establishment	43.730311	7.253674999999999	True	2 Bd Henri Sappia, 06100 Nice	parking
+41	Parking Nice CHR Pasteur 2 - EFFIA	ChIJN5IpAVzFzRIRqFnsZ_974j0	parking|point_of_interest|establishment	43.723403	7.282687999999999	True	0 Av. de la Voie Romaine, 06000 Nice	parking
+42	Parking Foch Hancy	ChIJn5I2jKjazRIRKd-nhw-0S7M	parking|point_of_interest|establishment	43.7039118	7.2689173	True	3 Rue d'Alger, 06000 Nice	parking
+43	Yespark - Collège Simone Veil/Rue de la Gendarmerie - Nice	ChIJv8AYo1XbzRIRgzuofVedZfk	parking|point_of_interest|establishment	43.71092	7.281065000000001	True	1 Rue Jeanne Jugan, 06000 Nice	parking
+44	Parking	ChIJ3S8gECbRzRIRyS0lqHPkYi0	parking|point_of_interest|establishment	43.7006385	7.261919600000001		11 Av. Auber, 06000 Nice	parking
+45	Public Parking Gardé Lamartine	ChIJyYxwaqbazRIRFjeXCBBA9jw	parking|point_of_interest|establishment	43.7017602	7.2693619		6BIS Rue Lamartine, 06000 Nice	parking
+46	Parking Nice Étoile	ChIJBSQ1RqbazRIR1mEdin_O5qU	parking|point_of_interest|establishment	43.7012257	7.267810099999998	True	Rue Lamartine, 06000 Nice	parking
+47	Parking Acropolis	ChIJ8T758LPazRIRk8Mah8aV2O8	parking|point_of_interest|establishment	43.7075866	7.281431200000001	True	3 Rue Jean Allègre, 06000 Nice	parking
+48	Nice Azur Parking - ACROPOLIS	ChIJB3m4CLTazRIREBBY-vlTYpM	parking|point_of_interest|establishment	43.7077898	7.2817583		4 Av. du Maréchal Lyautey, 06000 Nice	parking
+49	Parking Nice Mozart - EFFIA	ChIJYZrPOdjRzRIRkRH4OqBvp4w	parking|point_of_interest|establishment	43.7003084	7.261673299999999	True	11 Av. Auber, 06000 Nice	parking
+50	Parking Indigo Nice Louvre	ChIJxwJo4QnQzRIRmMdPGSd07Ng	parking|point_of_interest|establishment	43.6999795	7.2643681	True	20 Bd Victor Hugo, 06000 Nice	parking
+51	Zenpark - Parking Nice - Acropolis - Appart'City	ChIJWx29SO7bzRIRbwsTTMyT0Uc	parking|point_of_interest|establishment	43.7100135	7.285409699999999	True	4 Av. François Mitterrand, 06300 Nice	parking
+52	Parking Marshall	ChIJe26NU6XazRIR20y1_6Nqd5M	parking|point_of_interest|establishment	43.7028809	7.275760200000001	True	Pl. du Général Georges Marshall, 06000 Nice	parking
+53	PARKING LONGCHAMP PRIVE	ChIJGc5q4KbazRIR06vqRm4xSgg	parking|point_of_interest|establishment	43.6998253	7.2677903	False	2 Rue du Maréchal Joffre, 06000 Nice	parking
+54	Park Azzurr	ChIJlTM4I2fbzRIR088v-yr6HUQ	parking|point_of_interest|establishment	43.7004276	7.2706784		33 Rue Pastorelli, 06000 Nice	parking
+55	Parking Palmeira	ChIJK8Px7A3QzRIR4nfVvk-Ozi0	parking|point_of_interest|establishment	43.69825729999999	7.254930399999999		47 Rue Saint-Philippe, 06000 Nice	parking
+56	Interparking Grimaldi	ChIJFWcrGwrQzRIRUu8hWDjpLNY	parking|point_of_interest|establishment	43.6981832	7.2644757	True	11 Rue Maccarani, 06000 Nice	parking
+57	Parking Indigo Nice Risso	ChIJP2R4yLDazRIRVlyympqADTQ	parking|point_of_interest|establishment	43.7033724	7.2806208		42 Bd Risso, 06300 Nice	parking
+58	Parking	ChIJt29gmTLbzRIRWlm5BvPiP8s	parking|point_of_interest|establishment	43.6983277	7.2680759		12 Rue de la Liberté, 06000 Nice	parking
+59	Parking	ChIJDahWBdPbzRIRefRRKy515Ws	parking|point_of_interest|establishment	43.7050806	7.283978500000001		Rue Saint-Jean d'Angely, 06300 Nice	parking

@@ -1,0 +1,12 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Ici Brosses Douces Anti Rayures	ChIJdQpKbfDPzRIRw4A7ywLFJNw	car_wash|point_of_interest|establishment	43.7237403	7.255862499999999		car_wash
+1	Station Service Eni	ChIJpSj15CfPzRIRsLUrk4-LzeA	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.723886	7.255783099999999	True	car_wash
+2	Agip	ChIJ5csKO2TPzRIR_vaHtAJDc2I	car_wash|point_of_interest|establishment	43.7241082	7.255652299999999	True	car_wash
+3	Grisard Jerome Rene Louis	ChIJPZ9Qne_PzRIRtFCqnyV73ng	car_wash|point_of_interest|establishment	43.7239587	7.251827199999999	True	car_wash
+4	STATION BP NICE FALICON	ChIJZ6TvoPrPzRIRSF5rxcLaS1M	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.72754810000001	7.255792499999999	True	car_wash
+5	La Maison Du Lavage Vehicules	ChIJNw86PQDQzRIRNEkvCZv9XZI	car_wash|point_of_interest|establishment	43.71236020000001	7.263801		car_wash
+6	Detail Car	ChIJZ-KXaNDRzRIRd2ARkNjxU8w	car_wash|point_of_interest|establishment	43.7089656	7.261154299999999	False	car_wash
+7	STATION BP NICE GAMBETTA	ChIJV-3xvwTQzRIRAP1YD8OqEtE	gas_station|car_wash|convenience_store|food|point_of_interest|store|establishment	43.7076107	7.255845699999999	True	car_wash
+8	TotalEnergies	ChIJ7Z7ZdRvQzRIRhBxezgaRaxg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.7077828	7.251587900000001	True	car_wash
+9	Total Wash	ChIJpWui_0vFzRIR0QQqjV_40N8	car_wash|point_of_interest|establishment	43.7164751	7.281527800000002		car_wash
+10	Total Petrol Station Access	ChIJ85l7LEfFzRIRgx8STkEQlPg	gas_station|car_wash|convenience_store|cafe|restaurant|food|point_of_interest|store|establishment	43.72699790000001	7.282743100000001	True	car_wash

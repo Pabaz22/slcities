@@ -1,0 +1,41 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Basic Metal	ChIJuY8XDvvPzRIRNgwibQzSmb0	hardware_store|point_of_interest|store|establishment	43.7196879	7.255945400000001	True		hardware_store
+1	Balitrand Silvy Nice	ChIJdS6KyYXFzRIRBiYdEQqaeCQ	hardware_store|home_goods_store|point_of_interest|store|establishment	43.71298300000001	7.2785202	True		hardware_store
+2	Eureka Droguerie Petit	ChIJK_QL3APQzRIRAfUbywhZygM	hardware_store|furniture_store|home_goods_store|point_of_interest|store|establishment	43.7099334	7.2592895	True		hardware_store
+3	Betoconcept	ChIJZ3ZY3ALQzRIR8ye3rHiTWz8	hardware_store|point_of_interest|store|establishment	43.7115108	7.255776299999999			hardware_store
+4	Comptoir Niçois Outillage Fixation CNOF	ChIJgW2fO0rFzRIRMvQ8bwSlVe0	hardware_store|point_of_interest|store|establishment	43.7158847	7.2851965			hardware_store
+5	Boites et Plus	ChIJhbjJjQbQzRIRGZ1ClwolIDk	hardware_store|point_of_interest|store|establishment	43.7065323	7.260981699999999	True		hardware_store
+6	Bfsa -nice (0)	ChIJJSt0zzXFzRIR2UhGvgzZfEs	hardware_store|point_of_interest|store|establishment	43.7153542	7.288992599999999	True		hardware_store
+7	Piber	ChIJ9QKOtajazRIRms1vV1QPLio	hardware_store|point_of_interest|store|establishment	43.7042556	7.270450400000001	True		hardware_store
+8	Bricol Gambetta	ChIJ2cBYGQXQzRIRBpdE0A-2NBw	hardware_store|point_of_interest|store|establishment	43.70606679999999	7.256230599999998	True		hardware_store
+9	AMC	ChIJBxAm1AfQzRIRKKsEOXKpzBg	hardware_store|home_goods_store|point_of_interest|store|establishment	43.7036369	7.262911499999999	True		hardware_store
+10	Quincaillerie R.E.P.P	ChIJn_9Jp8zazRIRLjEWR_u72Sg	hardware_store|real_estate_agency|point_of_interest|store|establishment	43.7103042	7.2921323	True		hardware_store
+11	Entreprendre	ChIJUw71JgnQzRIRNXsL1fIblsI	hardware_store|home_goods_store|point_of_interest|store|establishment	43.70105589999999	7.260782499999999	True		hardware_store
+12	Quincaillerie Feraud	ChIJx-43hMnazRIRyGOmCUl1HKo	hardware_store|point_of_interest|store|establishment	43.70628199999999	7.289098699999999			hardware_store
+13	Thonnon et Fils	ChIJO0w_dsnazRIRctwEG-p2DUI	hardware_store|point_of_interest|store|establishment	43.7058598	7.289499999999999	True		hardware_store
+14	Milla	ChIJFQnfQgnQzRIRFT04ofSyJ_M	hardware_store|point_of_interest|store|establishment	43.6993629	7.2614506	True		hardware_store
+15	Yilmaz Hirant	ChIJH8sCj7nazRIRl7-uJSZQKqE	hardware_store|point_of_interest|store|establishment	43.7007555	7.2816826	True		hardware_store
+16	Droguerie quincaillerie hygiène professionnelle Thonnon	ChIJ_YjAPcnazRIR8fUkp3Kwims	hardware_store|home_goods_store|point_of_interest|store|establishment	43.7049677	7.2910111	True		hardware_store
+17	Quincaillerie MAZZOLA Sté Nouvelle	ChIJeeTW3cfazRIRaxJk-sqQowY	hardware_store|point_of_interest|store|establishment	43.7018004	7.2880746	True		hardware_store
+18	Npe Invest Sarl	ChIJoUKz38fazRIRFXO95BVduR0	hardware_store|point_of_interest|store|establishment	43.7017887	7.2883254			hardware_store
+19	De Domo	ChIJVSJIgwvQzRIR6xrfK9wvBbo	hardware_store|general_contractor|point_of_interest|store|establishment	43.6966102	7.260535399999999	True		hardware_store
+20	CRISTALOR DANINO SARL	ChIJoVQquKPazRIRz7pTGq_Vd10	hardware_store|home_goods_store|point_of_interest|store|establishment	43.6963289	7.272263199999999	True	7 Rue Alexandre Mari, 06300 Nice	hardware_store
+21	FERAUD Côte d'Azur	ChIJJeXrisnazRIREoZMgMwvH2w	hardware_store|point_of_interest|store|establishment	43.70260930000001	7.291426299999999	True	90 Rue Barberis, 06300 Nice	hardware_store
+22	Royal souvenirs	ChIJi7zqOQvQzRIRBYRtxSarTyI	hardware_store|point_of_interest|store|establishment	43.6949472	7.2616286	True	25 Prom. des Anglais, 06000 Nice	hardware_store
+23	PROLIANS Provence-Côte d'Azur - Nice La Trinité	ChIJDeeM0h3FzRIRg0pT5TWo--o	hardware_store|point_of_interest|clothing_store|store|establishment	43.7349999	7.3063577	True	2 Rte nationale 204, 06340 La Trinité	hardware_store
+24	Balitrand	ChIJr_37ivTRzRIRAA3uWaCmbFY	hardware_store|home_goods_store|point_of_interest|store|establishment	43.6999071	7.1829975	True	Les Iscles, 10 All. des Architectes, 06700 Saint-Laurent-du-Var	hardware_store
+25	Meccanocar France	ChIJK45mPfTRzRIRnyro2AJJA9c	hardware_store|point_of_interest|store|establishment	43.70276020000001	7.1805808	True	All. des Agriculteurs, 06700 Saint-Laurent-du-Var	hardware_store
+26	Pylo	ChIJrS8LW4TRzRIR2rEKqyIR1No	hardware_store|point_of_interest|store|establishment	43.6861001	7.1867011	True	All. des Miroitiers, 06700 Saint-Laurent-du-Var	hardware_store
+27	Legallais	ChIJIUZXFrfRzRIRSYZ0cSA5jV0	hardware_store|point_of_interest|store|establishment	43.6838573	7.1870764	True	Allée des Peintres Z.I Secteur A1, 06700 Saint-Laurent-du-Var	hardware_store
+28	Faure et Fils	ChIJJQuxbnsMnYIRCSI0AM6PKGM	hardware_store|point_of_interest|store|establishment	43.7927977	7.2752702		504 Av. du Canton de Levens, 06690 Tourrette-Levens	hardware_store
+29	Bourguignon Ferronnerie	ChIJdxCG93LHzRIRgK_efV8Hcc8	hardware_store|point_of_interest|store|establishment	43.7927977	7.2752702		504 Av. du Canton de Levens, 06690 Tourrette-Levens	hardware_store
+30	Bouvet - Bros	ChIJq6qqqv7FzRIR3ezGhs43dFs	hardware_store|point_of_interest|store|establishment	43.7929958	7.274867599999999		504 Av. du Canton de Levens, 06690 Tourrette-Levens	hardware_store
+31	V-WAX	ChIJL7HtjMnTzRIRaXrpvcggt1k	hardware_store|point_of_interest|store|establishment	43.67612039999999	7.158952999999999	True	57 Chem. du Vallon des Vaux, 06800 Cagnes-sur-Mer	hardware_store
+32	Droguerie Revelli	ChIJLZK_L5bTzRIRYYErTi73r3I	hardware_store|point_of_interest|store|establishment	43.6625211	7.1499915		5 Rue Jean Raymond Giacosa, 06800 Cagnes-sur-Mer	hardware_store
+33	Colorama	ChIJm6CEf57TzRIRwPNENxg1VNo	hardware_store|point_of_interest|store|establishment	43.6595036	7.138865699999999		54 Av. de Grasse, 06800 Cagnes-sur-Mer	hardware_store
+34	Beau Soleil Matériaux	ChIJjwSNE2LCzRIRcmMToyKN_h8	hardware_store|point_of_interest|store|establishment	43.741767	7.423019	True	Beausoleil, 97139 Abymes (Les)	hardware_store
+35	Emile Maurin	ChIJQfTlJYnUzRIRYv9sAtGjk2U	hardware_store|point_of_interest|store|establishment	43.63296889999999	7.1306734	True	489 Av. du Dr Julien Lefebvre, 06270 Villeneuve-Loubet	hardware_store
+36	Quincaillerie Voiron	ChIJgzL0oHHVzRIR21Y5bfaUEXk	hardware_store|furniture_store|home_goods_store|point_of_interest|store|establishment	43.58187299999999	7.127668	True	9 Rue Aubernon, 06600 Antibes	hardware_store
+37	Droguerie LOCAPRO	ChIJNxzYfdjrzRIR4tIeOb6l92s	hardware_store|point_of_interest|store|establishment	43.7746062	7.4948451	True	2 Rue Masséna, 06500 Menton	hardware_store
+38	Acofix	ChIJTxtWM84qzBIRf7KsC9sy2NA	hardware_store|point_of_interest|store|establishment	43.5995826	7.0831041	True	240 Voie Tripodi, 06600 Antibes	hardware_store
+39	Quincaillerie Juanaise	ChIJ62qhkvV_zhIRxLipbICI92k	hardware_store|point_of_interest|store|establishment	43.56943039999999	7.110401599999999	True	7 Av. Louis Gallet, 06160 Antibes	hardware_store

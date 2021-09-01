@@ -1,0 +1,59 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	price_level	formatted_address	main_type
+0	Express Moto	ChIJA00dd_DPzRIRTUAXxiIW3Ts	car_repair|point_of_interest|clothing_store|store|establishment	43.7233627	7.256338599999999	True			clothing_store
+1	Feeling Shop	ChIJiWdDIlDPzRIRJ31upbpl6Sk	point_of_interest|clothing_store|store|establishment	43.72052120000001	7.2583447				clothing_store
+2	MONOPRIX NICE GORBELLA	ChIJ-fm9DPvPzRIR1WEhNx85PaI	supermarket|department_store|convenience_store|grocery_or_supermarket|food|point_of_interest|clothing_store|store|establishment	43.7192716	7.257145700000001	True			clothing_store
+3	Laura créations couleurs	ChIJuYlVoVfPzRIREz8TYkpGB1w	point_of_interest|clothing_store|store|establishment	43.721874	7.250662700000001	True			clothing_store
+5	BR17	ChIJEW-bu9LPzRIRTp5eUnseaCA	point_of_interest|clothing_store|store|establishment	43.7206426	7.250033900000001	True			clothing_store
+6	Abi 06	ChIJR-8HNfDPzRIRlpYVJfDWcrg	clothing_store|point_of_interest|store|establishment	43.7253786	7.255625799999999	True			clothing_store
+7	L'Abricot Blanc	ChIJz44kXOTPzRIR4oYmmexsd64	point_of_interest|clothing_store|store|establishment	43.7209711	7.249621899999998	True			clothing_store
+8	Polly and Cie	ChIJxx48vfnPzRIRTFiOUIoLigQ	restaurant|cafe|food|point_of_interest|clothing_store|store|establishment	43.7209936	7.261346400000001	True	1.0		clothing_store
+9	Coup D'oeil	ChIJRd8TSe_PzRIRPULJeCCaOPs	point_of_interest|clothing_store|store|establishment	43.7243761	7.249592700000001	False			clothing_store
+10	Monsite	ChIJVVWl3uLPzRIRUitKp8ZokAI	point_of_interest|clothing_store|store|establishment	43.7158136	7.2534438				clothing_store
+11	Campos De Melo Bandeira Nuno	ChIJ5VrQku7PzRIR-293O2WARZg	clothing_store|point_of_interest|store|establishment	43.7273445	7.251154899999998				clothing_store
+12	Zeeman	ChIJp9TfGPLPzRIRQk_yBJzNW2s	clothing_store|point_of_interest|store|establishment	43.72816	7.2557884	True			clothing_store
+13	Puliti Alexia	ChIJdX8p5PfPzRIR-iddeNw2j88	clothing_store|point_of_interest|store|establishment	43.7231464	7.264234100000001				clothing_store
+14	la vida loca	ChIJO6KH7P7PzRIRGyIg0-NSP74	clothing_store|point_of_interest|store|establishment	43.7161365	7.2612933	True			clothing_store
+15	Veti'Pro	ChIJXxNK3v3PzRIRTMN_X7JJDjw	clothing_store|point_of_interest|store|establishment	43.7145124	7.2598492				clothing_store
+16	TRA//DISTRICT	ChIJiZKRx8nPzRIRn0IoD_c88ew	point_of_interest|clothing_store|store|establishment	43.7140529	7.2600689	False			clothing_store
+17	TRA//DISTRICT	ChIJ5cMuh9rPzRIRdrQtOnj-lWg	point_of_interest|clothing_store|store|establishment	43.7140495	7.2601021	False			clothing_store
+18	Houria Shop	ChIJBfuoDgLQzRIR-TKtm31NdI4	clothing_store|point_of_interest|store|establishment	43.7130168	7.2588926				clothing_store
+19	Les Trésors de Chloé	ChIJ87LnIP7PzRIRGGIIET0Ud-A	jewelry_store|point_of_interest|clothing_store|store|establishment	43.71370470000001	7.261230800000001	False			clothing_store
+20	Boutique Monique	ChIJZaP8CffPzRIRIcG1pxjtw2Y	point_of_interest|clothing_store|store|establishment	43.7137187	7.261787799999999	False		30 Av. Alfred Borriglione, 06000 Nice	clothing_store
+21	Quintessence	ChIJ86_KXvfPzRIRvzwfYGUpuE8	clothing_store|point_of_interest|store|establishment	43.7129866	7.2615785	False		23 Av. Alfred Borriglione, 06100 Nice	clothing_store
+22	Laetit Be	ChIJlUUgnkfRzRIR7R6FG6BhXjk	clothing_store|point_of_interest|store|establishment	43.7099467	7.259517399999999			17 Bd Joseph Garnier, 06000 Nice	clothing_store
+23	Magasin de Vêtements Mode Homme à Nice - HOMME5	ChIJgzwM3wbQzRIR3x7HsP6BSzc	point_of_interest|clothing_store|store|establishment	43.7071123	7.2641601	False		8 Av. Malaussena, 06000 Nice	clothing_store
+24	La Maison Du Pantalon	ChIJUQ51ggfQzRIRUuHwaJzKUIo	point_of_interest|clothing_store|store|establishment	43.7057101	7.2649838	False		70 Av. Jean Médecin, 06000 Nice	clothing_store
+25	Big-Look Vetements	ChIJJSnbyanazRIRtbhcCd-dI8c	clothing_store|point_of_interest|store|establishment	43.7061026	7.266594200000001	False		54 Rue Lamartine, 06000 Nice	clothing_store
+26	SHAN'	ChIJUTkvASnbzRIRNayQOXCiFDY	clothing_store|point_of_interest|store|establishment	43.70498930000001	7.2655561	False		60 Av. Jean Médecin, 06000 Nice	clothing_store
+27	Damart Nice (Médecin)	ChIJ2RQCIajazRIR6-20u114sLA	clothing_store|shoe_store|point_of_interest|store|establishment	43.704989	7.265555999999999	False		60 Av. Jean Médecin, 06000 Nice	clothing_store
+28	DEVRED1902	ChIJdWBWBajazRIRhhsNB2fOfww	shoe_store|point_of_interest|clothing_store|store|establishment	43.7040511	7.265521799999999	True		43 Av. Jean Médecin, 06000 Nice	clothing_store
+29	Jules	ChIJyRuhGqjazRIRLptvmewMxe4	point_of_interest|clothing_store|store|establishment	43.7040033	7.2661449	False		52 Av. Jean Médecin, 06000 Nice	clothing_store
+30	AMOUR & MALICE	ChIJmzVi6qjazRIRAll2lGz05kg	clothing_store|point_of_interest|store|establishment	43.7045564	7.269195999999999	False		12 Avenue Notre Dame, 06000 Nice	clothing_store
+31	ARMAND THIERY FEMME	ChIJ7wpevzfbzRIRxQxax18wdz8	jewelry_store|point_of_interest|clothing_store|store|establishment	43.7027575	7.266387300000001	True		35 Av. Jean Médecin, 06000 Nice	clothing_store
+32	OLLYGAN	ChIJj4NQTKbazRIRdxlwr2RHSps	point_of_interest|clothing_store|store|establishment	43.7017133	7.267637799999999	False		30 Av. Jean Médecin, 06000 Nice	clothing_store
+33	celio_club	ChIJy3P9sKfazRIRHyWoogLnR_g	point_of_interest|clothing_store|store|establishment	43.7016764	7.2676607	True		Etoile, niveau 1, 30 avenue Jean Medecin CCial, 06000 Nice	clothing_store
+34	Caroll	ChIJAzdtTabazRIRj67Qbk8CW70	point_of_interest|clothing_store|store|establishment	43.7014789	7.268128699999999	False		Centre Commercial Etoile, 30 Av. Jean Médecin, 06000 Nice	clothing_store
+35	Devred Nice Étoile	ChIJJ_k2C_3bzRIR4FNasA_BkC0	clothing_store|point_of_interest|store|establishment	43.7013276	7.2678242	False		30 Av. Jean Médecin, 06000 Nice	clothing_store
+36	C&A	ChIJE6vwsafazRIRVN9JUlwFaZ8	clothing_store|point_of_interest|store|establishment	43.7012179	7.2682988	True		Av. Jean Médecin 24, 06000 Nice	clothing_store
+37	Ronde et Belle	ChIJq7WL4AnQzRIRhlo6YsbO3ng	clothing_store|point_of_interest|store|establishment	43.69981	7.265126200000001	False		16 Bd Victor Hugo, 06000 Nice	clothing_store
+38	Promod	ChIJk6ne5KbazRIRIrJbOUjQrOA	clothing_store|shoe_store|jewelry_store|point_of_interest|store|establishment	43.7003098	7.268352999999999	False		20 Av. Jean Médecin, 06300 Nice	clothing_store
+39	Lyly.h	ChIJPx5A7KbazRIRnm5HJpPLrV4	health|point_of_interest|clothing_store|store|establishment	43.699947	7.26909	False		51 Rue Pastorelli, 06000 Nice	clothing_store
+40	Le Cocon de la mode	ChIJAQD8ZADQzRIRXWvdCZiWvFQ	point_of_interest|clothing_store|store|establishment	43.7110345	7.264464			19 Rue Flaminius Raiberti, 06000 Nice	clothing_store
+41	Invoice Shop | Magasin de Vêtements Mode Homme à Nice	ChIJFSbqwajazRIRLyWBiUjC-lY	point_of_interest|clothing_store|store|establishment	43.7045796	7.2694749	False		10 Avenue Notre Dame, 06000 Nice	clothing_store
+42	ARMAND THIERY HOMME	ChIJpbd8wqfazRIR78K_biiUxnY	point_of_interest|clothing_store|store|establishment	43.7030158	7.2662913	True		37 Av. Jean Médecin, 06000 Nice	clothing_store
+43	Fashion & Mode	ChIJZy-E0Q7QzRIR8nYLwWfryRs	clothing_store|point_of_interest|store|establishment	43.70093860000001	7.259535499999998			24B Rue Berlioz, 06000 Nice	clothing_store
+44	Carla B	ChIJhehkwqfazRIR8ZneidYmmHs	clothing_store|point_of_interest|store|establishment	43.7022956	7.2666767	False		33 Av. Jean Médecin, 06000 Nice	clothing_store
+45	EPI06 Vêtements de travail	ChIJaQ-jjafazRIRxWQasW9ZEyk	point_of_interest|clothing_store|store|establishment	43.701984	7.265721300000001	True		7 Rue de Russie, 06000 Nice	clothing_store
+46	Hollister Co.	ChIJB3avsqfazRIR5roE8pmIRj8	clothing_store|shoe_store|point_of_interest|store|establishment	43.7020841	7.267478199999999	False	2.0	30 Av. Jean Médecin, 06000 Nice	clothing_store
+47	Le Temps des Cerises	ChIJX_MasafazRIRBtTzxKaqbMg	clothing_store|point_of_interest|store|establishment	43.701921	7.267793999999999	False		38 Av. Jean Médecin, 06000 Nice	clothing_store
+48	Chevignon	ChIJh2tC_qbazRIRGdSYf4nusv8	point_of_interest|clothing_store|store|establishment	43.701921	7.267793999999999	False		38 Av. Jean Médecin, 06000 Nice	clothing_store
+49	celio	ChIJWSucqafazRIR9viq6YlbWBo	point_of_interest|clothing_store|store|establishment	43.7009439	7.267523400000001	False		23 Av. Jean Médecin, 06000 Nice	clothing_store
+50	EKYOG Nice	ChIJT714WKfazRIRhTgI-kPo9DQ	point_of_interest|clothing_store|store|establishment	43.6992868	7.265459	False		12 Rue Alphonse Karr, 06000 Nice	clothing_store
+51	Girls	ChIJeRYOF6S8rhIRq_tDCic4LJU	point_of_interest|clothing_store|store|establishment	43.6999162	7.2682243	False		17 Av. Jean Médecin, 06000 Nice	clothing_store
+52	ANGLE DE LA MODE	ChIJi23vDArQzRIRcNOUG5OkcxU	shoe_store|point_of_interest|clothing_store|store|establishment	43.6978971	7.2657494	False		4 rue Grimaldi, Pl. Grimaldi, 06000 Nice	clothing_store
+53	Stand KOOKAÏ	ChIJ4SS3yabazRIR2FshwOxkfNM	point_of_interest|clothing_store|store|establishment	43.6988709	7.269808800000001	True		6 Av. Jean Médecin, 06000 Nice	clothing_store
+54	BM Boutique	ChIJuaYzR6TazRIRm7lsid7_cxo	point_of_interest|clothing_store|store|establishment	43.6996632	7.272041499999999	False		33 Rue de l'Hôtel des Postes, 06000 Nice	clothing_store
+55	LE PANTALON	ChIJz-wbHqTazRIRd0HKAa606nE	point_of_interest|clothing_store|store|establishment	43.6991303	7.2706596	True		45 Rue de l'Hôtel des Postes, 06000 Nice	clothing_store
+56	Morgan	ChIJO1--yKbazRIRRTD9VI3tErE	clothing_store|point_of_interest|store|establishment	43.6985956	7.2696393	True		6 Av. Jean Médecin Galeries Lafayette, 06000 Nice	clothing_store
+58	Camaïeu	ChIJt7h1sqfazRIRc54BP1uhqz0	shoe_store|point_of_interest|clothing_store|store|establishment	43.6976309	7.2665206	False		17, Rue De La Liberté, 21-22 Pass. Masséna, 06000 Nice	clothing_store
+59	Jules	ChIJL-LGv6DazRIRzwjzdGpfO-A	point_of_interest|clothing_store|store|establishment	43.69748	7.266374399999999	False		22 Rue Massena, 06000 Nice	clothing_store

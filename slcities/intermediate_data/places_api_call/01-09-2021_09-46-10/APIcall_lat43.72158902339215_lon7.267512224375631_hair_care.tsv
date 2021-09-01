@@ -1,0 +1,55 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	formatted_address	main_type
+0	Coiffure Alain	ChIJ3ZxIZVjFzRIRcjP2lxo75OA	hair_care|point_of_interest|establishment	43.7242385	7.266007900000001	True		hair_care
+1	Coiffure Florian	ChIJyc5IUPjPzRIRF_4YDoxYypY	hair_care|point_of_interest|establishment	43.7209866	7.2632863	True		hair_care
+2	LN COIFFURE	ChIJCaJ--_jPzRIRI2ewZhtdNbw	hair_care|point_of_interest|establishment	43.7197725	7.262941499999999	True		hair_care
+3	Rive Droite coiffeur, coloriste alternatif, bio, végétal sur Nice	ChIJz0wAjvnPzRIR3xy4HwJvYg4	hair_care|point_of_interest|establishment	43.7213387	7.260544599999999			hair_care
+4	Institut de Beauté Bel'à Vie à Nice	ChIJs3xH7vnPzRIR9Jkj7ais7Z4	beauty_salon|hair_care|spa|point_of_interest|establishment	43.72183949999999	7.260523000000001	False		hair_care
+5	Salon Edouard VII	ChIJ_10FRFPFzRIRaYSeE4abciQ	hair_care|point_of_interest|establishment	43.7177237	7.272577500000001	True		hair_care
+6	Ann'Esthétique Coiffure	ChIJuVyVyv7PzRIRejIEVLAQnzE	hair_care|point_of_interest|establishment	43.7180815	7.2611135	True		hair_care
+7	We coiffure	ChIJ538sPFvFzRIRKWd8WFz-rMw	hair_care|point_of_interest|establishment	43.7249675	7.2745863	False		hair_care
+8	institut beauté d'ailleurs	ChIJ1ccGqFXFzRIR0vWqdjOyHcw	beauty_salon|hair_care|spa|point_of_interest|establishment	43.715212	7.267324	True		hair_care
+9	By Cathy Coiffure à Cimiez	ChIJGRg7l1PFzRIRglYxOpthLac	hair_care|point_of_interest|establishment	43.7157226	7.271778699999999	True		hair_care
+10	BCBG Coiffure	ChIJUQm2n1PFzRIRSWqwSJH0dYw	hair_care|point_of_interest|establishment	43.71566939999999	7.2717977	True		hair_care
+11	MB Coiffure	ChIJ7e8e7f7PzRIRbg8mD4uzVg8	hair_care|point_of_interest|establishment	43.71634450000001	7.261275800000001	True		hair_care
+12	Sophie coiffure à domicile Nice et les environs	ChIJLfbRVqHFzRIROiRh7wtSk5s	hair_care|point_of_interest|establishment	43.7157476	7.273509300000001	True		hair_care
+13	Centre Épilation Laser Nice Villa La Tour	ChIJqcTbFVLFzRIRmeglXbKizKI	beauty_salon|hair_care|health|point_of_interest|establishment	43.71640240000001	7.274782400000001	True		hair_care
+14	Searle coiffure	ChIJO2UM7a_FzRIRQocF2puLjmk	hair_care|point_of_interest|establishment	43.7163297	7.2748747	True		hair_care
+15	Dr Marie KLIFA-CHOISY - Chirurgien Esthétique	ChIJBcXxgxDQzRIR2Uzlv6gNPsc	beauty_salon|hair_care|doctor|health|point_of_interest|establishment	43.7163352	7.274884800000001	True		hair_care
+16	L'atelier de Claudia Nice	ChIJ84PLn1PFzRIRy6z2ZMztbtU	hair_care|point_of_interest|establishment	43.7146488	7.271591700000002	True		hair_care
+17	Dduo Coiffure	ChIJeUkJrFzFzRIRXtWCewO2HWg	hair_care|point_of_interest|establishment	43.7262469	7.2758287	True		hair_care
+18	Top Coiffure	ChIJ8xl8-_rPzRIRHkAojwlRzRs	hair_care|point_of_interest|establishment	43.7209489	7.256665099999999			hair_care
+19	L'Appart	ChIJj5dyTP7PzRIRTFuo3Hmh-lc	hair_care|point_of_interest|establishment	43.7146045	7.262355599999998	True		hair_care
+20	Sarah extensions de cheveux / Lissage brésilien / taninoplastie, NICE	ChIJK2MfUP7PzRIRcOBbnl9DBug	hair_care|point_of_interest|establishment	43.7171549	7.2582008	False	24 Rue Puget, 06100 Nice	hair_care
+21	Art City	ChIJORF8UPzPzRIR2yFoEwxn9xk	hair_care|point_of_interest|establishment	43.7176443	7.257176899999999	True	8 Bd Gorbella, 06100 Nice	hair_care
+23	Nea Coiffure	ChIJDT7KzwbQzRIRyg4sBFqRSLs	hair_care|point_of_interest|establishment	43.7079272	7.2618341		23 Rue de Dijon, 06000 Nice	hair_care
+24	Hair Graces	ChIJ_9oatKnazRIRusOFPUnL24Y	hair_care|point_of_interest|store|establishment	43.7059502	7.266926199999999	False	20 Rue Assalit, 06000 Nice	hair_care
+26	LIVING Haute Coiffure Nice	ChIJoyyA3qjazRIRAYM3DxH2Zsc	hair_care|point_of_interest|establishment	43.7051669	7.269449	False	22 Rue de Lépante, 06000 Nice	hair_care
+27	Hair Nath'urel	ChIJ5-YWJa_azRIR5ROH-2EBahQ	hair_care|point_of_interest|establishment	43.7048843	7.2714693	True	11 Av. Desambrois, 06000 Nice	hair_care
+29	DESSANGE - Coiffeur Nice	ChIJWTJ4YKbazRIR5hRvR2ydKOM	beauty_salon|hair_care|point_of_interest|establishment	43.704223	7.268193899999999	True	18 Avenue Notre Dame, 06000 Nice	hair_care
+32	centre CAPILLIS NICE	ChIJ9W-dAbDazRIRec1Dx7H83oI	hair_care|health|point_of_interest|establishment	43.7029446	7.276140100000001		16 bis Rue Penchienatti, 06000 Nice	hair_care
+33	Bar à Sourcils - Benefit Brow Bar Nice Etoile	ChIJk5PvNIDbzRIRHhZvlGC-mY0	beauty_salon|hair_care|point_of_interest|store|establishment	43.701921	7.267793999999999	False	24 - 38 Av. Jean Médecin, 06000 Nice	hair_care
+34	Partenaire Officiel ANY d'AVRAY - INSTITUT CAPILLAIRE MARZIALI	ChIJq6EeVwjQzRIRsyeVrL90bnk	hair_care|point_of_interest|establishment	43.7013977	7.262841400000001	True	29 Av. Georges Clemenceau, 06000 Nice	hair_care
+35	linda coiffeur	ChIJAZ8It7DRzRIRXc1MVqoVwfQ	hair_care|point_of_interest|establishment	43.7014597	7.2606631		31 bis Rue Gounod, 06000 Nice	hair_care
+36	HAIRPLUS NICE	ChIJU1YEMg_QzRIRSRSU-8fk9KQ	hair_care|point_of_interest|establishment	43.70170539999999	7.259397099999999	True	41 Rue Berlioz, 06000 Nice	hair_care
+37	Nathalie Calderini Beauty & Spa	ChIJ4dt_-cnazRIRp7-jhuFBBgI	hair_care|point_of_interest|establishment	43.7064905	7.2873887	True	44 Rue Auguste Gal, 06300 Nice	hair_care
+38	Bar à Sourcils - Benefit Brow Bar Nice TNL	ChIJO22TWB_bzRIRGYgWpIOzDyk	beauty_salon|hair_care|point_of_interest|store|establishment	43.7055599	7.286032	False	Centre commercial TNL, 17 Bd Général Louis Delfino, 06300 Nice	hair_care
+39	VIP ESPACE COIFFURE REPUBLIQUE	ChIJc37zsrDazRIRBetZJ0Dyj_U	hair_care|point_of_interest|establishment	43.7030773	7.281197799999999	True	42 Av. de la République, 06300 Nice	hair_care
+40	Clip's Coiffure	ChIJA105sv3PzRIRq5xkut3g7Ws	hair_care|point_of_interest|establishment	43.7144032	7.258510599999998		51 Bd Auguste Raynaud, 06100 Nice	hair_care
+41	Coiffure Dames	ChIJmTTNuOXPzRIRreO_Qtdvzto	hair_care|point_of_interest|establishment	43.7219061	7.2505864		Av. Fanny, 06100 Nice	hair_care
+42	New'Beaute Institut - Nice Centre/Nord	ChIJEVPKZQHQzRIRiChHcTPNdHA	beauty_salon|hair_care|spa|health|point_of_interest|store|establishment	43.7099907	7.2604355	True	9 Bd Joseph Garnier, 06000 Nice	hair_care
+43	Lilang - Nice	ChIJB5MiFAPQzRIR6vmOB2VhY1Y	hair_care|point_of_interest|establishment	43.7103644	7.256107000000001	True	4 Bd de Cessole, 06000 Nice	hair_care
+44	Queen Assango	ChIJeQTCOqjazRIR2WHMnct8_og	hair_care|point_of_interest|establishment	43.705048	7.2660426	False	30 Rue Pertinax, 06000 Nice	hair_care
+45	Rsalon	ChIJrYscpKjazRIRmUfjKeSDgrE	hair_care|point_of_interest|establishment	43.7034327	7.269721099999999	True	15 Av. du Marechal Foch, 06000 Nice	hair_care
+46	Pro Beauty Aesthetics	ChIJy-CBsxTFzRIRvUR5aVBT2eU	hair_care|point_of_interest|store|establishment	43.7347253	7.2867837	True	9 Quai de la Banquière, 06730 Saint-André-de-la-Roche	hair_care
+47	IMPERIAL BARBER	ChIJSyCXhwvbzRIRCpWth2DZm2Q	hair_care|point_of_interest|establishment	43.7046252	7.284535999999999	True	30 Rue Georges Ville, 06300 Nice	hair_care
+48	Opium Coiffure	ChIJr_x1GaXazRIRBBq-V7j00Dk	beauty_salon|hair_care|point_of_interest|establishment	43.700881	7.274448999999999	True	11 Rue de l'Hôtel des Postes, 06000 Nice	hair_care
+49	Pro Coiffure Esthétique Nice République	ChIJqS07qrDazRIROdYDpbo36NI	hair_care|point_of_interest|store|establishment	43.7026248	7.280972200000001	False	44 Av. de la République, 06300 Nice	hair_care
+50	L'Oiseau Bleu	ChIJLewVs6XazRIRIHSeFJo4vhs	hair_care|point_of_interest|establishment	43.7005634	7.2723872	True	17 Rue Gubernatis, 06000 Nice	hair_care
+51	Pro Coiffure Esthétique Nice Pastorelli	ChIJkTyDhabazRIRAgPKohS8emE	hair_care|point_of_interest|store|establishment	43.700277	7.269951	True	39 Rue Pastorelli, 06000 Nice	hair_care
+53	Coiffure Claude	ChIJxSzyC7fazRIRaeftU5rjz_A	hair_care|point_of_interest|establishment	43.703527	7.283995999999999	True	18 Rue Smolett, 06300 Nice	hair_care
+54	Norgil Nice	ChIJG7IB5abazRIR9hh_-qwNj3Q	hair_care|health|point_of_interest|store|establishment	43.6996742	7.268921700000001	True	14 Av. Jean Médecin, 06000 Nice	hair_care
+55	Couleurs Tendance	ChIJQ2Uan7fazRIRWBsULslR1as	hair_care|point_of_interest|establishment	43.7032618	7.2843936		15 Rue Ribotti, 06300 Nice	hair_care
+56	Savana Beauté	ChIJg3ptkMzazRIR0ogt97gHL9A	beauty_salon|hair_care|point_of_interest|establishment	43.7094645	7.292984000000001	True	12 Bd Saint-Roch, 06300 Nice	hair_care
+57	Institut Capillaire Claudine Dupain	ChIJgQBbOr7bzRIRBrpvEQqmX8Y	hair_care|health|point_of_interest|store|establishment	43.6998588	7.273881200000001	False	11 Rue du Lycée, 06000 Nice	hair_care
+58	La Centrale Capillaire	ChIJN-U64wLFzRIRN5hrehNbjW8	hair_care|point_of_interest|store|establishment	43.6990848	7.2667099	False	9 Rue du Maréchal Joffre, 06000 Nice	hair_care
+59	C dans l'hair	ChIJvxw73LnazRIRSYAaFuURAeg	hair_care|point_of_interest|establishment	43.7019284	7.283043199999999	True	17 Rue Barla, 06300 Nice	hair_care

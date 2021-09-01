@@ -1,0 +1,8 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Villa Arson / National Center Contemporary Art Et National School D'art	ChIJ11Bgv-TPzRIRDSLD1K94Nkc	art_gallery|point_of_interest|establishment	43.7213077	7.2530426	False	art_gallery
+2	Art Collection Care	ChIJhZ4wM_nPzRIRnYW2fy4H-SQ	art_gallery|point_of_interest|establishment	43.7179697	7.261688899999999	False	art_gallery
+3	Favret Anne	ChIJjcwc1f3PzRIRZduIe1ayvW4	art_gallery|point_of_interest|establishment	43.7154558	7.2583853		art_gallery
+4	Lignon Ludovic	ChIJC6oFKR3QzRIR2D5gKdmjB1E	art_gallery|point_of_interest|establishment	43.711355	7.2539636		art_gallery
+6	Galerie EVA VAUTIER	ChIJOxPIOwfQzRIRE0bMmHaXGbY	art_gallery|book_store|museum|point_of_interest|store|establishment	43.70747650000001	7.262956299999999	False	art_gallery
+7	GALERIE MARTIN SAUVAGE	ChIJb9yGkwTQzRIRM96PGY9TAQs	art_gallery|point_of_interest|establishment	43.7075511	7.263895000000001	False	art_gallery
+9	Espace à Vendre	ChIJJxgaDrfazRIRM1WXekR1mTg	art_gallery|point_of_interest|establishment	43.706389	7.268014000000001	False	art_gallery

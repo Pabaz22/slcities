@@ -1,0 +1,60 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	price_level	opening_hours.open_now	formatted_address	main_type
+0	TCM Restaurant Club House	ChIJ______PPzRIR4Rmxidnu0d0	restaurant|food|point_of_interest|establishment	43.72213669999999	7.260291699999999				restaurant
+1	L'olympic restaurant	ChIJly8I-vnPzRIRFwnneqsT_gQ	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	43.7221522	7.260333699999998	1.0	True		restaurant
+2	Sarl Cleab	ChIJz0wAjvnPzRIRTmlR0DoadGE	meal_delivery|grocery_or_supermarket|meal_takeaway|restaurant|food|point_of_interest|store|establishment	43.7212727	7.260558599999999		True		restaurant
+3	Le Jardin du Ray	ChIJz0wAjvnPzRIRCiEuZFVG6LI	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	43.721273	7.260559		False		restaurant
+4	"Le Bistronome ""Le Ray"""	ChIJxa48kfnPzRIRi05AoCK396Q	restaurant|food|point_of_interest|establishment	43.7211471	7.260628799999999	2.0	False		restaurant
+5	Polly and Cie	ChIJxx48vfnPzRIRTFiOUIoLigQ	restaurant|cafe|food|point_of_interest|clothing_store|store|establishment	43.7209936	7.261346400000001	1.0	True		restaurant
+6	La Pause Sci	ChIJB1uxXvfPzRIRri0G4zX9jyM	point_of_interest|restaurant|food|establishment	43.7233319	7.2607107				restaurant
+7	Pizzéria L'Etna	ChIJ0zvz5frPzRIR1ORZvy94g3c	restaurant|food|point_of_interest|establishment	43.72112899999999	7.256244999999998	2.0	False		restaurant
+8	Picadeli, bar à salades	ChIJywT-A3zPzRIRgaAorm_VkJs	restaurant|food|point_of_interest|establishment	43.72276859999999	7.256445		False		restaurant
+9	Poké bar Nice	ChIJhbES0qvPzRIRuksVJkdb2ag	restaurant|food|point_of_interest|establishment	43.7199457	7.256393599999999		False		restaurant
+10	ᑭOKÉ ᗷᗩᖇ ᑎIᑕᕮ	ChIJMyWBfsDPzRIROk4KzQAe0MU	restaurant|food|point_of_interest|establishment	43.7199457	7.256393599999999		False		restaurant
+11	Mai Bistrot	ChIJFfkFY5PPzRIRWfo0LHd9iyE	restaurant|food|point_of_interest|establishment	43.7199533	7.262197400000001		True		restaurant
+12	Pizza Hut	ChIJ37VTxW_PzRIRn7kgtEzwNFw	meal_takeaway|restaurant|food|point_of_interest|establishment	43.7197234	7.25644	2.0	False		restaurant
+13	Le 34	ChIJd_ytxvDPzRIRbsc_SsAYmpM	restaurant|food|point_of_interest|establishment	43.72441209999999	7.258994899999999				restaurant
+14	Briciola	ChIJNdKWavDPzRIRRZiL7-iZ2rY	bar|restaurant|food|point_of_interest|establishment	43.7230593	7.255883099999999		True		restaurant
+15	Sushi Daily	ChIJg2ITwf_PzRIR6Ngw5-cAYH8	meal_takeaway|restaurant|food|point_of_interest|establishment	43.7229663	7.255755799999999		False		restaurant
+16	Le Grand Chelem	ChIJNdKWavDPzRIRvFIcmadsMqs	restaurant|food|point_of_interest|establishment	43.7230252	7.255768900000001	1.0	True		restaurant
+17	Les 3 Saveurs	ChIJEe25DR3PzRIRSn0mmJPZV2c	restaurant|food|point_of_interest|establishment	43.7196639	7.256140800000002				restaurant
+18	Pizza Mucho	ChIJTYJF_fjPzRIRnHklIYCBgi4	restaurant|food|point_of_interest|establishment	43.7196987	7.262641800000001				restaurant
+19	Persian Restaurant.رستوان ایرانی .sant-Maurice	ChIJ_9wmJiTPzRIRHZVaS2LiuhQ	restaurant|food|point_of_interest|establishment	43.7198232	7.262947800000001		True		restaurant
+20	LOU PAPET	ChIJb5ka7cDPzRIRpN6mrnoml1w	restaurant|food|point_of_interest|establishment	43.7185054	7.2564989		True	13 Bd Gorbella, 06100 Nice	restaurant
+21	Sylvie et Doumé	ChIJ8-DQrfHPzRIRYRwZ5StJFvE	restaurant|food|point_of_interest|establishment	43.7256768	7.2566562	1.0		3 Pl. Font du Temple, 06100 Nice	restaurant
+22	Lou Pignatou	ChIJVRlkwfzPzRIRtfJtVv52JUQ	restaurant|food|point_of_interest|establishment	43.71685309999999	7.255529900000001		False	57 Av. Cyrille Besset, 06100 Nice	restaurant
+23	Ô Saveurs Du Marché	ChIJRxCX9-TPzRIRBDkI0CAX4L4	restaurant|food|point_of_interest|establishment	43.720279	7.251919	2.0	False	118B Bd de Cessole, 06100 Nice	restaurant
+24	Fratelli Pizza	ChIJxfUOreXPzRIRjAbevWvhgn4	meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment	43.7210145	7.251159	1.0	False	111 Bd de Cessole, 06100 Nice	restaurant
+25	Patoch's Family Restaurant	ChIJsVhfef7PzRIRoqa4V_Ui3dU	restaurant|bar|food|point_of_interest|establishment	43.7152412	7.2601021		True	9 Av. Cyrille Besset, 06100 Nice	restaurant
+26	Brasserie L'Union	ChIJ-SvgQf7PzRIRycJtlTwTTtQ	restaurant|bar|food|point_of_interest|establishment	43.71462959999999	7.2613035	2.0	False	1 Rue Michelet, 06100 Nice	restaurant
+27	Union Restaurant	ChIJCWgp0G3PzRIRPJkmg4kViKI	restaurant|food|point_of_interest|establishment	43.7146102	7.261246700000001		False	1 Rue Michelet, 06100 Nice	restaurant
+28	Restaurant L' Epicéa Ôtrement	ChIJ70gxKe_PzRIReYLqp-2naNk	restaurant|food|point_of_interest|establishment	43.7255791	7.249548299999999	2.0	True	22 Av. de Saint-Sylvestre, 06100 Nice	restaurant
+29	La Route du Miam	ChIJs0r33gHQzRIR0dflPnn2LnQ	restaurant|food|point_of_interest|establishment	43.712925	7.2613751	3.0	False	1 Rue Molière, 06100 Nice	restaurant
+30	Les Frangins	ChIJ__8kCwDQzRIRnokRFEsIilY	restaurant|food|point_of_interest|establishment	43.711805	7.2650856			29 Av. Romain Rolland, 06100 Nice	restaurant
+31	Aux deux chefs	ChIJuUaOdwPQzRIRoZNMWMDJwWI	restaurant|food|point_of_interest|establishment	43.709321	7.257152099999999	2.0	False	56 Rue Dabray, 06000 Nice	restaurant
+32	L'Anis Etoilé	ChIJ9aezNAHQzRIRIgK3YZxjRVE	restaurant|food|point_of_interest|establishment	43.7084206	7.261095000000001	2.0	True	10 Rue Clément Roassal, 06000 Nice	restaurant
+33	L'instant	ChIJ3TJ-LQHQzRIRWnPcZx947K8	restaurant|bar|food|point_of_interest|establishment	43.708434	7.262019599999999	2.0	True	9 Rue Clément Roassal, 06000 Nice	restaurant
+34	BRASSERIE 65 rooftop	ChIJ4WtU6EXFzRIRxyE-a34a_84	restaurant|food|point_of_interest|establishment	43.7228355	7.2809877	2.0	True	65 Voie Romaine, 06000 Nice	restaurant
+35	Restaurant Le Saëtone	ChIJp27Y5QfQzRIRnpn2GQjSP5Y	restaurant|bakery|bar|liquor_store|food|point_of_interest|store|establishment	43.7040102	7.2642568	2.0	False	8 Rue d'Alsace-Lorraine, 06000 Nice	restaurant
+36	Le Tian Restaurant	ChIJ7eaBaYHbzRIRKWKJOP_2Zwc	restaurant|food|point_of_interest|store|establishment	43.7035022	7.2655094		False	4 Rue de Suisse, 06000 Nice	restaurant
+37	Chez Moi	ChIJs53LOAjQzRIRIbdfokg3JhA	restaurant|food|point_of_interest|establishment	43.7019821	7.264038999999999	1.0	False	2 Rue Paganini, 06000 Nice	restaurant
+38	La Langouste	ChIJD5kYi6fazRIR0eWOjkunUhY	restaurant|food|point_of_interest|establishment	43.70197659999999	7.2654767	2.0	False	7 Av. Georges Clemenceau, 06000 Nice	restaurant
+39	Le Rossini	ChIJkWkWTw7QzRIRKkPIlseJEmk	restaurant|bar|food|point_of_interest|establishment	43.70104569999999	7.2563678	2.0	False	54 Bd Gambetta, 06000 Nice	restaurant
+40	Ciccio pizza	ChIJAbQjnp3PzRIRobIkhbk_3fQ	restaurant|food|point_of_interest|establishment	43.71857180000001	7.2613462		True	79B Av. Alfred Borriglione, 06100 Nice	restaurant
+41	Delizipizza	ChIJmwRqRdbPzRIRNVvr23TiQCE	restaurant|food|point_of_interest|establishment	43.7196358	7.252128600000001		False	110 Bd de Cessole, 06100 Nice	restaurant
+42	Le Fonetic	ChIJf5aXUeTPzRIRG4_Ygofpi04	restaurant|food|point_of_interest|establishment	43.7206139	7.251247999999999	2.0	False	107 Bd de Cessole, 06100 Nice	restaurant
+44	Les Burgers de Papa	ChIJYXyvjB_RzRIRQKdNVOrANYE	restaurant|food|point_of_interest|establishment	43.7093622	7.2614318		False	35 Av. Malaussena, 06000 Nice	restaurant
+45	L'Ambroisie	ChIJg7IBaUzFzRIR2-3G27sHhTA	restaurant|food|point_of_interest|establishment	43.7151139	7.2802944	2.0	True	94 Bd Pasteur, 06000 Nice	restaurant
+46	Poppies	ChIJE8qs-6XazRIR4l2WPkvyspw	restaurant|food|point_of_interest|establishment	43.7024342	7.271341700000001	1.0	True	Pl. Sasserno, 06000 Nice	restaurant
+47	Restaurant O'Staff	ChIJP9YrqafazRIRwdvBM2h4BfU	restaurant|cafe|bar|food|point_of_interest|establishment	43.7008273	7.2669344		False	5 Rue Paul Déroulède, 06000 Nice	restaurant
+48	L'Ovale	ChIJJ5NnK6TazRIRMjBNEZ6U9Iw	restaurant|bar|food|point_of_interest|establishment	43.7005955	7.271079799999999	2.0	False	29B Rue Pastorelli, 06000 Nice	restaurant
+49	le bistrot de jeff	ChIJ2yZUzaXazRIREomHDSiXHag	bar|restaurant|food|point_of_interest|establishment	43.7006373	7.271404899999999	2.0	True	26 Rue Alberti, 06000 Nice	restaurant
+50	LE 111 FOOD GARDEN	ChIJEVOh0qzbzRIRW3BlC16L6Nk	restaurant|food|point_of_interest|store|establishment	43.7029477	7.27723		False	1 Rue Gioffredo, 06000 Nice	restaurant
+51	Les Sens	ChIJMZ2thqbazRIRSrPmgZskndo	restaurant|food|point_of_interest|establishment	43.70027779999999	7.2702778	2.0	False	37 Rue Pastorelli, 06000 Nice	restaurant
+52	Mon Petit Cafe	ChIJI5Hp-wnQzRIRspKCtxwcLZs	restaurant|food|point_of_interest|establishment	43.6989929	7.264839599999999	3.0	False	11bis Rue Grimaldi, 06000 Nice	restaurant
+53	L'Atelier	ChIJ-XvwtLrazRIREPXd5wNM-2A	bar|restaurant|food|point_of_interest|establishment	43.701641	7.27624		False	17 Rue Gioffredo, 06000 Nice	restaurant
+54	Smart Delight Room	ChIJo5of8qTazRIRTpFLW3D_ycQ	cafe|restaurant|food|point_of_interest|establishment	43.6994366	7.274082099999999		False	31 Rue Gioffredo, 06000 Nice	restaurant
+55	restaurant le pellegrini	ChIJfSW4DY3bzRIRGpV1X3Y8s80	restaurant|food|point_of_interest|establishment	43.7033011	7.2820654		True	4 Pl. Pellegrini, 06300 Nice	restaurant
+56	Taverne Masséna | Maison Cresci	ChIJbQfslqDazRIR2bMeBG_qZjU	restaurant|food|point_of_interest|establishment	43.69726439999999	7.2662684	2.0	False	25 Rue Massena, 06000 Nice	restaurant
+57	Little Boho	ChIJm4t3glrbzRIRCgPy9HlEj-w	restaurant|food|point_of_interest|establishment	43.7014359	7.279517799999999		True	4 Pl. Garibaldi, 06300 Nice	restaurant
+58	Le Millésime	ChIJ63PSD7fazRIRCTmR7IZtZp8	bar|restaurant|food|point_of_interest|establishment	43.70384420000001	7.2835869	2.0	False	17 Rue Smolett, 06300 Nice	restaurant
+59	L' Agrume Restaurant	ChIJBSbHa7razRIRmH6g0Ji4_DA	restaurant|food|point_of_interest|establishment	43.701484	7.2798606		True	6 Pl. Garibaldi, 06300 Nice	restaurant

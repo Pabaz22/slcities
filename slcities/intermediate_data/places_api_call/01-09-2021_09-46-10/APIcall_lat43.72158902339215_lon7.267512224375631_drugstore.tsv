@@ -1,0 +1,13 @@
+	name	place_id	types	geometry.location.lat	geometry.location.lng	opening_hours.open_now	main_type
+0	Perin Sophie	ChIJG-NrTPnPzRIRovrV7WNw8Co	drugstore|pharmacy|health|point_of_interest|store|establishment	43.7218138	7.2510657		drugstore
+1	Grande Pharmacie GARNIER	ChIJUxEqxQPQzRIRvtk3F-OGJyY	pharmacy|drugstore|health|point_of_interest|store|establishment	43.7101998	7.2590864	True	drugstore
+2	SELAS pharmacy Lyautey	ChIJRUuD20vFzRIRkjCGlkfyY4g	drugstore|pharmacy|veterinary_care|health|point_of_interest|store|establishment	43.712466	7.282609999999999	True	drugstore
+3	Pharmacie la Salamandre	ChIJTQ1DEqnazRIRgQVe_xHweVA	drugstore|pharmacy|health|point_of_interest|store|establishment	43.7065882	7.268613200000001	True	drugstore
+4	International Pharmacy - International Pharmacy	ChIJz9MGlgfQzRIRUzjTEmiRB5A	pharmacy|drugstore|doctor|veterinary_care|health|point_of_interest|store|establishment	43.7048989	7.2642221	True	drugstore
+5	Pharmacie Saetone	ChIJcdJi5QfQzRIR2Bxk8wZRp1M	pharmacy|drugstore|shoe_store|health|point_of_interest|store|establishment	43.7040684	7.264318	True	drugstore
+6	PHARMACIE REPUBLIQUE	ChIJWakFk7bazRIRjgAfxYzCrGI	pharmacy|drugstore|veterinary_care|health|point_of_interest|store|establishment	43.7065655	7.283583200000001	True	drugstore
+7	Tabac du Palais - Drugstore	ChIJq6paIAvQzRIRZTvw6kQMJEA	drugstore|health|point_of_interest|store|establishment	43.695126	7.2624622	True	drugstore
+8	💊 Pharmacie du Panache | totum pharmaciens	ChIJc6Ioky_QzRIRF3OKDHHDl6s	drugstore|pharmacy|health|point_of_interest|store|establishment	43.7066271	7.232002799999998	True	drugstore
+9	PHARMACIE de TAHITI ..... la pharmacie, autrement	ChIJ1Y0qMyjbzRIRYO2IJvfmczA	pharmacy|drugstore|veterinary_care|health|point_of_interest|store|establishment	43.7029815	7.3094903	True	drugstore
+10	PHARMACIE FERBER	ChIJAwjnW1bQzRIRRn20p1eVDNQ	pharmacy|drugstore|veterinary_care|health|point_of_interest|store|establishment	43.67919109999999	7.229210199999999	True	drugstore
+11	PHARMACIE JOULIE	ChIJXdZ0-qfRzRIR6SRiZWcCWqQ	pharmacy|drugstore|veterinary_care|health|point_of_interest|store|establishment	43.6787296	7.210534999999998	True	drugstore
