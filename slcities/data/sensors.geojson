@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "counter locations": "Bachelors Walk", "latitude": 53.34719979, "longitude": -6.260863323, "sensor_ID": "ID_00", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.260863323, 53.34719979 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Capel Street", "latitude": 53.34842, "longitude": -6.26918, "sensor_ID": "ID_01", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.26918, 53.34842 ] } },
+{ "type": "Feature", "properties": { "counter locations": "College Green - Dame St Side", "latitude": 53.34509951, "longitude": -6.258778243, "sensor_ID": "ID_02", "ED_ID": "268096" }, "geometry": { "type": "Point", "coordinates": [ -6.258778243, 53.34509951 ] } },
+{ "type": "Feature", "properties": { "counter locations": "College Green @ Church Lane", "latitude": 53.3442633, "longitude": -6.260774367, "sensor_ID": "ID_03", "ED_ID": "268140" }, "geometry": { "type": "Point", "coordinates": [ -6.260774367, 53.3442633 ] } },
+{ "type": "Feature", "properties": { "counter locations": "College Green, Bank Of Ireland", "latitude": 53.34505, "longitude": -6.25939, "sensor_ID": "ID_04", "ED_ID": "268140" }, "geometry": { "type": "Point", "coordinates": [ -6.25939, 53.34505 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Dame Street", "latitude": 53.34424, "longitude": -6.26116, "sensor_ID": "ID_05", "ED_ID": "268140" }, "geometry": { "type": "Point", "coordinates": [ -6.26116, 53.34424 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Dawson Street", "latitude": 53.341194, "longitude": -6.258337, "sensor_ID": "ID_06", "ED_ID": "268097" }, "geometry": { "type": "Point", "coordinates": [ -6.258337, 53.341194 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Doilier Street, Burgh Quay", "latitude": 53.3469, "longitude": -6.25872, "sensor_ID": "ID_07", "ED_ID": "268096" }, "geometry": { "type": "Point", "coordinates": [ -6.25872, 53.3469 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Grafton Street", "latitude": 53.34082, "longitude": -6.26035, "sensor_ID": "ID_08", "ED_ID": "268097" }, "geometry": { "type": "Point", "coordinates": [ -6.26035, 53.34082 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Grafton Street \/ Nassau Street \/ Suffolk Street", "latitude": 53.34352, "longitude": -6.25912, "sensor_ID": "ID_09", "ED_ID": "268096" }, "geometry": { "type": "Point", "coordinates": [ -6.25912, 53.34352 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Grafton Street @ CompuB", "latitude": 53.34337, "longitude": -6.25898, "sensor_ID": "ID_10", "ED_ID": "268096" }, "geometry": { "type": "Point", "coordinates": [ -6.25898, 53.34337 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Henry Street", "latitude": 53.34973, "longitude": -6.2609, "sensor_ID": "ID_11", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.2609, 53.34973 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Liffey Street", "latitude": 53.34687, "longitude": -6.26335, "sensor_ID": "ID_12", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.26335, 53.34687 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Mary Street", "latitude": 53.34877, "longitude": -6.26674, "sensor_ID": "ID_13", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.26674, 53.34877 ] } },
+{ "type": "Feature", "properties": { "counter locations": "O'Connell St Outside Clerys", "latitude": 53.34902, "longitude": -6.26005, "sensor_ID": "ID_14", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.26005, 53.34902 ] } },
+{ "type": "Feature", "properties": { "counter locations": "O'Connell St Outside Pennys", "latitude": 53.34874, "longitude": -6.26011, "sensor_ID": "ID_15", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.26011, 53.34874 ] } },
+{ "type": "Feature", "properties": { "counter locations": "O'Connell St, Parnell St @ AIB", "latitude": 53.35231721, "longitude": -6.261675274, "sensor_ID": "ID_16", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.261675274, 53.35231721 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Talbot Street North", "latitude": 53.35054, "longitude": -6.25528, "sensor_ID": "ID_17", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.25528, 53.35054 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Talbot Street South", "latitude": 53.35012, "longitude": -6.2577, "sensor_ID": "ID_18", "ED_ID": "268106" }, "geometry": { "type": "Point", "coordinates": [ -6.2577, 53.35012 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Westmoreland Street East", "latitude": 53.34554, "longitude": -6.25919, "sensor_ID": "ID_19", "ED_ID": "268096" }, "geometry": { "type": "Point", "coordinates": [ -6.25919, 53.34554 ] } },
+{ "type": "Feature", "properties": { "counter locations": "Westmoreland Street West", "latitude": 53.34634753, "longitude": -6.259197438, "sensor_ID": "ID_20", "ED_ID": "268140" }, "geometry": { "type": "Point", "coordinates": [ -6.259197438, 53.34634753 ] } }
+]
+}
