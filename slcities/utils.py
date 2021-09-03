@@ -84,16 +84,16 @@ def dataframe_to_geopandas(df,
                                 df[longitude_col], df[latitude_col]))
 
 
-def dataframe_to_geopandas(df,
-                           longitude_col='longitude',
-                           latitude_col='latitude'):
-    """
-    Turn DataFrame into a geoDataFrame
-    """
-    gdf = df.copy()
-    return gpd.GeoDataFrame(gdf,
-                            geometry=gpd.points_from_xy(
-                                gdf[longitude_col], gdf[latitude_col]))
+# def dataframe_to_geopandas(df,
+#                            longitude_col='longitude',
+#                            latitude_col='latitude'):
+#     """
+#     Turn DataFrame into a geoDataFrame
+#     """
+#     gdf = df.copy()
+#     return gpd.GeoDataFrame(gdf,
+#                             geometry=gpd.points_from_xy(
+#                                 gdf[longitude_col], gdf[latitude_col]))
 
 
 # def write_geodf_from_df(f_path, df):

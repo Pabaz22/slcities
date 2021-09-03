@@ -19,6 +19,8 @@ PLACES_TYPES_DISCRIMINANT_SET = [
     'subway_station', 'supermarket'
     ]
 
+
+
 ## Columns to retain for exportation
 API_CALL_COLUMNS_OF_INTEREST = [
     'place_id', 'geometry.location.lat', 'geometry.location.lng', 'name',

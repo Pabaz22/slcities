@@ -52,16 +52,37 @@ class GmapPlaceApiCall():
         Inspired by : https://github.com/googlemaps/google-maps-services-python/issues/376
         """
         list_results = []
-        result = self.gmaps.places_nearby(location=location,
-                                    type=place_type,
-                                    rank_by='distance',
-                                    language='en')
-        list_results.extend(result['results'])
-        while 'next_page_token' in result.keys():
-            time.sleep(time_sleep)
-            result = self.gmaps.places(page_token=result['next_page_token'])
+        # result = self.gmaps.places_nearby(location=location,
+        #                             type=place_type,
+        #                             rank_by='distance',
+        #                             language='en')
+        # list_results.extend(result['results'])
+        # while 'next_page_token' in result.keys():
+        #     time.sleep(time_sleep)
+        #     result = self.gmaps.places(page_token=result['next_page_token'])
+        #     list_results.extend(result['results'])
+        # return pd.json_normalize(list_results)
+        try:
+            result = self.gmaps.places_nearby(location=location,
+                                        type=place_type,
+                                        rank_by='distance',
+                                        language='en')
+        except:
+            print(f"Invalid request : loc = {location}; place = {place_type}. Next Call")
+        else:
             list_results.extend(result['results'])
+            nxt = True
+            while 'next_page_token' in result.keys() and nxt==True:
+                time.sleep(time_sleep)
+                try:
+                    result = self.gmaps.places(page_token=result['next_page_token'])
+                except:
+                    print(f"Invalid request : loc = {location}; place = {place_type}. Next Call")
+                    nxt = False
+                else:
+                    list_results.extend(result['results'])
         return pd.json_normalize(list_results)
+
 
     def remove_rows_with_condition_on_columns(self, df, column, lst_values, remove=True):
         """
